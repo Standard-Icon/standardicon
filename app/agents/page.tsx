@@ -1,7 +1,7 @@
 import { Cmd, JsonLd, Page, Section } from '@/components/ui';
 import { LIMITS, SIZES, PAIRING } from '@/lib/icon.mjs';
 import { pageMetadata } from '@/lib/metadata';
-import { AGENT_PROMPT, CLI, COUNT, CREATOR, NAME, ORIGIN } from '@/lib/site.mjs';
+import { AGENT_PROMPT, AGENTS_SNIPPET, CLI, COUNT, CREATOR, NAME, ORIGIN } from '@/lib/site.mjs';
 
 export const metadata = pageMetadata({
   path: '/agents/',
@@ -41,6 +41,8 @@ export default function AgentsPage() {
       <Section title="Make it permanent">
         <p>Save the skill so Claude Code finds the set in every session. Other agents can read the same file.</p>
         <Cmd text={`mkdir -p .claude/skills/standard-icon && curl -fsS ${ORIGIN}/SKILL.md -o .claude/skills/standard-icon/SKILL.md`} copied="Copied command" />
+        <p>Or add this line to the project&apos;s <code>AGENTS.md</code> or <code>CLAUDE.md</code>, so every agent working there uses the set without being asked.</p>
+        <Cmd text={AGENTS_SNIPPET} copied="Copied line" wrap />
       </Section>
       <Section title="Add icons from the command line">
         <p>The CLI needs Node and nothing else. Every icon ships inside it, so it works offline once it&apos;s downloaded.</p>

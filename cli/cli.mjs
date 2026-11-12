@@ -73,19 +73,31 @@ function parse(argv) {
 // Small words in a query like "bell with a plus" don't have to match anything.
 const FILLER = new Set(['a', 'an', 'the', 'with', 'and', 'or', 'of', 'in', 'on', 'for', 'to', 'icon', 'icons', 'small', 'that', 'is']);
 
-// How well one word of a query matches an icon: its whole name or an alias, a word of its name or keywords,
-// the start of one of those words, or a word of its description. Words match whole or from their start, never
-// from the middle, so "city" doesn't find "opacity".
+// How well one word of a query matches an icon, best first: its whole name or an alias; a word of a short name or
+// its main synonym (the record's first keyword); another synonym; a word inside a longer synonym ("book" in
+// "address book"); its category; the start of any of those words; a word of its description. Words match
+// whole or from their start, never from the middle, so "city" doesn't find "opacity".
 function termScore(icon, term) {
   if (icon.name === term || icon.aliases.includes(term)) return 10;
   const nameWords = icon.name.split('-');
-  const keywordWords = [...icon.aliases, ...icon.keywords].flatMap((k) => k.toLowerCase().split(/[^a-z0-9]+/));
-  if (nameWords.includes(term) || keywordWords.includes(term)) return 5;
-  if (term.length >= 3 && [...nameWords, ...keywordWords].some((word) => word.startsWith(term))) return 2;
+  // Keywords end with the category, which ranks lower; a record can also list it as a real synonym earlier.
+  const own = icon.keywords.at(-1) === icon.category ? icon.keywords.slice(0, -1) : icon.keywords;
+  const synonyms = own.map((k) => k.toLowerCase()).filter((k) => !nameWords.includes(k));
+  // In a long name like database-cog-cutout, a word is a detail rather than what the icon is.
+  if ((nameWords.includes(term) && nameWords.length < 3) || synonyms[0] === term) return 6;
+  if (nameWords.includes(term) || synonyms.includes(term)) return 5;
+  const synonymWords = synonyms.flatMap((k) => k.split(/[^a-z0-9]+/));
+  if (synonymWords.includes(term)) return 4;
+  const categoryWords = icon.category.split('-');
+  if (categoryWords.includes(term)) return 3;
+  if (term.length >= 3 && [...nameWords, ...synonymWords, ...categoryWords].some((word) => word.startsWith(term))) return 2;
   const described = `${icon.looks ?? ''} ${icon.use ?? ''}`.toLowerCase().split(/[^a-z0-9]+/);
   if (described.includes(term) || (term.length >= 4 && described.some((word) => word.startsWith(term)))) return 1;
   return 0;
 }
+// Whether an icon's name starts with one of the words, so "book" puts book-open before law-book.
+const leads = (icon, terms) => (terms.includes(icon.name.split('-')[0]) ? 1 : 0);
+
 
 // Icons that match every word come first. When no icon matches them all, such as "person portrait" where the
 // set has no portrait, the icons that match the most words come back instead. Ties go to the plainer name.
@@ -99,7 +111,7 @@ function rank(query) {
   const best = Math.max(0, ...rows.map((row) => row.hits));
   return rows
     .filter((row) => row.hits === best)
-    .sort((a, b) => b.score - a.score || a.icon.name.split('-').length - b.icon.name.split('-').length || a.icon.name.length - b.icon.name.length)
+    .sort((a, b) => b.score - a.score || leads(b.icon, terms) - leads(a.icon, terms) || a.icon.name.split('-').length - b.icon.name.split('-').length || a.icon.name.length - b.icon.name.length)
     .map((row) => row.icon);
 }
 

@@ -10,7 +10,8 @@
   "use": "Use for no wifi or being offline.",
   "keywords": [
     "offline",
-    "disconnected"
+    "disconnected",
+    "no internet"
   ],
   "fillApproved": true,
   "compare": {

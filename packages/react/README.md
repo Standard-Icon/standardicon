@@ -31,7 +31,7 @@ Every other SVG prop (`className`, `style`, `onClick`, a `ref`) goes to the `<sv
 - **Heavy weights start at larger sizes:** semibold from 18, bold from 32, black from 40. The types won't accept `weight="semibold" size={16}`.
 - **Icons with filled shapes come in one weight**, regular. Their components only accept `thin` or `regular`.
 - **Icons draw in `currentColor`**, so they take the color of the text around them.
-- Only the icons you import end up in your bundle.
+- Only the icons you import end up in your bundle. One icon (`ClockIcon`) adds about 2.2 KB minified, 1.2 KB gzipped, and five add about 4.8 KB, 2.0 KB gzipped, excluding React (measured by `shake.test.mjs`).
 
 Hover a component in your editor to see what the icon looks like and when to use it.
 

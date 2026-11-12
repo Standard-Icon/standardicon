@@ -23,7 +23,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return pageMetadata({
     path: `/icons/${name}/`,
     title: `${icon.title} icon: free SVG | ${NAME}`,
-    description: `Free ${icon.title.toLowerCase()} SVG icon${synonyms.length ? `, also searched as ${synonyms.slice(0, 3).join(', ')}` : ''}. Line icon, sizes 16 to 48 in five weights, MIT licensed. Copy or download it as SVG or PNG, or install it with one command.`,
+    description: icon.looks
+      ? `${icon.looks} ${icon.use ?? ''} Free SVG line icon, MIT licensed${synonyms.length ? `, also searched as ${synonyms.slice(0, 3).join(', ')}` : ''}.`.replace(/\s+/g, ' ')
+      : `Free ${icon.title.toLowerCase()} SVG icon${synonyms.length ? `, also searched as ${synonyms.slice(0, 3).join(', ')}` : ''}. Line icon, sizes 16 to 48 in five weights, MIT licensed. Copy or download it as SVG or PNG, or install it with one command.`,
   });
 }
 
@@ -46,6 +48,7 @@ export default async function IconPage({ params }: Props) {
             <div>
               <p className="crumb"><Link href={`/categories/${icon.category}/`} prefetch={false}>{categoryTitle(icon.category)}</Link></p>
               <h1>{icon.title} icon</h1>
+              {(icon.looks || icon.use) && <p className="also">{[icon.looks, icon.use].filter(Boolean).join(' ')}</p>}
               {synonyms.length > 0 && <p className="also">Also searched as {synonyms.join(', ')}.</p>}
             </div>
             <div>
@@ -64,6 +67,7 @@ export default async function IconPage({ params }: Props) {
           contentUrl: raw,
           url: `${ORIGIN}/icons/${name}/`,
           encodingFormat: 'image/svg+xml',
+          ...(icon.looks && { description: [icon.looks, icon.use].filter(Boolean).join(' ') }),
           keywords: icon.keywords.join(', '),
           license: `${ORIGIN}/LICENSE.txt`,
           acquireLicensePage: `${ORIGIN}/LICENSE.txt`,

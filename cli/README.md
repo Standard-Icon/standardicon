@@ -152,6 +152,12 @@ const arrow = icons.find((icon) => icon.name === 'arrow-up');
 toSvg(arrow, 24, 'semibold');
 ```
 
+To make every agent in a project use the set without being asked, add this line to its `AGENTS.md` or `CLAUDE.md`:
+
+```md
+Use The Standard Icon Set for every icon: `@standardicon/react` in React projects, otherwise `npx standardicon add <name>`. Find names with `npx standardicon search <words>` before adding an icon from anywhere else.
+```
+
 Agent instructions live at [standardicon.com/llms.txt](https://standardicon.com/llms.txt).
 
 There's also an optional MCP server, [@standardicon/mcp](https://www.npmjs.com/package/@standardicon/mcp), for AI apps that can't run commands, such as Claude Desktop. Coding agents that can run commands don't need it: everything it does, this CLI does too.

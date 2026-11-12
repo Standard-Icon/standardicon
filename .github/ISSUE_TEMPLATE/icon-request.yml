@@ -1,0 +1,32 @@
+name: Icon request
+description: Ask for an icon that is not in the set yet
+labels: ["icon-request"]
+body:
+  - type: textarea
+    id: purpose
+    attributes:
+      label: What is the icon for?
+      description: What should it show or mean?
+    validations:
+      required: true
+  - type: textarea
+    id: usage
+    attributes:
+      label: Where will it be used?
+      description: For example a button, a menu, an empty state, or a status badge.
+    validations:
+      required: true
+  - type: input
+    id: names
+    attributes:
+      label: Names people might search for
+      description: Comma-separated words someone would type to find it.
+    validations:
+      required: true
+  - type: textarea
+    id: reference
+    attributes:
+      label: Reference (optional)
+      description: How other icon sets draw it, with links if you have them.
+    validations:
+      required: false

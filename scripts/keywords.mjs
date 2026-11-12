@@ -11,7 +11,8 @@ export function keywordsFor(icon, record) {
   const words = new Set(icon.name.split('-').filter((w) => !STOP_WORDS.has(w)));
   for (const word of record ? record.keywords ?? [] : SYNONYMS[icon.name.replace(/-solid$/, '')] ?? []) words.add(word);
   for (const alias of icon.aliases) words.add(alias.replace(/-/g, ' '));
-  if (icon.group) words.add(icon.group.toLowerCase());
+  // Not the planning group (such as "Books, weather, and objects"): it named batches of work, not what an
+  // icon is, and it made a search for weather return books. The category is the real grouping.
   words.add(icon.category);
   return [...words];
 }

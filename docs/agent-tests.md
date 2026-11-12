@@ -9,6 +9,13 @@ How an outside agent finds and uses the set, given one sentence and no help. Run
 
 ## Runs
 
+### 2026-11-12 · weather dashboard, Svelte · Codex · 0.3.0-alpha.3
+
+- **Found it:** web searches found nothing useful (an unrelated `@stnd/icon`) because standardicon.com is behind the splash and `llms.txt` returns 503. `npm search standardicon` found the packages.
+- **Set up:** exactly as the README says for a non-React project: `standardicon` as an exact-pinned dev dependency, `npx standardicon add …` into `src/icons`, and a small `Icon.svelte` that inlines the files. One SVG per icon, sized by the wrapper. 30 icons, all from the set.
+- **Problems:** `search weather` returned books, an axe and an armchair, because icons carried their old planning group ("Books, weather, and objects") as a keyword.
+- **To fix:** done: planning groups are no longer keywords, so "weather" returns 27 weather icons. Still open: the site being offline hides the set from web search; launching it fixes that.
+
 ### 2026-11-12 · email client · 0.3.0-alpha.3
 
 - **Found it:** `npm search standardicon` listed all three packages; it chose `@standardicon/react` and pinned the alpha. Its memory was confirmed empty first.

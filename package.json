@@ -14,6 +14,7 @@
     "ship": "node scripts/ship.mjs",
     "ingest": "node scripts/ingest.mjs",
     "generate": "node scripts/generate.mjs",
+    "search-eval": "node scripts/search-eval.mjs",
     "check": "node scripts/check-svgs.mjs",
     "predev": "node scripts/generate.mjs",
     "dev": "next dev -p 4173",

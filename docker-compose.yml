@@ -3,8 +3,8 @@ services:
     build:
       context: .
       args:
-        # The public site shows only the splash. Use nginx.conf to bring the full site back.
-        NGINX_CONF: splash/nginx.conf
+        # The full site. splash/nginx.conf shows only the old drawing page, at every path.
+        NGINX_CONF: nginx.conf
     ports:
       - "127.0.0.1:3027:80"
     volumes:

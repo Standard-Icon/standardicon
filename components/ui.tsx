@@ -297,9 +297,9 @@ export function JsonLd({ data }: { data: object }) {
 // The site's own icons sit beside each link in the nav.
 // The green poster that opens every page. Its contents go in the 12-column grid below the masthead.
 // The home page leaves out the wordmark, because its poster has the full logo instead.
-export function Poster({ children, wordmark = true }: { children: ReactNode; wordmark?: boolean }) {
+export function Poster({ children, wordmark = true, className }: { children: ReactNode; wordmark?: boolean; className?: string }) {
   return (
-    <header className="poster">
+    <header className={className ? `poster ${className}` : 'poster'}>
       <div className="masthead">
         {wordmark && <Link className="wordmark" href="/" prefetch={false}><Logo />{NAME}</Link>}
         <nav aria-label="Site">
@@ -314,15 +314,15 @@ export function Poster({ children, wordmark = true }: { children: ReactNode; wor
   );
 }
 
-export function Page({ poster, children, wordmark = true }: { poster: ReactNode; children: ReactNode; wordmark?: boolean }) {
+export function Page({ poster, children, wordmark = true, posterClass }: { poster: ReactNode; children: ReactNode; wordmark?: boolean; posterClass?: string }) {
   return (
     <>
       <a className="skip" href="#main">Skip to content</a>
-      <Poster wordmark={wordmark}>{poster}</Poster>
+      <Poster wordmark={wordmark} className={posterClass}>{poster}</Poster>
       <main id="main">{children}</main>
       <footer className="foot">
         <p>{COUNT} icons, free under the <Link href="/license/" prefetch={false}>MIT license</Link>. Drawn by {CREATOR}. The set is still growing.</p>
-        <p><Link href="/examples/">Examples</Link> <Link href="/agents/">Agents and CLI</Link> <a href="/icons.json">icons.json</a> <a href="/llms.txt">llms.txt</a> <Link href="/license/" prefetch={false}>License</Link> <Link href="/privacy/" prefetch={false}>Privacy</Link></p>
+        <p><Link href="/examples/">Examples</Link> <Link href="/agents/">Agents and CLI</Link> <a href="/icons.json">icons.json</a> <a href="/llms.txt">llms.txt</a> <Link href="/changelog/" prefetch={false}>Changelog</Link> <Link href="/license/" prefetch={false}>License</Link> <Link href="/privacy/" prefetch={false}>Privacy</Link> <button className="foot-link" type="button" data-consent-open="">Privacy choices</button></p>
       </footer>
     </>
   );

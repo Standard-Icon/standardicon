@@ -1,13 +1,14 @@
 import type { MetadataRoute } from 'next';
 import { execFileSync } from 'node:child_process';
+import { latestReleaseDate } from '@/lib/releases.mjs';
 import { ORIGIN, categories, icons, inCategory } from '@/lib/site.mjs';
 
 export const dynamic = 'force-static';
 
 // Each page's date is when its content last changed in git, not when the site was built, so search
 // engines can trust it. An icon changes with its record; a category or the home page changes with
-// its newest icon. Builds without git history (the Docker build skips .git) leave dates out, which
-// is better than a build time that changes on every deploy.
+// its newest icon. Builds without git history (the Docker build skips .git) use the latest release's
+// date from CHANGELOG.md, which only moves when something ships, unlike the build time.
 function lastCommits(paths: string[]) {
   const dates = new Map<string, Date>();
   try {
@@ -30,13 +31,18 @@ const PAGES: Record<string, string> = {
   '/agents/': 'app/agents/page.tsx',
   '/license/': 'app/license/page.tsx',
   '/privacy/': 'app/privacy/page.tsx',
+  '/changelog/': 'CHANGELOG.md',
 };
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const commits = lastCommits(['icons/records', 'icons/icons.json', ...Object.values(PAGES)]);
   const iconDate = (name: string) => commits.get(`icons/records/${name}.json`);
   const anyIcon = commits.get('icons/icons.json');
-  const entry = (path: string, lastModified: Date | undefined) => ({ url: `${ORIGIN}${path}`, ...(lastModified && { lastModified }) });
+  const released = latestReleaseDate();
+  const entry = (path: string, changed: Date | undefined) => {
+    const lastModified = changed ?? released;
+    return { url: `${ORIGIN}${path}`, ...(lastModified && { lastModified }) };
+  };
 
   return [
     entry('/', newest([anyIcon, ...icons.map((i) => iconDate(i.name))])),

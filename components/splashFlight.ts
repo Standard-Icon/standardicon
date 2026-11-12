@@ -16,7 +16,8 @@ const mix = (a: number, b: number, t: number) => a + (b - a) * t;
 
 export const reducedMotion = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-export function flyToList({ from, markup, cell, art }: { from: Box; markup: string; cell: HTMLElement; art?: SVGElement | null }) {
+// scroll: false keeps the page still, for a list that's already in view, like the sheet.
+export function flyToList({ from, markup, cell, art, scroll = true }: { from: Box; markup: string; cell: HTMLElement; art?: SVGElement | null; scroll?: boolean }) {
   // The tile and line take the cell's own colours, so the flight ends looking exactly like where it lands
   // (the icon being edited has the selected, black tile).
   const target = getComputedStyle(cell);
@@ -71,7 +72,7 @@ export function flyToList({ from, markup, cell, art }: { from: Box; markup: stri
     // Scroll so the cell lands a little above the middle of the window, unless it's already in view.
     const startScroll = window.scrollY;
     const cellTop = cell.getBoundingClientRect().top;
-    const inView = cellTop > 80 && cellTop + cell.offsetHeight < window.innerHeight - 40;
+    const inView = !scroll || (cellTop > 80 && cellTop + cell.offsetHeight < window.innerHeight - 40);
     const maxScroll = document.documentElement.scrollHeight - window.innerHeight;
     const endScroll = inView ? startScroll : Math.max(0, Math.min(maxScroll, startScroll + cellTop - window.innerHeight * 0.45));
     const fromRadius = parseFloat(getComputedStyle(flyer).borderTopLeftRadius) || 18;

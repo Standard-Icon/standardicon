@@ -518,6 +518,31 @@ button { font: inherit; color: inherit; }
 .foot p:first-child { grid-column: 1 / 7; }
 .foot p:last-child { grid-column: 8 / -1; display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 6px 18px; white-space: nowrap; }
 .foot a { text-underline-offset: 3px; }
+.foot-link { padding: 0; border: 0; background: none; color: inherit; font: inherit; text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+
+/* The consent banner: a small card in the corner, a title and two round icon buttons of equal weight. */
+.consent {
+  position: fixed;
+  left: 16px;
+  bottom: 16px;
+  z-index: 16;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 10px 10px 10px 18px;
+  border: 1px solid var(--hair);
+  border-radius: 999px;
+  background: var(--paper);
+  color: var(--ink);
+  box-shadow: 0 8px 32px rgb(0 0 0 / 0.14);
+}
+.consent-title { display: inline-flex; align-items: center; gap: 10px; font: 700 16px/1 var(--text); text-decoration: none; }
+.consent-title:hover { text-decoration: underline; text-underline-offset: 4px; }
+.consent-title .i, .consent-btn .i { width: 20px; height: 20px; }
+.consent-title .i [stroke], .consent-btn .i [stroke] { stroke-width: 1.5; }
+.consent-actions { flex: none; display: flex; gap: 8px; }
+.consent-btn { display: grid; place-items: center; width: 44px; height: 44px; padding: 0; border: 1.5px solid var(--ink); border-radius: 999px; background: none; color: var(--ink); cursor: pointer; }
+.consent-btn:hover { background: var(--ink); color: var(--paper); }
 
 .toast {
   position: fixed;
@@ -559,6 +584,7 @@ button { font: inherit; color: inherit; }
   .big.word { font-size: 18vw; }
   .side, .poster .detail-side { margin-top: 24px; }
   .home-hero { display: flex; flex-direction: column; align-items: flex-start; gap: 24px; }
+  .consent { right: 16px; justify-content: space-between; }
   .home-hero .logo-full { width: 180px; }
   .home-hero h1 { font-size: 30px; }
   .poster .figure { width: min(100%, 352px); width: round(down, min(100%, 352px), 16px); }

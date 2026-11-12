@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        node: [20, 22, 24]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+      - run: npm ci
+      - name: Generate and check every SVG
+        run: node scripts/generate.mjs && node scripts/check-svgs.mjs
+      - name: CLI and changelog tests
+        run: node --test cli/cli.test.mjs scripts/changelog.test.mjs
+      - name: MCP server
+        run: node packages/mcp/build.mjs && node --test packages/mcp/server.test.mjs
+      - name: React package
+        run: node packages/react/build.mjs && node --test packages/react/react.test.mjs packages/react/shake.test.mjs

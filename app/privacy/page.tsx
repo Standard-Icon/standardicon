@@ -32,7 +32,8 @@ export default function PrivacyPage() {
       <Section title="What's collected">
         <p>When you visit, the site records the pages you view and a few actions: searches, which icons you copy or download and in what format, size, and weight, and which settings you change.</p>
         <p>Each visit also records your full IP address, an approximate location (country and city) that Cloudflare works out from it, your browser and device, your screen and window size and display settings such as dark mode, and the page that linked you here.</p>
-        <p>A random visitor ID is kept in your browser&apos;s local storage, so repeat visits count as one person. It isn&apos;t a cookie and it doesn&apos;t follow you to other sites.</p>
+        <p>If you allow it when the site asks, a random visitor ID is kept in your browser&apos;s local storage, so repeat visits count as one person. It isn&apos;t a cookie and it doesn&apos;t follow you to other sites.</p>
+        <p>If you don&apos;t allow it, or haven&apos;t answered, nothing is kept in your browser for the metrics. Visits are counted with a code made from your IP address and browser that changes every day, so they can&apos;t be linked from one day to the next. You can change your answer any time with Privacy choices at the bottom of every page.</p>
       </Section>
       <Section title="Who handles it">
         <p>The metrics run on {CREATOR}&apos;s own server at m.rgan.co, not on Google Analytics or any other third-party analytics service. Only {CREATOR} can see them.</p>
@@ -51,7 +52,7 @@ export default function PrivacyPage() {
       </Section>
       <Section title="Questions or removal">
         {/* TODO(Morgan): confirm this address exists before launch. */}
-        <p>To ask what&apos;s recorded about you or to have it deleted, email <a href="mailto:hello@standardicon.com">hello@standardicon.com</a>. Clearing your browser&apos;s local storage removes the visitor ID and your saved settings.</p>
+        <p>To ask what&apos;s recorded about you or to have it deleted, email <a href="mailto:hello@standardicon.com">hello@standardicon.com</a>. Clearing your browser&apos;s local storage removes the visitor ID, your answer about it, and your saved settings.</p>
       </Section>
     </Page>
   );

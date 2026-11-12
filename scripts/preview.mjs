@@ -33,10 +33,10 @@ try {
   };
 
   git(['read-tree', head]);
-  // The preview shows the full site, or the public splash with PREVIEW_SPLASH=1, to rehearse it before a push.
+  // The preview shows the full site, or the old splash with PREVIEW_SPLASH=1.
   const splash = process.env.PREVIEW_SPLASH === '1';
   const compose = replaceOnce(show('docker-compose.yml'), '127.0.0.1:3027:', `127.0.0.1:${PORT}:`, 'docker-compose.yml');
-  add('docker-compose.yml', splash ? compose : replaceOnce(compose, 'NGINX_CONF: splash/nginx.conf', 'NGINX_CONF: nginx.conf', 'docker-compose.yml'));
+  add('docker-compose.yml', compose.replace(/NGINX_CONF: \S+/, `NGINX_CONF: ${splash ? 'splash/nginx.conf' : 'nginx.conf'}`));
   const auth = 'listen 80;\n    auth_basic "The Standard Icon Set preview";\n    auth_basic_user_file /etc/nginx/preview.htpasswd;';
   add('splash/nginx.conf', replaceOnce(show('splash/nginx.conf'), 'listen 80;', auth, 'splash/nginx.conf'));
   add('nginx.conf', replaceOnce(show('nginx.conf'), 'listen 80;', 'listen 80;\n    auth_basic "The Standard Icon Set preview";\n    auth_basic_user_file /etc/nginx/preview.htpasswd;', 'nginx.conf'));

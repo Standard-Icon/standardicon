@@ -5,7 +5,7 @@ import { readFileSync, writeFileSync, mkdirSync, rmSync, cpSync, renameSync } fr
 import { execFileSync } from 'node:child_process';
 import { join, dirname } from 'node:path';
 import { LIMITS, MIN_SIZE, PAIRING, SIZES, WEIGHTS, sizesFor, toSvg } from '../lib/icon.mjs';
-import { BRAND, CLI, COUNT, NAME, ORIGIN, TARBALL, categories, categoryTitle, icons, inCategory } from '../lib/site.mjs';
+import { AGENTS_SNIPPET, BRAND, CLI, COUNT, NAME, ORIGIN, TARBALL, categories, categoryTitle, icons, inCategory } from '../lib/site.mjs';
 import { VERSION, packEntry, stagePackage, weightsOf } from '../cli/package.mjs';
 
 const ROOT = process.cwd();
@@ -92,11 +92,21 @@ Without Node, fetch a file directly:
 - When an icon has meaning on its own, such as an icon-only button, give it an accessible name with \`aria-label\` on the button.
 - Decorative icons next to text should have \`aria-hidden="true"\`.
 - Names are kebab-case. Common other names also work, such as \`external-link\` for \`pop-out\`.
-- If nothing fits, don't draw a replacement in this style. Tell the user which icon is missing.`;
+- If nothing fits, don't draw a replacement in this style. Tell the user which icon is missing.
+- To keep using the set in this project, offer to add this line to its AGENTS.md or CLAUDE.md: ${AGENTS_SNIPPET}`;
 
 // Proves to the MCP Registry that standardicon.com owns the com.standardicon names. The private half of
 // the key is in the Keychain as standardicon-mcp-registry.
 write('.well-known/mcp-registry-auth', readFileSync(join(ROOT, 'site/mcp-registry-auth'), 'utf8'));
+
+// RFC 9116. Matches SECURITY.md: reports go through GitHub's private vulnerability reporting. Expires must
+// be under a year away, so each build moves it forward.
+write('.well-known/security.txt', `Contact: https://github.com/Standard-Icon/standardicon/security/advisories/new
+Expires: ${new Date(Date.now() + 330 * 24 * 3600 * 1000).toISOString().replace(/\.\d+Z$/, 'Z')}
+Policy: https://github.com/Standard-Icon/standardicon/blob/main/SECURITY.md
+Preferred-Languages: en
+Canonical: ${ORIGIN}/.well-known/security.txt
+`);
 
 write('llms.txt', `# ${NAME}
 
@@ -111,6 +121,7 @@ ${howTo}
 - [Agent skill](${ORIGIN}/SKILL.md): save this to make the set available in future sessions
 - [Raw SVG](${ORIGIN}/svg/16/arrow-up.svg): the pattern is /svg/{size}/{name}.svg, or /svg/{weight}/{size}/{name}.svg for thin, semibold, bold, and black
 - [License](${ORIGIN}/LICENSE.txt): MIT
+- [Changelog](${ORIGIN}/changelog/): what changed in each release
 
 ## Categories
 

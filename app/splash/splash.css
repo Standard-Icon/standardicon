@@ -33,6 +33,49 @@
 .arcs-wait .logo-arc-line { animation-play-state: paused; }
 @keyframes logo-arcs-draw { from { stroke-dashoffset: 1; } }
 
+/* The home page: the site's header, with the nav above the logo and the canvas. It uses the site's own
+   edges, and the canvas leaves room for the nav (about 80px) instead of the drawing page's extra top space. */
+.home-poster {
+  --splash-inline: var(--pad);
+  --splash-canvas: max(256px, calc(100svh - 100px - 48px - 80px - var(--splash-block) - 62px));
+  padding: 48px var(--pad) var(--splash-block);
+}
+.home-poster .masthead { grid-column: 1 / -1; grid-row: 1; align-self: start; width: auto; aspect-ratio: auto; margin-bottom: 24px; } /* The site's nav, not the drawing page's logo. */
+.home-poster .splash-logo { grid-column: 1 / 7; grid-row: 2; align-self: center; display: flex; align-items: center; width: round(down, min(100%, var(--splash-canvas)), 16px); aspect-ratio: 1; margin: 0 0 62px; }
+.home-poster .splash-logo .logo-full { width: 100%; max-width: 440px; }
+.home-poster .splash-editor { grid-row: 2; }
+
+/* The button that opens the visitors' icons, on the left of the canvas's buttons. */
+.splash-sheet-open { display: inline-flex; align-items: center; gap: 8px; padding: 0 4px; border: 0; background: none; color: inherit; font: 700 15px/1 var(--text); cursor: pointer; }
+.splash-sheet-open .i { --size: 20px; --weight: 1.5; }
+.splash-sheet-open .n { font-weight: 400; opacity: 0.7; font-variant-numeric: tabular-nums; }
+.splash-sheet-open:hover span:first-of-type { text-decoration: underline; text-underline-offset: 4px; }
+
+/* The sheet: slides in from the right over a dimmed page. The flight of a saved icon (z-index 20) passes over it. */
+.sheet {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 18;
+  width: min(480px, 100vw);
+  background: var(--paper);
+  color: var(--ink);
+  box-shadow: -16px 0 48px rgb(0 0 0 / 0.18);
+  transform: translateX(calc(100% + 48px));
+  visibility: hidden;
+  transition: transform 320ms cubic-bezier(0.2, 0.8, 0.2, 1), visibility 0s 320ms;
+}
+.sheet[data-open] { transform: none; visibility: visible; transition: transform 320ms cubic-bezier(0.2, 0.8, 0.2, 1); }
+.sheet-body { height: 100%; overflow-y: auto; overscroll-behavior: contain; padding: 32px 28px 48px; }
+.sheet .splash-title { flex-direction: column; align-items: flex-start; gap: 8px; padding: 6px 56px 18px 0; }
+.sheet .splash-grid { --column: 64px; }
+.sheet-close { position: absolute; top: 22px; right: 20px; z-index: 1; display: grid; place-items: center; width: 40px; height: 40px; padding: 0; border: 0; border-radius: 999px; background: var(--paper); color: var(--ink); cursor: pointer; }
+.sheet-close .i { --size: 20px; --weight: 1.5; }
+.sheet-close:hover { background: var(--ink); color: var(--paper); }
+.sheet-backdrop { position: fixed; inset: 0; z-index: 17; background: rgb(0 0 0 / 0.28); opacity: 0; pointer-events: none; transition: opacity 320ms; }
+.sheet-backdrop[data-open] { opacity: 1; pointer-events: auto; }
+
 /* A saved icon on its way from the canvas to its cell. components/splashFlight.ts moves it. */
 .splash-flight { position: fixed; z-index: 20; display: grid; place-items: center; border-radius: 18px; pointer-events: none; will-change: left, top, width, height; }
 .splash-flight svg { display: block; overflow: visible; }
@@ -108,4 +151,8 @@ button.splash-tile { cursor: pointer; }
   .splash-poster .wordmark { justify-content: center; }
   .splash-editor { margin: 64px auto 0; width: min(100%, 352px); width: round(down, min(100%, 352px), 16px); }
   .splash-poster .figure { width: min(100%, 352px); width: round(down, min(100%, 352px), 16px); }
+  .home-poster { padding: 32px var(--pad) 48px; }
+  .home-poster .splash-logo { width: auto; aspect-ratio: auto; justify-content: center; margin: 24px 0 0; }
+  .home-poster .splash-logo .logo-full { width: 200px; }
+  .sheet-body { padding: 24px 20px 40px; }
 }
