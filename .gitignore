@@ -11,3 +11,6 @@ node_modules/
 brand-directions/
 .sync/
 .workbench/
+
+# The public copy (npm run public-repo)
+.public-repo/

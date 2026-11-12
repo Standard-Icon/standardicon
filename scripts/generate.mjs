@@ -94,6 +94,10 @@ Without Node, fetch a file directly:
 - Names are kebab-case. Common other names also work, such as \`external-link\` for \`pop-out\`.
 - If nothing fits, don't draw a replacement in this style. Tell the user which icon is missing.`;
 
+// Proves to the MCP Registry that standardicon.com owns the com.standardicon names. The private half of
+// the key is in the Keychain as standardicon-mcp-registry.
+write('.well-known/mcp-registry-auth', readFileSync(join(ROOT, 'site/mcp-registry-auth'), 'utf8'));
+
 write('llms.txt', `# ${NAME}
 
 > ${COUNT} free SVG line icons, drawn on a 16px grid. MIT licensed.

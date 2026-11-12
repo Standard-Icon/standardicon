@@ -4,13 +4,20 @@
   "title": "The Standard Icon Set",
   "description": "Search line icons by meaning or by what they look like, and get them as SVG at any size and weight.",
   "websiteUrl": "https://standardicon.com",
-  "version": "0.2.0-alpha.1",
+  "version": "0.3.0-alpha.3",
   "packages": [
     {
       "registryType": "npm",
       "identifier": "@standardicon/mcp",
-      "version": "0.2.0-alpha.1",
-      "transport": { "type": "stdio" }
+      "version": "0.3.0-alpha.3",
+      "transport": {
+        "type": "stdio"
+      }
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/Standard-Icon/standardicon",
+    "source": "github",
+    "subfolder": "packages/mcp"
+  }
 }

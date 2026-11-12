@@ -63,6 +63,14 @@ if (existsSync(packagesDir)) {
       for (const dep of Object.keys(pkg[field] ?? {})) if (ours(dep)) pkg[field][dep] = `^${version}`;
     }
     saveJson(path, pkg);
+    // An MCP Registry entry beside the package carries the version too, once for itself and once per package.
+    const server = join(packagesDir, entry.name, 'server.json');
+    if (existsSync(server)) {
+      const entryJson = readJson(server);
+      entryJson.version = version;
+      for (const listed of entryJson.packages ?? []) if (ours(listed.identifier)) listed.version = version;
+      saveJson(server, entryJson);
+    }
   }
 }
 

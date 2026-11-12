@@ -39,5 +39,13 @@
   "scripts": {
     "build": "node build.mjs",
     "test": "node build.mjs && node --test react.test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Standard-Icon/standardicon.git",
+    "directory": "packages/react"
+  },
+  "bugs": {
+    "url": "https://github.com/Standard-Icon/standardicon/issues"
   }
 }

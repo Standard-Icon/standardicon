@@ -14,10 +14,9 @@ const ROOT = join(HERE, '..');
 export const PACKAGE_NAME = 'standardicon';
 export const HOMEPAGE = 'https://standardicon.com';
 
-// DECIDE: the public GitHub repo isn't created yet. Set this to its URL, such as
-// 'https://github.com/OWNER/REPO', and package.json gains `repository` and `bugs`.
+// The public copy of this repo (npm run public-repo). package.json gets `repository` and `bugs` from it.
 // npm trusted publishing needs `repository` to match the repo that publishes.
-export const REPOSITORY = null;
+export const REPOSITORY = 'https://github.com/Standard-Icon/standardicon';
 
 // The version lives in the root package.json and nowhere else. scripts/release.mjs changes it.
 export const VERSION = JSON.parse(readFileSync(join(ROOT, 'package.json'), 'utf8')).version;

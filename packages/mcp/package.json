@@ -34,5 +34,13 @@
   "scripts": {
     "build": "node build.mjs",
     "test": "node build.mjs && node --test server.test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Standard-Icon/standardicon.git",
+    "directory": "packages/mcp"
+  },
+  "bugs": {
+    "url": "https://github.com/Standard-Icon/standardicon/issues"
   }
 }
