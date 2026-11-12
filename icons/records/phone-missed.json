@@ -1,0 +1,23 @@
+{
+  "name": "phone-missed",
+  "status": "active",
+  "parent": "phone",
+  "canonical": "phone",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:4129",
+  "looks": "A telephone handset with a small x at the upper right.",
+  "use": "Use for missed calls or declined calls.",
+  "compare": {
+    "carbon": false,
+    "fluent": "call-missed",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "phone-missed",
+    "material": "call-missed",
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "panorama-capture",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Media and camera",
+  "figmaId": "276:24741",
+  "compare": {
+    "material": false,
+    "phosphor": false,
+    "sf": "spatial.capture",
+    "tabler": false
+  }
+}

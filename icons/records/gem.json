@@ -1,0 +1,14 @@
+{
+  "name": "gem",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "59:21562",
+  "looks": "A cut gemstone with a flat top, facet lines, and a point at the bottom.",
+  "use": "Use for premium, value, or jewelry.",
+  "compare": {
+    "carbon": "gem",
+    "lucide": "gem"
+  }
+}

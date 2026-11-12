@@ -1,0 +1,13 @@
+{
+  "name": "tractor",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20333",
+  "compare": {
+    "lucide": "tractor",
+    "phosphor": "tractor",
+    "tabler": "tractor"
+  }
+}

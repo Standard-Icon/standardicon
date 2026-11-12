@@ -1,0 +1,11 @@
+{
+  "name": "unpin",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3640",
+  "compare": {
+    "lucide": "pin-off"
+  }
+}

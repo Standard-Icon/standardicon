@@ -1,0 +1,17 @@
+{
+ "name": "cutlery",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M4 2.5V6C4 6.398 4.158 6.779 4.439 7.061C4.721 7.342 5.102 7.5 5.5 7.5C5.898 7.5 6.279 7.342 6.561 7.061C6.842 6.779 7 6.398 7 6V2.5M5.5 2.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11 13.5V2.5C9.5 3 9 5.5 9 8H11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M4.5 2.5V6C4.5 6.398 4.658 6.779 4.939 7.061C5.221 7.342 5.602 7.5 6 7.5C6.398 7.5 6.779 7.342 7.061 7.061C7.342 6.779 7.5 6.398 7.5 6V2.5M6 2.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.5 13.5V8M11.5 8V2.5C10 3 9.5 5.5 9.5 8H11.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

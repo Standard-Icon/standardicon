@@ -1,0 +1,17 @@
+{
+ "name": "cursor-line",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M3.5 3.5L7 13L8.75 8.75L13 7L3.5 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.75 8.75L12.75 12.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.5 2.5L6.553 13.5L8.579 8.579L13.5 6.553L2.5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.579 8.579L13.211 13.21\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

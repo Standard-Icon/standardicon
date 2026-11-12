@@ -1,0 +1,23 @@
+{
+ "name": "transgender",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"7.75\" r=\"2.25\" stroke=\"currentColor\"/><path d=\"M8 10V13.75M6.5 12.5H9.5M9.59 6.16L13 2.75M13 4.75V2.75H11M6.41 6.16L3 2.75M4.3 5.85L6.1 4.05M3 4.75V2.75H5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<circle cx=\"9\" cy=\"8.719\" r=\"2.53125\" stroke=\"currentColor\"/><path d=\"M9 11.25V15.469M7.312 14.062H10.688M10.789 6.93L14.625 3.094M14.625 5.344V3.094H12.375M7.211 6.93L3.375 3.094M4.838 6.581L5.85 5.569L6.862 4.556M3.375 5.344V3.094H5.625\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<circle cx=\"10\" cy=\"9.688\" r=\"2.8125\" stroke=\"currentColor\"/><path d=\"M10 12.5V17.188M8.125 15.625H11.875M11.988 7.7L16.25 3.438M16.25 5.938V3.438H13.75M8.012 7.7L3.75 3.438M5.375 7.312L6.5 6.188L7.625 5.063M3.75 5.938V3.438H6.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<circle cx=\"11\" cy=\"10.656\" r=\"3.09375\" stroke=\"currentColor\"/><path d=\"M11 13.75V18.906M8.938 17.188H13.062M13.186 8.47L17.875 3.781M17.875 6.531V3.781H15.125M8.814 8.47L4.125 3.781M5.913 8.044L7.15 6.806L8.387 5.569M4.125 6.531V3.781H6.875\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<circle cx=\"12\" cy=\"11.625\" r=\"3.375\" stroke=\"currentColor\"/><path d=\"M12 15V20.625M9.75 18.75H14.25M14.385 9.24L19.5 4.125M19.5 7.125V4.125H16.5M9.615 9.24L4.5 4.125M6.45 8.775L9.15 6.075M4.5 7.125V4.125H7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-11T09:46:49.583Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"7.75\" r=\"2.25\" stroke=\"currentColor\"/><path d=\"M8 10V13.75M6.5 12.5H9.5M9.59 6.16L13 2.75M13 4.75V2.75H11M6.41 6.16L3 2.75M4.3 5.85L6.1 4.05M3 4.75V2.75H5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

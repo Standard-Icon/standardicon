@@ -1,0 +1,15 @@
+{
+  "name": "mail-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28015",
+  "looks": "A closed envelope with a small plus cut into its lower right corner.",
+  "use": "Use for new mail, compose, or add an email address.",
+  "compare": {
+    "carbon": "email-new",
+    "fluent": "mail-add",
+    "lucide": "mail-plus",
+    "sf": "envelope.badge.plus",
+    "tabler": "mail-plus"
+  }
+}

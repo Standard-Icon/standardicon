@@ -1,0 +1,14 @@
+{
+  "name": "archive-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27621",
+  "looks": "A storage box with a lid and a front slot, with a small x cut into its lower right corner.",
+  "use": "Use for deleting from the archive or clearing archived items.",
+  "compare": {
+    "heroicons": "archive-box-x-mark",
+    "lucide": "archive-x",
+    "radix": false,
+    "sf": false
+  }
+}

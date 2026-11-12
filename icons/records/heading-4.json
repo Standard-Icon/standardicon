@@ -1,0 +1,21 @@
+{
+  "name": "heading-4",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6060",
+  "looks": "A capital H with a small number 4 at its upper right.",
+  "use": "Use for a level 4 heading.",
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "heading-4",
+    "material": false,
+    "octicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "h-4"
+  }
+}

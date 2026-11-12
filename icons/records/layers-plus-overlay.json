@@ -1,0 +1,19 @@
+{
+  "name": "layers-plus-overlay",
+  "status": "active",
+  "parent": "layers",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "56:22226",
+  "formerNames": [
+    "layers-plus"
+  ],
+  "compare": {
+    "lucide": "layers-plus",
+    "octicons": "stack-add",
+    "phosphor": "stack-plus",
+    "sf": false,
+    "tabler": "stack-plus"
+  }
+}

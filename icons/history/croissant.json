@@ -1,0 +1,17 @@
+{
+ "name": "croissant",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M10.01 3.92C12.4 4.978 13.9 7.923 13.5 11.5C13.4 12.3 12.4 12.5 12 11.8C11.2 10 10 8.75 8 8.75C6 8.75 4.8 10 4 11.8C3.6 12.5 2.6 12.3 2.5 11.5C2.1 7.946 3.58 5.015 5.94 3.941\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.73 9.204L5.98 3.445C5.98 3.445 7.12 2.954 8.02 2.954C8.91 2.954 10.02 3.445 10.02 3.445L9.27 9.204M2.36 7.591L4.54 10.355M13.64 7.591L11.45 10.355\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T18:59:40.607Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M6.399 2.6C4.399 3 2.999 4.4 2.599 6.4C2.549 6.8 2.749 7.15 3.099 7.35L9.499 10.9C10.399 11.4 11.399 10.4 10.899 9.5L7.349 3.1C7.149 2.75 6.799 2.55 6.399 2.6Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.75 8.5C2.45 10.5 3.3 12.35 5.2 13.1C6.3 13.55 7.5 13.5 8.3 13C8.75 12.7 8.6 12.1 8.1 11.95C7.45 11.5 7.05 10.65 6.95 9.65\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.5 2.75C10.5 2.45 12.35 3.3 13.1 5.2C13.55 6.3 13.5 7.5 13 8.3C12.7 8.75 12.1 8.6 11.95 8.1C11.5 7.45 10.65 7.05 9.65 6.95\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

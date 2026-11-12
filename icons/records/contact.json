@@ -1,0 +1,22 @@
+{
+  "name": "contact",
+  "status": "active",
+  "canonical": "person",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:4785",
+  "looks": "An address book with a person on the cover and ring binding down the left side.",
+  "use": "Use for contacts, an address book, or a directory.",
+  "keywords": [
+    "address book"
+  ],
+  "compare": {
+    "fluent": "contact-card",
+    "lucide": "contact",
+    "material": "contact-mail",
+    "phosphor": "address-book",
+    "sf": false,
+    "tabler": "address-book"
+  }
+}

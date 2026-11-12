@@ -1,0 +1,12 @@
+{
+ "name": "dice-2",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"1.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><circle cx=\"5.25\" cy=\"5.25\" r=\"0.7\" fill=\"currentColor\"/><circle cx=\"10.75\" cy=\"10.75\" r=\"0.7\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

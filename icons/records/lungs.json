@@ -1,0 +1,15 @@
+{
+  "name": "lungs",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27533",
+  "looks": "Two lungs side by side joined at the top by a windpipe and branches.",
+  "use": "Use for lungs, breathing, or respiratory health.",
+  "compare": {
+    "lucide": false,
+    "sf": "lungs",
+    "tabler": "lungs"
+  }
+}

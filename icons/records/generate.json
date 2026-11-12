@@ -1,0 +1,24 @@
+{
+  "name": "generate",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:54058",
+  "looks": "A document with text lines and a four point sparkle at its top right.",
+  "use": "Use for generating content with AI or creating text.",
+  "keywords": [
+    "ai",
+    "create",
+    "magic"
+  ],
+  "approved": {
+    "at": "2026-11-12T01:54:19.353Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "ai-generate",
+    "lucide": false
+  }
+}

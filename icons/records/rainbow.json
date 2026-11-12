@@ -1,0 +1,16 @@
+{
+  "name": "rainbow",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:8087",
+  "looks": "Three nested arches, one inside another, with open bottoms.",
+  "use": "Use for rainbows, weather after rain, or pride.",
+  "compare": {
+    "lucide": "rainbow",
+    "phosphor": "rainbow",
+    "sf": "rainbow",
+    "tabler": "rainbow"
+  }
+}

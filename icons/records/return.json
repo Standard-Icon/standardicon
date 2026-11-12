@@ -1,0 +1,22 @@
+{
+  "name": "return",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "21:1443",
+  "looks": "A rounded rectangle with a return arrow inside that goes down then left.",
+  "use": "Use for the Return or Enter key, or submitting.",
+  "keywords": [
+    "enter",
+    "submit"
+  ],
+  "compare": {
+    "carbon": "return",
+    "lucide": "corner-down-left",
+    "material": "keyboard-return",
+    "phosphor": "key-return",
+    "sf": "return",
+    "tabler": false
+  }
+}

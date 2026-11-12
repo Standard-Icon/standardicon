@@ -1,0 +1,25 @@
+{
+  "name": "wifi-lock",
+  "status": "active",
+  "parent": "wifi",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "settings",
+  "figmaId": "56:22063",
+  "looks": "A wifi fan of curved arcs and a dot, with a small padlock at its lower right.",
+  "use": "Use for secure wifi or a protected network.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "wifi-lock",
+    "material": "wifi-lock",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "wifi.badge.lock",
+    "tabler": false
+  }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "search-minus",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M12.833 12.833L10.333 10.333M11.5 7.333C11.5 8.438 11.061 9.498 10.28 10.28C9.498 11.061 8.438 11.5 7.333 11.5C6.228 11.5 5.168 11.061 4.387 10.28C3.605 9.498 3.166 8.438 3.166 7.333C3.166 6.228 3.605 5.168 4.387 4.387C5.168 3.605 6.228 3.166 7.333 3.166C8.438 3.166 9.498 3.605 10.28 4.387C11.061 5.168 11.5 6.228 11.5 7.333Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 7.333H9.167\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M12.833 12.83L10.333 10.33M11.5 7.33C11.5 8.44 11.061 9.5 10.28 10.28C9.498 11.06 8.438 11.5 7.333 11.5C6.228 11.5 5.168 11.06 4.387 10.28C3.605 9.5 3.166 8.44 3.166 7.33C3.166 6.23 3.605 5.17 4.387 4.39C5.168 3.61 6.228 3.17 7.333 3.17C8.438 3.17 9.498 3.61 10.28 4.39C11.061 5.17 11.5 6.23 11.5 7.33Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.884 7.33H8.783\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M13.5 13.5L10.655 10.655M11.983 7.241C11.983 8.499 11.483 9.705 10.594 10.594C9.705 11.483 8.499 11.983 7.241 11.983C5.983 11.983 4.777 11.483 3.888 10.594C2.999 9.705 2.499 8.499 2.499 7.241C2.499 5.983 2.999 4.777 3.888 3.888C4.777 2.999 5.983 2.499 7.241 2.499C8.499 2.499 9.705 2.999 10.594 3.888C11.483 4.777 11.983 5.983 11.983 7.241Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.592 7.241H8.891\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

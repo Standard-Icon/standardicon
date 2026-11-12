@@ -1,0 +1,21 @@
+{
+  "name": "cash",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7414",
+  "looks": "A rounded rectangle banknote with a circle in the center and a dot in two opposite corners.",
+  "use": "Use for cash, payments, or money.",
+  "keywords": [
+    "money",
+    "bills"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "lucide": "banknote",
+    "phosphor": "money",
+    "sf": "banknote",
+    "tabler": "cash"
+  }
+}

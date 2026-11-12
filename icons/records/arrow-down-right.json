@@ -1,0 +1,22 @@
+{
+  "name": "arrow-down-right",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "21:1358",
+  "looks": "A diagonal arrow pointing to the lower right, with a square corner for its head.",
+  "use": "Use for a drop, a decline, or move down and right.",
+  "compare": {
+    "carbon": "arrow-down-right",
+    "fluent": "arrow-down-right",
+    "heroicons": "arrow-down-right",
+    "lucide": "arrow-down-right",
+    "material": "south-east",
+    "octicons": "arrow-down-right",
+    "phosphor": "arrow-down-right",
+    "radix": "arrow-bottom-right",
+    "sf": "arrow.down.right",
+    "tabler": "arrow-down-right"
+  }
+}

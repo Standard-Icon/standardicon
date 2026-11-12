@@ -1,0 +1,27 @@
+{
+  "name": "message-oval-plus-overlay",
+  "status": "active",
+  "parent": "message-oval",
+  "canonical": "message-oval",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "226:32834",
+  "looks": "An oval speech bubble with a small rounded square holding a plus sign at the lower right.",
+  "use": "Use for adding a message, comment, or reply.",
+  "formerNames": [
+    "message-oval-plus"
+  ],
+  "compare": {
+    "lucide": "message-circle-plus",
+    "sf": "plus.bubble",
+    "tabler": "message-plus"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "oval or square message family"
+    }
+  ]
+}

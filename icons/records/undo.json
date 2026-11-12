@@ -1,0 +1,28 @@
+{
+  "name": "undo",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "12:798",
+  "looks": "A short hooked curve that bends up and over into an arrow pointing left.",
+  "use": "Use for undo or reverse the last action.",
+  "keywords": [
+    "revert",
+    "back"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.738Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "undo",
+    "fluent": "arrow-undo",
+    "iconic": "undo",
+    "lucide": "undo",
+    "material": "undo",
+    "octicons": "undo",
+    "sf": "arrow.uturn.backward"
+  }
+}

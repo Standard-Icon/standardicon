@@ -1,0 +1,23 @@
+{
+  "name": "egg-fried",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19536",
+  "looks": "A fried egg with a round yolk in the middle of a wavy white.",
+  "use": "Use for fried eggs, breakfast, or cooking.",
+  "approved": {
+    "at": "2026-11-12T19:39:47.393Z",
+    "by": "Morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "fluent": "food-egg",
+    "iconic": false,
+    "lucide": "egg-fried",
+    "material": false,
+    "phosphor": false,
+    "tabler": "egg-fried"
+  }
+}

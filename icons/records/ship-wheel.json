@@ -1,0 +1,20 @@
+{
+  "name": "ship-wheel",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20691",
+  "looks": "A helm wheel with a ring, a small hub, and spokes reaching out past the rim.",
+  "use": "Use for steering a ship, nautical themes, or helm.",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "fluent": false,
+    "lucide": "ship-wheel",
+    "phosphor": false,
+    "radix": false,
+    "tabler": false
+  }
+}

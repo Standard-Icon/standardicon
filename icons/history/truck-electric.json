@@ -1,0 +1,23 @@
+{
+ "name": "truck-electric",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2 3.5H9.5V11H2V3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 6H12L14 8.5V11H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"4.75\" cy=\"11.5\" r=\"1.25\" stroke=\"currentColor\"/><circle cx=\"11.5\" cy=\"11.5\" r=\"1.25\" stroke=\"currentColor\"/><path d=\"M6.25 5.5L4.75 7.25H6.75L5.25 9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T02:43:49.866Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2 3.5H9.5V11H2V3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 6H12L14 8.5V11H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.25 5.5L4.75 7.25H6.75L5.25 9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.896 12C5.697 12.456 5.247 12.75 4.75 12.75C4.253 12.75 3.803 12.456 3.605 12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.646 12C12.447 12.456 11.997 12.75 11.5 12.75C11.003 12.75 10.553 12.456 10.355 12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T06:16:11.393Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M5.896 11H9.5V3.5H2V11H3.604\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 6H12L14 8.5V11H12.646M10.354 11H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 11.5C6 12.19 5.44 12.75 4.75 12.75C4.06 12.75 3.5 12.19 3.5 11.5C3.5 10.81 4.06 10.25 4.75 10.25C5.44 10.25 6 10.81 6 11.5Z\" stroke=\"currentColor\"/><path d=\"M12.75 11.5C12.75 12.19 12.19 12.75 11.5 12.75C10.81 12.75 10.25 12.19 10.25 11.5C10.25 10.81 10.81 10.25 11.5 10.25C12.19 10.25 12.75 10.81 12.75 11.5Z\" stroke=\"currentColor\"/><path d=\"M6.25 5.5L4.75 7.25H6.75L5.25 9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

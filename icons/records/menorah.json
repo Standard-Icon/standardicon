@@ -1,0 +1,25 @@
+{
+  "name": "menorah",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Holiday",
+  "figmaId": "273:22002",
+  "looks": "A candelabra with curved arms rising from a central stem, with a row of dot flames on top.",
+  "use": "Use for Hanukkah or Jewish holidays.",
+  "formerNames": [
+    "chandelier"
+  ],
+  "keywords": [
+    "hanukkah",
+    "chanukah",
+    "jewish",
+    "candelabrum",
+    "candles",
+    "holiday"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "tabler": "menorah"
+  }
+}

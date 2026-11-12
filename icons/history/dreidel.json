@@ -1,0 +1,17 @@
+{
+ "name": "dreidel",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M8 1.75V3.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 3.5H12C12.28 3.5 12.5 3.72 12.5 4V8.5C12.5 8.8 12.38 9.1 12.15 9.3L8 13L3.85 9.3C3.62 9.1 3.5 8.8 3.5 8.5V4C3.5 3.72 3.72 3.5 4 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 13V14.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 5.5V7C5.5 8.1 6.4 9 7.5 9H8.5C9.6 9 10.5 8.1 10.5 7V5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.5V9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T07:22:14.556Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 1.952V3.508\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.444 3.508H11.556C11.804 3.508 12 3.703 12 3.952L12 9.343C12 9.61 11.893 9.876 11.689 10.054L8 13.343L4.311 10.054C4.107 9.876 4 9.61 4 9.343V3.952C4 3.703 4.196 3.508 4.444 3.508Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.102 6.106V7.246C6.102 8.082 6.785 8.765 7.621 8.765H8.381C9.216 8.765 9.9 8.082 9.9 7.246V6.106\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6.106V8.765\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

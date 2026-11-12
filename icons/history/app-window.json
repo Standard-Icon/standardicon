@@ -1,0 +1,12 @@
+{
+ "name": "app-window",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3.5\" width=\"11\" height=\"9\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.5 6.359H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.425 4.952C4.425 5.058 4.383 5.16 4.308 5.235C4.233 5.31 4.132 5.352 4.025 5.352C3.919 5.352 3.818 5.31 3.743 5.235C3.668 5.16 3.625 5.058 3.625 4.952C3.625 4.846 3.668 4.744 3.743 4.669C3.818 4.594 3.919 4.552 4.025 4.552C4.132 4.552 4.233 4.594 4.308 4.669C4.383 4.744 4.425 4.846 4.425 4.952Z\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

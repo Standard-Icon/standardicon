@@ -1,0 +1,41 @@
+{
+ "name": "citrus",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"5.5\" stroke=\"currentColor\"/><circle cx=\"8\" cy=\"8\" r=\"3.5\" stroke=\"currentColor\"/><path d=\"M8.001 4.5V11.5M4.971 6.25L11.031 9.75M4.971 9.75L11.031 6.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<circle cx=\"9\" cy=\"9\" r=\"6.1875\" stroke=\"currentColor\"/><circle cx=\"9\" cy=\"9\" r=\"3.9375\" stroke=\"currentColor\"/><path d=\"M9.001 5.062V12.938M5.592 7.031L9.001 9L12.409 10.969M5.592 10.969L9.001 9L12.409 7.031\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<circle cx=\"10\" cy=\"10\" r=\"6.875\" stroke=\"currentColor\"/><circle cx=\"10\" cy=\"10\" r=\"4.375\" stroke=\"currentColor\"/><path d=\"M10 5.625V14.375M6.213 7.812L10 10L13.788 12.188M6.213 12.188L10 10L13.788 7.812\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<circle cx=\"11\" cy=\"11\" r=\"7.5625\" stroke=\"currentColor\"/><circle cx=\"11\" cy=\"11\" r=\"4.8125\" stroke=\"currentColor\"/><path d=\"M11 6.188V15.812M6.834 8.594L15.166 13.406M6.834 13.406L15.166 8.594\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<circle cx=\"12\" cy=\"12\" r=\"8.25\" stroke=\"currentColor\"/><circle cx=\"12\" cy=\"12\" r=\"5.25\" stroke=\"currentColor\"/><path d=\"M12 6.75V17.25M7.455 9.375L12 12L16.55 14.625M7.455 14.625L12 12L16.55 9.375\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-11T07:22:14.556Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><circle cx=\"8.001\" cy=\"8\" r=\"3.92636\" stroke=\"currentColor\"/><path d=\"M8.001 4.074V11.927M4.602 6.037L11.4 9.963M4.602 9.963L11.4 6.037\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<circle cx=\"9\" cy=\"9\" r=\"6.94125\" stroke=\"currentColor\"/><circle cx=\"8.999\" cy=\"9\" r=\"4.41716\" stroke=\"currentColor\"/><path d=\"M9 4.583V13.417M5.176 6.792L9 9L12.824 11.209M5.176 11.209L9 9L12.824 6.792\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>",
+    "20": "<circle cx=\"10\" cy=\"10\" r=\"7.7125\" stroke=\"currentColor\"/><circle cx=\"10\" cy=\"10\" r=\"4.90795\" stroke=\"currentColor\"/><path d=\"M10.001 5.092V14.908M5.752 7.546L14.25 12.454M5.752 12.454L14.25 7.546\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>",
+    "22": "<circle cx=\"10.999\" cy=\"11\" r=\"8.48375\" stroke=\"currentColor\"/><circle cx=\"11\" cy=\"11\" r=\"5.39875\" stroke=\"currentColor\"/><path d=\"M11 5.601V16.399M6.326 8.3L11 11L15.674 13.699M6.326 13.699L11 11L15.674 8.3\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>",
+    "24": "<circle cx=\"12\" cy=\"12\" r=\"9.255\" stroke=\"currentColor\"/><circle cx=\"12\" cy=\"12\" r=\"5.88955\" stroke=\"currentColor\"/><path d=\"M12 6.11V17.89M6.9 9.055L17.1 14.945M6.9 14.945L17.1 9.055\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-11T09:46:49.583Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><circle cx=\"8.001\" cy=\"8\" r=\"3.92636\" stroke=\"currentColor\"/><path d=\"M8.001 4.074V11.927M4.602 6.037L11.4 9.963M4.602 9.963L11.4 6.037\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><circle cx=\"8.001\" cy=\"8\" r=\"3.92636\" stroke=\"currentColor\"/><path d=\"M8.001 4.074V11.927M4.602 6.037L11.4 9.963M4.602 9.963L11.4 6.037\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

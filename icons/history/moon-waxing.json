@@ -1,0 +1,23 @@
+{
+ "name": "moon-waxing",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"5.5\" stroke=\"currentColor\"/><path d=\"M8 2.5C9.519 2.5 10.75 4.962 10.75 8C10.75 11.038 9.519 13.5 8 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T07:22:14.556Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><path d=\"M8 1.83C9.704 1.83 11.085 4.592 11.085 8C11.085 11.408 9.704 14.17 8 14.17\" stroke=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><path d=\"M8 1.83C9.704 1.83 11.085 4.592 11.085 8C11.085 11.408 9.704 14.17 8 14.17\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

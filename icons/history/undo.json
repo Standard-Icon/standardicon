@@ -1,0 +1,23 @@
+{
+ "name": "undo",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4 5.724L7.692 5.724L8.862 5.724C10.595 5.724 12 7.129 12 8.862C12 10.595 10.595 12 8.862 12L8.615 12M6.462 8.115L4 5.724L6.462 3.333\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M4 6.224H8.86C10.6 6.224 12 7.629 12 9.362C12 11.095 10.6 12.5 8.86 12.5H8.62M6.46 8.615L4 6.224L6.46 3.833\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.952 5.535H9.123C11.323 5.535 13.106 7.318 13.106 9.517C13.106 11.717 11.323 13.5 9.123 13.5H8.81M6.077 8.569L2.952 5.535L6.077 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

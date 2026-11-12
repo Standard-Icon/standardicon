@@ -1,0 +1,16 @@
+{
+  "name": "database-minus-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25128",
+  "looks": "A stacked database cylinder with a small rounded square holding a minus overlapping its lower right.",
+  "use": "Use for removing a database or deleting records.",
+  "formerNames": [
+    "database-minus"
+  ],
+  "compare": {
+    "lucide": "database-minus",
+    "sf": false,
+    "tabler": "database-minus"
+  }
+}

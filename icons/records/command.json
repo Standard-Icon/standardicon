@@ -1,0 +1,27 @@
+{
+  "name": "command",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4668",
+  "looks": "The command key symbol: a square with a loop at each of its four corners.",
+  "use": "Use for the Command key or keyboard shortcuts.",
+  "keywords": [
+    "mac",
+    "cmd",
+    "shortcut",
+    "keyboard"
+  ],
+  "compare": {
+    "carbon": "mac-command",
+    "fluent": "key-command",
+    "heroicons": false,
+    "lucide": "command",
+    "material": "keyboard-command-key",
+    "octicons": "command-palette",
+    "phosphor": "command",
+    "sf": "command",
+    "tabler": "command"
+  }
+}

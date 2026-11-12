@@ -1,0 +1,17 @@
+{
+ "name": "anchor",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M9.5 4C9.5 4.398 9.342 4.779 9.061 5.061C8.779 5.342 8.398 5.5 8 5.5C7.602 5.5 7.221 5.342 6.939 5.061C6.658 4.779 6.5 4.398 6.5 4C6.5 3.602 6.658 3.221 6.939 2.939C7.221 2.658 7.602 2.5 8 2.5C8.398 2.5 8.779 2.658 9.061 2.939C9.342 3.221 9.5 3.602 9.5 4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 8H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 9.5C3 11.75 5 13.5 8 13.5C11 13.5 13 11.75 13 9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T19:59:33.379Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M9.5 4C9.5 4.398 9.342 4.779 9.061 5.061C8.779 5.342 8.398 5.5 8 5.5C7.602 5.5 7.221 5.342 6.939 5.061C6.658 4.779 6.5 4.398 6.5 4C6.5 3.602 6.658 3.221 6.939 2.939C7.221 2.658 7.602 2.5 8 2.5C8.398 2.5 8.779 2.658 9.061 2.939C9.342 3.221 9.5 3.602 9.5 4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 8H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.625 10.09L13 9.5C13 11.75 11 13.5 8 13.5C5 13.5 3 11.75 3 9.5L4.366 10.09\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "clock-6",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24547",
+  "looks": "A round clock face with a hand through the center pointing down to six.",
+  "use": "Use for 6 o'clock or a specific time.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.906Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "clock",
+    "heroicons": "clock",
+    "lucide": "clock-6",
+    "material": "schedule",
+    "octicons": "clock",
+    "phosphor": "clock",
+    "radix": "clock",
+    "sf": "clock",
+    "tabler": "clock-hour-6"
+  }
+}

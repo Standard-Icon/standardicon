@@ -1,0 +1,22 @@
+{
+  "name": "distribute-vertical",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6454",
+  "looks": "A small rounded rectangle centered between two horizontal lines above and below.",
+  "use": "Use for distributing objects evenly top to bottom.",
+  "compare": {
+    "carbon": "distribute-vertical-top",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "align-vertical-distribute-center",
+    "material": "vertical-distribute",
+    "phosphor": false,
+    "radix": false,
+    "sf": "distribute.vertical",
+    "tabler": "layout-distribute-vertical"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "transfer",
+  "status": "covered",
+  "coveredBy": "switch",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking"
+}

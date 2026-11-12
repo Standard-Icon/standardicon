@@ -1,0 +1,14 @@
+{
+  "name": "move-diagonal-alt",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23449",
+  "looks": "A diagonal line from upper left to lower right with a corner arrowhead at each end.",
+  "use": "Use for resizing, expanding, or diagonal moves.",
+  "compare": {
+    "lucide": "move-diagonal",
+    "sf": "arrow.up.left.and.down.right.and.arrow.up.right.and.down.left"
+  }
+}

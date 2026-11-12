@@ -1,0 +1,25 @@
+{
+  "name": "phone",
+  "status": "active",
+  "canonical": "phone",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Communication",
+  "figmaId": "23:2269",
+  "looks": "A classic telephone handset tilted diagonally, earpiece at the top left.",
+  "use": "Use for calls, phone numbers, or contact by phone.",
+  "keywords": [
+    "call",
+    "telephone"
+  ],
+  "compare": {
+    "carbon": "phone",
+    "fluent": "phone",
+    "heroicons": "phone",
+    "lucide": "phone",
+    "material": "call",
+    "phosphor": "phone",
+    "sf": "phone",
+    "tabler": "phone"
+  }
+}

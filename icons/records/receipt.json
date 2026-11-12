@@ -1,0 +1,24 @@
+{
+  "name": "receipt",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:5235",
+  "looks": "A receipt with a flat top, a zigzag torn bottom edge, and two lines of text.",
+  "use": "Use for receipts, purchases, or transactions.",
+  "keywords": [
+    "purchase",
+    "expense"
+  ],
+  "compare": {
+    "carbon": "receipt",
+    "fluent": "receipt",
+    "heroicons": "receipt-refund",
+    "lucide": "receipt",
+    "material": "receipt",
+    "phosphor": "receipt",
+    "sf": "receipt",
+    "tabler": "receipt"
+  }
+}

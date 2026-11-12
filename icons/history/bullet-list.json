@@ -1,0 +1,18 @@
+{
+ "name": "bullet-list",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M6.5 4H13M6.5 8H13M6.5 12H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"3.5\" cy=\"4\" r=\"0.75\" fill=\"currentColor\"/><circle cx=\"3.5\" cy=\"8\" r=\"0.75\" fill=\"currentColor\"/><circle cx=\"3.5\" cy=\"12\" r=\"0.75\" fill=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M6.209 3.512H13.501M6.209 8H13.501M6.209 12.488H13.501\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"2.843\" cy=\"3.512\" r=\"0.841425\" fill=\"currentColor\"/><circle cx=\"2.843\" cy=\"8\" r=\"0.841425\" fill=\"currentColor\"/><circle cx=\"2.843\" cy=\"12.488\" r=\"0.841425\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

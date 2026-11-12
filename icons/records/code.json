@@ -1,0 +1,32 @@
+{
+  "name": "code",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Development",
+  "figmaId": "23:2546",
+  "looks": "A forward slash between a pair of angle brackets.",
+  "use": "Use for code, inline code, or developer tools.",
+  "keywords": [
+    "developer",
+    "programming",
+    "html"
+  ],
+  "compare": {
+    "carbon": "code",
+    "fluent": "code",
+    "heroicons": "code-bracket",
+    "lucide": "code",
+    "material": "code",
+    "octicons": "code",
+    "phosphor": "code",
+    "radix": "code",
+    "sf": "chevron.left.forwardslash.chevron.right",
+    "tabler": "code"
+  },
+  "compareAlso": {
+    "lucide": [
+      "code-xml"
+    ]
+  }
+}

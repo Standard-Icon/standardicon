@@ -1,0 +1,25 @@
+{
+  "name": "calendar-search-overlay",
+  "status": "active",
+  "parent": "calendar",
+  "canonical": "calendar",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:21013",
+  "looks": "A calendar page with two rings at the top and a magnifying glass in a rounded square at the lower right.",
+  "use": "Use for searching events or finding a date.",
+  "formerNames": [
+    "calendar-search"
+  ],
+  "compare": {
+    "fluent": "calendar-search",
+    "heroicons": false,
+    "lucide": "calendar-search",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "calendar-search"
+  }
+}

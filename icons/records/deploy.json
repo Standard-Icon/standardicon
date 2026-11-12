@@ -1,0 +1,18 @@
+{
+  "name": "deploy",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:5090",
+  "looks": "An up arrow rising from a flat rounded box with a dot at its left, like a server.",
+  "use": "Use for deploying, uploading, or shipping a release.",
+  "keywords": [
+    "ship",
+    "launch"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "deploy"
+  }
+}

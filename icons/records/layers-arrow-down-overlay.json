@@ -1,0 +1,22 @@
+{
+  "name": "layers-arrow-down-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26413",
+  "formerNames": [
+    "layers-arrow-down"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "layers-arrow-down",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "square.3.layers.3d.down.left",
+    "tabler": false
+  }
+}

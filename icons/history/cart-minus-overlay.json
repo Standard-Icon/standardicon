@@ -1,0 +1,11 @@
+{
+ "name": "cart-minus-overlay",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2 2.5L3.5 2.5L5 10L9.715 10M12.123 9.55L13.5 4.5L4 4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 12.25C6.5 12.449 6.421 12.64 6.28 12.78C6.14 12.921 5.949 13 5.75 13C5.551 13 5.36 12.921 5.22 12.78C5.079 12.64 5 12.449 5 12.25C5 12.051 5.079 11.86 5.22 11.72C5.36 11.579 5.551 11.5 5.75 11.5C5.949 11.5 6.14 11.579 6.28 11.72C6.421 11.86 6.5 12.051 6.5 12.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.125 12.25H13.375\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

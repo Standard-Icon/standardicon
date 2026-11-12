@@ -1,0 +1,17 @@
+{
+  "name": "lamp",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24538",
+  "looks": "A table lamp with a wide flat shade on a straight stem and a flat base.",
+  "use": "Use for a lamp, lighting, or a room light.",
+  "compare": {
+    "lucide": "lamp",
+    "material": "dine-lamp",
+    "phosphor": "lamp",
+    "sf": "lamp.desk",
+    "tabler": "lamp"
+  }
+}

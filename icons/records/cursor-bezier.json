@@ -1,0 +1,19 @@
+{
+  "name": "cursor-bezier",
+  "status": "active",
+  "source": "later",
+  "figmaId": "340:43442",
+  "looks": "A pointer aimed up-left above a horizontal line with a square at each end and a circle in the middle.",
+  "use": "Use for vector editing, bezier curves, or path selection.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

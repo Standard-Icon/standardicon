@@ -1,0 +1,17 @@
+{
+  "name": "ampersand",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23756",
+  "looks": "A single ampersand character drawn as one looping line.",
+  "use": "Use for 'and', combining items, or the & symbol.",
+  "approved": {
+    "at": "2026-11-10T19:46:34.460Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "ampersand",
+    "tabler": "ampersand"
+  }
+}

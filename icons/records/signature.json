@@ -1,0 +1,21 @@
+{
+  "name": "signature",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:4286",
+  "looks": "A looping handwritten scribble above a straight horizontal line.",
+  "use": "Use for signing documents, e-signatures, or approval.",
+  "keywords": [
+    "sign"
+  ],
+  "compare": {
+    "fluent": "signature",
+    "lucide": "signature",
+    "material": "signature",
+    "phosphor": "signature",
+    "sf": "signature",
+    "tabler": "signature"
+  }
+}

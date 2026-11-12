@@ -1,0 +1,14 @@
+{
+  "name": "folder-git-2",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25997",
+  "looks": "A folder with a small git branch of two nodes joined by a line inside.",
+  "use": "Use for git repositories or version controlled folders.",
+  "compare": {
+    "lucide": "folder-git-2",
+    "material": false,
+    "octicons": false,
+    "sf": false
+  }
+}

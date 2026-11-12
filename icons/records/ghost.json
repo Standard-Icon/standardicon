@@ -1,0 +1,13 @@
+{
+  "name": "ghost",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "people",
+  "figmaId": "59:22023",
+  "compare": {
+    "lucide": "ghost",
+    "phosphor": "ghost",
+    "tabler": "ghost"
+  }
+}

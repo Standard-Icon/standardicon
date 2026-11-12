@@ -1,0 +1,23 @@
+{
+ "name": "heart",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M8 13C8 13 2.5 9.8 2.5 6.1C2.5 4.3 3.9 3 5.5 3C6.6 3 7.5 3.6 8 4.5C8.5 3.6 9.4 3 10.5 3C12.1 3 13.5 4.3 13.5 6.1C13.5 9.8 8 13 8 13Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 13.606C8 13.606 1.833 10.018 1.833 5.87C1.833 3.851 3.403 2.394 5.197 2.394C6.43 2.394 7.439 3.067 8 4.076C8.561 3.067 9.57 2.394 10.803 2.394C12.597 2.394 14.167 3.851 14.167 5.87C14.167 10.018 8 13.606 8 13.606Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T07:39:13.194Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 14.061C8 14.061 2 10.57 2 6.533C2 4.57 3.527 3.152 5.273 3.152C6.473 3.152 7.454 3.806 8 4.788C8.545 3.806 9.527 3.152 10.727 3.152C12.473 3.152 14 4.57 14 6.533C14 10.57 8 14.061 8 14.061Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

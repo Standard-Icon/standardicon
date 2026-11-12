@@ -1,0 +1,12 @@
+{
+  "name": "between-vertical-start",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:24086",
+  "looks": "Two tall rounded rectangles side by side with a small chevron pointing down above them.",
+  "use": "Use for inserting a column before or adding to the start.",
+  "compare": {
+    "lucide": "between-vertical-start",
+    "sf": false
+  }
+}

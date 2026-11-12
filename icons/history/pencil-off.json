@@ -1,0 +1,11 @@
+{
+ "name": "pencil-off",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M7.981 10.593L6 12.575L2.926 13.075L3.426 10.001L5.407 8.019M10.589 7.986L12.257 6.318C12.599 5.976 12.79 5.513 12.79 5.03C12.79 4.548 12.599 4.085 12.257 3.743C11.916 3.402 11.453 3.21 10.97 3.21C10.487 3.21 10.024 3.402 9.683 3.743L8.014 5.412\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.268 4.619L11.381 6.733\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 2.5L13.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

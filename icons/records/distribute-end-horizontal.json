@@ -1,0 +1,15 @@
+{
+  "name": "distribute-end-horizontal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:22977",
+  "compare": {
+    "carbon": "distribute-horizontal-left",
+    "lucide": "align-horizontal-distribute-end",
+    "material": "horizontal-distribute",
+    "sf": "distribute.horizontal",
+    "tabler": "layout-distribute-horizontal"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "package-search-overlay",
+  "status": "active",
+  "parent": "package",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "56:22539",
+  "looks": "A box with a taped lid and a magnifying glass inside a small rounded square at the lower right.",
+  "use": "Use for searching packages, tracking a shipment, or finding a dependency.",
+  "formerNames": [
+    "package-search"
+  ],
+  "compare": {
+    "heroicons": false,
+    "lucide": "package-search",
+    "phosphor": false,
+    "radix": false,
+    "sf": false
+  }
+}

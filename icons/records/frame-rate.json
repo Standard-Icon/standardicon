@@ -1,0 +1,27 @@
+{
+  "name": "frame-rate",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "183:31925",
+  "looks": "A rounded square with a play triangle inside and three short motion lines to its left.",
+  "use": "Use for frame rate, video playback speed, or fps.",
+  "compare": {
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "video"
+    }
+  ]
+}

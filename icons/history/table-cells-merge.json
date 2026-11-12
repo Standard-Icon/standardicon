@@ -1,0 +1,17 @@
+{
+ "name": "table-cells-merge",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.27\" y=\"2.75\" width=\"11.45\" height=\"10.5\" rx=\"2\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.27 5.141H13.72\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.391 9.072H10.609M6.695 10.377L5.391 9.072L6.695 7.768M9.305 10.377L10.609 9.072L9.305 7.768\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T07:21:06.084Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.27\" y=\"2.75\" width=\"11.45\" height=\"10.5\" rx=\"2\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.27 5.14H13.72\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.467 9.073H11.503M5.771 10.377L4.467 9.073L5.771 7.768M10.198 10.377L11.503 9.073L10.198 7.768\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.447V7.449\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M8 10.684V12.686\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

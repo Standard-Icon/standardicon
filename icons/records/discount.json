@@ -1,0 +1,16 @@
+{
+  "name": "discount",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:27429",
+  "looks": "A scalloped badge with a percent sign inside.",
+  "use": "Use for discounts, sales, or coupons.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": "percent",
+    "material": "percent-discount",
+    "tabler": "discount"
+  }
+}

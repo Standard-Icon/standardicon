@@ -1,0 +1,24 @@
+{
+  "name": "stethoscope",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8840",
+  "looks": "A U-shaped stethoscope tube curving down and up to a round chest piece on the right.",
+  "use": "Use for doctors, checkups, or diagnosis.",
+  "keywords": [
+    "doctor",
+    "medical",
+    "healthcare"
+  ],
+  "compare": {
+    "carbon": "stethoscope",
+    "iconic": "stethoscope",
+    "lucide": "stethoscope",
+    "material": "stethoscope",
+    "phosphor": "stethoscope",
+    "sf": "stethoscope",
+    "tabler": "stethoscope"
+  }
+}

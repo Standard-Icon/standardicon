@@ -1,0 +1,20 @@
+{
+  "name": "database-search-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25179",
+  "looks": "A stacked database cylinder with a small rounded square holding a magnifier overlapping its lower right.",
+  "use": "Use for querying or searching a database.",
+  "formerNames": [
+    "database-search"
+  ],
+  "compare": {
+    "heroicons": false,
+    "lucide": "database-search",
+    "material": "database-search",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "database-search"
+  }
+}

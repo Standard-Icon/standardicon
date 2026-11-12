@@ -1,0 +1,18 @@
+{
+  "name": "dice-5",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25341",
+  "looks": "A rounded square die with a dot in each corner and one in the center.",
+  "use": "Use for a die showing five, dice games, or chance.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "lucide": "dice-5",
+    "material": false,
+    "octicons": false,
+    "phosphor": "dice-five",
+    "sf": "die.face.5",
+    "tabler": "dice-5"
+  }
+}

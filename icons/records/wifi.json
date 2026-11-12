@@ -1,0 +1,26 @@
+{
+  "name": "wifi",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5755",
+  "looks": "Two curved arcs stacked above a dot, fanning upward.",
+  "use": "Use for Wi-Fi, wireless networks, or signal.",
+  "keywords": [
+    "internet",
+    "wireless",
+    "network"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "wifi",
+    "heroicons": "wifi",
+    "iconic": "wifi",
+    "lucide": "wifi",
+    "material": "wifi",
+    "phosphor": "wifi-high",
+    "sf": "wifi",
+    "tabler": "wifi"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "file-chart-line",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25643",
+  "looks": "A file with a folded top right corner and a zigzag trend line inside.",
+  "use": "Use for line chart reports or trend documents.",
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "lucide": "file-chart-line",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": "file-chart"
+  }
+}

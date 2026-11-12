@@ -1,0 +1,23 @@
+{
+  "name": "move-horizontal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "navigation",
+  "figmaId": "58:21223",
+  "looks": "A horizontal line with arrowheads pointing left and right.",
+  "use": "Use for horizontal moves, resizing width, or swiping.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "move-horizontal",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "arrows-move-horizontal"
+  }
+}

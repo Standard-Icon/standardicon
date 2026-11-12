@@ -1,0 +1,26 @@
+{
+  "name": "track-remove",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "183:31630",
+  "looks": "A long bar on top and a short bar below with a minus sign beside it.",
+  "use": "Use for removing a track or deleting a layer.",
+  "compare": {
+    "carbon": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "audio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "rupee",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:26527",
+  "looks": "The rupee currency sign, two short horizontal bars over a curved stroke and a diagonal leg.",
+  "use": "Use for rupees or Indian currency.",
+  "approved": {
+    "at": "2026-11-12T01:50:30.639Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "currency-rupee",
+    "fluent": "currency-dollar-rupee",
+    "heroicons": "currency-rupee",
+    "lucide": "indian-rupee",
+    "material": "currency-rupee",
+    "tabler": "coin-rupee"
+  }
+}

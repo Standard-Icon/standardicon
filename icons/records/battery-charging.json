@@ -1,0 +1,24 @@
+{
+  "name": "battery-charging",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5870",
+  "looks": "A horizontal battery outline with a lightning bolt inside and a small terminal on the right.",
+  "use": "Use for charging or a battery that is plugged in.",
+  "keywords": [
+    "power",
+    "plugged in"
+  ],
+  "compare": {
+    "carbon": "battery-charging",
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "battery-charging",
+    "material": "battery-charging-20",
+    "phosphor": "battery-charging",
+    "sf": "battery.100percent.bolt",
+    "tabler": "battery-charging"
+  }
+}

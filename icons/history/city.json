@@ -1,0 +1,11 @@
+{
+ "name": "city",
+ "versions": [
+  {
+   "at": "2026-11-12T18:00:45.815Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M1.5 13.5H14.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 13.5V8.5C2.5 7.948 2.948 7.5 3.5 7.5H6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 13.5V3.5C6 2.948 6.448 2.5 7 2.5H9.5C10.052 2.5 10.5 2.948 10.5 3.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 5.5H12.5C13.052 5.5 13.5 5.948 13.5 6.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.75 5H8.75M7.75 7.5H8.75M7.75 10H8.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "flask-conical-off",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25132",
+  "looks": "A conical lab flask crossed out by a diagonal line.",
+  "use": "Use for disabled experiments, lab features turned off, or no testing.",
+  "compare": {
+    "lucide": "flask-conical-off",
+    "sf": false,
+    "tabler": "flask-off"
+  }
+}

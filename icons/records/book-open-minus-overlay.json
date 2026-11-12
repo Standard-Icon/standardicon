@@ -1,0 +1,22 @@
+{
+  "name": "book-open-minus-overlay",
+  "status": "active",
+  "parent": "book-open",
+  "canonical": "book-open",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:25554",
+  "looks": "An open book with a small rounded square holding a minus sign at the lower right.",
+  "use": "Use for removing a book or a lesson.",
+  "formerNames": [
+    "book-minus",
+    "book-open-minus"
+  ],
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "book-minus",
+    "phosphor": false
+  }
+}

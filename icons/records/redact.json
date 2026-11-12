@@ -1,0 +1,11 @@
+{
+  "name": "redact",
+  "status": "active",
+  "canonical": "page",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Legal",
+  "figmaId": "82:28184",
+  "looks": "A page with a folded top right corner and two horizontal lines in its lower half.",
+  "use": "Use for redacting text or hiding sensitive content."
+}

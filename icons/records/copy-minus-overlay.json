@@ -1,0 +1,19 @@
+{
+  "name": "copy-minus-overlay",
+  "status": "active",
+  "parent": "copy",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:19793",
+  "looks": "Two overlapping rounded squares with a dash inside a small rounded square at the lower right.",
+  "use": "Use for removing a copy or a duplicate.",
+  "formerNames": [
+    "copy-minus"
+  ],
+  "compare": {
+    "lucide": "copy-minus",
+    "sf": false,
+    "tabler": "copy-minus"
+  }
+}

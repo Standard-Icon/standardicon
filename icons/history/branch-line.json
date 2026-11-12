@@ -1,0 +1,11 @@
+{
+ "name": "branch-line",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M2.5 11.099H5.455C5.795 11.099 6.111 10.927 6.295 10.641L8.818 6.732C9.555 5.59 10.821 4.901 12.179 4.901H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.087 11.099H13.26\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "message-circle-exclamation-point",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26966",
+  "fillApproved": true,
+  "compare": {
+    "heroicons": "exclamation-circle",
+    "lucide": "message-circle-exclamation-point",
+    "sf": "message.circle",
+    "tabler": "message-circle-exclamation"
+  }
+}

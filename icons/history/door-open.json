@@ -1,0 +1,18 @@
+{
+ "name": "door-open",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3.5 13.5H12.5M5 13.5V3.5L10.5 2.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 4H12V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.25 8.5C9.25 8.633 9.197 8.76 9.104 8.854C9.01 8.947 8.883 9 8.75 9C8.617 9 8.49 8.947 8.396 8.854C8.303 8.76 8.25 8.633 8.25 8.5C8.25 8.367 8.303 8.24 8.396 8.146C8.49 8.053 8.617 8 8.75 8C8.883 8 9.01 8.053 9.104 8.146C9.197 8.24 9.25 8.367 9.25 8.5Z\" fill=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M3.5 13.5H10.5V2.5L5 3.5V13.5M10.5 13.5H12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 4H12V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.25 8.5C9.25 8.633 9.197 8.76 9.104 8.854C9.01 8.947 8.883 9 8.75 9C8.617 9 8.49 8.947 8.396 8.854C8.303 8.76 8.25 8.633 8.25 8.5C8.25 8.367 8.303 8.24 8.396 8.146C8.49 8.053 8.617 8 8.75 8C8.883 8 9.01 8.053 9.104 8.146C9.197 8.24 9.25 8.367 9.25 8.5Z\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

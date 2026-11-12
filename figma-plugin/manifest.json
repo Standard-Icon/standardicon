@@ -1,0 +1,14 @@
+{
+  "name": "Workbench",
+  "id": "standard-icon-approvals",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["none"],
+    "devAllowedDomains": ["http://localhost:4180"],
+    "reasoning": "Reads approvals and revision marks from the icon workbench on this computer, and asks it to sync."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "turn-left",
+  "status": "covered",
+  "coveredBy": "corner-up-left",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Arrows"
+}

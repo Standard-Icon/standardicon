@@ -1,0 +1,17 @@
+{
+  "name": "chevrons-right-left",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24085",
+  "looks": "A right chevron and a left chevron pointing toward each other.",
+  "use": "Use for collapsing horizontally or squeezing together.",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "chevrons-right-left",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

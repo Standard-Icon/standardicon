@@ -1,0 +1,18 @@
+{
+  "name": "washer",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9266",
+  "looks": "A square washing machine with a control strip and dot at the top and a round door below.",
+  "use": "Use for laundry, washing machines, or utilities.",
+  "keywords": [
+    "laundry",
+    "washing machine"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "sf": "washer"
+  }
+}

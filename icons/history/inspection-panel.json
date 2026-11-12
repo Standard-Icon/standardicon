@@ -1,0 +1,11 @@
+{
+ "name": "inspection-panel",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"1.33\" stroke=\"currentColor\"/><circle cx=\"5\" cy=\"5\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"11\" cy=\"5\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"5\" cy=\"11\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"11\" cy=\"11\" r=\"0.6\" fill=\"currentColor\"/>"
+  }
+ ]
+}

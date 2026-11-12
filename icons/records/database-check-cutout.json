@@ -1,0 +1,12 @@
+{
+  "name": "database-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29100",
+  "looks": "A database cylinder with a checkmark cut into the lower right.",
+  "use": "Use for a healthy database or a verified data save.",
+  "compare": {
+    "fluent": "database-checkmark",
+    "lucide": "database-check"
+  }
+}

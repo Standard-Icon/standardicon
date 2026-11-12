@@ -1,0 +1,17 @@
+{
+ "name": "chevrons-right",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4.6 4L7.2 8L4.6 12M8.8 4L11.4 8L8.8 12\" stroke=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M4.6 4L7.2 8L4.6 12M8.8 4L11.4 8L8.8 12\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

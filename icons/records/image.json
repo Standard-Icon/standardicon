@@ -1,0 +1,25 @@
+{
+  "name": "image",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Media",
+  "figmaId": "23:2530",
+  "looks": "A rounded rectangle with a small circle at the upper left above zigzag mountain peaks.",
+  "use": "Use for images, photos, or media.",
+  "keywords": [
+    "photo",
+    "picture"
+  ],
+  "compare": {
+    "carbon": "image",
+    "fluent": "image",
+    "lucide": "image",
+    "material": "image",
+    "octicons": "image",
+    "phosphor": "image",
+    "radix": "image",
+    "sf": "photo",
+    "tabler": "photo"
+  }
+}

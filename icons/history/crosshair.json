@@ -1,0 +1,11 @@
+{
+ "name": "crosshair",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M12.5 8C12.5 9.194 12.026 10.338 11.182 11.182C10.338 12.026 9.193 12.5 8 12.5C6.807 12.5 5.662 12.026 4.818 11.182C3.974 10.338 3.5 9.194 3.5 8C3.5 6.806 3.974 5.662 4.818 4.818C5.662 3.974 6.807 3.5 8 3.5C9.193 3.5 10.338 3.974 11.182 4.818C12.026 5.662 12.5 6.806 12.5 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 1.75V5.5M8 10.5V14.25M1.75 8H5.5M10.5 8H14.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

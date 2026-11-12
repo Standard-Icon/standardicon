@@ -1,0 +1,24 @@
+{
+  "name": "bone",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27429",
+  "looks": "A diagonal bone with two rounded knobs at each end.",
+  "use": "Use for pets, dogs, or anatomy.",
+  "compare": {
+    "lucide": "bone",
+    "phosphor": "bone",
+    "sf": false,
+    "tabler": "bone"
+  },
+  "notes": [
+    {
+      "at": "2026-11-09",
+      "by": "morgan",
+      "text": "lucide is way better",
+      "issue": "lucide-is-way-better"
+    }
+  ]
+}

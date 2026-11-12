@@ -1,0 +1,29 @@
+{
+  "name": "search",
+  "status": "active",
+  "canonical": "search",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "12:292",
+  "looks": "A magnifying glass with its handle at the lower right.",
+  "use": "Use for search or find.",
+  "keywords": [
+    "find",
+    "magnifying glass",
+    "magnifier",
+    "lookup"
+  ],
+  "compare": {
+    "carbon": "search",
+    "fluent": "search",
+    "heroicons": "magnifying-glass",
+    "lucide": "search",
+    "material": "search",
+    "octicons": "search",
+    "phosphor": "magnifying-glass",
+    "radix": "magnifying-glass",
+    "sf": "magnifyingglass",
+    "tabler": "search"
+  }
+}

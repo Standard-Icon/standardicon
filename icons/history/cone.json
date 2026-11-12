@@ -1,0 +1,11 @@
+{
+ "name": "cone",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M13 11.5L8 2.5L3 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 11.5C3 12.6 5.2 13.5 8 13.5C10.8 13.5 13 12.6 13 11.5C13 10.4 10.8 9.5 8 9.5C5.2 9.5 3 10.4 3 11.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

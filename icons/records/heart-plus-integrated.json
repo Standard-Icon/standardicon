@@ -1,0 +1,20 @@
+{
+  "name": "heart-plus-integrated",
+  "status": "active",
+  "parent": "heart",
+  "canonical": "heart",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:19194",
+  "looks": "A heart with a small plus drawn in the middle.",
+  "use": "Use for adding to favorites or liking.",
+  "formerNames": [
+    "heart-plus"
+  ],
+  "compare": {
+    "lucide": "heart-plus",
+    "sf": false,
+    "tabler": "heart-plus"
+  }
+}

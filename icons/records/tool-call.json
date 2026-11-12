@@ -1,0 +1,22 @@
+{
+  "name": "tool-call",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:53962",
+  "keywords": [
+    "ai",
+    "function",
+    "mcp"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "tabler": false
+  }
+}

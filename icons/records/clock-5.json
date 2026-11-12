@@ -1,0 +1,25 @@
+{
+  "name": "clock-5",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24569",
+  "looks": "A round clock face with hands pointing to five o'clock.",
+  "use": "Use for 5 o'clock or a specific time.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.895Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "clock",
+    "heroicons": "clock",
+    "lucide": "clock-5",
+    "material": "schedule",
+    "octicons": "clock",
+    "phosphor": "clock",
+    "radix": "clock",
+    "sf": "clock",
+    "tabler": "clock-hour-5"
+  }
+}

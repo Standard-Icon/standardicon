@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:5189",
+  "looks": "A test tube standing upright with a flat rim and a liquid line across it.",
+  "use": "Use for tests, experiments, or lab work.",
+  "keywords": [
+    "qa",
+    "lab"
+  ],
+  "compare": {
+    "carbon": "rule-test",
+    "lucide": "test-tube",
+    "phosphor": "test-tube",
+    "tabler": "test-pipe"
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "factory",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2.5 13.5V7L6.5 9.5V7L10.5 9.5V3.5H13.5V13.5H2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 11.5H6.5M8.5 11.5H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2.5 13V6.5L6.5 9V6.5L10.5 9V3H13.5V13H2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 11H6.5M8.5 11H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

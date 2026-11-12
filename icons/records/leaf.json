@@ -1,0 +1,25 @@
+{
+  "name": "leaf",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:8129",
+  "looks": "A pointed leaf with a center vein that extends into a stem at the lower left.",
+  "use": "Use for nature, eco-friendly, or plants.",
+  "keywords": [
+    "nature",
+    "eco",
+    "green",
+    "plant"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "leaf-one",
+    "lucide": "leaf",
+    "material": "nest-eco-leaf",
+    "phosphor": "leaf",
+    "sf": "leaf",
+    "tabler": "leaf"
+  }
+}

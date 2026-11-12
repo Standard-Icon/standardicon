@@ -1,0 +1,11 @@
+{
+ "name": "space-key",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.294Z",
+   "source": "working copy",
+   "released": true,
+   "body": "<path d=\"M5.896 5.83V7.421H10.104V5.83\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.306 10.029H12.696C13.248 10.029 13.696 9.582 13.696 9.029V4.519C13.696 3.967 13.248 3.519 12.696 3.519L3.306 3.519C2.753 3.519 2.306 3.967 2.306 4.519V9.029C2.306 9.582 2.753 10.029 3.306 10.029Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.74 12.764H13.263C14.396 12.764 15.303 11.824 15.262 10.692L15.075 5.442C15.036 4.366 14.153 3.514 13.076 3.514L2.937 3.514C1.862 3.514 0.979 4.364 0.939 5.439L0.741 10.689C0.698 11.822 1.606 12.764 2.74 12.764Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.567 9.66L1.463 12.212M13.432 9.66L14.536 12.212\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

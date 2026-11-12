@@ -1,0 +1,13 @@
+{
+  "name": "bell-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27811",
+  "looks": "A bell with a small minus sign cut into its lower right.",
+  "use": "Use for unsubscribing or removing a reminder.",
+  "compare": {
+    "lucide": "bell-minus",
+    "sf": false,
+    "tabler": "bell-minus"
+  }
+}

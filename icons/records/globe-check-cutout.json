@@ -1,0 +1,12 @@
+{
+  "name": "globe-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28816",
+  "looks": "A globe with a small check mark cut into its lower right edge.",
+  "use": "Use for a verified domain, online, or published.",
+  "compare": {
+    "lucide": "globe-check",
+    "sf": false
+  }
+}

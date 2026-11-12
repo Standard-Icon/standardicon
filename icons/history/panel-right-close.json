@@ -1,0 +1,11 @@
+{
+ "name": "panel-right-close",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3.5\" width=\"11\" height=\"9\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M10 3.5V12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.53 6.5L7.5 8L6.53 9.5\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

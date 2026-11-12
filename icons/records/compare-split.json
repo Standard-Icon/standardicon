@@ -1,0 +1,21 @@
+{
+  "name": "compare-split",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26238",
+  "looks": "A rounded square split by a vertical line, with the right half filled solid.",
+  "use": "Use for before and after comparison or split view.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": "compare",
+    "fluent": "item-compare",
+    "lucide": "split",
+    "material": "compare",
+    "octicons": "git-compare",
+    "phosphor": "arrows-split",
+    "radix": "border-split",
+    "tabler": "git-compare"
+  }
+}

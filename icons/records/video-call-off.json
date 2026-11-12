@@ -1,0 +1,25 @@
+{
+  "name": "video-call-off",
+  "status": "active",
+  "parent": "video-call",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:4223",
+  "looks": "A video camera with a lens bracket on the right, crossed by a diagonal slash.",
+  "use": "Use for turning the camera off or a video call disabled.",
+  "approved": {
+    "at": "2026-11-12T02:40:41.561Z",
+    "by": "morgan",
+    "version": "2026-11-11T09:46:49.583Z"
+  },
+  "compare": {
+    "carbon": "video-off",
+    "fluent": "video-off",
+    "heroicons": "video-camera-slash",
+    "lucide": "video-off",
+    "material": false,
+    "sf": "video.slash",
+    "tabler": "video-off"
+  }
+}

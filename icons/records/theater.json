@@ -1,0 +1,16 @@
+{
+  "name": "theater",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:20812",
+  "looks": "A rounded square stage with curtains parted in a peak and a floor line below.",
+  "use": "Use for a theater, stage, or performances.",
+  "compare": {
+    "carbon": "theater",
+    "lucide": "theater",
+    "material": false,
+    "tabler": "theater"
+  }
+}

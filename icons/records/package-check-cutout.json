@@ -1,0 +1,11 @@
+{
+  "name": "package-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28985",
+  "looks": "A box with a slanted lid and a small check mark cut into its lower right.",
+  "use": "Use for delivered packages or installed dependencies.",
+  "compare": {
+    "lucide": "package-check"
+  }
+}

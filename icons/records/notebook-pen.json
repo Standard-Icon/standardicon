@@ -1,0 +1,20 @@
+{
+  "name": "notebook-pen",
+  "status": "active",
+  "parent": "notebook",
+  "canonical": "pencil",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24059",
+  "looks": "A notebook with binding tabs on the left and a pen angled across its upper right corner.",
+  "use": "Use for writing notes, journaling, or editing.",
+  "compare": {
+    "carbon": "notebook",
+    "fluent": "notebook",
+    "lucide": "notebook-pen",
+    "material": false,
+    "phosphor": "notebook",
+    "tabler": "notebook"
+  }
+}

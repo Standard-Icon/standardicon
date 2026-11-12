@@ -1,0 +1,17 @@
+{
+  "name": "mirror",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24960",
+  "looks": "An oval mirror on a short stand with a small glint near the top left.",
+  "use": "Use for a mirror, reflection, or a vanity.",
+  "compare": {
+    "carbon": false,
+    "lucide": "mirror-rectangular",
+    "material": false,
+    "octicons": "mirror",
+    "sf": "mirror.side.left"
+  }
+}

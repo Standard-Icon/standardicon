@@ -1,0 +1,22 @@
+{
+  "name": "model",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:53937",
+  "looks": "A cube drawn at an angle showing its top and two sides.",
+  "use": "Use for 3D models, objects, or packages.",
+  "keywords": [
+    "ai",
+    "llm"
+  ],
+  "compare": {
+    "carbon": "model",
+    "lucide": false,
+    "material": "model-training",
+    "octicons": "ai-model",
+    "radix": false,
+    "tabler": "model-ai"
+  }
+}

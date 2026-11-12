@@ -1,0 +1,18 @@
+{
+  "name": "pentagon",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "58:21772",
+  "looks": "An empty five-sided outline with rounded corners and a point at the top.",
+  "use": "Use for a pentagon shape or polygon tools.",
+  "compare": {
+    "carbon": "pentagon-outline",
+    "lucide": "pentagon",
+    "material": "pentagon",
+    "phosphor": "pentagon",
+    "sf": "pentagon",
+    "tabler": "pentagon"
+  }
+}

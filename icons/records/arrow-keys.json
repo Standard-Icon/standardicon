@@ -1,0 +1,23 @@
+{
+  "name": "arrow-keys",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24555",
+  "looks": "Four small rounded squares arranged like arrow keys, one above and three in a row below.",
+  "use": "Use for keyboard navigation or arrow key shortcuts.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

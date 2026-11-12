@@ -1,0 +1,17 @@
+{
+ "name": "bookmark-minus-integrated",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M4.5 4.04C4.5 3.77 4.605 3.52 4.793 3.33C4.98 3.14 5.235 3.04 5.5 3.04H10.5C10.765 3.04 11.02 3.14 11.207 3.33C11.395 3.52 11.5 3.77 11.5 4.04L11.583 12.81L8.083 10.31L4.583 12.81L4.5 4.04Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.9 6.48H9.15\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T07:39:13.194Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M6.9 6.485H9.15\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.06 3.972C4.06 3.674 4.17 3.387 4.39 3.176C4.6 2.965 4.88 2.847 5.18 2.847H10.81C11.11 2.847 11.39 2.965 11.6 3.176C11.82 3.387 11.93 3.674 11.93 3.972V13.153L7.99 10.636L4.06 13.153V3.972Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

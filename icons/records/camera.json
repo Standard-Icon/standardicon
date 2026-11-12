@@ -1,0 +1,31 @@
+{
+  "name": "camera",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5599",
+  "looks": "A camera body with a raised viewfinder on top and a round lens in the center.",
+  "use": "Use for taking photos or camera access.",
+  "keywords": [
+    "photo",
+    "picture"
+  ],
+  "approved": {
+    "at": "2026-11-12T02:31:25.367Z",
+    "by": "morgan",
+    "version": "2026-11-07T00:54:17-08:00"
+  },
+  "compare": {
+    "carbon": "camera",
+    "fluent": "camera",
+    "heroicons": "camera",
+    "lucide": "camera",
+    "material": "camera",
+    "octicons": "device-camera",
+    "phosphor": "camera",
+    "radix": "camera",
+    "sf": "camera",
+    "tabler": "camera"
+  }
+}

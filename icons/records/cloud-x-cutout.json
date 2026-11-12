@@ -1,0 +1,16 @@
+{
+  "name": "cloud-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29318",
+  "looks": "A cloud with an x cut into the lower right.",
+  "use": "Use for a failed sync, cloud error, or removing from the cloud.",
+  "compare": {
+    "fluent": "cloud-dismiss",
+    "heroicons": false,
+    "phosphor": "cloud-x",
+    "radix": false,
+    "sf": false,
+    "tabler": "cloud-x"
+  }
+}

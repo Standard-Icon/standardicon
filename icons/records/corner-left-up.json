@@ -1,0 +1,22 @@
+{
+  "name": "corner-left-up",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23481",
+  "looks": "A line running from the bottom right, turning at a corner, and ending in an up arrow at the left.",
+  "use": "Use for returning up or moving up from a left corner.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "arrow-turn-left-up",
+    "iconic": false,
+    "lucide": "corner-left-up",
+    "octicons": false,
+    "phosphor": "arrow-bend-left-up",
+    "radix": false,
+    "sf": "arrow.turn.left.up",
+    "tabler": "corner-left-up"
+  }
+}

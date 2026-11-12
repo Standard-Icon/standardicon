@@ -1,0 +1,11 @@
+{
+ "name": "letter-spacing",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M5.094 8.5L8.001 2.5L10.908 8.5M6.151 6.571H9.851\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 11.5H13.5M4 13L2.5 11.5L4 10M12 13L13.5 11.5L12 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

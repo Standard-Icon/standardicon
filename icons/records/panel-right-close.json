@@ -1,0 +1,20 @@
+{
+  "name": "panel-right-close",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "navigation",
+  "figmaId": "58:21091",
+  "looks": "A wide rounded rectangle with a narrow right column and a right chevron in the main area.",
+  "use": "Use for hiding or collapsing the right sidebar.",
+  "compare": {
+    "carbon": "right-panel-close",
+    "fluent": "panel-right",
+    "heroicons": false,
+    "lucide": "panel-right-close",
+    "material": "right-panel-close",
+    "radix": "panel-right",
+    "sf": false,
+    "tabler": false
+  }
+}

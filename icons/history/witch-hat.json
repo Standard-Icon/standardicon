@@ -1,0 +1,11 @@
+{
+ "name": "witch-hat",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M14.25 12C14.25 12.966 11.452 13.75 8 13.75C4.548 13.75 1.75 12.966 1.75 12C1.75 11.034 4.548 10.25 8 10.25C11.452 10.25 14.25 11.034 14.25 12Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.75 10.5C5.25 8 6.25 5.5 7.5 3.75C8.25 2.75 9.75 2 10.5 2.25C9.9 3 10 4 10.3 5.25L11.25 10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.4 8.25C7 8.9 9.25 8.9 10.75 8.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

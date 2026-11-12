@@ -1,0 +1,18 @@
+{
+  "name": "paper-bag",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27637",
+  "compare": {
+    "carbon": "shopping-bag",
+    "fluent": "shopping-bag",
+    "heroicons": "shopping-bag",
+    "lucide": "paper-bag",
+    "material": "shopping-bag",
+    "octicons": false,
+    "phosphor": "bag",
+    "radix": false,
+    "sf": "bag",
+    "tabler": "paper-bag"
+  }
+}

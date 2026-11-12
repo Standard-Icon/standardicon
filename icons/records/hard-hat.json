@@ -1,0 +1,17 @@
+{
+  "name": "hard-hat",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26641",
+  "looks": "A construction helmet with a domed top, a center ridge, and a flat brim.",
+  "use": "Use for construction, safety gear, or work in progress.",
+  "compare": {
+    "fluent": false,
+    "iconic": false,
+    "lucide": "hard-hat",
+    "material": false,
+    "phosphor": "hard-hat",
+    "sf": false,
+    "tabler": false
+  }
+}

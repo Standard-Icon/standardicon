@@ -1,0 +1,18 @@
+{
+  "name": "embedding",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:54012",
+  "keywords": [
+    "ai",
+    "vector"
+  ],
+  "compare": {
+    "carbon": "chart-scatter",
+    "lucide": "chart-scatter",
+    "phosphor": "chart-scatter",
+    "tabler": "chart-scatter"
+  }
+}

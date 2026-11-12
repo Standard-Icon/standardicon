@@ -1,0 +1,26 @@
+{
+  "name": "arrow-down",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "21:1310",
+  "looks": "A thin straight arrow pointing down.",
+  "use": "Use for down, scroll down, or a decrease.",
+  "keywords": [
+    "south",
+    "descend"
+  ],
+  "compare": {
+    "carbon": "arrow-down",
+    "fluent": "arrow-down",
+    "heroicons": "arrow-down",
+    "lucide": "arrow-down",
+    "material": "arrow-downward",
+    "octicons": "arrow-down",
+    "phosphor": "arrow-down",
+    "radix": "arrow-down",
+    "sf": "arrow.down",
+    "tabler": "arrow-down"
+  }
+}

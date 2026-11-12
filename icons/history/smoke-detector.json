@@ -1,0 +1,11 @@
+{
+ "name": "smoke-detector",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2.5 2.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 2.5V4.5C3.5 5.6 4.4 6.5 5.5 6.5H10.5C11.6 6.5 12.5 5.6 12.5 4.5V2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 9C4.25 10 5.75 11.5 5 13.5M8 9C7.25 10 8.75 11.5 8 13.5M11 9C10.25 10 11.75 11.5 11 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

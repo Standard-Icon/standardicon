@@ -1,0 +1,16 @@
+{
+  "name": "hanger",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:22020",
+  "looks": "A clothes hanger with a hook on top and a triangular body.",
+  "use": "Use for clothing, wardrobe, or closet.",
+  "compare": {
+    "fluent": "clothes-hanger",
+    "phosphor": "coat-hanger",
+    "sf": "hanger",
+    "tabler": "hanger"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "flow-horizontal",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"6\" width=\"3.5\" height=\"4\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"10\" y=\"2.5\" width=\"3.5\" height=\"3.5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"10\" y=\"10\" width=\"3.5\" height=\"3.5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6 8H8V4.25H10M8 8V11.75H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "tax",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7691",
+  "looks": "A receipt with a zigzag bottom edge and a percent sign on it.",
+  "use": "Use for tax, receipts with tax, or percentages.",
+  "keywords": [
+    "vat",
+    "finance"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "lucide": false,
+    "tabler": "tax"
+  }
+}

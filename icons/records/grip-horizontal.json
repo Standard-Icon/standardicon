@@ -1,0 +1,28 @@
+{
+  "name": "grip-horizontal",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "21:1796",
+  "looks": "Six dots in two rows of three.",
+  "use": "Use for a drag handle on a horizontal item.",
+  "keywords": [
+    "handle",
+    "drag"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "grip-horizontal",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "grip-horizontal"
+  }
+}

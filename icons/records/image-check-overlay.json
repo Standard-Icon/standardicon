@@ -1,0 +1,17 @@
+{
+  "name": "image-check-overlay",
+  "status": "active",
+  "parent": "image",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:19416",
+  "looks": "A picture frame with mountains and a sun, and a small rounded square holding a check overlapping its lower right.",
+  "use": "Use for an approved or verified image.",
+  "formerNames": [
+    "image-check"
+  ],
+  "compare": {
+    "sf": "photo.badge.checkmark"
+  }
+}

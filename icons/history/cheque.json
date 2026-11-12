@@ -1,0 +1,11 @@
+{
+ "name": "cheque",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2\" y=\"4\" width=\"12\" height=\"8\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.5 9.5C5.5 8 6 8 6.5 9C7 10 7.5 10 8.5 9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 9.5H11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 6.5H8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

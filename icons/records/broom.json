@@ -1,0 +1,11 @@
+{
+  "name": "broom",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26250",
+  "compare": {
+    "fluent": "broom",
+    "lucide": "broom",
+    "phosphor": "broom"
+  }
+}

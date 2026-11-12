@@ -1,0 +1,11 @@
+{
+ "name": "sunset",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2 11.5H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 11.5C4.5 10.572 4.869 9.682 5.525 9.025C6.181 8.369 7.072 8 8 8C8.928 8 9.819 8.369 10.475 9.025C11.131 9.682 11.5 10.572 11.5 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2.5V5.5M9.5 4L8 5.5L6.5 4\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.75 7.25L3.75 8.25M13.25 7.25L12.25 8.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 13.5H11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

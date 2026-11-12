@@ -1,0 +1,32 @@
+{
+  "name": "apps",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "21:1919",
+  "looks": "Nine dots in a three by three grid.",
+  "use": "Use for an app launcher, all apps, or more tools.",
+  "keywords": [
+    "grid",
+    "launcher",
+    "waffle"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T19:15:35.669Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "apps",
+    "fluent": "apps",
+    "heroicons": "squares-2x2",
+    "lucide": "layout-grid-circles",
+    "material": "apps",
+    "octicons": "apps",
+    "phosphor": "squares-four",
+    "sf": "apps.ipad",
+    "tabler": "apps"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "api",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4752",
+  "looks": "A rounded square with a short line sticking out from the middle of each side.",
+  "use": "Use for APIs, endpoints, or integrations.",
+  "keywords": [
+    "endpoint",
+    "integration"
+  ],
+  "compare": {
+    "carbon": "api",
+    "lucide": false,
+    "material": "api",
+    "tabler": "api"
+  }
+}

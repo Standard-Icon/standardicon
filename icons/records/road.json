@@ -1,0 +1,25 @@
+{
+  "name": "road",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "maps",
+  "figmaId": "59:22496",
+  "looks": "Two lines narrowing toward the top with a dashed center line between them.",
+  "use": "Use for roads, driving, or a journey.",
+  "keywords": [
+    "street",
+    "highway",
+    "route",
+    "drive"
+  ],
+  "compare": {
+    "carbon": "road",
+    "fluent": "road-cone",
+    "lucide": "road",
+    "material": "road",
+    "phosphor": "road-horizon",
+    "sf": "road.lanes",
+    "tabler": "road"
+  }
+}

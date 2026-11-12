@@ -1,0 +1,23 @@
+{
+  "name": "map-pinned",
+  "status": "active",
+  "parent": "map-pin",
+  "canonical": "map-pin",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:24212",
+  "looks": "A location pin standing over a flat trapezoid of ground.",
+  "use": "Use for a pinned place, a destination, or a local area.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "map-pinned",
+    "material": false,
+    "phosphor": "map-pin",
+    "sf": false,
+    "tabler": "map-pinned"
+  }
+}

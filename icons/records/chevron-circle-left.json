@@ -1,0 +1,28 @@
+{
+  "name": "chevron-circle-left",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Chevrons and carets",
+  "figmaId": "27:3630",
+  "looks": "A left chevron inside a circle.",
+  "use": "Use for previous, back, or scroll left.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.428Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "chevron-circle-left",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle-chevron-left",
+    "material": false,
+    "octicons": false,
+    "phosphor": "caret-circle-left",
+    "radix": false,
+    "sf": "chevron.left.circle",
+    "tabler": "circle-chevron-left"
+  }
+}

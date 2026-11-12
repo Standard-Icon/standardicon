@@ -1,0 +1,17 @@
+{
+ "name": "pound",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M11.5 5C11.5 4.271 11.21 3.571 10.695 3.055C10.179 2.54 9.479 2.25 8.75 2.25C8.021 2.25 7.321 2.54 6.805 3.055C6.29 3.571 6 4.271 6 5V10C6 11.25 5.5 12 4.5 13H12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 8H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M11 5.5C11 4.771 10.71 4.071 10.195 3.555C9.679 3.04 8.979 2.75 8.25 2.75C7.521 2.75 6.821 3.04 6.305 3.555C5.79 4.071 5.5 4.771 5.5 5.5V10.5C5.5 11.75 5 12.5 4 13.5H11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 8.5H9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

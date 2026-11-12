@@ -1,0 +1,26 @@
+{
+  "name": "radio-selected",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "figmaId": "23:2015",
+  "looks": "A circle with a solid filled dot in the center.",
+  "use": "Use for a selected radio button or a chosen option.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.493Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "radio-button-checked",
+    "fluent": "radio-button",
+    "heroicons": false,
+    "lucide": "circle-dot",
+    "material": "radio-button-checked",
+    "phosphor": "radio",
+    "sf": false,
+    "tabler": "circle-dot"
+  }
+}

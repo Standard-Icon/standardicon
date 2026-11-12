@@ -1,0 +1,17 @@
+{
+ "name": "ring",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M11.15 9.5C11.15 10.335 10.82 11.137 10.23 11.728C9.64 12.319 8.84 12.651 8 12.651C7.16 12.651 6.36 12.319 5.77 11.728C5.18 11.137 4.85 10.335 4.85 9.5C4.85 8.664 5.18 7.863 5.77 7.272C6.36 6.681 7.16 6.349 8 6.349C8.84 6.349 9.64 6.681 10.23 7.272C10.82 7.863 11.15 8.664 11.15 9.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 6L5.75 4.225L7 2.895H9L10.25 4.225L9.5 6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M11.552 9.948C11.552 10.89 11.178 11.794 10.512 12.46C9.846 13.126 8.942 13.501 8 13.501C7.058 13.501 6.154 13.126 5.488 12.46C4.822 11.794 4.447 10.89 4.447 9.948C4.447 9.006 4.822 8.102 5.488 7.436C6.154 6.77 7.058 6.395 8 6.395C8.942 6.395 9.846 6.77 10.512 7.436C11.178 8.102 11.552 9.006 11.552 9.948Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.308 6.002L5.463 4.001L6.872 2.5H9.127L10.537 4.001L9.691 6.002\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

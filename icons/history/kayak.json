@@ -1,0 +1,11 @@
+{
+ "name": "kayak",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2.5 13.5C3 9 9 3 13.5 2.5C13 7 7 13 2.5 13.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.25 3.25L5.25 5.25M10.75 10.75L12.75 12.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2 4.5L4.5 2M11.5 14L14 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"8\" r=\"0.75\" fill=\"currentColor\"/>"
+  }
+ ]
+}

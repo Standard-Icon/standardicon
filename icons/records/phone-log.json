@@ -1,0 +1,21 @@
+{
+  "name": "phone-log",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27740",
+  "looks": "A telephone handset with two short horizontal lines at the upper right, like a list.",
+  "use": "Use for call history, recent calls, or a call log.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "phone-log",
+    "material": "call-log",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

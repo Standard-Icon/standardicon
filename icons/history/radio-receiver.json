@@ -1,0 +1,11 @@
+{
+ "name": "radio-receiver",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"2\" y=\"5.5\" width=\"12\" height=\"8\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.5 5.5L11 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.5 9.5C12.5 10.03 12.289 10.539 11.914 10.914C11.539 11.289 11.03 11.5 10.5 11.5C9.97 11.5 9.461 11.289 9.086 10.914C8.711 10.539 8.5 10.03 8.5 9.5C8.5 8.97 8.711 8.461 9.086 8.086C9.461 7.711 9.97 7.5 10.5 7.5C11.03 7.5 11.539 7.711 11.914 8.086C12.289 8.461 12.5 8.97 12.5 9.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 8.5H7M4.5 10.5H7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

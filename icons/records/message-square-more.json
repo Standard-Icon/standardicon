@@ -1,0 +1,12 @@
+{
+  "name": "message-square-more",
+  "status": "dropped",
+  "coveredBy": "message-dots",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "Not drawn: message-dots already does this."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "bluetooth-connected",
+  "status": "active",
+  "parent": "bluetooth",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:24079",
+  "looks": "A Bluetooth rune with a small dot to the right.",
+  "use": "Use for a connected Bluetooth device.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": "bluetooth-connected",
+    "material": "bluetooth-connected",
+    "phosphor": "bluetooth-connected",
+    "tabler": "bluetooth-connected"
+  }
+}

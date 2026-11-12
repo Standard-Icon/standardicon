@@ -1,0 +1,23 @@
+{
+  "name": "cloud-x-overlay",
+  "status": "active",
+  "parent": "cloud",
+  "canonical": "cloud",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "data",
+  "figmaId": "56:21883",
+  "looks": "A cloud with an x in a rounded square at the lower right.",
+  "use": "Use for a failed sync, cloud error, or removing from the cloud.",
+  "formerNames": [
+    "cloud-x"
+  ],
+  "compare": {
+    "fluent": "cloud-dismiss",
+    "heroicons": false,
+    "phosphor": "cloud-x",
+    "radix": false,
+    "sf": false,
+    "tabler": "cloud-x"
+  }
+}

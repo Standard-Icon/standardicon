@@ -1,0 +1,11 @@
+{
+ "name": "credit-card-off",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M2 11.525C2 11.517 2 11.508 2 11.5V4.5C2 3.948 2.448 3.5 3 3.5H10.025M14 4.475C14 4.483 14 4.492 14 4.5V11.5C14 12.052 13.552 12.5 13 12.5H5.975\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2 6.5H7.025M11.975 6.5H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13L13 3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

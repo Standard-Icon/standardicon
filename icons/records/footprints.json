@@ -1,0 +1,19 @@
+{
+  "name": "footprints",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27768",
+  "looks": "Two upright footprints side by side, each with an oval sole and a small ring heel.",
+  "use": "Use for walking, steps, tracking, or footprints.",
+  "approved": {
+    "at": "2026-11-12T01:54:28.661Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "footprints",
+    "phosphor": "footprints"
+  }
+}

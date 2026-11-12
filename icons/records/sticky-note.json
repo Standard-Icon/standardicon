@@ -1,0 +1,20 @@
+{
+  "name": "sticky-note",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "files",
+  "figmaId": "59:21489",
+  "looks": "A square note with its lower right corner folded up.",
+  "use": "Use for sticky notes, memos, or quick notes.",
+  "compare": {
+    "fluent": "note",
+    "heroicons": false,
+    "lucide": "sticky-note",
+    "material": "sticky-note-2",
+    "octicons": "note",
+    "phosphor": "note",
+    "sf": false,
+    "tabler": "note"
+  }
+}

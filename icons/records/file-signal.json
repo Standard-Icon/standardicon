@@ -1,0 +1,20 @@
+{
+  "name": "file-signal",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25348",
+  "looks": "A file with a folded top right corner and four rising signal bars inside.",
+  "use": "Use for signal strength logs or connectivity data files.",
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "file-signal",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "file-signal"
+  }
+}

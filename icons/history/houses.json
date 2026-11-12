@@ -1,0 +1,11 @@
+{
+ "name": "houses",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M1.593 8.536L6.043 4.896L10.493 8.536\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14.407 7.464L9.957 3.824L7.386 5.909\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.812 7.726V11.426C2.812 11.836 3.152 12.176 3.562 12.176H8.522C8.932 12.176 9.272 11.836 9.272 11.426V7.726\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.186 6.654V10.354C13.186 10.764 12.846 11.104 12.436 11.104H9.491\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.022 12.176V9.346H7.052V12.176\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "text-color",
+  "status": "active",
+  "canonical": "letter-a",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6002",
+  "looks": "A capital A above a rounded bar.",
+  "use": "Use for text color or font color.",
+  "keywords": [
+    "font color",
+    "format"
+  ],
+  "compare": {
+    "carbon": "text-color",
+    "fluent": "text-color",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "format-color-text",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "text-color"
+  }
+}

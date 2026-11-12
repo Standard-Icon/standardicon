@@ -1,0 +1,18 @@
+{
+  "name": "gpu",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:3009",
+  "looks": "A graphics card with a small square and a round fan on its face and connector teeth below.",
+  "use": "Use for graphics cards, GPU compute, or rendering.",
+  "keywords": [
+    "graphics card"
+  ],
+  "compare": {
+    "lucide": "gpu",
+    "sf": false,
+    "tabler": "gpu"
+  }
+}

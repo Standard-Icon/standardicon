@@ -1,0 +1,23 @@
+{
+  "name": "chevrons-up-circle",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24000",
+  "looks": "A circle with two stacked up chevrons inside.",
+  "use": "Use for scrolling up, collapsing, or jumping to the top.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.479Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle-chevrons-up",
+    "material": false,
+    "phosphor": "caret-circle-double-up",
+    "sf": false,
+    "tabler": "circle-chevrons-up"
+  }
+}

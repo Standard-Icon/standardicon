@@ -1,0 +1,21 @@
+{
+  "name": "select-all",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3698",
+  "looks": "A dashed rounded square around a small solid-edged square in the center.",
+  "use": "Use for select all or select everything in view.",
+  "compare": {
+    "carbon": false,
+    "fluent": "select-all-on",
+    "lucide": "box-select",
+    "material": "select-all",
+    "octicons": false,
+    "phosphor": "selection-all",
+    "radix": false,
+    "sf": false,
+    "tabler": "select-all"
+  }
+}

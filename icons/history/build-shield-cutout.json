@@ -1,0 +1,11 @@
+{
+ "name": "build-shield-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M13.5 7.8V4C13.5 3.448 13.052 3 12.5 3H3.5C2.948 3 2.5 3.448 2.5 4V12C2.5 12.552 2.948 13 3.5 13H7.663\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 6.33H13.5M5.25 6.33V9.67H2.5M8 6.33V3M10.75 6.33V7.582M5.25 9.67H8V9.712\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.75 9.5L13.75 10.25V11.75C13.75 12.85 12.95 13.65 11.75 14C10.55 13.65 9.75 12.85 9.75 11.75V10.25L11.75 9.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

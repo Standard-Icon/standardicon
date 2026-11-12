@@ -1,0 +1,17 @@
+{
+ "name": "plane-ticket",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"1.5\" y=\"3.5\" width=\"13\" height=\"9\" rx=\"1.5\" stroke=\"currentColor\"/><path d=\"M10.5 3.5V12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.75 8H8.5M3.75 6.9L4.5 8L3.75 9.1M5.25 5.75L6.75 8L5.25 10.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T23:46:29.485Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"1.5\" y=\"3.5\" width=\"13\" height=\"9\" rx=\"1.5\" stroke=\"currentColor\"/><path d=\"M11.58 3.5V12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.42 8H9.17M4.42 6.9L5.17 8L4.42 9.1M5.92 5.75L7.42 8L5.92 10.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

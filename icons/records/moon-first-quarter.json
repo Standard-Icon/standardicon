@@ -1,0 +1,18 @@
+{
+  "name": "moon-first-quarter",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20497",
+  "looks": "A circle split down the middle with a small curved arc on its right half.",
+  "use": "Use for the first quarter moon phase.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.278Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "sf": "moonphase.first.quarter"
+  }
+}

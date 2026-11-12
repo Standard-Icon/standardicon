@@ -1,0 +1,17 @@
+{
+  "name": "hard-drive",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:2931",
+  "looks": "A rounded box split by a horizontal line, with a dash and a dot in the lower section.",
+  "use": "Use for hard drives, local storage, or disks.",
+  "fillApproved": true,
+  "compare": {
+    "fluent": "hard-drive",
+    "lucide": "hard-drive",
+    "material": "hard-drive",
+    "phosphor": "hard-drive"
+  }
+}

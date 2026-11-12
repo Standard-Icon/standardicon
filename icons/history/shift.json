@@ -1,0 +1,17 @@
+{
+ "name": "shift",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M8 3.213L12.543 7.343C12.881 7.65 12.664 8.213 12.207 8.213H10.253V12.787H5.747V8.213H3.793C3.336 8.213 3.119 7.65 3.457 7.343L8 3.213Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 2.5L13.22 7.245C13.608 7.598 13.358 8.244 12.833 8.244H10.588V13.5H5.412V8.244H3.168C2.642 8.244 2.393 7.598 2.781 7.245L8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

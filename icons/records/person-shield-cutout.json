@@ -1,0 +1,15 @@
+{
+  "name": "person-shield-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28218",
+  "looks": "A person's head and shoulders with a small shield at the lower right.",
+  "use": "Use for user security, admins, or protected accounts.",
+  "compare": {
+    "fluent": "person-shield",
+    "lucide": "shield-user",
+    "material": "person-shield",
+    "sf": false,
+    "tabler": "user-shield"
+  }
+}

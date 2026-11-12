@@ -1,0 +1,24 @@
+{
+  "name": "key",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Security and access",
+  "figmaId": "23:2368",
+  "keywords": [
+    "password",
+    "access",
+    "auth"
+  ],
+  "compare": {
+    "carbon": "key",
+    "fluent": "key",
+    "heroicons": "key",
+    "lucide": "key",
+    "material": "key",
+    "octicons": "key",
+    "phosphor": "key",
+    "sf": "key",
+    "tabler": "key"
+  }
+}

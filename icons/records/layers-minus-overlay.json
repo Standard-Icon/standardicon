@@ -1,0 +1,19 @@
+{
+  "name": "layers-minus-overlay",
+  "status": "active",
+  "parent": "layers",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "56:22273",
+  "formerNames": [
+    "layers-minus"
+  ],
+  "compare": {
+    "lucide": "layers-minus",
+    "octicons": "stack-remove",
+    "phosphor": "stack-minus",
+    "sf": false,
+    "tabler": "stack-minus"
+  }
+}

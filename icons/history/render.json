@@ -1,0 +1,11 @@
+{
+ "name": "render",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2\" y=\"4\" width=\"8\" height=\"8\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.5 4V12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 8H13.5M12 9.5L13.5 8L12 6.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

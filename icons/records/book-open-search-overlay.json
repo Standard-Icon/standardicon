@@ -1,0 +1,23 @@
+{
+  "name": "book-open-search-overlay",
+  "status": "active",
+  "parent": "book-open",
+  "canonical": "book-open",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:25644",
+  "looks": "An open book with a small rounded square holding a magnifying glass at the lower right.",
+  "use": "Use for searching docs, a dictionary, or a library.",
+  "formerNames": [
+    "book-open-search",
+    "book-search"
+  ],
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "book-search",
+    "phosphor": false,
+    "radix": false
+  }
+}

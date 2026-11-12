@@ -1,0 +1,12 @@
+{
+  "name": "between-horizontal-end",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:24029",
+  "looks": "Two stacked rounded rectangles with a small chevron pointing left at the right side.",
+  "use": "Use for inserting a row after or adding below.",
+  "compare": {
+    "lucide": "between-horizontal-end",
+    "sf": false
+  }
+}

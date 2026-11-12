@@ -1,0 +1,12 @@
+{
+  "name": "withdraw",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:27356",
+  "compare": {
+    "lucide": "banknote-arrow-down",
+    "phosphor": "hand-withdraw"
+  }
+}

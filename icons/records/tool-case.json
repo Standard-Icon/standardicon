@@ -1,0 +1,16 @@
+{
+  "name": "tool-case",
+  "status": "dropped",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21304",
+  "notes": [
+    {
+      "at": "2026-11-09",
+      "by": "morgan",
+      "text": "tool-case should be removed",
+      "issue": "tool-case-should-be-removed"
+    }
+  ]
+}

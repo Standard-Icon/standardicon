@@ -1,0 +1,11 @@
+{
+ "name": "book-open-plus-overlay",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M9.55 11.677C9.209 11.828 8.896 12.041 8.628 12.31L8 12.94L8 4.42C8 3.59 8.678 2.91 9.515 2.91L12.735 2.91C13.153 2.91 13.493 3.25 13.493 3.67L13.493 9.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.985 12.93L7.985 4.42C7.985 3.59 7.306 2.91 6.47 2.91L3.25 2.91C2.831 2.91 2.492 3.25 2.492 3.67L2.492 10.66C2.492 11.08 2.831 11.42 3.25 11.42L5.214 11.42C6.018 11.42 6.789 11.74 7.357 12.31L7.985 12.93Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.307 12.25H13.194M12.25 11.31V13.19\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

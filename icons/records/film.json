@@ -1,0 +1,20 @@
+{
+  "name": "film",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5677",
+  "looks": "A nearly square film frame with a row of sprocket holes down each side.",
+  "use": "Use for movies, film, or video libraries.",
+  "keywords": [
+    "movie",
+    "video"
+  ],
+  "compare": {
+    "heroicons": "film",
+    "lucide": "film",
+    "phosphor": "film-strip",
+    "sf": "film"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "settings-draft-a",
+  "status": "dropped",
+  "source": "later",
+  "compare": {
+    "heroicons": false,
+    "sf": false
+  }
+}

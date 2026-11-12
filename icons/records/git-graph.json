@@ -1,0 +1,20 @@
+{
+  "name": "git-graph",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "59:21841",
+  "looks": "A vertical line between two circles with a horizontal branch to a third circle on the right.",
+  "use": "Use for git history, commit graphs, or branches.",
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": "git-graph",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

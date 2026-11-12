@@ -1,0 +1,17 @@
+{
+ "name": "gantt",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2.5 2.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.25 3.5H8.75C8.816 3.5 8.88 3.526 8.927 3.573C8.974 3.62 9 3.684 9 3.75V5.25C9 5.316 8.974 5.38 8.927 5.427C8.88 5.474 8.816 5.5 8.75 5.5H4.25C4.184 5.5 4.12 5.474 4.073 5.427C4.026 5.38 4 5.316 4 5.25V3.75C4 3.684 4.026 3.62 4.073 3.573C4.12 3.526 4.184 3.5 4.25 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.25 7H11.75C11.816 7 11.88 7.026 11.927 7.073C11.974 7.12 12 7.184 12 7.25V8.75C12 8.816 11.974 8.88 11.927 8.927C11.88 8.974 11.816 9 11.75 9H6.25C6.184 9 6.12 8.974 6.073 8.927C6.026 8.88 6 8.816 6 8.75V7.25C6 7.184 6.026 7.12 6.073 7.073C6.12 7.026 6.184 7 6.25 7Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.25 10.5H12.75C12.816 10.5 12.88 10.526 12.927 10.573C12.974 10.62 13 10.684 13 10.75V12.25C13 12.316 12.974 12.38 12.927 12.427C12.88 12.474 12.816 12.5 12.75 12.5H9.25C9.184 12.5 9.12 12.474 9.073 12.427C9.026 12.38 9 12.316 9 12.25V10.75C9 10.684 9.026 10.62 9.073 10.573C9.12 10.526 9.184 10.5 9.25 10.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.5 2.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"4\" y=\"3.5\" width=\"5\" height=\"2\" rx=\"0.25\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"6\" y=\"7\" width=\"6\" height=\"2\" rx=\"0.25\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"9\" y=\"10.5\" width=\"4\" height=\"2\" rx=\"0.25\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

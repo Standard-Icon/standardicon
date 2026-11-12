@@ -1,0 +1,24 @@
+{
+  "name": "book-user",
+  "status": "active",
+  "parent": "book-closed",
+  "canonical": "book-closed",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24033",
+  "looks": "A closed book with a person's head and shoulders on its cover.",
+  "use": "Use for an address book, a biography, or a user guide.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "book-user",
+    "material": false,
+    "octicons": false,
+    "phosphor": "book-open-user",
+    "sf": false,
+    "tabler": false
+  }
+}

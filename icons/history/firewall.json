@@ -1,0 +1,17 @@
+{
+ "name": "firewall",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M8 2.5L12.5 4V8C12.5 10.8 10.6 12.7 8 13.5C5.4 12.7 3.5 10.8 3.5 8V4L8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5C8.25 6.25 10 7 10 8.75C10 9.28 9.789 9.789 9.414 10.164C9.039 10.539 8.53 10.75 8 10.75C7.47 10.75 6.961 10.539 6.586 10.164C6.211 9.789 6 9.28 6 8.75C6 8 6.4 7.5 6.75 7.1C7 7.6 7.25 7.75 7.5 7.85C7.75 7 7.6 5.9 8 5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M8 2.042L12.88 3.667V8C12.88 11.033 10.82 13.092 8 13.958C5.18 13.092 3.12 11.033 3.12 8V3.667L8 2.042Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.501C8.21 6.533 9.65 7.153 9.65 8.598C9.65 9.036 9.48 9.456 9.17 9.765C8.86 10.075 8.44 10.249 8 10.249C7.56 10.249 7.14 10.075 6.83 9.765C6.52 9.456 6.35 9.036 6.35 8.598C6.35 7.978 6.68 7.565 6.97 7.235C7.17 7.648 7.38 7.772 7.59 7.854C7.79 7.153 7.67 6.244 8 5.501Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

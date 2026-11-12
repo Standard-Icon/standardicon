@@ -1,0 +1,11 @@
+{
+ "name": "sailboat",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8.5 2.5L13 9.5H8.5V2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 4.5L3 9.5H6.5V4.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.5 9.5V11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 11.5H13.5C13.2 12.7 12.5 13.5 11.5 13.5H4.5C3.5 13.5 2.8 12.7 2.5 11.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "name": "ruler",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2.75 5.5H13.25C13.449 5.5 13.64 5.579 13.78 5.72C13.921 5.86 14 6.051 14 6.25V9.75C14 9.949 13.921 10.14 13.78 10.28C13.64 10.421 13.449 10.5 13.25 10.5H2.75C2.551 10.5 2.36 10.421 2.22 10.28C2.079 10.14 2 9.949 2 9.75V6.25C2 6.051 2.079 5.86 2.22 5.72C2.36 5.579 2.551 5.5 2.75 5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 5.5V7.5M7 5.5V8M9.5 5.5V7.5M12 5.5V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2\" y=\"5.5\" width=\"12\" height=\"5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.5 5.5V7.5M7 5.5V8M9.5 5.5V7.5M12 5.5V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M2.519 9.945L9.944 2.52C10.237 2.227 10.712 2.227 11.005 2.52L13.479 4.995C13.772 5.288 13.772 5.763 13.479 6.056L6.055 13.48C5.762 13.773 5.287 13.773 4.994 13.48L2.519 11.005C2.226 10.712 2.226 10.238 2.519 9.945Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.758 8.707L5.172 10.121M5.526 6.939L7.293 8.707M7.293 5.171L8.708 6.586M9.061 3.404L10.829 5.171\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

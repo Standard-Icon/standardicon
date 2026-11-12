@@ -1,0 +1,20 @@
+{
+  "name": "saturation",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:25447",
+  "looks": "A drop shape with its right half filled solid.",
+  "use": "Use for color saturation or a fluid drop.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-12T01:50:08.467Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": false,
+    "material": false
+  }
+}

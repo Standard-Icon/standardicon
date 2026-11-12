@@ -1,0 +1,11 @@
+{
+ "name": "send-diagonal",
+ "versions": [
+  {
+   "at": "2026-11-10T18:59:40.607Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.875 6.29L13.127 2.873L9.71 13.125L7.942 8.058L2.875 6.29Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.06 7.94L9.356 6.644\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

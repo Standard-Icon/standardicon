@@ -1,0 +1,29 @@
+{
+ "name": "screwdriver",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M10 2.5L13.5 6L11.5 8L8 4.5L10 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.75 6.25L4 12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 12L2.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T18:59:40.607Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M6.975 8.672L7.328 9.025C7.719 9.416 7.719 10.049 7.328 10.44L5.348 12.419C4.958 12.81 4.324 12.81 3.934 12.419L3.581 12.066C3.19 11.676 3.19 11.042 3.581 10.652L5.56 8.672C5.951 8.281 6.584 8.281 6.975 8.672Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.454 9.131L6.869 10.546\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.151 8.849L11.041 4.959\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.652 4.571L11.429 5.348L11.96 4.464L11.536 4.04L10.652 4.571Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M7.177 8.375L7.624 8.823C8.12 9.319 8.12 10.121 7.624 10.617L5.113 13.127C4.618 13.623 3.814 13.623 3.32 13.127L2.872 12.68C2.376 12.185 2.376 11.381 2.872 10.886L5.382 8.375C5.878 7.879 6.681 7.879 7.177 8.375Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.247 8.957L7.042 10.752\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.399 8.6L12.333 3.666\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.84 3.174L12.825 4.159L13.499 3.038L12.961 2.5L11.84 3.174Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T19:16:52.534Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M7.177 8.375L7.624 8.823C8.12 9.319 8.12 10.121 7.624 10.617L5.113 13.127C4.618 13.623 3.814 13.623 3.32 13.127L2.872 12.68C2.376 12.185 2.376 11.381 2.872 10.886L5.382 8.375C5.878 7.879 6.681 7.879 7.177 8.375Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.247 8.957L7.042 10.752\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.399 8.6L12.333 3.666\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.967 4.046L11.952 5.032L13.498 3.038L12.961 2.5L10.967 4.046Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

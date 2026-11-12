@@ -1,0 +1,26 @@
+{
+  "name": "calendar-month",
+  "status": "active",
+  "parent": "calendar",
+  "canonical": "calendar",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7242",
+  "looks": "A calendar page with two rings at the top and two rows of three dots in the body.",
+  "use": "Use for a month view or a monthly schedule.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": "calendar-month",
+    "heroicons": "calendar-days",
+    "iconic": false,
+    "lucide": "calendar-days",
+    "material": "calendar-month",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "calendar-month"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "mail-search-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M13.5 7.85V5C13.5 4.448 13.052 4 12.5 4H3.5C2.948 4 2.5 4.448 2.5 5V11C2.5 11.552 2.948 12 3.5 12H7.438\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.8 4.7L8 8.5L13.2 4.7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.379 11.44C13.379 11.954 13.175 12.448 12.811 12.811C12.448 13.175 11.954 13.379 11.44 13.379C10.925 13.379 10.432 13.175 10.068 12.811C9.704 12.448 9.5 11.954 9.5 11.44C9.5 10.925 9.704 10.432 10.068 10.068C10.432 9.704 10.925 9.5 11.44 9.5C11.954 9.5 12.448 9.704 12.811 10.068C13.175 10.432 13.379 10.925 13.379 11.44Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.836 12.836L14 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

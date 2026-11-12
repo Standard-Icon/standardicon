@@ -1,0 +1,20 @@
+{
+  "name": "ship",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7233",
+  "looks": "A boat hull with a small cabin on top and a flag flying from a mast.",
+  "use": "Use for ships, shipping, or sea travel.",
+  "keywords": [
+    "boat",
+    "cruise",
+    "sea"
+  ],
+  "compare": {
+    "fluent": "vehicle-ship",
+    "lucide": "ship",
+    "tabler": "ship"
+  }
+}

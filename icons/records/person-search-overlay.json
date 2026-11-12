@@ -1,0 +1,23 @@
+{
+  "name": "person-search-overlay",
+  "status": "active",
+  "parent": "person",
+  "canonical": "person",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:21319",
+  "formerNames": [
+    "person-search"
+  ],
+  "compare": {
+    "fluent": "person-search",
+    "heroicons": false,
+    "lucide": "user-search",
+    "material": "person-search",
+    "phosphor": false,
+    "radix": false,
+    "sf": "person.crop.badge.magnifyingglass",
+    "tabler": "user-search"
+  }
+}

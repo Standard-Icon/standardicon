@@ -1,0 +1,33 @@
+{
+  "name": "face-neutral",
+  "status": "active",
+  "canonical": "face",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:5086",
+  "looks": "A circle face with two dot eyes and a short straight mouth.",
+  "use": "Use for neutral mood, indifferent feedback, or a medium rating.",
+  "keywords": [
+    "emoji"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.059Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "face-neutral",
+    "fluent": "emoji-meh",
+    "heroicons": false,
+    "iconic": "emoji-neutral",
+    "lucide": "face-neutral",
+    "material": false,
+    "octicons": "smiley-neutral",
+    "phosphor": "smiley-meh",
+    "radix": false,
+    "sf": false,
+    "tabler": "mood-neutral"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "accessibility",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:5024",
+  "looks": "A person with arms out wide inside a circle.",
+  "use": "Use for accessibility settings and features.",
+  "keywords": [
+    "a11y"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:21.240Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "accessibility",
+    "fluent": "accessibility",
+    "lucide": "accessibility",
+    "material": "accessibility",
+    "octicons": "accessibility",
+    "radix": "accessibility",
+    "sf": "accessibility",
+    "tabler": "accessible"
+  },
+  "compareAlso": {
+    "octicons": [
+      "accessibility-inset"
+    ]
+  }
+}

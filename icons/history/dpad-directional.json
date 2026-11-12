@@ -1,0 +1,17 @@
+{
+ "name": "dpad-directional",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M6.05 2.44H9.95V6.05H13.56V9.95H9.95V13.56H6.05V9.95H2.44V6.05H6.05V2.44Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.25 5L8 4.25L8.75 5M7.25 11L8 11.75L8.75 11M5 7.25L4.25 8L5 8.75M11 7.25L11.75 8L11 8.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T23:46:29.485Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M9.339 2.877V5.356L7.999 6.583L6.66 5.356V2.877H7.999H9.339Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.339 13.123V10.644L7.999 9.417L6.66 10.644V13.123H7.999H9.339Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.877 6.661L5.356 6.661L6.583 8L5.356 9.339L2.877 9.339L2.877 8L2.877 6.661Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.123 6.661L10.644 6.661L9.417 8L10.644 9.339L13.123 9.339L13.123 8L13.123 6.661Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

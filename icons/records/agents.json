@@ -1,0 +1,19 @@
+{
+  "name": "agents",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:53898",
+  "looks": "Two overlapping rounded pills, the front one with two short vertical eyes.",
+  "use": "Use for multiple agents, a team of bots, or parallel assistants.",
+  "keywords": [
+    "ai",
+    "bots",
+    "multi agent"
+  ],
+  "compare": {
+    "fluent": "agents",
+    "tabler": "ai-agents"
+  }
+}

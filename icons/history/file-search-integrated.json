@@ -1,0 +1,19 @@
+{
+ "name": "file-search-integrated",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M4.14 1.858H9.65L12.96 5.208V13.025C12.96 13.321 12.85 13.605 12.64 13.815C12.43 14.024 12.15 14.142 11.86 14.142H4.14C3.85 14.142 3.57 14.024 3.36 13.815C3.16 13.605 3.04 13.321 3.04 13.025V2.975C3.04 2.679 3.16 2.395 3.36 2.185C3.57 1.976 3.85 1.858 4.14 1.858Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.22 2.028V4.665C9.22 5.217 9.66 5.665 10.22 5.665H12.81\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.4 8.981C9.4 9.446 9.21 9.891 8.88 10.219C8.56 10.547 8.11 10.731 7.65 10.731C7.18 10.731 6.74 10.547 6.41 10.219C6.08 9.891 5.9 9.446 5.9 8.981C5.9 8.517 6.08 8.072 6.41 7.744C6.74 7.416 7.18 7.231 7.65 7.231C8.11 7.231 8.56 7.416 8.88 7.744C9.21 8.072 9.4 8.517 9.4 8.981Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11.331L8.95 10.281\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  },
+  {
+   "at": "2026-11-10T08:37:50.294Z",
+   "source": "working copy",
+   "released": true,
+   "body": "<path d=\"M4.543 2.498H9.481L12.444 5.499V12.501C12.444 12.766 12.34 13.021 12.155 13.208C11.969 13.396 11.718 13.501 11.456 13.501H4.543C4.281 13.501 4.03 13.396 3.845 13.208C3.66 13.021 3.556 12.766 3.556 12.501V3.499C3.556 3.233 3.66 2.979 3.845 2.791C4.03 2.604 4.281 2.498 4.543 2.498Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.09 2.651V4.908C9.09 5.46 9.538 5.908 10.09 5.908H12.306\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.252 8.879C9.252 9.295 9.087 9.694 8.793 9.988C8.499 10.282 8.101 10.447 7.685 10.447C7.269 10.447 6.87 10.282 6.576 9.988C6.282 9.694 6.117 9.295 6.117 8.879C6.117 8.463 6.282 8.065 6.576 7.771C6.87 7.477 7.269 7.311 7.685 7.311C8.101 7.311 8.499 7.477 8.793 7.771C9.087 8.065 9.252 8.463 9.252 8.879Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.789 10.984L8.849 10.044\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

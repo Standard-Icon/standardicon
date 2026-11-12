@@ -1,0 +1,17 @@
+{
+  "name": "person-settings-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28258",
+  "looks": "A person's head and shoulders with a small gear at the lower right.",
+  "use": "Use for account or user settings.",
+  "compare": {
+    "carbon": "user-settings",
+    "fluent": "person-settings",
+    "heroicons": false,
+    "lucide": "user-cog",
+    "material": "manage-accounts",
+    "phosphor": "user-gear",
+    "sf": false
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "person-x",
+  "status": "active",
+  "parent": "person",
+  "canonical": "person",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:4723",
+  "compare": {
+    "carbon": false,
+    "fluent": "person-delete",
+    "heroicons": false,
+    "iconic": "user-cross",
+    "lucide": "user-x",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "person.crop.circle.badge.xmark",
+    "tabler": "user-x"
+  }
+}

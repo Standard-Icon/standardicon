@@ -1,0 +1,19 @@
+{
+  "name": "passport",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:4873",
+  "looks": "A rounded rectangle booklet with a circle and shoulders above a short line.",
+  "use": "Use for a passport, travel documents, or identity.",
+  "approved": {
+    "at": "2026-11-11T21:29:54.545Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "material": "passport",
+    "tabler": "e-passport"
+  }
+}

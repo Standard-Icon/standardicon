@@ -1,0 +1,11 @@
+{
+ "name": "fishing-rod",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2.5 13.5C5 9 9 4 13.5 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.5 2.5V10.5C13.5 11.33 12.83 12 12 12C11.17 12 10.5 11.33 10.5 10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"5.44\" cy=\"11.12\" r=\"1.25\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

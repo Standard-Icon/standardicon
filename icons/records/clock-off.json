@@ -1,0 +1,29 @@
+{
+  "name": "clock-off",
+  "status": "active",
+  "parent": "clock",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "56:21223",
+  "looks": "A clock face crossed by a diagonal line.",
+  "use": "Use for disabled timers or no time limit.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.958Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "alarm-clock-off",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "clock-off"
+  }
+}

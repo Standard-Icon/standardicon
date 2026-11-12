@@ -1,0 +1,14 @@
+{
+  "name": "unarchive",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3541",
+  "looks": "A storage box with a wider lid on top and an arrow pointing up inside it.",
+  "use": "Use for unarchive or move out of storage.",
+  "compare": {
+    "lucide": "archive-arrow-up",
+    "material": "unarchive"
+  }
+}

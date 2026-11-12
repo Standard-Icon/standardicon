@@ -1,0 +1,11 @@
+{
+ "name": "send-backward",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"7\" height=\"7\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M11.5 6.5H12.5C13.052 6.5 13.5 6.95 13.5 7.5V12.5C13.5 13.05 13.052 13.5 12.5 13.5H7.5C6.948 13.5 6.5 13.05 6.5 12.5V11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

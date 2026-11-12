@@ -1,0 +1,13 @@
+{
+  "name": "headlight",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:21107",
+  "looks": "A half round lamp on the right with three short horizontal beam lines to its left.",
+  "use": "Use for headlights, high beams, or car lighting.",
+  "compare": {
+    "sf": false
+  }
+}

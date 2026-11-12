@@ -1,0 +1,16 @@
+{
+  "name": "justify-center-vertical",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23159",
+  "compare": {
+    "carbon": "align-vertical-center",
+    "fluent": "align-center-vertical",
+    "lucide": "align-vertical-justify-center",
+    "material": "align-justify-center",
+    "phosphor": "align-center-vertical",
+    "sf": "align.vertical.center"
+  }
+}

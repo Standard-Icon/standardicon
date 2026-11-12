@@ -1,0 +1,18 @@
+{
+  "name": "broccoli",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19276",
+  "looks": "A broccoli floret with a bumpy rounded top on a short stalk.",
+  "use": "Use for vegetables, broccoli, or healthy eating.",
+  "approved": {
+    "at": "2026-11-12T19:39:47.368Z",
+    "by": "Morgan",
+    "version": "2026-11-10T23:46:29.485Z"
+  },
+  "compare": {
+    "lucide": "broccoli"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "heal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26044",
+  "looks": "A diagonal adhesive bandage with four small dots on its center pad.",
+  "use": "Use for healing tools, spot repair, or first aid.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "person-off",
+  "status": "active",
+  "parent": "person",
+  "canonical": "person",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "pick": "B",
+  "figmaId": "56:21361",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "person-off",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "person.slash",
+    "tabler": "user-off"
+  }
+}

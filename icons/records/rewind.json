@@ -1,0 +1,25 @@
+{
+  "name": "rewind",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "solid": "needed",
+  "figmaId": "34:5328",
+  "looks": "Two left-pointing triangles side by side.",
+  "use": "Use for rewinding or going back in playback.",
+  "keywords": [
+    "seek",
+    "back"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "rewind",
+    "heroicons": "backward",
+    "lucide": "rewind",
+    "material": "fast-rewind",
+    "phosphor": "rewind",
+    "sf": "backward",
+    "tabler": false
+  }
+}

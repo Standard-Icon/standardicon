@@ -1,0 +1,11 @@
+{
+ "name": "white-balance",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2\" y=\"4\" width=\"12\" height=\"8\" rx=\"1.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4 6L4.75 10L5.75 7.5L6.75 10L7.5 6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9 8H10.5C11.2 8 11.6 7.6 11.6 7C11.6 6.4 11.2 6 10.5 6H9V10H10.75C11.5 10 12 9.5 12 8.9C12 8.3 11.5 8 10.75 8H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

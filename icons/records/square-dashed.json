@@ -1,0 +1,23 @@
+{
+  "name": "square-dashed",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:23857",
+  "looks": "A rounded square drawn with dashed lines.",
+  "use": "Use for a placeholder, empty area, or selection.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "square-dashed",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "square.dashed",
+    "tabler": "square-dashed"
+  }
+}

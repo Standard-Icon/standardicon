@@ -1,0 +1,14 @@
+{
+  "name": "book-open-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28396",
+  "looks": "An open book with a small minus sign cut into the lower right.",
+  "use": "Use for removing a book or a lesson.",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "book-minus",
+    "phosphor": false
+  }
+}

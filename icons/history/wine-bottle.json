@@ -1,0 +1,11 @@
+{
+ "name": "wine-bottle",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M6.953 1.5H9.049V4.5C9.049 5.75 10.447 6.25 10.447 8V13.5C10.447 14.05 10.133 14.5 9.748 14.5H6.254C5.869 14.5 5.555 14.05 5.555 13.5V8C5.555 6.25 6.953 5.75 6.953 4.5V1.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.629 8.064H10.371M5.629 12.14H10.371\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

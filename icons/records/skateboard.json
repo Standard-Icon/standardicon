@@ -1,0 +1,12 @@
+{
+  "name": "skateboard",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21733",
+  "compare": {
+    "sf": "skateboard",
+    "tabler": "skateboard"
+  }
+}

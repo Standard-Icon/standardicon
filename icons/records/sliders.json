@@ -1,0 +1,27 @@
+{
+  "name": "sliders",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Settings and controls",
+  "figmaId": "12:1416",
+  "looks": "Two horizontal lines, each with a round knob, the knobs at different positions.",
+  "use": "Use for filters, adjustments, or settings.",
+  "keywords": [
+    "controls",
+    "adjust",
+    "tune"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.620Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "lucide": "sliders",
+    "material": "sliders",
+    "octicons": "sliders",
+    "phosphor": "sliders",
+    "sf": "slider.horizontal.3"
+  }
+}

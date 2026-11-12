@@ -1,0 +1,13 @@
+{
+  "name": "squircle",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "58:21851",
+  "looks": "A smooth shape between a square and a circle, with very round corners.",
+  "use": "Use for a squircle or an app icon shape.",
+  "compare": {
+    "lucide": "squircle"
+  }
+}

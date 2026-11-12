@@ -1,0 +1,16 @@
+{
+  "name": "shower",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24772",
+  "looks": "A pipe rising and bending over to a domed shower head with drops falling below.",
+  "use": "Use for a shower, a bathroom, or washing.",
+  "compare": {
+    "lucide": "shower-head",
+    "material": "shower",
+    "phosphor": "shower",
+    "sf": "shower"
+  }
+}

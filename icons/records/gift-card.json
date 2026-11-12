@@ -1,0 +1,23 @@
+{
+  "name": "gift-card",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:22194",
+  "looks": "A wide rounded card with a ribbon and bow drawn across its left half.",
+  "use": "Use for gift cards, vouchers, or presents.",
+  "compare": {
+    "carbon": false,
+    "fluent": "gift-card",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "gift-card"
+  }
+}

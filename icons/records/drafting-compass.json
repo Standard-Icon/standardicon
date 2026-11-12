@@ -1,0 +1,20 @@
+{
+  "name": "drafting-compass",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "60:22062",
+  "looks": "A drafting compass with two legs spread apart from a small ring at the top, joined by an arc.",
+  "use": "Use for geometry, drafting, or design tools.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "drafting-compass",
+    "material": false,
+    "phosphor": "compass-tool",
+    "sf": "compass.drawing",
+    "tabler": false
+  }
+}

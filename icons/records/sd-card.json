@@ -1,0 +1,25 @@
+{
+  "name": "sd-card",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8523",
+  "keywords": [
+    "memory card",
+    "storage"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "sd-card",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "device-sd-card"
+  }
+}

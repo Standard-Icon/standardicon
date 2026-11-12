@@ -1,0 +1,20 @@
+{
+  "name": "prescription",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:26924",
+  "looks": "The letters R and x, with the leg of the R crossing into the x.",
+  "use": "Use for a prescription, medicine orders, or pharmacy.",
+  "approved": {
+    "at": "2026-11-11T19:15:36.344Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "lucide": "pill",
+    "phosphor": "prescription",
+    "tabler": "prescription"
+  }
+}

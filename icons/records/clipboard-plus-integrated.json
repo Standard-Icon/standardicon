@@ -1,0 +1,21 @@
+{
+  "name": "clipboard-plus-integrated",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24283",
+  "looks": "A clipboard with a clip at the top and a plus drawn into its body.",
+  "use": "Use for adding to a list or creating a new form.",
+  "formerNames": [
+    "clipboard-plus"
+  ],
+  "approved": {
+    "at": "2026-11-10T22:31:37.222Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "clipboard-plus",
+    "sf": false,
+    "tabler": "clipboard-plus"
+  }
+}

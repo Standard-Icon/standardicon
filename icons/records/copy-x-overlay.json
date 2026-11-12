@@ -1,0 +1,21 @@
+{
+  "name": "copy-x-overlay",
+  "status": "active",
+  "parent": "copy",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:19877",
+  "looks": "Two overlapping rounded squares with an x inside a small rounded square at the lower right.",
+  "use": "Use for a failed copy or deleting a duplicate.",
+  "formerNames": [
+    "copy-x"
+  ],
+  "compare": {
+    "heroicons": false,
+    "lucide": "copy-x",
+    "radix": false,
+    "sf": false,
+    "tabler": "copy-x"
+  }
+}

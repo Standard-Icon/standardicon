@@ -1,0 +1,11 @@
+{
+ "name": "highlighter",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M5.554 8.512L8.14 11.098C8.53 11.489 9.163 11.489 9.554 11.098L13.14 7.512C13.53 7.122 13.53 6.489 13.14 6.098L10.554 3.512C10.163 3.122 9.53 3.122 9.14 3.512L5.554 7.098C5.163 7.489 5.163 8.122 5.554 8.512Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.308 11.432L6.84 12.882C6.654 13.065 6.404 13.169 6.144 13.17L2.759 13.192C2.482 13.193 2.256 12.969 2.256 12.692V11.504C2.256 11.374 2.306 11.249 2.397 11.156L5.189 8.279\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.794 13.195H13.563\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

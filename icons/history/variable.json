@@ -1,0 +1,11 @@
+{
+ "name": "variable",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4.5 3C2.8 5.5 2.8 10.5 4.5 13M11.5 3C13.2 5.5 13.2 10.5 11.5 13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 6L10 10M10 6L6 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

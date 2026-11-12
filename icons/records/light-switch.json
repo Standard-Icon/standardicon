@@ -1,0 +1,23 @@
+{
+  "name": "light-switch",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22334",
+  "looks": "A rounded wall plate with a small rocker switch in the middle.",
+  "use": "Use for light switches or toggling lights.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

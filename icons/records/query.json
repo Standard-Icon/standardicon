@@ -1,0 +1,21 @@
+{
+  "name": "query",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:3298",
+  "looks": "A database cylinder with a magnifying glass at its lower right.",
+  "use": "Use for database queries or searching data.",
+  "approved": {
+    "at": "2026-11-11T19:15:36.357Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "query",
+    "lucide": false,
+    "material": "query-stats",
+    "tabler": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "return-box",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7748",
+  "looks": "A box with a lid line across the top and a left-pointing arrow on its front.",
+  "use": "Use for returning a package or product returns.",
+  "keywords": [
+    "returns",
+    "package"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

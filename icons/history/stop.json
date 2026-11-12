@@ -1,0 +1,24 @@
+{
+ "name": "stop",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M2.8 3.8C2.8 3.358 3.158 3 3.6 3H12C12.442 3 12.8 3.358 12.8 3.8V12.2C12.8 12.642 12.442 13 12 13H3.6C3.158 13 2.8 12.642 2.8 12.2V3.8Z\" fill=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"3.5\" y=\"3.5\" width=\"9\" height=\"9\" rx=\"1.5\" stroke=\"currentColor\"/>",
+   "solidParts": true
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"1.83333\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

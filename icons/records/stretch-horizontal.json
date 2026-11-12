@@ -1,0 +1,21 @@
+{
+  "name": "stretch-horizontal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23618",
+  "compare": {
+    "carbon": false,
+    "fluent": "align-stretch-horizontal",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "stretch-horizontal",
+    "material": "align-stretch",
+    "octicons": false,
+    "phosphor": false,
+    "radix": "stretch-horizontally",
+    "sf": false,
+    "tabler": false
+  }
+}

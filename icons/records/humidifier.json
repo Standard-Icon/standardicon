@@ -1,0 +1,11 @@
+{
+  "name": "humidifier",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22281",
+  "compare": {
+    "sf": "humidifier"
+  }
+}

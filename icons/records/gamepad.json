@@ -1,0 +1,16 @@
+{
+  "name": "gamepad",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21883",
+  "looks": "A wide rounded controller with a plus on the left and two dots on the right.",
+  "use": "Use for gaming, games, or controllers.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": "gamepad",
+    "material": "gamepad",
+    "tabler": "device-gamepad"
+  }
+}

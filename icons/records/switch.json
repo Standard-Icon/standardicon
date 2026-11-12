@@ -1,0 +1,25 @@
+{
+  "name": "switch",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Settings and controls",
+  "figmaId": "12:536",
+  "looks": "Two horizontal arrows stacked, the top pointing right and the bottom pointing left.",
+  "use": "Use for switch, swap sides, or transfer.",
+  "keywords": [
+    "swap",
+    "exchange"
+  ],
+  "compare": {
+    "carbon": "switch",
+    "fluent": false,
+    "lucide": "arrow-left-right",
+    "material": "switch",
+    "octicons": "arrow-switch",
+    "phosphor": false,
+    "radix": "switch",
+    "sf": false,
+    "tabler": "switch-horizontal"
+  }
+}

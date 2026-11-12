@@ -1,0 +1,14 @@
+{
+  "name": "package-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29009",
+  "looks": "A box with a taped lid and a small x cut into its lower right corner.",
+  "use": "Use for removing a package, a failed delivery, or an uninstall.",
+  "compare": {
+    "heroicons": false,
+    "lucide": "package-x",
+    "radix": false,
+    "sf": false
+  }
+}

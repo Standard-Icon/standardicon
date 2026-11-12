@@ -1,0 +1,21 @@
+{
+  "name": "images",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5656",
+  "looks": "Two overlapping pictures of a sun and mountains, the front one up and to the right.",
+  "use": "Use for galleries, albums, or multiple photos.",
+  "keywords": [
+    "photos",
+    "gallery"
+  ],
+  "compare": {
+    "carbon": false,
+    "lucide": "images",
+    "material": false,
+    "phosphor": "images",
+    "sf": "photo.stack"
+  }
+}

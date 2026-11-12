@@ -1,0 +1,13 @@
+{
+  "name": "tickets",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "commerce",
+  "figmaId": "59:22387",
+  "looks": "Two tickets stacked at a diagonal, each with notched sides and a perforation line.",
+  "use": "Use for tickets, events, or admission.",
+  "compare": {
+    "lucide": "tickets"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "air-vent",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"4\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M5.5 4.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 8.5C5 10.5 3.5 11 3.5 13.5M8 8.5V13.5M11 8.5C11 10.5 12.5 11 12.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

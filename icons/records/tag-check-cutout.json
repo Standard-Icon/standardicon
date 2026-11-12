@@ -1,0 +1,12 @@
+{
+  "name": "tag-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "332:26874",
+  "looks": "A tilted price tag with a small check mark cut into its lower right corner.",
+  "use": "Use for a tag applied or a confirmed label.",
+  "fillApproved": true,
+  "compare": {
+    "sf": false
+  }
+}

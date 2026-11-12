@@ -1,0 +1,30 @@
+{
+  "name": "file-txt",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "255:18933",
+  "looks": "A page with a folded top right corner and the letters TXT on it.",
+  "use": "Use for plain text files.",
+  "compare": {
+    "carbon": "txt",
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": "file-txt",
+    "radix": false,
+    "sf": false,
+    "tabler": "file-type-txt"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "file type, label in Polymath Display Bold"
+    }
+  ]
+}

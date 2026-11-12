@@ -1,0 +1,17 @@
+{
+  "name": "d-pad",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24525",
+  "looks": "A plus-shaped directional pad with a dot in the center.",
+  "use": "Use for game controls, directions, or navigation.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

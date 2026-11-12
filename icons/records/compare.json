@@ -1,0 +1,22 @@
+{
+  "name": "compare",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4975",
+  "looks": "Two tall rounded rectangles side by side with a vertical line between them.",
+  "use": "Use for comparing files, versions, or diffs.",
+  "keywords": [
+    "git",
+    "versions"
+  ],
+  "compare": {
+    "carbon": "compare",
+    "fluent": "item-compare",
+    "lucide": "diff",
+    "material": "compare",
+    "octicons": "git-compare",
+    "tabler": "git-compare"
+  }
+}

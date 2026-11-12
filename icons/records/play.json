@@ -1,0 +1,33 @@
+{
+  "name": "play",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Media",
+  "solid": "needed",
+  "figmaId": "22:2070",
+  "looks": "A triangle pointing right.",
+  "use": "Use for playing media or starting something.",
+  "keywords": [
+    "start",
+    "run",
+    "media"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.194Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "play",
+    "fluent": "play",
+    "heroicons": "play",
+    "lucide": "play",
+    "material": "play-arrow",
+    "octicons": "play",
+    "phosphor": "play",
+    "radix": "play",
+    "sf": "play",
+    "tabler": "player-play"
+  }
+}

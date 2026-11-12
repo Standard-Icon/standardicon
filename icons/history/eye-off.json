@@ -1,0 +1,17 @@
+{
+ "name": "eye-off",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M2 8C3.4 5.5 5.5 4 8 4C10.5 4 12.6 5.5 14 8C12.6 10.5 10.5 12 8 12C5.5 12 3.4 10.5 2 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 8C10 8.53 9.789 9.039 9.414 9.414C9.039 9.789 8.53 10 8 10C7.47 10 6.961 9.789 6.586 9.414C6.211 9.039 6 8.53 6 8C6 7.47 6.211 6.961 6.586 6.586C6.961 6.211 7.47 6 8 6C8.53 6 9.039 6.211 9.414 6.586C9.789 6.961 10 7.47 10 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13L13 3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M3.499 10.026C2.938 9.457 2.435 8.777 2 8C3.4 5.5 5.5 4 8 4C8.471 4 8.928 4.053 9.369 4.156M12.501 5.974C13.062 6.543 13.565 7.223 14 8C12.6 10.5 10.5 12 8 12C7.529 12 7.072 11.947 6.631 11.844\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.922 8.553C9.829 8.875 9.656 9.173 9.414 9.414C9.173 9.656 8.875 9.829 8.553 9.922M6.078 7.447C6.171 7.125 6.344 6.827 6.586 6.586C6.827 6.344 7.125 6.171 7.447 6.078\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13L13 3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "text-align-center",
+  "status": "dropped",
+  "coveredBy": "align-text-center",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "Not drawn: align-center already does this."
+    }
+  ]
+}

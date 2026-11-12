@@ -1,0 +1,23 @@
+{
+  "name": "security-camera",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:6068",
+  "looks": "A boxy camera angled down to the right, mounted on an arm at the left.",
+  "use": "Use for surveillance, security cameras, or monitoring.",
+  "compare": {
+    "carbon": false,
+    "fluent": "camera-dome",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "cctv",
+    "material": false,
+    "octicons": false,
+    "phosphor": "security-camera",
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

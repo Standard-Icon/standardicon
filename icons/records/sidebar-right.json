@@ -1,0 +1,23 @@
+{
+  "name": "sidebar-right",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "21:1639",
+  "looks": "A wide rounded rectangle with a narrow column divided off on the right.",
+  "use": "Use for a right sidebar, an inspector, or a details panel.",
+  "compare": {
+    "carbon": false,
+    "fluent": "panel-right",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "panel-right",
+    "material": "view-sidebar",
+    "octicons": "sidebar-expand",
+    "phosphor": "sidebar",
+    "radix": "panel-right",
+    "sf": "sidebar.right",
+    "tabler": "layout-sidebar-right"
+  }
+}

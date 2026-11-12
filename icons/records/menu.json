@@ -1,0 +1,30 @@
+{
+  "name": "menu",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "12:389",
+  "looks": "Three equal horizontal lines stacked evenly.",
+  "use": "Use for a main menu, navigation, or a hamburger button.",
+  "keywords": [
+    "hamburger",
+    "navigation"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.076Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "menu",
+    "heroicons": "bars-3",
+    "lucide": "menu",
+    "material": "menu",
+    "octicons": "three-bars",
+    "phosphor": "list",
+    "radix": "hamburger-menu",
+    "sf": "line.3.horizontal",
+    "tabler": "menu"
+  }
+}

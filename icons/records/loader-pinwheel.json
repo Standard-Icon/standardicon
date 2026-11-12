@@ -1,0 +1,19 @@
+{
+  "name": "loader-pinwheel",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26686",
+  "looks": "A circle divided by curved lines into three pinwheel segments.",
+  "use": "Use for loading, spinners, or progress.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.245Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": "loader-pinwheel",
+    "material": "front-loader",
+    "phosphor": "pinwheel",
+    "tabler": "loader"
+  }
+}

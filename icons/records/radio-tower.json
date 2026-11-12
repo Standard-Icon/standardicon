@@ -1,0 +1,19 @@
+{
+  "name": "radio-tower",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27815",
+  "looks": "A narrow lattice tower with curved signal arcs on each side.",
+  "use": "Use for broadcasting, radio, or cell towers.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": "radio",
+    "fluent": "radio-button",
+    "heroicons": "radio",
+    "lucide": "radio-tower",
+    "material": "radio",
+    "phosphor": "radio",
+    "sf": "radio",
+    "tabler": "radio"
+  }
+}

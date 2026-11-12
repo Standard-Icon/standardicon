@@ -1,0 +1,22 @@
+{
+  "name": "broadcast",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:4265",
+  "looks": "A solid dot with two curved arcs on each side, radiating outward.",
+  "use": "Use for broadcast, live, or a radio signal.",
+  "keywords": [
+    "stream",
+    "live"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "lucide": false,
+    "material": false,
+    "octicons": "broadcast",
+    "phosphor": "broadcast",
+    "tabler": "broadcast"
+  }
+}

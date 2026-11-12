@@ -1,0 +1,11 @@
+{
+ "name": "train-track",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M5.5 2.5V13.5M10.5 2.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 3.5H12.5M3.5 6.5H12.5M3.5 9.5H12.5M3.5 12.5H12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

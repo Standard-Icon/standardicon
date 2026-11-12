@@ -1,0 +1,11 @@
+{
+  "name": "bone-fracture",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "322:23919",
+  "compare": {
+    "lucide": "bone-fracture",
+    "phosphor": false,
+    "tabler": false
+  }
+}

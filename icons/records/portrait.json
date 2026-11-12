@@ -1,0 +1,15 @@
+{
+  "name": "portrait",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26161",
+  "compare": {
+    "fluent": "rectangle-portrait",
+    "lucide": false,
+    "material": "crop-portrait",
+    "sf": "rectangle.portrait",
+    "tabler": "crop-portrait"
+  }
+}

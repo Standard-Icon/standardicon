@@ -1,0 +1,21 @@
+{
+  "name": "pagination",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:32367",
+  "looks": "Three small circles in a row, the middle one filled and the outer two open.",
+  "use": "Use for page indicators, carousels, or steps.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "ui"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+ "name": "cloud-rain-wind",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M5.25 9.99C4.57 9.98 3.92 9.71 3.43 9.25C2.93 8.78 2.63 8.15 2.57 7.47C2.52 6.8 2.71 6.12 3.12 5.58C3.53 5.04 4.13 4.67 4.8 4.54C5.04 3.81 5.52 3.17 6.16 2.73C6.8 2.29 7.56 2.06 8.34 2.09C9.12 2.12 9.86 2.4 10.47 2.89C11.07 3.37 11.5 4.04 11.7 4.79C12.3 4.91 12.84 5.23 13.24 5.7C13.63 6.17 13.85 6.76 13.86 7.37C13.86 7.99 13.66 8.59 13.27 9.06C12.89 9.54 12.35 9.87 11.75 9.99H5.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.25 12L4.5 14M8 12L7.25 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 13.5H12.25C13 13.5 13.5 13.1 13.5 12.6C13.5 12.2 13.1 11.9 12.6 11.9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "chair",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:21910",
+  "looks": "A chair with a rounded backrest, a seat, armrests and four legs seen from the front.",
+  "use": "Use for seating, furniture, or seat selection.",
+  "compare": {
+    "lucide": false,
+    "material": "chair",
+    "phosphor": "chair",
+    "sf": "chair",
+    "tabler": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mail-x-overlay",
+  "status": "active",
+  "parent": "mail",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:18794",
+  "looks": "A closed envelope with a small rounded square holding an x over the lower right corner.",
+  "use": "Use for deleting an email, failed delivery, or unsubscribing.",
+  "formerNames": [
+    "mail-x"
+  ],
+  "compare": {
+    "fluent": "mail-dismiss",
+    "heroicons": false,
+    "lucide": "mail-x",
+    "radix": false,
+    "sf": false,
+    "tabler": "mail-x"
+  }
+}

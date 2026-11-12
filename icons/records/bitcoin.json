@@ -1,0 +1,22 @@
+{
+  "name": "bitcoin",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7561",
+  "looks": "A capital letter B with two short vertical lines through its top and bottom.",
+  "use": "Use for Bitcoin, crypto, or digital currency.",
+  "keywords": [
+    "crypto",
+    "btc",
+    "currency"
+  ],
+  "compare": {
+    "lucide": "bitcoin",
+    "material": "currency-bitcoin",
+    "phosphor": "currency-btc",
+    "sf": "bitcoinsign",
+    "tabler": "currency-bitcoin"
+  }
+}

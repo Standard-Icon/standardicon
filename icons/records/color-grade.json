@@ -1,0 +1,30 @@
+{
+  "name": "color-grade",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "183:32028",
+  "looks": "A circle split into four quadrants by a cross, with a small filled dot in the upper right section.",
+  "use": "Use for color grading, tone adjustment, or color wheels.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:21.988Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "material": false,
+    "radix": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "video"
+    }
+  ]
+}

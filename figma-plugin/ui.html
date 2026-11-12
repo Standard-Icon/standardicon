@@ -1,0 +1,104 @@
+<!doctype html>
+<style>
+  body { margin: 0; padding: 12px; font: 12px/1.4 system-ui, sans-serif; color: #222; display: grid; gap: 10px; }
+  .status { display: flex; gap: 6px; align-items: baseline; }
+  .status i { flex: none; width: 8px; height: 8px; border-radius: 50%; background: #2bb673; }
+  .status.off i { background: #e5484d; }
+  .status.busy i { background: #4f4fff; animation: pulse 1s infinite alternate; }
+  @keyframes pulse { to { opacity: 0.3; } }
+  ul { margin: 0; padding: 0; list-style: none; color: #666; }
+  li { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .buttons { display: flex; gap: 8px; }
+  button { flex: 1; font: inherit; padding: 7px 8px; border-radius: 6px; border: 1px solid #d0d0d0; background: #fff; cursor: pointer; }
+  button.primary { background: #222; border-color: #222; color: #fff; }
+  button.ship { width: 100%; background: #5e7660; border-color: #5e7660; color: #fff; font-weight: 700; }
+  button:disabled { opacity: 0.4; cursor: default; }
+  pre { margin: 0; height: 150px; overflow: auto; padding: 8px; border-radius: 6px; background: #f4f4f4; font: 10.5px/1.45 ui-monospace, monospace; white-space: pre-wrap; color: #444; }
+  pre:empty { display: none; }
+  .hint { color: #888; }
+  .toggle { display: flex; align-items: center; gap: 8px; cursor: pointer; }
+  .toggle input { margin: 0; accent-color: #222; }
+</style>
+<div class="status" id="borders"><i></i><span>Starting…</span></div>
+<ul id="recent"></ul>
+<label class="toggle"><input type="checkbox" id="grid" checked> Show the icon grid</label>
+<div class="buttons">
+  <button class="primary" id="sync-all">Sync all</button>
+  <button id="sync-selected" disabled>Sync selected</button>
+</div>
+<div class="hint" id="selection">Select icons or category frames to sync just those.</div>
+<button class="ship" id="ship" title="Sync everything pink, test the deploy build, commit the icon data, publish the preview, and push live">Ship live to standardicon.com</button>
+<div class="status" id="sync" hidden><i></i><span></span></div>
+<pre id="log"></pre>
+<script>
+  const $ = (id) => document.getElementById(id);
+  let selected = [];
+  let busy = false;
+
+  onmessage = ({ data: { pluginMessage: m } }) => {
+    if (!m) return;
+    if (m.type === 'borders') {
+      $('borders').classList.toggle('off', !m.ok);
+      $('borders').querySelector('span').textContent = m.text;
+      $('recent').replaceChildren(...m.recent.map((line) => Object.assign(document.createElement('li'), { textContent: line })));
+    }
+    if (m.type === 'grid') $('grid').checked = m.visible;
+    if (m.type === 'selection') {
+      selected = m.names;
+      $('sync-selected').textContent = selected.length ? `Sync ${selected.length} selected` : 'Sync selected';
+      $('sync-selected').disabled = busy || !selected.length;
+      $('selection').textContent = selected.length
+        ? `${selected.slice(0, 4).join(', ')}${selected.length > 4 ? ` and ${selected.length - 4} more` : ''}${m.outside ? `. ${m.outside} outside the category frames won't sync.` : ''}`
+        : m.outside ? `${m.outside} selected, but outside the category frames, so the sync can't read them.` : 'Select icons or category frames to sync just those.';
+    }
+  };
+
+  function setBusy(on, text) {
+    busy = on;
+    $('sync-all').disabled = on;
+    $('ship').disabled = on;
+    $('sync-selected').disabled = on || !selected.length;
+    $('sync').hidden = false;
+    $('sync').classList.toggle('busy', on);
+    $('sync').classList.remove('off');
+    $('sync').querySelector('span').textContent = text;
+  }
+
+  // Runs the sync through the workbench, which then builds the site. The output streams in as it goes.
+  async function sync(names, ship = false) {
+    const what = ship ? 'everything to standardicon.com' : names.length ? `${names.length} icon${names.length === 1 ? '' : 's'}` : 'everything';
+    setBusy(true, ship ? 'Shipping: sync, test build, commit, preview, push…' : `Syncing ${what} and building the site…`);
+    const log = $('log');
+    log.textContent = '';
+    let text = '';
+    try {
+      const response = await fetch('http://localhost:4180/api/plugin/sync', { method: 'POST', headers: { 'Content-Type': 'application/json', 'X-Workbench-Plugin': '1' }, body: JSON.stringify(ship ? { ship: true } : { names }) });
+      if (!response.ok) throw new Error(await response.text());
+      const reader = response.body.getReader();
+      const decoder = new TextDecoder();
+      for (;;) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        text += decoder.decode(value, { stream: true });
+        log.textContent = text.split('\n').slice(-60).join('\n');
+        log.scrollTop = log.scrollHeight;
+      }
+      const ok = /exit code 0\]/.test(text);
+      const summary = (text.match(/^\d+ icons \([^)]*\)/m) ?? [''])[0];
+      const shipped = (text.match(/^✓ .*$/m) ?? [''])[0].replace(/^✓ /, '');
+      setBusy(false, ok ? (ship ? shipped || 'Shipped.' : `Done. ${summary ? `${summary} on the site.` : ''} The workbench and site are up to date.`) : `The ${ship ? 'ship' : 'sync'} stopped with an error. Nothing was published if it stopped before the push. See the log below.`);
+      $('sync').classList.toggle('off', !ok);
+      parent.postMessage({ pluginMessage: { type: 'notify', text: ok ? (ship ? 'Shipped to standardicon.com' : `Synced ${what}`) : ship ? 'Ship failed' : 'Sync failed', error: !ok } }, '*');
+    } catch (error) {
+      const offline = /fetch|network|Load failed/i.test(String(error.message));
+      setBusy(false, offline ? "Can't reach the workbench. Start it with npm run workbench." : String(error.message));
+      $('sync').classList.add('off');
+    }
+  }
+
+  $('grid').onchange = (event) => parent.postMessage({ pluginMessage: { type: 'grid', visible: event.target.checked } }, '*');
+  $('sync-all').onclick = () => sync([]);
+  $('sync-selected').onclick = () => selected.length && sync(selected);
+  $('ship').onclick = () => sync([], true);
+  parent.postMessage({ pluginMessage: { type: 'ready' } }, '*');
+</script>

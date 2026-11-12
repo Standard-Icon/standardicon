@@ -1,0 +1,17 @@
+{
+  "name": "map-pin-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29587",
+  "looks": "A location pin with a checkmark cut into the lower right.",
+  "use": "Use for a confirmed location, check-ins, or visited places.",
+  "compare": {
+    "fluent": "location-checkmark",
+    "heroicons": false,
+    "lucide": "map-pin-check",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": "map-pin-check"
+  }
+}

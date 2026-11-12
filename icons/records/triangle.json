@@ -1,0 +1,23 @@
+{
+  "name": "triangle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6517",
+  "looks": "An empty triangle with rounded corners and a point at the top.",
+  "use": "Use for a triangle shape or warnings.",
+  "compare": {
+    "carbon": "triangle-outline",
+    "fluent": "triangle",
+    "heroicons": false,
+    "iconic": "triangle",
+    "lucide": "triangle",
+    "material": false,
+    "octicons": "triangle",
+    "phosphor": "triangle",
+    "radix": "triangle-up",
+    "sf": "triangle",
+    "tabler": "triangle"
+  }
+}

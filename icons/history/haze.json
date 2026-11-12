@@ -1,0 +1,11 @@
+{
+ "name": "haze",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M4.5 8.5C4.5 7.572 4.869 6.682 5.525 6.025C6.182 5.369 7.072 5 8 5C8.928 5 9.818 5.369 10.475 6.025C11.131 6.682 11.5 7.572 11.5 8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 3V4M3.1 4.6L3.8 5.3M12.9 4.6L12.2 5.3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 10.5H13.5M4 13H12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

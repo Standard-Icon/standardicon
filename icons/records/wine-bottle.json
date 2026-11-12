@@ -1,0 +1,17 @@
+{
+  "name": "wine-bottle",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21493",
+  "looks": "A bottle with a long neck and a label band on its body.",
+  "use": "Use for wine, alcohol, or drinks.",
+  "compare": {
+    "fluent": false,
+    "lucide": "bottle-wine",
+    "material": false,
+    "phosphor": false,
+    "tabler": false
+  }
+}

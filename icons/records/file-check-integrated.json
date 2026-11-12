@@ -1,0 +1,26 @@
+{
+  "name": "file-check-integrated",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:4608",
+  "looks": "A page with a folded top right corner and a checkmark in the middle.",
+  "use": "Use for approved, verified, or completed documents.",
+  "formerNames": [
+    "file-check"
+  ],
+  "compare": {
+    "lucide": "file-check",
+    "octicons": "file-check",
+    "sf": false,
+    "tabler": "file-check"
+  },
+  "compareAlso": {
+    "lucide": [
+      "file-check-corner"
+    ]
+  }
+}

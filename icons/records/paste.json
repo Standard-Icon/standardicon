@@ -1,0 +1,22 @@
+{
+  "name": "paste",
+  "status": "active",
+  "canonical": "clipboard",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1696",
+  "looks": "A clipboard with a clip at the top and an arrow pointing down on the board.",
+  "use": "Use for paste or paste from the clipboard.",
+  "keywords": [
+    "clipboard"
+  ],
+  "compare": {
+    "carbon": "paste",
+    "fluent": "clipboard-paste",
+    "lucide": "clipboard-paste",
+    "material": "content-paste",
+    "octicons": "paste",
+    "sf": "document.on.clipboard"
+  }
+}

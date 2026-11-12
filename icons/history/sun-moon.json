@@ -1,0 +1,25 @@
+{
+ "name": "sun-moon",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M8 2V3M8 13V14M2 8H3M3.75 3.75L4.5 4.5M3.75 12.25L4.5 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5C8.796 5 9.559 5.316 10.121 5.879C10.684 6.441 11 7.204 11 8C11 8.796 10.684 9.559 10.121 10.121C9.559 10.684 8.796 11 8 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5C7.204 5 6.441 5.316 5.879 5.879C5.316 6.441 5 7.204 5 8C5 8.796 5.316 9.559 5.879 10.121C6.441 10.684 7.204 11 8 11V5Z\" fill=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M9.5 2V3M9.5 13V14M3.5 8H4.5M5.25 3.75L6 4.5M5.25 12.25L6 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 5C10.296 5 11.059 5.316 11.621 5.879C12.184 6.441 12.5 7.204 12.5 8C12.5 8.796 12.184 9.559 11.621 10.121C11.059 10.684 10.296 11 9.5 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 5C8.704 5 7.941 5.316 7.379 5.879C6.816 6.441 6.5 7.204 6.5 8C6.5 8.796 6.816 9.559 7.379 10.121C7.941 10.684 8.704 11 9.5 11V5Z\" fill=\"currentColor\"/>",
+   "solidParts": true
+  },
+  {
+   "at": "2026-11-11T10:16:53.076Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M9.5 2V3M9.5 13V14M3.5 8H4.5M5.25 3.75L6 4.5M5.25 12.25L6 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.25 8C12.25 8.729 11.96 9.429 11.445 9.945C10.929 10.46 10.229 10.75 9.5 10.75C8.771 10.75 8.071 10.46 7.555 9.945C7.04 9.429 6.75 8.729 6.75 8C6.75 7.271 7.04 6.571 7.555 6.055C8.071 5.54 8.771 5.25 9.5 5.25C10.229 5.25 10.929 5.54 11.445 6.055C11.96 6.571 12.25 7.271 12.25 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 5.25C8.771 5.25 8.071 5.54 7.555 6.055C7.04 6.571 6.75 7.271 6.75 8C6.75 8.729 7.04 9.429 7.555 9.945C8.071 10.46 8.771 10.75 9.5 10.75V5.25Z\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

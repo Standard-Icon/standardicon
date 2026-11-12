@@ -1,0 +1,14 @@
+{
+  "name": "mail-clock-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26703",
+  "formerNames": [
+    "mail-clock"
+  ],
+  "compare": {
+    "fluent": "mail-clock",
+    "lucide": "mail-clock",
+    "sf": "envelope.open.badge.clock"
+  }
+}

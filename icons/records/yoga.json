@@ -1,0 +1,17 @@
+{
+  "name": "yoga",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9017",
+  "keywords": [
+    "meditation",
+    "wellness",
+    "fitness"
+  ],
+  "compare": {
+    "sf": "figure.yoga",
+    "tabler": "yoga"
+  }
+}

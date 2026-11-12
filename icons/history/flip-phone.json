@@ -1,0 +1,11 @@
+{
+ "name": "flip-phone",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M11.523 7.848L12.323 2.652C12.416 2.046 11.947 1.5 11.334 1.5H4.666C4.053 1.5 3.584 2.046 3.677 2.652L4.477 7.848C4.492 7.949 4.492 8.051 4.477 8.152L3.677 13.348C3.584 13.954 4.053 14.5 4.666 14.5H11.334C11.947 14.5 12.416 13.954 12.323 13.348L11.523 8.152C11.508 8.051 11.508 7.949 11.523 7.848Z\" stroke=\"currentColor\"/><path d=\"M4.094 7.5H11.906\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.518 3.207H10.423L9.948 5.794H6.068L5.518 3.207Z\" stroke=\"currentColor\"/><circle cx=\"6.25\" cy=\"10\" r=\"0.5\" fill=\"currentColor\"/><circle cx=\"8\" cy=\"10\" r=\"0.5\" fill=\"currentColor\"/><circle cx=\"9.75\" cy=\"10\" r=\"0.5\" fill=\"currentColor\"/><circle cx=\"6.25\" cy=\"12\" r=\"0.5\" fill=\"currentColor\"/><circle cx=\"8\" cy=\"12\" r=\"0.5\" fill=\"currentColor\"/><circle cx=\"9.75\" cy=\"12\" r=\"0.5\" fill=\"currentColor\"/>"
+  }
+ ]
+}

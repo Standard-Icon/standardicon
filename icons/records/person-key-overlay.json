@@ -1,0 +1,19 @@
+{
+  "name": "person-key-overlay",
+  "status": "active",
+  "parent": "person",
+  "canonical": "person",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:21409",
+  "formerNames": [
+    "person-key"
+  ],
+  "compare": {
+    "fluent": "person-key",
+    "lucide": "user-key",
+    "sf": "person.badge.key",
+    "tabler": "user-key"
+  }
+}

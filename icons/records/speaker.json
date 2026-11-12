@@ -1,0 +1,22 @@
+{
+  "name": "speaker",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5500",
+  "looks": "A rounded rectangle speaker cabinet with a large circle and a small circle inside it.",
+  "use": "Use for a speaker or audio output.",
+  "compare": {
+    "carbon": false,
+    "fluent": "speaker-box",
+    "heroicons": false,
+    "iconic": "speaker",
+    "lucide": "speaker",
+    "material": "speaker",
+    "phosphor": "speaker-hifi",
+    "radix": false,
+    "sf": "speaker",
+    "tabler": "device-speaker"
+  }
+}

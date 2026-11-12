@@ -1,0 +1,13 @@
+{
+  "name": "mustache",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "People",
+  "figmaId": "273:22815",
+  "looks": "A curled mustache with two upturned ends and a notch in the middle.",
+  "use": "Use for facial hair, grooming, or a disguise.",
+  "compare": {
+    "sf": "mustache"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "holly",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M8 8C6.9 6.25 5.8 5.75 5.3 4.25C4.6 4.75 3.8 4.5 3 3.75C3.1 4.75 2.75 5.5 2 6C2.75 6.5 3 7.25 2.9 8.25C3.7 7.75 4.5 7.9 5.1 8.5C5.5 7.9 6.75 8 8 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 8C9.1 6.25 10.2 5.75 10.7 4.25C11.4 4.75 12.2 4.5 13 3.75C12.9 4.75 13.25 5.5 14 6C13.25 6.5 13 7.25 13.1 8.25C12.3 7.75 11.5 7.9 10.9 8.5C10.5 7.9 9.25 8 8 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.25 11.25C9.25 11.94 8.69 12.5 8 12.5C7.31 12.5 6.75 11.94 6.75 11.25C6.75 10.56 7.31 10 8 10C8.69 10 9.25 10.56 9.25 11.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

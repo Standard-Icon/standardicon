@@ -1,0 +1,14 @@
+{
+  "name": "franc",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:26603",
+  "looks": "A capital F with a short crossbar through its stem.",
+  "use": "Use for the Swiss franc or franc currency.",
+  "compare": {
+    "lucide": "swiss-franc",
+    "material": "currency-franc"
+  }
+}

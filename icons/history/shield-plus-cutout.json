@@ -1,0 +1,11 @@
+{
+ "name": "shield-plus-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M12.5 7.55V4L8 2.5L3.5 4V8C3.5 10.73 5.306 12.604 7.806 13.438\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 11.75H14M11.75 9.5V14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

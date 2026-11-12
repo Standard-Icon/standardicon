@@ -1,0 +1,17 @@
+{
+  "name": "package-check-overlay",
+  "status": "active",
+  "parent": "package",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "56:22429",
+  "looks": "A box with a slanted lid and a small rounded square holding a check at its lower right.",
+  "use": "Use for delivered packages or installed dependencies.",
+  "formerNames": [
+    "package-check"
+  ],
+  "compare": {
+    "lucide": "package-check"
+  }
+}

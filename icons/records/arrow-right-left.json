@@ -1,0 +1,19 @@
+{
+  "name": "arrow-right-left",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23841",
+  "compare": {
+    "carbon": "arrows-horizontal",
+    "fluent": "arrow-bidirectional-left-right",
+    "heroicons": "arrows-right-left",
+    "iconic": false,
+    "lucide": "arrow-right-left",
+    "material": "swap-horiz",
+    "octicons": "arrow-switch",
+    "phosphor": "arrows-left-right",
+    "radix": false,
+    "sf": "arrow.left.and.right",
+    "tabler": "arrow-left-right"
+  }
+}

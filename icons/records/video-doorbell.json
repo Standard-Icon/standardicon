@@ -1,0 +1,21 @@
+{
+  "name": "video-doorbell",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22487",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "doorbell",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "video.doorbell",
+    "tabler": false
+  }
+}

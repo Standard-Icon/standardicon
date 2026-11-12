@@ -1,0 +1,11 @@
+{
+ "name": "cat",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M3 3L5.5 5C7 4.5 9 4.5 10.5 5L13 3V8.5C13 11.25 10.75 13 8 13C5.25 13 3 11.25 3 8.5V3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"6\" cy=\"8.25\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"10\" cy=\"8.25\" r=\"0.6\" fill=\"currentColor\"/><path d=\"M7.5 10.5H8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

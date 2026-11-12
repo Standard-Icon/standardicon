@@ -1,0 +1,11 @@
+{
+ "name": "save-off",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.5 11.03V3.5C2.5 3.23 2.605 2.98 2.793 2.79C2.98 2.61 3.235 2.5 3.5 2.5H10.5L10.763 2.76M13.237 5.24L13.5 5.5V12.5C13.5 12.77 13.395 13.02 13.207 13.21C13.02 13.39 12.765 13.5 12.5 13.5H4.975\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 2.5V5.5H8.025M10 3.53V2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 13.5V13.47M9.475 9H11V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13L13 3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

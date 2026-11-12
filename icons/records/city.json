@@ -1,0 +1,21 @@
+{
+  "name": "city",
+  "status": "active",
+  "source": "later",
+  "figmaId": "526:15814",
+  "looks": "Three buildings of different heights side by side on a ground line, the tallest in the middle with three windows.",
+  "use": "Use for a city, town, location, or urban area.",
+  "keywords": [
+    "skyline",
+    "town",
+    "urban",
+    "downtown",
+    "buildings",
+    "street"
+  ],
+  "approved": {
+    "at": "2026-11-12T19:39:47.290Z",
+    "by": "Morgan",
+    "version": "2026-11-12T18:00:45.815Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "package-simple",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27403",
+  "looks": "A plain box with a lid line across the top and a short center seam.",
+  "use": "Use for a package, parcel, or shipment.",
+  "compare": {
+    "carbon": "package",
+    "fluent": false,
+    "lucide": "package-2",
+    "material": "package",
+    "octicons": "package",
+    "phosphor": "package",
+    "tabler": "package"
+  }
+}

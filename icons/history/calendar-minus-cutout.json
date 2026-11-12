@@ -1,0 +1,11 @@
+{
+ "name": "calendar-minus-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M12.79 7.577V4.699C12.79 4.147 12.34 3.699 11.79 3.699H4.21C3.66 3.699 3.21 4.147 3.21 4.699V12.126C3.21 12.678 3.66 13.126 4.21 13.126H7.72\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.21 6.031H12.79M5.82 2.945V4.481M10.18 2.945V4.481\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 11.75H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

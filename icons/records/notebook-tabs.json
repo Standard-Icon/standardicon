@@ -1,0 +1,22 @@
+{
+  "name": "notebook-tabs",
+  "status": "active",
+  "parent": "notebook",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:23810",
+  "looks": "A notebook with binding rings on the left and two vertical lines dividing the page into tab columns.",
+  "use": "Use for a tabbed notebook, address book, or indexed sections.",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "carbon": "notebook",
+    "fluent": "notebook",
+    "lucide": "notebook-tabs",
+    "material": false,
+    "phosphor": "notebook",
+    "tabler": "notebook"
+  }
+}

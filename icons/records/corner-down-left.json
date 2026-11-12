@@ -1,0 +1,27 @@
+{
+  "name": "corner-down-left",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "21:1422",
+  "looks": "A line coming down from the top right that turns into an arrow pointing left.",
+  "use": "Use for return, enter, or a line break.",
+  "keywords": [
+    "enter",
+    "return"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "arrow-turn-down-left",
+    "iconic": false,
+    "lucide": "corner-down-left",
+    "material": "subdirectory-arrow-left",
+    "octicons": false,
+    "phosphor": "arrow-bend-down-left",
+    "radix": false,
+    "sf": "arrow.turn.down.left",
+    "tabler": "corner-down-left"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "non-binary",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:23253",
+  "looks": "A circle with an asterisk-like cross on a short stem above it.",
+  "use": "Use for non-binary gender.",
+  "compare": {
+    "carbon": false,
+    "lucide": "non-binary",
+    "octicons": false,
+    "phosphor": "gender-nonbinary",
+    "tabler": false
+  }
+}

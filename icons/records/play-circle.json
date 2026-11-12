@@ -1,0 +1,33 @@
+{
+  "name": "play-circle",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "media",
+  "figmaId": "75:23712",
+  "looks": "A small right-pointing triangle inside a circle.",
+  "use": "Use for playing video or a playable item.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.411Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "play-outline",
+    "fluent": "play-circle",
+    "heroicons": "play-circle",
+    "iconic": false,
+    "lucide": "play-circle",
+    "material": "play-circle",
+    "octicons": false,
+    "phosphor": "play-circle",
+    "radix": false,
+    "sf": "play.circle",
+    "tabler": "circle-play"
+  },
+  "compareAlso": {
+    "lucide": [
+      "circle-play"
+    ]
+  }
+}

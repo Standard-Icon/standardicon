@@ -1,0 +1,37 @@
+{
+ "name": "calendar-day",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.5 3.5H12.5C12.765 3.5 13.02 3.605 13.207 3.793C13.395 3.98 13.5 4.235 13.5 4.5V12.5C13.5 12.765 13.395 13.02 13.207 13.207C13.02 13.395 12.765 13.5 12.5 13.5H3.5C3.235 13.5 2.98 13.395 2.793 13.207C2.605 13.02 2.5 12.765 2.5 12.5V4.5C2.5 4.235 2.605 3.98 2.793 3.793C2.98 3.605 3.235 3.5 3.5 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 6.5H13.5M5.5 2.553V4.319M10.5 2.553V4.319\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.479 8.147H5.979C6.045 8.147 6.109 8.174 6.155 8.221C6.202 8.268 6.229 8.331 6.229 8.397V9.897C6.229 9.964 6.202 10.027 6.155 10.074C6.109 10.121 6.045 10.147 5.979 10.147H4.479C4.412 10.147 4.349 10.121 4.302 10.074C4.255 10.027 4.229 9.964 4.229 9.897V8.397C4.229 8.331 4.255 8.268 4.302 8.221C4.349 8.174 4.412 8.147 4.479 8.147Z\" fill=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3.059\" width=\"11\" height=\"10.8304\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.5 5.738H13.5M5.5 2.111V3.877M10.5 2.111V3.877\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"4.229\" y=\"7.938\" width=\"2\" height=\"2\" rx=\"0.25\" fill=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-10T19:59:33.379Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3.059\" width=\"11\" height=\"10.8304\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.5 5.738H13.5M5.5 2.111V3.877M10.5 2.111V3.877\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"4.39\" y=\"7.539\" width=\"2\" height=\"2\" rx=\"0.525\" stroke=\"currentColor\"/>",
+   "sizes": {
+    "18": "<rect x=\"2.81\" y=\"3.441\" width=\"12.375\" height=\"12.1842\" rx=\"1.125\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.81 6.455H15.19M6.19 2.375V4.361M11.81 2.375V4.361\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"5\" y=\"8.544\" width=\"2.125\" height=\"2.125\" rx=\"0.528125\" stroke=\"currentColor\"/>",
+    "20": "<rect x=\"3.12\" y=\"3.823\" width=\"13.75\" height=\"13.5379\" rx=\"1.25\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.12 7.172H16.88M6.88 2.639V4.846M13.12 2.639V4.846\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"5.61\" y=\"9.549\" width=\"2.25\" height=\"2.25\" rx=\"0.53125\" stroke=\"currentColor\"/>",
+    "22": "<rect x=\"3.44\" y=\"4.206\" width=\"15.125\" height=\"14.8917\" rx=\"1.375\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.44 7.889H18.56M7.56 2.903V5.331M14.44 2.903V5.331\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"6.22\" y=\"10.554\" width=\"2.375\" height=\"2.375\" rx=\"0.534375\" stroke=\"currentColor\"/>",
+    "24": "<rect x=\"3.75\" y=\"4.588\" width=\"16.5\" height=\"16.2455\" rx=\"1.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.75 8.606H20.25M8.25 3.167V5.815M15.75 3.167V5.815\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"6.83\" y=\"11.559\" width=\"2.5\" height=\"2.5\" rx=\"0.5375\" stroke=\"currentColor\"/>"
+   },
+   "solidParts": true
+  },
+  {
+   "at": "2026-11-11T09:46:49.583Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3.059\" width=\"11\" height=\"10.8304\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.5 5.738H13.5M5.5 2.111V3.877M10.5 2.111V3.877\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"4.39\" y=\"7.539\" width=\"2\" height=\"2\" rx=\"0.525\" stroke=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

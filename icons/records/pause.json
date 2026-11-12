@@ -1,0 +1,27 @@
+{
+  "name": "pause",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Media",
+  "solid": "needed",
+  "figmaId": "22:2086",
+  "looks": "Two short vertical lines side by side.",
+  "use": "Use for pausing playback or a recording.",
+  "keywords": [
+    "media",
+    "hold"
+  ],
+  "compare": {
+    "carbon": "pause",
+    "fluent": "pause",
+    "heroicons": "pause",
+    "lucide": "pause",
+    "material": "pause",
+    "octicons": "pause",
+    "phosphor": "pause",
+    "radix": "pause",
+    "sf": "pause",
+    "tabler": "player-pause"
+  }
+}

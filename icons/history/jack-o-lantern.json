@@ -1,0 +1,11 @@
+{
+ "name": "jack-o-lantern",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M14 9C14 11.623 11.314 13.75 8 13.75C4.686 13.75 2 11.623 2 9C2 6.377 4.686 4.25 8 4.25C11.314 4.25 14 6.377 14 9Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 4.25V3C8 2.25 8.5 1.75 9.5 1.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 9L5.75 6.75L7 9H4.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9 9L10.25 6.75L11.5 9H9Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.75 11L6 12L7.25 11L8 11.75L8.75 11L10 12L11.25 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

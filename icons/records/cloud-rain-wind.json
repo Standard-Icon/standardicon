@@ -1,0 +1,14 @@
+{
+  "name": "cloud-rain-wind",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20135",
+  "compare": {
+    "lucide": "cloud-rain-wind",
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

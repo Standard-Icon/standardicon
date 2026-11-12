@@ -1,0 +1,18 @@
+{
+  "name": "key-square",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26699",
+  "compare": {
+    "carbon": "key",
+    "fluent": "key",
+    "heroicons": "key",
+    "lucide": "key-square",
+    "material": "key",
+    "octicons": "key",
+    "phosphor": "key",
+    "radix": false,
+    "sf": "key",
+    "tabler": "square-key"
+  }
+}

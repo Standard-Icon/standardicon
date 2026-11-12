@@ -1,0 +1,28 @@
+{
+  "name": "square-root",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Math",
+  "figmaId": "275:22609",
+  "looks": "A square root sign, a small check stroke with a long horizontal bar.",
+  "use": "Use for square roots and math.",
+  "approved": {
+    "at": "2026-11-12T02:41:04.450Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "square-root"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:2774",
+  "looks": "Two stacked rounded rectangles, each with a dot on the left and a dash on the right.",
+  "use": "Use for servers, hosting, or infrastructure.",
+  "keywords": [
+    "backend",
+    "hosting",
+    "rack"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": "server",
+    "heroicons": "server",
+    "lucide": "server",
+    "material": false,
+    "octicons": "server",
+    "radix": "server",
+    "sf": "server.rack",
+    "tabler": "server"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "palm-tree",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:19958",
+  "compare": {
+    "carbon": "palm-tree",
+    "lucide": "tree-palm",
+    "material": false,
+    "phosphor": "tree-palm",
+    "sf": false,
+    "tabler": false
+  }
+}

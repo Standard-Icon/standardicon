@@ -1,0 +1,24 @@
+{
+  "name": "chart-area",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6276",
+  "keywords": [
+    "graph",
+    "analytics"
+  ],
+  "compare": {
+    "carbon": "chart-area",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "chart-area",
+    "material": "area-chart",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "chart-area"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "scanner",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8394",
+  "looks": "A flat scanner body with a small slot and a lid lifted at an angle above it.",
+  "use": "Use for scanning documents or a flatbed scanner.",
+  "approved": {
+    "at": "2026-11-12T01:50:13.675Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "fluent": "barcode-scanner",
+    "lucide": false,
+    "material": "scanner",
+    "sf": "scanner"
+  }
+}

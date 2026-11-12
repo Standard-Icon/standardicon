@@ -1,0 +1,21 @@
+{
+  "name": "panel-bottom",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Navigation and layout",
+  "figmaId": "30:3212",
+  "looks": "A wide rounded rectangle with an empty band across the bottom.",
+  "use": "Use for a bottom panel, a footer, or a console area.",
+  "compare": {
+    "carbon": "bottom-panel-open",
+    "fluent": false,
+    "iconic": false,
+    "lucide": "panel-bottom",
+    "material": "bottom-panel-open",
+    "phosphor": false,
+    "radix": "panel-bottom",
+    "sf": false,
+    "tabler": false
+  }
+}

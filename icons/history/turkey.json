@@ -1,0 +1,12 @@
+{
+ "name": "turkey",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M5.17 10.75L2.35 11C2.03 10.094 1.93 9.124 2.05 8.171C2.18 7.219 2.54 6.311 3.1 5.525C3.65 4.739 4.38 4.097 5.24 3.654C6.09 3.212 7.04 2.98 8 2.98C8.96 2.98 9.91 3.212 10.76 3.654C11.62 4.097 12.35 4.739 12.9 5.525C13.46 6.311 13.82 7.219 13.95 8.171C14.07 9.124 13.97 10.094 13.65 11L10.83 10.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6.75V3M5.88 7.63L3.4 5.15M10.12 7.63L12.6 5.15\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11 9.75C11 11.407 9.66 12.75 8 12.75C6.34 12.75 5 11.407 5 9.75C5 8.093 6.34 6.75 8 6.75C9.66 6.75 11 8.093 11 9.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.1 9.55C7.38 9.55 7.6 9.326 7.6 9.05C7.6 8.774 7.38 8.55 7.1 8.55C6.82 8.55 6.6 8.774 6.6 9.05C6.6 9.326 6.82 9.55 7.1 9.55Z\" fill=\"currentColor\"/><path d=\"M8.9 9.55C9.18 9.55 9.4 9.326 9.4 9.05C9.4 8.774 9.18 8.55 8.9 8.55C8.62 8.55 8.4 8.774 8.4 9.05C8.4 9.326 8.62 9.55 8.9 9.55Z\" fill=\"currentColor\"/><path d=\"M8 9.75V10.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

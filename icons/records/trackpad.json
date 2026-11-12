@@ -1,0 +1,15 @@
+{
+  "name": "trackpad",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8368",
+  "looks": "A square pad with a horizontal line near the bottom split by a short vertical divider.",
+  "use": "Use for trackpads, touchpads, or gestures.",
+  "compare": {
+    "lucide": "touchpad",
+    "material": "trackpad-input",
+    "sf": false
+  }
+}

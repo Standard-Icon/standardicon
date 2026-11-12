@@ -1,0 +1,13 @@
+{
+  "name": "less-than",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Math",
+  "figmaId": "275:22545",
+  "compare": {
+    "material": false,
+    "phosphor": "less-than",
+    "sf": "lessthan"
+  }
+}

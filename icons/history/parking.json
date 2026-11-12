@@ -1,0 +1,23 @@
+{
+ "name": "parking",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.5 2.5H12.5C12.765 2.5 13.02 2.605 13.207 2.793C13.395 2.98 13.5 3.235 13.5 3.5V12.5C13.5 12.765 13.395 13.02 13.207 13.207C13.02 13.395 12.765 13.5 12.5 13.5H3.5C3.235 13.5 2.98 13.395 2.793 13.207C2.605 13.02 2.5 12.765 2.5 12.5V3.5C2.5 3.235 2.605 2.98 2.793 2.793C2.98 2.605 3.235 2.5 3.5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 11.5V4.5H8.75C9.28 4.5 9.789 4.711 10.164 5.086C10.539 5.461 10.75 5.97 10.75 6.5C10.75 7.03 10.539 7.539 10.164 7.914C9.789 8.289 9.28 8.5 8.75 8.5H6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.439 10.451V5.549H8.49C8.886 5.549 9.265 5.706 9.545 5.986C9.825 6.265 9.982 6.645 9.982 7.04C9.982 7.436 9.825 7.815 9.545 8.095C9.265 8.375 8.886 8.532 8.49 8.532H6.439\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.439 10.451V8.532M6.439 8.532V5.549H8.49C8.886 5.549 9.265 5.706 9.545 5.986C9.825 6.265 9.982 6.645 9.982 7.04C9.982 7.436 9.825 7.815 9.545 8.095C9.265 8.375 8.886 8.532 8.49 8.532H6.439Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

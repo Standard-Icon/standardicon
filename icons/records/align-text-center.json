@@ -1,0 +1,28 @@
+{
+  "name": "align-text-center",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6134",
+  "looks": "Three horizontal lines centered on each other, the middle one shortest.",
+  "use": "Use for centering text.",
+  "formerNames": [
+    "align-center"
+  ],
+  "keywords": [
+    "text",
+    "format"
+  ],
+  "compare": {
+    "carbon": "text-align-center",
+    "fluent": "text-align-center",
+    "heroicons": false,
+    "lucide": "text-align-center",
+    "material": "align-center",
+    "phosphor": "text-align-center",
+    "radix": "text-align-center",
+    "sf": "text.aligncenter",
+    "tabler": "align-center"
+  }
+}

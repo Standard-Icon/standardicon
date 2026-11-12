@@ -1,0 +1,11 @@
+{
+ "name": "ribbon",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 2.5C9.6 2.5 10.75 3.6 10.75 5C10.75 7 8.5 9.5 4.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2.5C6.4 2.5 5.25 3.6 5.25 5C5.25 6 5.75 7 6.5 7.9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.3 11.3L11.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

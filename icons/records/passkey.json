@@ -1,0 +1,19 @@
+{
+  "name": "passkey",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:5596",
+  "keywords": [
+    "auth",
+    "login"
+  ],
+  "compare": {
+    "fluent": "person-passkey",
+    "lucide": false,
+    "material": "passkey",
+    "octicons": "passkey-fill",
+    "sf": "person.badge.key"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "exposure",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:25398",
+  "looks": "A rounded square split by a diagonal, with a plus at the upper left and a minus at the lower right.",
+  "use": "Use for exposure adjustment or brightness.",
+  "compare": {
+    "lucide": false,
+    "material": "exposure",
+    "sf": false,
+    "tabler": "exposure"
+  }
+}

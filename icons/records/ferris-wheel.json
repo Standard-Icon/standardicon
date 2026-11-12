@@ -1,0 +1,18 @@
+{
+  "name": "ferris-wheel",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:20904",
+  "looks": "A spoked wheel with small cabins on its rim, held up by an A-shaped frame and a base line.",
+  "use": "Use for amusement parks, fairs, or attractions.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": "ferris-wheel",
+    "material": "attractions",
+    "phosphor": false,
+    "radix": false,
+    "tabler": false
+  }
+}

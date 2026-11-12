@@ -1,0 +1,24 @@
+{
+  "name": "plus-circle-dashed",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24156",
+  "looks": "A circle drawn with dashes, with a plus in the middle.",
+  "use": "Use for adding a placeholder or an empty slot.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.434Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle-fading-plus",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": "plus.circle.dashed",
+    "tabler": "circle-dashed-plus"
+  }
+}

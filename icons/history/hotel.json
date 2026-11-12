@@ -1,0 +1,17 @@
+{
+ "name": "hotel",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M4.25 2.5H11.75C11.949 2.5 12.14 2.579 12.28 2.72C12.421 2.86 12.5 3.051 12.5 3.25V12.75C12.5 12.949 12.421 13.14 12.28 13.28C12.14 13.421 11.949 13.5 11.75 13.5H4.25C4.051 13.5 3.86 13.421 3.72 13.28C3.579 13.14 3.5 12.949 3.5 12.75V3.25C3.5 3.051 3.579 2.86 3.72 2.72C3.86 2.579 4.051 2.5 4.25 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 13.5V10.5H9.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 5.5V8M9.5 5.5V8M6.5 6.75H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5 5.5V10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 9H11V10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 9V7.5C7 7.22 7.22 7 7.5 7H10C10.55 7 11 7.45 11 8V9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

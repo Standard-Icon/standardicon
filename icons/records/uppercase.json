@@ -1,0 +1,25 @@
+{
+  "name": "uppercase",
+  "status": "active",
+  "canonical": "letter-a",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:32051",
+  "looks": "The capital letters AB.",
+  "use": "Use for uppercase text or changing case.",
+  "compare": {
+    "fluent": "text-case-uppercase",
+    "lucide": "case-upper",
+    "material": "uppercase",
+    "radix": "letter-case-uppercase",
+    "sf": "characters.uppercase"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "text"
+    }
+  ]
+}

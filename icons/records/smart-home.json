@@ -1,0 +1,27 @@
+{
+  "name": "smart-home",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8627",
+  "looks": "A house shape with a small wireless signal arc and dot inside.",
+  "use": "Use for smart home devices, home automation, or IoT.",
+  "keywords": [
+    "iot",
+    "automation"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "home",
+    "fluent": "home",
+    "heroicons": "home",
+    "lucide": "home",
+    "material": "home",
+    "octicons": "home",
+    "phosphor": "house",
+    "radix": "home",
+    "sf": "house",
+    "tabler": "smart-home"
+  }
+}

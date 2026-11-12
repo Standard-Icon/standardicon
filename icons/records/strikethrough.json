@@ -1,0 +1,27 @@
+{
+  "name": "strikethrough",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1228",
+  "looks": "A capital S with a horizontal line struck through its middle.",
+  "use": "Use for strikethrough text or crossed-out items.",
+  "keywords": [
+    "text",
+    "format"
+  ],
+  "compare": {
+    "carbon": "text-strikethrough",
+    "fluent": "text-strikethrough",
+    "heroicons": "strikethrough",
+    "iconic": "strikethrough",
+    "lucide": "strikethrough",
+    "material": "strikethrough-s",
+    "octicons": "strikethrough",
+    "phosphor": "text-strikethrough",
+    "radix": "strikethrough",
+    "sf": "strikethrough",
+    "tabler": "strikethrough"
+  }
+}

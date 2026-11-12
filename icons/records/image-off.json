@@ -1,0 +1,28 @@
+{
+  "name": "image-off",
+  "status": "active",
+  "parent": "image",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:19510",
+  "looks": "A picture frame with mountains and a sun crossed out by a diagonal line.",
+  "use": "Use for hidden images or no image available.",
+  "approved": {
+    "at": "2026-11-12T01:53:21.071Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "image",
+    "fluent": false,
+    "iconic": false,
+    "lucide": "image-off",
+    "material": "image",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "photo-off"
+  }
+}

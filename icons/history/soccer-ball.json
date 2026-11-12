@@ -1,0 +1,23 @@
+{
+ "name": "soccer-ball",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"5.5\" stroke=\"currentColor\"/><path d=\"M8 5.6L10.28 7.26L9.41 9.94H6.59L5.72 7.26L8 5.6Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.6V2.5M10.28 7.26L13.23 6.3M9.41 9.94L11.23 12.45M6.59 9.94L4.77 12.45M5.72 7.26L2.77 6.3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T07:22:14.556Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><path d=\"M8 5.308L10.558 7.17L9.582 10.176H6.418L5.442 7.17L8 5.308Z\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M8 5.308V1.83M10.558 7.17L13.867 6.093M9.582 10.176L11.623 12.992M6.418 10.176L4.376 12.992M5.442 7.17L2.133 6.093\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><path d=\"M8 5.308L10.558 7.17L9.582 10.176H6.418L5.442 7.17L8 5.308Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.308V1.83M10.558 7.17L13.867 6.093M9.582 10.176L11.623 12.992M6.418 10.176L4.376 12.992M5.442 7.17L2.133 6.093\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

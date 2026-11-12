@@ -1,0 +1,25 @@
+{
+  "name": "love-letter",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:30022",
+  "keywords": [
+    "valentines",
+    "day",
+    "mail",
+    "envelope",
+    "heart",
+    "romance",
+    "holiday"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": false,
+    "material": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

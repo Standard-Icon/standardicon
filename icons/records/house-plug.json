@@ -1,0 +1,24 @@
+{
+  "name": "house-plug",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26680",
+  "looks": "A house outline with an electric plug inside.",
+  "use": "Use for home power, smart home energy, or electricity at home.",
+  "approved": {
+    "at": "2026-11-11T00:22:41.448Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "house-plug",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

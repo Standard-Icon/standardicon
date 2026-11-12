@@ -1,0 +1,29 @@
+{
+ "name": "truck",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2 4H9.5V11.5H2V4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 6.5H12L14 9V11.5H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 12C6 12.332 5.868 12.649 5.634 12.884C5.399 13.118 5.082 13.25 4.75 13.25C4.418 13.25 4.101 13.118 3.866 12.884C3.632 12.649 3.5 12.332 3.5 12C3.5 11.668 3.632 11.351 3.866 11.116C4.101 10.882 4.418 10.75 4.75 10.75C5.082 10.75 5.399 10.882 5.634 11.116C5.868 11.351 6 11.668 6 12Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.75 12C12.75 12.332 12.618 12.649 12.384 12.884C12.149 13.118 11.832 13.25 11.5 13.25C11.168 13.25 10.851 13.118 10.616 12.884C10.382 12.649 10.25 12.332 10.25 12C10.25 11.668 10.382 11.351 10.616 11.116C10.851 10.882 11.168 10.75 11.5 10.75C11.832 10.75 12.149 10.882 12.384 11.116C12.618 11.351 12.75 11.668 12.75 12Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2 3.5H9.5V11H2V3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 6H12L14 8.5V11H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 11.5C6 11.832 5.868 12.149 5.634 12.384C5.399 12.618 5.082 12.75 4.75 12.75C4.418 12.75 4.101 12.618 3.866 12.384C3.632 12.149 3.5 11.832 3.5 11.5C3.5 11.168 3.632 10.851 3.866 10.616C4.101 10.382 4.418 10.25 4.75 10.25C5.082 10.25 5.399 10.382 5.634 10.616C5.868 10.851 6 11.168 6 11.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.75 11.5C12.75 11.832 12.618 12.149 12.384 12.384C12.149 12.618 11.832 12.75 11.5 12.75C11.168 12.75 10.851 12.618 10.616 12.384C10.382 12.149 10.25 11.832 10.25 11.5C10.25 11.168 10.382 10.851 10.616 10.616C10.851 10.382 11.168 10.25 11.5 10.25C11.832 10.25 12.149 10.382 12.384 10.616C12.618 10.851 12.75 11.168 12.75 11.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T02:43:49.866Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2 3.5H9.5V11H2V3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 6H12L14 8.5V11H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.896 12C5.697 12.456 5.247 12.75 4.75 12.75C4.253 12.75 3.803 12.456 3.605 12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.646 12C12.447 12.456 11.997 12.75 11.5 12.75C11.003 12.75 10.553 12.456 10.355 12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T06:16:11.393Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M5.896 11H9.5V3.5H2V11H3.604\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 6H12L14 8.5V11H12.646M10.354 11H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 11.5C6 12.19 5.44 12.75 4.75 12.75C4.06 12.75 3.5 12.19 3.5 11.5C3.5 10.81 4.06 10.25 4.75 10.25C5.44 10.25 6 10.81 6 11.5Z\" stroke=\"currentColor\"/><path d=\"M12.75 11.5C12.75 12.19 12.19 12.75 11.5 12.75C10.81 12.75 10.25 12.19 10.25 11.5C10.25 10.81 10.81 10.25 11.5 10.25C12.19 10.25 12.75 10.81 12.75 11.5Z\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "bat",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:29383",
+  "keywords": [
+    "halloween",
+    "animal",
+    "vampire",
+    "spooky",
+    "night"
+  ],
+  "compare": {
+    "carbon": "bat",
+    "fluent": false,
+    "lucide": false,
+    "tabler": "bat"
+  }
+}

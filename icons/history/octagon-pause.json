@@ -1,0 +1,11 @@
+{
+ "name": "octagon-pause",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M5.6 2.4H10.4L13.6 5.6V10.4L10.4 13.6H5.6L2.4 10.4V5.6L5.6 2.4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 5.75V10.25M9.5 5.75V10.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

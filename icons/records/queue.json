@@ -1,0 +1,21 @@
+{
+  "name": "queue",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:3200",
+  "keywords": [
+    "jobs",
+    "line"
+  ],
+  "compare": {
+    "carbon": "query-queue",
+    "heroicons": "queue-list",
+    "lucide": "logs",
+    "material": "queue-music",
+    "octicons": "git-merge-queue",
+    "phosphor": "queue",
+    "tabler": "queue-pop-in"
+  }
+}

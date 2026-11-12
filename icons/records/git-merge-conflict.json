@@ -1,0 +1,17 @@
+{
+  "name": "git-merge-conflict",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "59:21805",
+  "looks": "Two vertical lines ending in circles at the bottom; the left has a circle on top, the right an x.",
+  "use": "Use for merge conflicts or failed merges.",
+  "compare": {
+    "iconic": false,
+    "lucide": "git-merge-conflict",
+    "octicons": false,
+    "phosphor": false,
+    "tabler": false
+  }
+}

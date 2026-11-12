@@ -1,0 +1,20 @@
+{
+  "name": "magnet",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9458",
+  "looks": "A U-shaped horseshoe magnet opening upward with banded tips.",
+  "use": "Use for magnets, attraction, or snapping.",
+  "keywords": [
+    "attract",
+    "snap"
+  ],
+  "compare": {
+    "lucide": "magnet",
+    "material": false,
+    "phosphor": "magnet",
+    "tabler": "magnet"
+  }
+}

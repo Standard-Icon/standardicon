@@ -1,0 +1,26 @@
+{
+  "name": "ticket",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7274",
+  "looks": "A ticket with notched sides and a dashed vertical tear line near the right end.",
+  "use": "Use for tickets, events, or admissions.",
+  "keywords": [
+    "event",
+    "support",
+    "admission"
+  ],
+  "compare": {
+    "carbon": "ticket",
+    "fluent": "ticket-diagonal",
+    "heroicons": "ticket",
+    "iconic": "ticket",
+    "lucide": "ticket",
+    "material": false,
+    "phosphor": "ticket",
+    "sf": "ticket",
+    "tabler": "ticket"
+  }
+}

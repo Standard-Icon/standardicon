@@ -1,0 +1,23 @@
+{
+ "name": "pencil-ruler",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M4 2.5H7V13.5H4V2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 5H5.5M4 8H5.5M4 11H5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 5L11 2.5L12.5 5V13.5H9.5V5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 5H12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M3.5 2.5H6.5V13.5H3.5V2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 5H5M3.5 8H5M3.5 11H5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 2.5L8.982 4.017V11.983C8.982 12.385 9.142 12.771 9.427 13.056C9.711 13.34 10.097 13.5 10.5 13.5C10.902 13.5 11.288 13.34 11.573 13.056C11.857 12.771 12.017 12.385 12.017 11.983V4.017L10.5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.746 11.222H9.254\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M3.5 2.5H6.5V13.5H3.5V2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 5H5M3.5 8H5M3.5 11H5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 2.5L8.982 4.607V11.983C8.982 12.385 9.142 12.771 9.427 13.056C9.711 13.34 10.097 13.5 10.5 13.5C10.902 13.5 11.288 13.34 11.573 13.056C11.857 12.771 12.017 12.385 12.017 11.983V4.607L10.5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.746 11.222H9.254\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "name": "mail-search-overlay",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M9.55 12L3.5 12C2.948 12 2.5 11.552 2.5 11L2.5 5C2.5 4.448 2.948 4 3.5 4L12.5 4C13.052 4 13.5 4.448 13.5 5L13.5 9.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.8 4.7L8 8.5L13.2 4.7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M13.192 12.071C13.192 12.368 13.073 12.653 12.863 12.863C12.653 13.073 12.368 13.191 12.071 13.191C11.774 13.191 11.489 13.073 11.278 12.863C11.068 12.653 10.95 12.368 10.95 12.071C10.95 11.773 11.068 11.488 11.278 11.278C11.489 11.068 11.774 10.95 12.071 10.95C12.368 10.95 12.653 11.068 12.863 11.278C13.073 11.488 13.192 11.773 13.192 12.071Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.878 12.878L13.55 13.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

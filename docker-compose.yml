@@ -1,0 +1,21 @@
+services:
+  web:
+    build:
+      context: .
+      args:
+        # The public site shows only the splash. Use nginx.conf to bring the full site back.
+        NGINX_CONF: splash/nginx.conf
+    ports:
+      - "127.0.0.1:3027:80"
+    volumes:
+      - splash-data:/data
+    restart: unless-stopped
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+# Icons saved on the /splash page. This survives rebuilds.
+volumes:
+  splash-data:

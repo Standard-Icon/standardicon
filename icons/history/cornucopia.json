@@ -1,0 +1,11 @@
+{
+ "name": "cornucopia",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M11 9.25C11 11.321 10.328 13 9.5 13C8.672 13 8 11.321 8 9.25C8 7.179 8.672 5.5 9.5 5.5C10.328 5.5 11 7.179 11 9.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.499 5.5C6.749 5.75 3.999 5.25 1.999 3.25C1.499 7.25 3.749 13 9.499 13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 7.75C14 8.578 13.328 9.25 12.5 9.25C11.672 9.25 11 8.578 11 7.75C11 6.922 11.672 6.25 12.5 6.25C13.328 6.25 14 6.922 14 7.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 10.75C14 11.578 13.328 12.25 12.5 12.25C11.672 12.25 11 11.578 11 10.75C11 9.922 11.672 9.25 12.5 9.25C13.328 9.25 14 9.922 14 10.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

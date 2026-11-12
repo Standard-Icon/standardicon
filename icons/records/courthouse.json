@@ -1,0 +1,8 @@
+{
+  "name": "courthouse",
+  "status": "covered",
+  "coveredBy": "bank",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Legal"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "piggy-bank",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7587",
+  "looks": "A piggy bank facing right with a coin slot on top, an eye, a snout, and short legs.",
+  "use": "Use for savings, budgets, or deposits.",
+  "keywords": [
+    "savings",
+    "money"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "piggy-bank",
+    "fluent": "savings",
+    "iconic": false,
+    "lucide": "piggy-bank",
+    "material": "savings",
+    "phosphor": "piggy-bank",
+    "tabler": false
+  }
+}

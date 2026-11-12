@@ -1,0 +1,9 @@
+{
+  "name": "git-pull-request-arrow",
+  "status": "covered",
+  "coveredBy": "pull-request",
+  "source": "lucide",
+  "compare": {
+    "lucide": "git-pull-request-arrow"
+  }
+}

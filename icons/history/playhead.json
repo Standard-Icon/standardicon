@@ -1,0 +1,17 @@
+{
+ "name": "playhead",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M3.125 14.797H12.875\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 8.297L8 14.797\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.219 2.203C5.219 1.651 5.666 1.203 6.219 1.203H9.781C10.334 1.203 10.781 1.651 10.781 2.203V5.699C10.781 6.001 10.645 6.287 10.409 6.477L8 8.422L5.591 6.477C5.355 6.287 5.219 6.001 5.219 5.699V2.203Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M3.12 14.797H12.88\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 8.297L8 14.797\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 8.422L10.41 6.477C10.64 6.287 10.78 6.001 10.78 5.699V2.203C10.78 1.651 10.33 1.203 9.78 1.203H6.22C5.67 1.203 5.22 1.651 5.22 2.203V5.699C5.22 6.001 5.36 6.287 5.59 6.477L8 8.422Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

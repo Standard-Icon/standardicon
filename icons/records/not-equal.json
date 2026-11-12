@@ -1,0 +1,17 @@
+{
+  "name": "not-equal",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Math",
+  "figmaId": "275:22471",
+  "compare": {
+    "carbon": false,
+    "fluent": "equal-off",
+    "lucide": "equal-not",
+    "material": false,
+    "phosphor": "not-equals",
+    "sf": "notequal",
+    "tabler": "equal-not"
+  }
+}

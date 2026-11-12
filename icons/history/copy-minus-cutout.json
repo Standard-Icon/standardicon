@@ -1,0 +1,11 @@
+{
+ "name": "copy-minus-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M10.73 7.582V6.831C10.73 6.003 10.059 5.331 9.23 5.331H4.223C3.394 5.331 2.723 6.003 2.723 6.831V11.839C2.723 12.667 3.394 13.339 4.223 13.339H7.791\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.277 7.737V2.662H6.277V5.662\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 11.75H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

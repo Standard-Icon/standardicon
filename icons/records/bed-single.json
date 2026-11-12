@@ -1,0 +1,23 @@
+{
+  "name": "bed-single",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23985",
+  "looks": "A front view of a narrow bed with one headboard and a mattress with legs.",
+  "use": "Use for a single bed or a one-person room.",
+  "approved": {
+    "at": "2026-11-11T19:15:35.682Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": "bed-single",
+    "material": "single-bed",
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

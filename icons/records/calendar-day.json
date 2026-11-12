@@ -1,0 +1,26 @@
+{
+  "name": "calendar-day",
+  "status": "active",
+  "parent": "calendar",
+  "canonical": "calendar",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7165",
+  "looks": "A calendar page with two rings at the top and one small filled square at the upper left of the body.",
+  "use": "Use for today, a single day, or a day view.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": "calendar-day",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "calendar-1",
+    "material": "today",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "calendar.day.timeline.left",
+    "tabler": false
+  }
+}

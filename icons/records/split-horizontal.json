@@ -1,0 +1,23 @@
+{
+  "name": "split-horizontal",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Navigation and layout",
+  "figmaId": "30:3254",
+  "looks": "A wide rounded rectangle split into top and bottom halves by a horizontal line.",
+  "use": "Use for splitting a view into top and bottom panes.",
+  "compare": {
+    "carbon": false,
+    "fluent": "split-horizontal",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "split-square-horizontal",
+    "material": "horizontal-split",
+    "octicons": false,
+    "phosphor": "split-horizontal",
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

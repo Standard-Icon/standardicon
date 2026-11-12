@@ -1,0 +1,24 @@
+{
+  "name": "graduation-cap",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9069",
+  "looks": "A mortarboard cap with a flat square top and a tassel hanging at one side.",
+  "use": "Use for education, courses, or graduation.",
+  "keywords": [
+    "education",
+    "school",
+    "course",
+    "learn"
+  ],
+  "compare": {
+    "fluent": "hat-graduation",
+    "heroicons": "academic-cap",
+    "lucide": "graduation-cap",
+    "phosphor": "graduation-cap",
+    "sf": "graduationcap",
+    "tabler": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "gavel",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7873",
+  "looks": "A judge's gavel tilted to the upper right above a short horizontal block.",
+  "use": "Use for law, auctions, or rulings.",
+  "keywords": [
+    "law",
+    "legal",
+    "auction"
+  ],
+  "compare": {
+    "fluent": "gavel",
+    "lucide": "gavel",
+    "material": "gavel",
+    "phosphor": "gavel",
+    "tabler": "gavel"
+  }
+}

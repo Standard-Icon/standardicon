@@ -1,0 +1,11 @@
+{
+ "name": "mail-plus",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M9.75 12L3.5 12C2.948 12 2.5 11.552 2.5 11L2.5 5C2.5 4.448 2.948 4 3.5 4L12.5 4C13.052 4 13.5 4.448 13.5 5L13.5 9.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.8 4.7L8 8.5L13.2 4.7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.75\" y=\"9.75\" width=\"5\" height=\"5\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.125 12.25H13.375M12.25 11.125V13.375\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

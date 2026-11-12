@@ -1,0 +1,17 @@
+{
+  "name": "earbuds-off",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25084",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "earbuds-off",
+    "material": false,
+    "octicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "turtle",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:19858",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "fluent": "animal-turtle",
+    "lucide": "turtle",
+    "sf": "tortoise"
+  }
+}

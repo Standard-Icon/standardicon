@@ -1,0 +1,23 @@
+{
+ "name": "store",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3 3H13L14 6.5H2L3 3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2 6.5C2 8 5 8 5 6.5C5 8 8 8 8 6.5C8 8 11 8 11 6.5C11 8 14 8 14 6.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 8V13.5H13V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 13.5V10.5H9.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M2.793 3.725C2.915 3.296 3.308 3 3.754 3H12.246C12.692 3 13.085 3.296 13.207 3.725L14 6.5H2L2.793 3.725Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2 6.5C2 8.84 5 8.84 5 6.5C5 8.84 8 8.84 8 6.5C8 8.84 11 8.84 11 6.5C11 8.84 14 8.84 14 6.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 8.316V12.5C3 13.052 3.448 13.5 4 13.5H12C12.552 13.5 13 13.051 13 12.499C13 11.013 13 10.098 13 8.316\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.684 13.5V9.748H9.316V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M14 6L13.207 3.225C13.085 2.796 12.692 2.5 12.246 2.5H3.754C3.308 2.5 2.915 2.796 2.793 3.225L2 6H14Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2 6C2 8.34 5 8.34 5 6C5 8.34 8 8.34 8 6C8 8.34 11 8.34 11 6C11 8.34 14 8.34 14 6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 7.817V12C3 12.552 3.448 13 4 13H12C12.552 13 13 12.552 13 12V7.817\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.684 13V9.248H9.316V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

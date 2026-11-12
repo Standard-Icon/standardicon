@@ -1,0 +1,23 @@
+{
+ "name": "peace-sign",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"5.5\" stroke=\"currentColor\"/><path d=\"M8 2.5V13.5M4.11 11.89L8 8L11.89 11.89\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T07:22:14.556Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><path d=\"M8 1.83V14.17M3.636 12.364L8 8L12.364 12.364\" stroke=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><path d=\"M8 1.83V14.17M3.636 12.364L8 8L12.364 12.364\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

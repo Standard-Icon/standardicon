@@ -1,0 +1,19 @@
+{
+  "name": "shape",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6501",
+  "keywords": [
+    "geometry"
+  ],
+  "compare": {
+    "carbon": "shape-join",
+    "fluent": false,
+    "lucide": false,
+    "material": false,
+    "sf": false,
+    "tabler": "shape"
+  }
+}

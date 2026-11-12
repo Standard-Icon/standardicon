@@ -1,0 +1,28 @@
+{
+  "name": "clock-pending",
+  "status": "active",
+  "parent": "clock",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Status and feedback",
+  "figmaId": "30:3908",
+  "looks": "A clock with hands inside a ring broken into dashes.",
+  "use": "Use for pending, waiting, or in-progress states.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.968Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "pending",
+    "fluent": "clock",
+    "heroicons": "clock",
+    "lucide": "clock",
+    "material": "pending",
+    "octicons": "clock",
+    "phosphor": "clock",
+    "radix": "clock",
+    "sf": "clock",
+    "tabler": "clock"
+  }
+}

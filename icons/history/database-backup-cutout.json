@@ -1,0 +1,11 @@
+{
+ "name": "database-backup-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M13.499 4.207C13.499 5.045 10.932 5.914 7.999 5.914C5.066 5.914 2.499 5.045 2.499 4.207C2.499 3.369 5.066 2.5 7.999 2.5C10.932 2.5 13.499 3.369 13.499 4.207Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.999 9.707C5.066 9.707 2.499 8.838 2.499 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.499 4.207V7.81M7.78 13.498C4.939 13.457 2.499 12.61 2.499 11.793V4.207\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.862 11.888C13.862 12.306 13.738 12.714 13.506 13.061C13.274 13.409 12.944 13.679 12.558 13.839C12.172 13.999 11.748 14.041 11.338 13.959C10.928 13.878 10.552 13.677 10.256 13.381C9.961 13.086 9.76 12.71 9.678 12.3C9.597 11.89 9.639 11.465 9.798 11.079C9.958 10.693 10.229 10.364 10.576 10.131C10.924 9.899 11.332 9.776 11.75 9.776M13.679 9.5V11.245H11.934\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

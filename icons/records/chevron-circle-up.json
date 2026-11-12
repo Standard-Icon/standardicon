@@ -1,0 +1,23 @@
+{
+  "name": "chevron-circle-up",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Chevrons and carets",
+  "figmaId": "27:3588",
+  "looks": "An up chevron inside a circle.",
+  "use": "Use for collapse, show less, or scroll up.",
+  "compare": {
+    "carbon": false,
+    "fluent": "chevron-circle-up",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle-chevron-up",
+    "material": "expand-circle-up",
+    "octicons": false,
+    "phosphor": "caret-circle-up",
+    "radix": false,
+    "sf": "chevron.up.circle",
+    "tabler": "circle-chevron-up"
+  }
+}

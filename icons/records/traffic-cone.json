@@ -1,0 +1,19 @@
+{
+  "name": "traffic-cone",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20747",
+  "looks": "A traffic cone with two stripes across it on a flat base.",
+  "use": "Use for construction, caution, or maintenance.",
+  "compare": {
+    "carbon": "traffic-cone",
+    "fluent": "cone",
+    "lucide": "traffic-cone",
+    "material": false,
+    "phosphor": "traffic-cone",
+    "sf": false,
+    "tabler": "traffic-cone"
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "video-call",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3 4.5H9.5C9.765 4.5 10.02 4.605 10.207 4.793C10.395 4.98 10.5 5.235 10.5 5.5V10.5C10.5 10.765 10.395 11.02 10.207 11.207C10.02 11.395 9.765 11.5 9.5 11.5H3C2.735 11.5 2.48 11.395 2.293 11.207C2.105 11.02 2 10.765 2 10.5V5.5C2 5.235 2.105 4.98 2.293 4.793C2.48 4.605 2.735 4.5 3 4.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 7L14 5V11L10.5 9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"1.513\" y=\"3.524\" width=\"9.47662\" height=\"8.95117\" rx=\"1\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11 6.5L14.5 5V11L11 9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

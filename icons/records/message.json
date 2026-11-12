@@ -1,0 +1,28 @@
+{
+  "name": "message",
+  "status": "active",
+  "canonical": "message",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Communication",
+  "figmaId": "18:1370",
+  "looks": "A rectangular speech bubble with rounded corners and a small tail at the lower left.",
+  "use": "Use for messages, chat, or comments.",
+  "keywords": [
+    "chat",
+    "sms",
+    "bubble"
+  ],
+  "compare": {
+    "carbon": "chat",
+    "fluent": "chat",
+    "heroicons": "chat-bubble-bottom-center",
+    "lucide": "message-square",
+    "material": "chat",
+    "octicons": "comment",
+    "phosphor": "chat",
+    "radix": "chat-bubble",
+    "sf": "message",
+    "tabler": "message"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cloud-check-integrated",
+  "status": "active",
+  "parent": "cloud",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:2874",
+  "looks": "A cloud with a checkmark in the middle.",
+  "use": "Use for synced, saved to the cloud, or backup complete.",
+  "formerNames": [
+    "cloud-check"
+  ],
+  "compare": {
+    "fluent": "cloud-checkmark",
+    "lucide": "cloud-check",
+    "phosphor": "cloud-check",
+    "sf": "checkmark.icloud",
+    "tabler": "cloud-check"
+  }
+}

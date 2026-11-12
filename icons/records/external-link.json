@@ -1,0 +1,8 @@
+{
+  "name": "external-link",
+  "status": "covered",
+  "coveredBy": "pop-out",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout"
+}

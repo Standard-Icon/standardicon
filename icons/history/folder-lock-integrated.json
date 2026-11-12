@@ -1,0 +1,17 @@
+{
+ "name": "folder-lock-integrated",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M13.83 5.77V11.53C13.83 12.26 13.233 12.86 12.497 12.86H3.502C2.766 12.86 2.169 12.26 2.169 11.53V3.81C2.169 3.44 2.467 3.14 2.836 3.14H7.006C7.176 3.14 7.34 3.21 7.463 3.32L8.262 4.07C8.51 4.31 8.836 4.44 9.176 4.44H12.497C13.233 4.44 13.83 5.03 13.83 5.77Z\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M8.971 4.44L8.335 4.86C8.116 5.01 7.859 5.08 7.596 5.08H2.169\" stroke=\"currentColor\" stroke-linecap=\"round\"/><rect x=\"6.598\" y=\"8.48\" width=\"2.83507\" height=\"1.94911\" rx=\"0.3544\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M7.307 8.48V7.94C7.307 7.76 7.381 7.58 7.514 7.44C7.647 7.31 7.827 7.24 8.015 7.24C8.203 7.24 8.384 7.31 8.517 7.44C8.65 7.58 8.724 7.76 8.724 7.94V8.48\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M13.83 5.77V11.525C13.83 12.262 13.233 12.859 12.497 12.859H3.502C2.766 12.859 2.169 12.262 2.169 11.525V3.808C2.169 3.44 2.467 3.141 2.836 3.141H7.006C7.176 3.141 7.34 3.206 7.463 3.322L8.262 4.074C8.51 4.307 8.836 4.437 9.176 4.437H12.497C13.233 4.437 13.83 5.034 13.83 5.77Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.971 4.437L8.335 4.861C8.116 5.007 7.859 5.085 7.596 5.085H2.169\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"6.598\" y=\"8.476\" width=\"2.83507\" height=\"1.94911\" rx=\"0.3544\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M7.307 8.476V7.944C7.307 7.756 7.381 7.576 7.514 7.443C7.647 7.31 7.827 7.235 8.015 7.235C8.203 7.235 8.384 7.31 8.517 7.443C8.65 7.576 8.724 7.756 8.724 7.944V8.476\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "caps-lock-key",
+  "status": "active",
+  "source": "later",
+  "figmaId": "355:29684",
+  "looks": "A keyboard keycap with an up arrow sitting on a short line in its center.",
+  "use": "Use for the caps lock key or uppercase mode.",
+  "compare": {
+    "fluent": false,
+    "phosphor": false,
+    "sf": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "coins",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7456",
+  "looks": "Two overlapping circles, one at upper left and one at lower right.",
+  "use": "Use for coins, money, or small payments.",
+  "keywords": [
+    "money",
+    "currency",
+    "savings"
+  ],
+  "compare": {
+    "fluent": "coin-multiple",
+    "lucide": "coins",
+    "phosphor": "coins",
+    "tabler": "coins"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "hdr",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "184:31915",
+  "looks": "A rounded rectangle with the letters HDR inside.",
+  "use": "Use for HDR photos, video, or high dynamic range.",
+  "compare": {
+    "carbon": "hdr",
+    "material": "hdr-on",
+    "tabler": "hdr"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "photo"
+    }
+  ]
+}

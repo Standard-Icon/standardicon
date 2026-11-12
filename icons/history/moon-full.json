@@ -1,0 +1,17 @@
+{
+ "name": "moon-full",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"5.5\" stroke=\"currentColor\"/><circle cx=\"8\" cy=\"8\" r=\"3.5\" stroke=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-11T07:22:14.556Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><circle cx=\"8\" cy=\"8\" r=\"3.92636\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

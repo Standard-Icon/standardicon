@@ -1,0 +1,11 @@
+{
+ "name": "cake-slice",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.5 6.897V11.897C2.5 12.447 2.95 12.897 3.5 12.897H12.5C13.05 12.897 13.5 12.447 13.5 11.897V9.897H2.5M13.5 9.897V6.897\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"9.255\" cy=\"3.601\" r=\"1.51131\" stroke=\"currentColor\"/><path d=\"M7.75 3.832L2.5 6.898H13.5C13.5 5.173 12.226 3.808 10.78 3.308\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

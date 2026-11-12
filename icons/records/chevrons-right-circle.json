@@ -1,0 +1,23 @@
+{
+  "name": "chevrons-right-circle",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24051",
+  "looks": "A circle with two stacked right chevrons inside.",
+  "use": "Use for fast forward, skipping ahead, or going to the end.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.469Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle-chevrons-right",
+    "material": false,
+    "phosphor": "caret-circle-double-right",
+    "sf": false,
+    "tabler": "circle-chevrons-right"
+  }
+}

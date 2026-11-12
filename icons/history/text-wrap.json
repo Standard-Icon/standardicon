@@ -1,0 +1,11 @@
+{
+ "name": "text-wrap",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.75 3.65H12.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.75 11.059H6.563\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.828 7.293H11.146C12.307 7.293 13.248 8.14 13.248 9.185C13.248 10.23 12.307 11.077 11.146 11.077H9.464\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.918 9.85L8.668 11.1L9.918 12.35\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

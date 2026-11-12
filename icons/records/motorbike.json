@@ -1,0 +1,21 @@
+{
+  "name": "motorbike",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20231",
+  "looks": "A small motorbike with two wheels, a seat, and handlebars.",
+  "use": "Use for motorbikes, scooters, or delivery.",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "fluent": "vehicle-motorcycle",
+    "lucide": "motorbike",
+    "material": "motorcycle",
+    "phosphor": "motorcycle",
+    "sf": "motorcycle",
+    "tabler": "motorbike"
+  }
+}

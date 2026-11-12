@@ -1,0 +1,11 @@
+{
+ "name": "drill",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2 3.5H9C9.265 3.5 9.52 3.605 9.707 3.793C9.895 3.98 10 4.235 10 4.5V7.5C10 7.765 9.895 8.02 9.707 8.207C9.52 8.395 9.265 8.5 9 8.5H2V3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 6H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 8.5L4 12.5H7L7.5 8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

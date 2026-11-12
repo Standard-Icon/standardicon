@@ -1,0 +1,11 @@
+{
+ "name": "eraser",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2.75 10.25L9.25 3.25C9.344 3.144 9.459 3.059 9.589 3C9.718 2.942 9.858 2.912 10 2.912C10.142 2.912 10.282 2.942 10.411 3C10.541 3.059 10.656 3.144 10.75 3.25L13 5.5C13.106 5.594 13.192 5.709 13.25 5.839C13.308 5.968 13.339 6.108 13.339 6.25C13.339 6.392 13.308 6.532 13.25 6.662C13.192 6.791 13.106 6.906 13 7L7.5 12.75H5.25L2.75 10.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.25 6.25L10 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.5 13H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

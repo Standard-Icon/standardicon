@@ -1,0 +1,11 @@
+{
+  "name": "dehumidifier",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22308",
+  "compare": {
+    "sf": "dehumidifier"
+  }
+}

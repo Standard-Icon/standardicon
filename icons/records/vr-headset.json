@@ -1,0 +1,24 @@
+{
+  "name": "vr-headset",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8653",
+  "looks": "A wide goggle shape with a notch for the nose at the bottom and a strap bump on top.",
+  "use": "Use for virtual reality, VR headsets, or immersive views.",
+  "keywords": [
+    "virtual reality",
+    "ar",
+    "goggles"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

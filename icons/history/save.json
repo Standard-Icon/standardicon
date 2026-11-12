@@ -1,0 +1,11 @@
+{
+ "name": "save",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3.5 2.5H10.5L13.5 5.5V12.5C13.5 12.765 13.395 13.02 13.207 13.207C13.02 13.395 12.765 13.5 12.5 13.5H3.5C3.235 13.5 2.98 13.395 2.793 13.207C2.605 13.02 2.5 12.765 2.5 12.5V3.5C2.5 3.235 2.605 2.98 2.793 2.793C2.98 2.605 3.235 2.5 3.5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 2.5V5.5H10V2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 13.5V9H11V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

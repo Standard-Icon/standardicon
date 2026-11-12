@@ -1,0 +1,14 @@
+{
+  "name": "zodiac-scorpio",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22817",
+  "looks": "An m shape whose last leg ends in an arrow pointing right.",
+  "use": "Use for Scorpio, astrology, or horoscopes.",
+  "compare": {
+    "lucide": "zodiac-scorpio",
+    "tabler": "zodiac-scorpio"
+  }
+}

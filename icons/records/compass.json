@@ -1,0 +1,28 @@
+{
+  "name": "compass",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Navigation and layout",
+  "figmaId": "30:3431",
+  "looks": "A circle with a slim diamond needle tilted toward the upper right.",
+  "use": "Use for explore, discover, or navigation.",
+  "keywords": [
+    "explore",
+    "discover"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:23:21.999Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "compass",
+    "fluent": "compass-northwest",
+    "lucide": "compass",
+    "material": "explore",
+    "phosphor": "compass",
+    "sf": false,
+    "tabler": "compass"
+  }
+}

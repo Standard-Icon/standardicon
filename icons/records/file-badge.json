@@ -1,0 +1,19 @@
+{
+  "name": "file-badge",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25733",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "file-badge",
+    "material": false,
+    "octicons": "file-badge",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

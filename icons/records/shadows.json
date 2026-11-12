@@ -1,0 +1,25 @@
+{
+  "name": "shadows",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "184:31816",
+  "looks": "A circle with horizontal lines across its lower half.",
+  "use": "Use for shadows, shading, or the horizon.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.549Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "sf": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "photo"
+    }
+  ]
+}

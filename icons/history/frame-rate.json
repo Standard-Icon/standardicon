@@ -1,0 +1,11 @@
+{
+ "name": "frame-rate",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"6\" y=\"3.5\" width=\"7.5\" height=\"9\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M8.75 6.25L11 8L8.75 9.75V6.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 6H4M2 8H4M2.5 10H4\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

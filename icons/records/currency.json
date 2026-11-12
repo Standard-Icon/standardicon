@@ -1,0 +1,25 @@
+{
+  "name": "currency",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:26625",
+  "looks": "A small circle at the center with four diagonal lines radiating to the corners.",
+  "use": "Use for generic currency, money symbols, or exchange.",
+  "approved": {
+    "at": "2026-11-11T19:15:35.780Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "currency",
+    "fluent": "currency-dollar-euro",
+    "heroicons": false,
+    "lucide": "currency",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": "currency"
+  }
+}

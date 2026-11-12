@@ -1,0 +1,19 @@
+{
+  "name": "tent-tree",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:19986",
+  "looks": "A small tent at the lower left with a pine tree beside it at the upper right.",
+  "use": "Use for campgrounds, outdoors, or nature.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": "tent-tree",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "safe-area",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2\" y=\"3.5\" width=\"12\" height=\"9\" rx=\"2\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"4\" y=\"5.5\" width=\"8\" height=\"5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

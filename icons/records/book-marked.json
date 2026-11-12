@@ -1,0 +1,29 @@
+{
+  "name": "book-marked",
+  "status": "active",
+  "parent": "book-closed",
+  "canonical": "book-closed",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:23924",
+  "looks": "A closed book with a bookmark ribbon hanging from the top right of its cover.",
+  "use": "Use for bookmarks, saved reading, or a reading list.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "book-marked",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  },
+  "compareAlso": {
+    "lucide": [
+      "book-bookmark"
+    ]
+  }
+}

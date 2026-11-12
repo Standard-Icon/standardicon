@@ -1,0 +1,24 @@
+{
+  "name": "truck",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7722",
+  "keywords": [
+    "delivery",
+    "shipping",
+    "freight"
+  ],
+  "compare": {
+    "carbon": "delivery-truck",
+    "fluent": "vehicle-truck",
+    "heroicons": "truck",
+    "iconic": "truck",
+    "lucide": "truck",
+    "material": false,
+    "phosphor": "truck",
+    "sf": "truck.box",
+    "tabler": "truck"
+  }
+}

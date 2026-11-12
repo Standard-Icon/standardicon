@@ -1,0 +1,13 @@
+{
+  "name": "tie",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24892",
+  "looks": "A necktie with a small knot at the top and a pointed tip at the bottom.",
+  "use": "Use for formal wear, business, or dress codes.",
+  "compare": {
+    "tabler": "tie"
+  }
+}

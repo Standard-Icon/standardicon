@@ -1,0 +1,17 @@
+{
+  "name": "zodiac-ophiuchus",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22897",
+  "looks": "A U shape below a wavy line across the top.",
+  "use": "Use for Ophiuchus, astrology, or horoscopes.",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "lucide": "zodiac-ophiuchus",
+    "tabler": false
+  }
+}

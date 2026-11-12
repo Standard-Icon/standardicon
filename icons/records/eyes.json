@@ -1,0 +1,12 @@
+{
+  "name": "eyes",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "People",
+  "figmaId": "273:22734",
+  "compare": {
+    "phosphor": "eyes",
+    "sf": "eyes"
+  }
+}

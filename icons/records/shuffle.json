@@ -1,0 +1,24 @@
+{
+  "name": "shuffle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3824",
+  "looks": "Two lines that cross in the middle, both ending in arrows pointing right.",
+  "use": "Use for shuffle, random order, or mix.",
+  "keywords": [
+    "random",
+    "mix"
+  ],
+  "compare": {
+    "carbon": "shuffle",
+    "fluent": "arrow-shuffle",
+    "lucide": "shuffle",
+    "material": "shuffle",
+    "phosphor": "shuffle",
+    "radix": "shuffle",
+    "sf": "shuffle",
+    "tabler": "arrows-shuffle"
+  }
+}

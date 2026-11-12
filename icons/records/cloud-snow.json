@@ -1,0 +1,24 @@
+{
+  "name": "cloud-snow",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:7816",
+  "keywords": [
+    "weather",
+    "winter"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "cloud-snow",
+    "material": false,
+    "octicons": false,
+    "phosphor": "cloud-snow",
+    "sf": "cloud.snow",
+    "tabler": "cloud-snow"
+  }
+}

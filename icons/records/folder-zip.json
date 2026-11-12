@@ -1,0 +1,20 @@
+{
+  "name": "folder-zip",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26089",
+  "looks": "A folder with a dashed vertical seam near the right side, like a zipper.",
+  "use": "Use for zipped or compressed folders and archives.",
+  "compare": {
+    "carbon": false,
+    "fluent": "folder-zip",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "folder-archive",
+    "material": "folder-zip",
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

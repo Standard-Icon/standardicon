@@ -1,0 +1,25 @@
+{
+  "name": "lightning-bolt",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "59:21997",
+  "looks": "A single lightning bolt slanting down to the left.",
+  "use": "Use for speed, power, automation, or instant actions.",
+  "formerNames": [
+    "zap"
+  ],
+  "compare": {
+    "carbon": "lightning",
+    "fluent": "flash",
+    "heroicons": "bolt",
+    "lucide": "bolt",
+    "material": "bolt",
+    "octicons": "zap",
+    "phosphor": "lightning",
+    "radix": "lightning-bolt",
+    "sf": "bolt",
+    "tabler": "bolt"
+  }
+}

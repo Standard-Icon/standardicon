@@ -1,0 +1,11 @@
+{
+ "name": "power",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M8 2.5V7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.2 4.3C11.99 4.958 12.557 5.843 12.826 6.835C13.095 7.827 13.051 8.877 12.702 9.843C12.352 10.81 11.713 11.645 10.872 12.235C10.03 12.825 9.028 13.142 8 13.142C6.972 13.142 5.97 12.825 5.128 12.235C4.287 11.645 3.648 10.81 3.298 9.843C2.949 8.877 2.905 7.827 3.174 6.835C3.443 5.843 4.01 4.958 4.8 4.3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

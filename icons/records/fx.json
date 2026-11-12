@@ -1,0 +1,13 @@
+{
+  "name": "fx",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24504",
+  "looks": "A cursive lowercase f followed by a small x.",
+  "use": "Use for formulas, spreadsheet functions, or effects.",
+  "compare": {
+    "sf": "fx"
+  }
+}

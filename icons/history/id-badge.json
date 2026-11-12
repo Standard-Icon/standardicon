@@ -1,0 +1,17 @@
+{
+ "name": "id-badge",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4.5 3.5H11.5C11.765 3.5 12.02 3.605 12.207 3.793C12.395 3.98 12.5 4.235 12.5 4.5V12.5C12.5 12.765 12.395 13.02 12.207 13.207C12.02 13.395 11.765 13.5 11.5 13.5H4.5C4.235 13.5 3.98 13.395 3.793 13.207C3.605 13.02 3.5 12.765 3.5 12.5V4.5C3.5 4.235 3.605 3.98 3.793 3.793C3.98 3.605 4.235 3.5 4.5 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 3.5V2.5H9.5V3.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.4 7.25C9.4 7.621 9.253 7.977 8.99 8.24C8.727 8.503 8.371 8.65 8 8.65C7.629 8.65 7.273 8.503 7.01 8.24C6.747 7.977 6.6 7.621 6.6 7.25C6.6 6.879 6.747 6.523 7.01 6.26C7.273 5.998 7.629 5.85 8 5.85C8.371 5.85 8.727 5.998 8.99 6.26C9.253 6.523 9.4 6.879 9.4 7.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 11.5C5.75 10.25 6.75 9.75 8 9.75C9.25 9.75 10.25 10.25 10.5 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"3.5\" y=\"3.5\" width=\"9\" height=\"10\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.5 3.5V2.5H9.5V3.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.227 7.272C9.227 7.95 8.677 8.5 7.999 8.5C7.321 8.5 6.771 7.95 6.771 7.272C6.771 6.594 7.321 6.044 7.999 6.044C8.677 6.044 9.227 6.594 9.227 7.272Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.158 10.956C6.362 9.933 7.058 9.523 8 9.523C8.941 9.523 9.637 9.933 9.842 10.956\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

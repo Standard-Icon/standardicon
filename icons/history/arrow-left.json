@@ -1,0 +1,11 @@
+{
+ "name": "arrow-left",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M12.5 8H3.5M7.5 12L3.5 8L7.5 4\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

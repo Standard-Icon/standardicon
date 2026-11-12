@@ -1,0 +1,20 @@
+{
+  "name": "return-key",
+  "status": "active",
+  "source": "later",
+  "figmaId": "355:29763",
+  "looks": "A keyboard keycap drawn in perspective with a return arrow on top.",
+  "use": "Use for the Return or Enter key.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "corner-down-left",
+    "material": "key",
+    "octicons": false,
+    "phosphor": "key-return",
+    "sf": "return",
+    "tabler": false
+  }
+}

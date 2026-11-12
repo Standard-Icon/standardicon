@@ -1,0 +1,16 @@
+[
+  { "kind": "remove", "keep": "close", "dupes": ["multiply"] },
+  { "kind": "remove", "keep": "signal", "dupes": ["cellular-bars"] },
+  { "kind": "remove", "keep": "location-services", "dupes": ["navigation-arrow"] },
+  { "kind": "remove", "keep": "laptop", "dupes": ["laptop-minimal"] },
+  { "kind": "remove", "keep": "face-sad", "dupes": ["face-frown"] },
+  { "kind": "remove", "keep": "face-smile", "dupes": ["face-smile-slight"] },
+  { "kind": "remove", "keep": "chart-line", "dupes": ["graph-2d"] },
+  { "kind": "remove", "keep": "form", "dupes": ["square-menu", "widget-large"] },
+  { "kind": "remove", "keep": "extension", "dupes": ["puzzle-piece"] },
+  { "kind": "same", "keep": "tally-1", "dupes": ["power-on"] },
+  { "kind": "same", "keep": "heart", "dupes": ["card-heart"] },
+  { "kind": "same", "keep": "hurricane", "dupes": ["tropical-storm"] },
+  { "kind": "close", "keep": "expand", "dupes": ["move-diagonal"] },
+  { "kind": "close", "keep": "distribute-start-horizontal", "dupes": ["justify-start-horizontal"] }
+]

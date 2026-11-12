@@ -1,0 +1,20 @@
+{
+  "name": "grid",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6308",
+  "looks": "A rounded square divided into a three by three grid of cells.",
+  "use": "Use for grid layouts, tables, or snapping.",
+  "compare": {
+    "carbon": "grid",
+    "fluent": "grid",
+    "lucide": "grid",
+    "material": "grid-on",
+    "phosphor": "grid-four",
+    "radix": "grid",
+    "sf": "square.grid.2x2",
+    "tabler": "grid-3x3"
+  }
+}

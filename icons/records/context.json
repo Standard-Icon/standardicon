@@ -1,0 +1,15 @@
+{
+  "name": "context",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:53949",
+  "keywords": [
+    "ai",
+    "memory"
+  ],
+  "compare": {
+    "carbon": "logo-model-context-protocol"
+  }
+}

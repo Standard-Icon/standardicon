@@ -1,0 +1,16 @@
+{
+  "name": "satellite",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21646",
+  "looks": "A satellite with solar panels on a diagonal and two signal arcs at the upper right.",
+  "use": "Use for satellites, GPS, or space communication.",
+  "compare": {
+    "carbon": "satellite",
+    "lucide": "satellite",
+    "material": "satellite",
+    "tabler": "satellite"
+  }
+}

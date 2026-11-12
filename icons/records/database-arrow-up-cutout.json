@@ -1,0 +1,21 @@
+{
+  "name": "database-arrow-up-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29166",
+  "looks": "A database cylinder with an upward arrow cut into the lower right.",
+  "use": "Use for exporting data or uploading to a database.",
+  "compare": {
+    "carbon": false,
+    "fluent": "database-arrow-up",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "database-arrow-up",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

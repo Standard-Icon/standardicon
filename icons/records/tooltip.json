@@ -1,0 +1,23 @@
+{
+  "name": "tooltip",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31434",
+  "looks": "A short, wide rounded box with one line of text and a small point at the bottom center.",
+  "use": "Use for tooltips, hints, or help text.",
+  "compare": {
+    "fluent": "tooltip-quote",
+    "lucide": false,
+    "material": "tooltip",
+    "tabler": "tooltip"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "navigation"
+    }
+  ]
+}

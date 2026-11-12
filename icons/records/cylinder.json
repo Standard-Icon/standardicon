@@ -1,0 +1,16 @@
+{
+  "name": "cylinder",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "58:21793",
+  "looks": "An upright cylinder with an oval top and a curved bottom edge.",
+  "use": "Use for 3D shapes, geometry, or cylinder primitives.",
+  "compare": {
+    "lucide": "cylinder",
+    "phosphor": "cylinder",
+    "sf": "cylinder",
+    "tabler": "cylinder"
+  }
+}

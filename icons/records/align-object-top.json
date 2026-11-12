@@ -1,0 +1,23 @@
+{
+  "name": "align-object-top",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6360",
+  "looks": "Two rounded bars, one tall and one short, hanging from a horizontal line above them.",
+  "use": "Use for aligning objects to the top edge.",
+  "formerNames": [
+    "align-top"
+  ],
+  "compare": {
+    "carbon": "align-vertical-top",
+    "fluent": "align-top",
+    "lucide": "align-start-horizontal",
+    "material": "align-vertical-top",
+    "phosphor": "align-top",
+    "radix": "align-top",
+    "sf": "align.vertical.top",
+    "tabler": "box-align-top"
+  }
+}

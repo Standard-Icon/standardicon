@@ -1,0 +1,21 @@
+{
+  "name": "move",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:2033",
+  "looks": "A plus with arrowheads on all four ends.",
+  "use": "Use for moving, repositioning, or dragging items.",
+  "compare": {
+    "carbon": "move",
+    "fluent": false,
+    "lucide": "move",
+    "material": "move",
+    "octicons": false,
+    "phosphor": "arrows-out-cardinal",
+    "radix": "move",
+    "sf": "move.3d",
+    "tabler": "arrows-move"
+  }
+}

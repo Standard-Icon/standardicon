@@ -1,0 +1,23 @@
+{
+ "name": "tennis",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"5.5\" stroke=\"currentColor\"/><path d=\"M8 2.5C8.35 6.23 6.23 8.35 2.5 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.5 8C9.77 7.65 7.65 9.77 8 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T07:22:14.556Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><path d=\"M8 1.83C8.393 6.014 6.014 8.393 1.83 8\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M14.17 8C9.986 7.607 7.607 9.986 8 14.17\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><path d=\"M8 1.83C8.393 6.014 6.014 8.393 1.83 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14.17 8C9.986 7.607 7.607 9.986 8 14.17\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

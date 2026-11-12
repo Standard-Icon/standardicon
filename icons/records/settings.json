@@ -1,0 +1,28 @@
+{
+  "name": "settings",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Settings and controls",
+  "figmaId": "483:4444",
+  "looks": "A gear with rounded teeth and a circle in the center.",
+  "use": "Use for settings, preferences, or configuration.",
+  "keywords": [
+    "gear",
+    "cog",
+    "preferences",
+    "options"
+  ],
+  "compare": {
+    "carbon": "settings",
+    "fluent": "settings",
+    "heroicons": "cog-6-tooth",
+    "lucide": "settings",
+    "material": "settings",
+    "octicons": "gear",
+    "phosphor": "gear",
+    "radix": "gear",
+    "sf": "gearshape",
+    "tabler": "settings"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "package-x-overlay",
+  "status": "active",
+  "parent": "package",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "56:22481",
+  "looks": "A box with a taped lid and an x inside a small rounded square at the lower right.",
+  "use": "Use for removing a package, a failed delivery, or an uninstall.",
+  "formerNames": [
+    "package-x"
+  ],
+  "compare": {
+    "heroicons": false,
+    "lucide": "package-x",
+    "radix": false,
+    "sf": false
+  }
+}

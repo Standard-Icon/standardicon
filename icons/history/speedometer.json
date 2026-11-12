@@ -1,0 +1,12 @@
+{
+ "name": "speedometer",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M4.111 12.639C1.963 10.491 1.963 7.009 4.111 4.861C6.259 2.713 9.741 2.713 11.889 4.861C14.037 7.009 14.037 10.491 11.889 12.639\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 8.75L10.5 6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"8.75\" r=\"0.75\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

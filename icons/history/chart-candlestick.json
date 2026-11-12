@@ -1,0 +1,17 @@
+{
+ "name": "chart-candlestick",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M5 2.5V5M5 11V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.75 5H6.25C6.316 5 6.38 5.026 6.427 5.073C6.474 5.12 6.5 5.184 6.5 5.25V10.75C6.5 10.816 6.474 10.88 6.427 10.927C6.38 10.974 6.316 11 6.25 11H3.75C3.684 11 3.62 10.974 3.573 10.927C3.526 10.88 3.5 10.816 3.5 10.75V5.25C3.5 5.184 3.526 5.12 3.573 5.073C3.62 5.026 3.684 5 3.75 5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11 2.5V4M11 9V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.75 4H12.25C12.316 4 12.38 4.026 12.427 4.073C12.474 4.12 12.5 4.184 12.5 4.25V8.75C12.5 8.816 12.474 8.88 12.427 8.927C12.38 8.974 12.316 9 12.25 9H9.75C9.684 9 9.62 8.974 9.573 8.927C9.526 8.88 9.5 8.816 9.5 8.75V4.25C9.5 4.184 9.526 4.12 9.573 4.073C9.62 4.026 9.684 4 9.75 4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M5 2.5V5.307M5 11V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"3.5\" y=\"5.394\" width=\"3\" height=\"5.60645\" rx=\"0.25\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M11 2.5V4M11 8.373V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.5\" y=\"4\" width=\"3\" height=\"4.2207\" rx=\"0.25\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

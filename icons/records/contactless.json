@@ -1,0 +1,15 @@
+{
+  "name": "contactless",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:27490",
+  "looks": "A card outline with three curved waves radiating to the upper right.",
+  "use": "Use for contactless payment or tap to pay.",
+  "compare": {
+    "lucide": "nfc",
+    "material": "contactless",
+    "phosphor": "contactless-payment"
+  }
+}

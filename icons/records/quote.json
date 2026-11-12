@@ -1,0 +1,23 @@
+{
+  "name": "quote",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1242",
+  "looks": "Two closing quotation marks, each a filled dot with a curved tail.",
+  "use": "Use for quotes, citations, or blockquotes.",
+  "keywords": [
+    "blockquote"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "text-quote",
+    "lucide": "quote",
+    "material": "format-quote",
+    "octicons": "quote",
+    "radix": "quote",
+    "sf": "quote.opening",
+    "tabler": "quote"
+  }
+}

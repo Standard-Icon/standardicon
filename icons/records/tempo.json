@@ -1,0 +1,12 @@
+{
+  "name": "tempo",
+  "status": "dropped",
+  "coveredBy": "metronome",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "Not drawn: metronome already does this."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "track-solo",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "183:31604",
+  "looks": "A rounded square with a capital letter S inside.",
+  "use": "Use for soloing a track in a mixer or editor.",
+  "compare": {
+    "lucide": false,
+    "material": false,
+    "radix": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "audio"
+    }
+  ]
+}

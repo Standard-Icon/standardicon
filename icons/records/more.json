@@ -1,0 +1,30 @@
+{
+  "name": "more",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "12:1625",
+  "looks": "Three solid dots in a horizontal row.",
+  "use": "Use for more options, an overflow menu, or loading.",
+  "keywords": [
+    "ellipsis",
+    "overflow",
+    "options",
+    "kebab",
+    "dots"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "overflow-menu-horizontal",
+    "fluent": "more-horizontal",
+    "heroicons": "ellipsis-horizontal",
+    "lucide": "ellipsis",
+    "material": "more",
+    "octicons": "kebab-horizontal",
+    "phosphor": "dots-three",
+    "radix": "dots-horizontal",
+    "sf": "ellipsis",
+    "tabler": "dots"
+  }
+}

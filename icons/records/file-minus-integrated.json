@@ -1,0 +1,22 @@
+{
+  "name": "file-minus-integrated",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:4582",
+  "looks": "A page with a folded top right corner and a minus sign in the middle.",
+  "use": "Use for removing a file or a document.",
+  "formerNames": [
+    "file-minus"
+  ],
+  "compare": {
+    "lucide": "file-minus",
+    "phosphor": "file-minus",
+    "radix": "file-minus",
+    "sf": false,
+    "tabler": "file-minus"
+  }
+}

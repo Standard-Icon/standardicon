@@ -1,0 +1,26 @@
+{
+  "name": "audio-input",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "183:31768",
+  "looks": "An arrow pointing right into three vertical bars of different heights.",
+  "use": "Use for audio input, a microphone source, or recording level.",
+  "compare": {
+    "carbon": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "audio"
+    }
+  ]
+}

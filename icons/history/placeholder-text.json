@@ -1,0 +1,11 @@
+{
+ "name": "placeholder-text",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2.5\" y=\"3.5\" width=\"11\" height=\"3\" rx=\"1.5\" stroke=\"currentColor\"/><rect x=\"2.5\" y=\"9.5\" width=\"7\" height=\"3\" rx=\"1.5\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

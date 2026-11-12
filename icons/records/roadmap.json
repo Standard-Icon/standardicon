@@ -1,0 +1,19 @@
+{
+  "name": "roadmap",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7544",
+  "looks": "A winding path that runs right, loops back left, then ends in an arrow pointing right.",
+  "use": "Use for roadmaps, plans, or a route forward.",
+  "keywords": [
+    "plan",
+    "product"
+  ],
+  "compare": {
+    "carbon": "roadmap",
+    "lucide": "kanban",
+    "octicons": "project-roadmap"
+  }
+}

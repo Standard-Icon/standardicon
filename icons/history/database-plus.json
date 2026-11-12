@@ -1,0 +1,11 @@
+{
+ "name": "database-plus",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3 4.5C3 3.4 5.2 2.5 8 2.5C10.8 2.5 13 3.4 13 4.5C13 5.6 10.8 6.5 8 6.5C5.2 6.5 3 5.6 3 4.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 4.5V11.5C3 12.6 5.2 13.5 8 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13 4.5V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 8C3 9.1 5.2 10 8 10C8.7 10 9.4 9.9 10 9.8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12 10V14M10 12H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "text-input",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31475",
+  "looks": "A wide rounded rectangle with a short vertical cursor bar near the left end.",
+  "use": "Use for text fields, form inputs, or typing.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "text-cursor-input",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "status"
+    }
+  ]
+}

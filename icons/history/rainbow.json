@@ -1,0 +1,17 @@
+{
+ "name": "rainbow",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2 12C2 10.409 2.632 8.883 3.757 7.757C4.883 6.632 6.409 6 8 6C9.591 6 11.117 6.632 12.243 7.757C13.368 8.883 14 10.409 14 12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.25 12C4.25 11.005 4.645 10.052 5.348 9.348C6.052 8.645 7.005 8.25 8 8.25C8.995 8.25 9.948 8.645 10.652 9.348C11.355 10.052 11.75 11.005 11.75 12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 12C6.5 11.602 6.658 11.221 6.939 10.939C7.221 10.658 7.602 10.5 8 10.5C8.398 10.5 8.779 10.658 9.061 10.939C9.342 11.221 9.5 11.602 9.5 12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M2 11C2 9.409 2.632 7.883 3.757 6.757C4.883 5.632 6.409 5 8 5C9.591 5 11.117 5.632 12.243 6.757C13.368 7.883 14 9.409 14 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.25 11C4.25 10.005 4.645 9.052 5.348 8.348C6.052 7.645 7.005 7.25 8 7.25C8.995 7.25 9.948 7.645 10.652 8.348C11.355 9.052 11.75 10.005 11.75 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 11C6.5 10.602 6.658 10.221 6.939 9.939C7.221 9.658 7.602 9.5 8 9.5C8.398 9.5 8.779 9.658 9.061 9.939C9.342 10.221 9.5 10.602 9.5 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

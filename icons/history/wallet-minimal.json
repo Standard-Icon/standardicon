@@ -1,0 +1,11 @@
+{
+ "name": "wallet-minimal",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3.5\" width=\"11\" height=\"9\" rx=\"1.5\" stroke=\"currentColor\"/><path d=\"M13.5 6.5H10.5C9.67 6.5 9 7.17 9 8C9 8.83 9.67 9.5 10.5 9.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

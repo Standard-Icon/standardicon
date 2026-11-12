@@ -1,0 +1,30 @@
+{
+  "name": "file-mp4",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "255:19203",
+  "looks": "A page with a folded top right corner and the letters MP4 on it.",
+  "use": "Use for MP4 video files.",
+  "compare": {
+    "carbon": "mp4",
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "file type, label in Polymath Display Bold"
+    }
+  ]
+}

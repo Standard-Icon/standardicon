@@ -1,0 +1,21 @@
+{
+  "name": "package-door",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21942",
+  "looks": "A doorway with a small dot for a handle and a small box sitting at its lower right.",
+  "use": "Use for door delivery or a package left at the door.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "tabler": false
+  }
+}

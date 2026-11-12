@@ -1,0 +1,23 @@
+{
+  "name": "regex",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4731",
+  "looks": "A small filled dot at the lower left and an asterisk at the upper right.",
+  "use": "Use for regular expressions or pattern matching.",
+  "keywords": [
+    "pattern"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T19:15:36.391Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "lucide": "regex",
+    "tabler": "regex"
+  }
+}

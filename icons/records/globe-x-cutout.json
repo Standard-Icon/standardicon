@@ -1,0 +1,15 @@
+{
+  "name": "globe-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28838",
+  "looks": "A globe with a small x cut into its lower right edge.",
+  "use": "Use for offline, a failed connection, or removing a site.",
+  "compare": {
+    "heroicons": false,
+    "lucide": "globe-x",
+    "phosphor": "globe-x",
+    "radix": false,
+    "sf": false
+  }
+}

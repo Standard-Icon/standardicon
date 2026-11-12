@@ -1,0 +1,25 @@
+{
+  "name": "terminal",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Development",
+  "figmaId": "23:2572",
+  "looks": "A rounded rectangle with a > prompt and an underscore cursor beside it.",
+  "use": "Use for a terminal, console, or command line.",
+  "keywords": [
+    "console",
+    "shell",
+    "cli",
+    "command line"
+  ],
+  "compare": {
+    "carbon": "terminal",
+    "lucide": "terminal",
+    "material": "terminal",
+    "octicons": "terminal",
+    "phosphor": "terminal",
+    "sf": false,
+    "tabler": "terminal"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "video-off",
+  "status": "covered",
+  "coveredBy": "video-call-off",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media"
+}

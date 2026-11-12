@@ -1,0 +1,21 @@
+{
+  "name": "stopwatch",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7310",
+  "looks": "A circle with a button on top, a small side button, and a single hand inside.",
+  "use": "Use for a stopwatch, timing, or duration.",
+  "keywords": [
+    "lap",
+    "elapsed"
+  ],
+  "compare": {
+    "lucide": "timer",
+    "octicons": "stopwatch",
+    "radix": "stopwatch",
+    "sf": "stopwatch",
+    "tabler": "stopwatch"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "lightbulb",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Life and everyday",
+  "figmaId": "23:2630",
+  "looks": "A round bulb with a screw base.",
+  "use": "Use for ideas, tips, or lighting.",
+  "keywords": [
+    "idea",
+    "tip",
+    "hint"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:29:25.044Z",
+    "by": "morgan",
+    "version": "2026-11-11T20:25:52.393Z"
+  },
+  "compare": {
+    "carbon": "idea",
+    "fluent": "lightbulb",
+    "heroicons": "light-bulb",
+    "lucide": "lightbulb",
+    "material": "lightbulb",
+    "octicons": "light-bulb",
+    "phosphor": "lightbulb",
+    "sf": "lightbulb",
+    "tabler": "bulb"
+  }
+}

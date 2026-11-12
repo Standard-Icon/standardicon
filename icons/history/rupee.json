@@ -1,0 +1,11 @@
+{
+ "name": "rupee",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M4.5 2.5H11.5M4.5 5.5H11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 2.5H7.25C8.046 2.5 8.809 2.816 9.371 3.379C9.934 3.941 10.25 4.704 10.25 5.5C10.25 6.296 9.934 7.059 9.371 7.621C8.809 8.184 8.046 8.5 7.25 8.5H4.5L10.5 13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "between-horizontal-start",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:24048",
+  "looks": "Two stacked rounded rectangles with a small chevron pointing right at the left side.",
+  "use": "Use for inserting a row before or adding above.",
+  "compare": {
+    "lucide": "between-horizontal-start",
+    "sf": false
+  }
+}

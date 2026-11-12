@@ -1,0 +1,27 @@
+{
+  "name": "circle-arrow-out-down-left",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24048",
+  "looks": "A circle open at the lower left with a diagonal arrow pointing out toward that corner.",
+  "use": "Use for moving down and left or exporting toward the corner.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.502Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "circle-arrow-out-down-left",
+    "material": false,
+    "octicons": false,
+    "phosphor": "arrow-circle-down-left",
+    "radix": false,
+    "sf": "arrow.down.left.circle",
+    "tabler": "arrow-down-left-circle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "redo",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M12 5.724L8.308 5.724L7.138 5.724C5.405 5.724 4 7.129 4 8.862C4 10.595 5.405 12 7.138 12L7.385 12M9.538 8.115L12 5.724L9.538 3.333\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M12 6.224H7.138C5.405 6.224 4 7.629 4 9.362C4 11.095 5.405 12.5 7.138 12.5H7.385M9.538 8.615L12 6.224L9.538 3.833\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M13.048 5.535H6.877C4.677 5.535 2.894 7.318 2.894 9.517C2.894 11.717 4.677 13.5 6.877 13.5H7.19M9.923 8.569L13.048 5.535L9.923 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

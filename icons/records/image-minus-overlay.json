@@ -1,0 +1,18 @@
+{
+  "name": "image-minus-overlay",
+  "status": "active",
+  "parent": "image",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:19369",
+  "looks": "A picture of a sun and mountains with a small rounded square holding a minus at its lower right.",
+  "use": "Use for removing an image.",
+  "formerNames": [
+    "image-minus"
+  ],
+  "compare": {
+    "lucide": "image-minus",
+    "sf": false
+  }
+}

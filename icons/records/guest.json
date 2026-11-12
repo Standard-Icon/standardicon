@@ -1,0 +1,24 @@
+{
+  "name": "guest",
+  "status": "active",
+  "canonical": "person",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:4962",
+  "looks": "A head circle above a dashed shoulder arc.",
+  "use": "Use for a guest user, anonymous visitor, or logged out.",
+  "keywords": [
+    "anonymous",
+    "visitor"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:35.961Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "fluent": "guest",
+    "lucide": false
+  }
+}

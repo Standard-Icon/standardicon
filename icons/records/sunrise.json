@@ -1,0 +1,15 @@
+{
+  "name": "sunrise",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:8025",
+  "compare": {
+    "carbon": "sunrise",
+    "iconic": "sunrise",
+    "lucide": "sunrise",
+    "sf": "sunrise",
+    "tabler": "sunrise"
+  }
+}

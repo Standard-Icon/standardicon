@@ -1,0 +1,22 @@
+{
+  "name": "waves-ladder",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20265",
+  "looks": "A pool ladder with two rails and rungs over two wavy lines.",
+  "use": "Use for a swimming pool or swimming.",
+  "approved": {
+    "at": "2026-11-12T02:40:28.027Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "waves-ladder",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

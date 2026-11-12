@@ -1,0 +1,13 @@
+{
+  "name": "clock-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28558",
+  "looks": "A clock with a checkmark cut into the lower right edge.",
+  "use": "Use for on time, completed tasks, or confirmed times.",
+  "compare": {
+    "lucide": "clock-check",
+    "sf": "clock.badge.checkmark",
+    "tabler": "clock-check"
+  }
+}

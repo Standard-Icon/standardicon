@@ -1,0 +1,19 @@
+{
+  "name": "package-open",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27421",
+  "compare": {
+    "carbon": "package",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "package-open",
+    "material": "package",
+    "octicons": "package",
+    "phosphor": "package",
+    "radix": false,
+    "sf": false,
+    "tabler": "package"
+  }
+}

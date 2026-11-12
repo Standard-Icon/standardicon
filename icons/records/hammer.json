@@ -1,0 +1,28 @@
+{
+  "name": "hammer",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5682",
+  "looks": "A hammer with a handle angled to the lower left and a claw head at the upper right.",
+  "use": "Use for building, tools, or fixing.",
+  "keywords": [
+    "tool",
+    "build"
+  ],
+  "compare": {
+    "lucide": "hammer",
+    "phosphor": "hammer",
+    "sf": "hammer",
+    "tabler": "hammer"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "morgan",
+      "text": "apple’s is better",
+      "issue": "apple-s-is-better"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "chef-hat",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8772",
+  "looks": "A tall puffy chef's hat with a band at the bottom.",
+  "use": "Use for cooking, chefs, or restaurants.",
+  "keywords": [
+    "cooking",
+    "kitchen",
+    "recipe"
+  ],
+  "compare": {
+    "fluent": false,
+    "lucide": "chef-hat",
+    "material": "chef-hat",
+    "phosphor": "chef-hat",
+    "sf": false,
+    "tabler": "chef-hat"
+  }
+}

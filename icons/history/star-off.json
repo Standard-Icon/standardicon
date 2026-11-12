@@ -1,0 +1,11 @@
+{
+ "name": "star-off",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M4.61 9.415L1.859 6.505L5.988 5.731L8 2.043L9.405 4.62M12.734 6.241L14.141 6.505L11.255 9.558L11.795 13.724L8 11.922L6.196 12.778\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13.5L13 3.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

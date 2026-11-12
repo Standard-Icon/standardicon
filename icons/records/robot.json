@@ -1,0 +1,21 @@
+{
+  "name": "robot",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:53872",
+  "looks": "A wide pill shape with two short vertical eyes inside.",
+  "use": "Use for bots, AI, or automation.",
+  "keywords": [
+    "ai",
+    "bot",
+    "automation"
+  ],
+  "compare": {
+    "lucide": "bot",
+    "material": "robot",
+    "phosphor": "robot",
+    "tabler": "robot"
+  }
+}

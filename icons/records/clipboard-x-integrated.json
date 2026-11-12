@@ -1,0 +1,23 @@
+{
+  "name": "clipboard-x-integrated",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24327",
+  "looks": "A clipboard with a clip at the top and an x drawn into its body.",
+  "use": "Use for a rejected form, failed checks, or clearing a clipboard.",
+  "formerNames": [
+    "clipboard-x"
+  ],
+  "approved": {
+    "at": "2026-11-10T22:31:34.883Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "heroicons": false,
+    "lucide": "clipboard-x",
+    "radix": false,
+    "sf": false,
+    "tabler": "clipboard-x"
+  }
+}

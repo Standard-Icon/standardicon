@@ -1,0 +1,11 @@
+{
+ "name": "zodiac-scorpio",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M2.5 2.5C3.1 2.5 3.5 3 3.5 3.75V13M3.5 4C3.5 3 4.1 2.5 4.875 2.5C5.65 2.5 6.25 3 6.25 4V13M6.25 4C6.25 3 6.85 2.5 7.625 2.5C8.4 2.5 9 3 9 4V10.75C9 13 10.5 14 11.75 12.75L13.75 10.75M13.75 13.25V10.75H11.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "name": "dog",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M5.5 3.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 6V9.25C4.5 11.3 6 13 8 13C10 13 11.5 11.3 11.5 9.25V6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 3.5C3.75 3.5 2.5 4.75 2.5 6.5V8C2.5 8.85 3.1 9.5 3.75 9.5C4.2 9.5 4.5 9.2 4.5 8.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 3.5C12.25 3.5 13.5 4.75 13.5 6.5V8C13.5 8.85 12.9 9.5 12.25 9.5C11.8 9.5 11.5 9.2 11.5 8.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"6.5\" cy=\"7\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"9.5\" cy=\"7\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"8\" cy=\"10\" r=\"0.75\" fill=\"currentColor\"/>"
+  }
+ ]
+}

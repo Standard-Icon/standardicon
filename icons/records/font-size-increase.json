@@ -1,0 +1,25 @@
+{
+  "name": "font-size-increase",
+  "status": "active",
+  "canonical": "letter-a",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:32107",
+  "looks": "A capital A with an up arrow on its right.",
+  "use": "Use for increasing font size or larger text.",
+  "compare": {
+    "fluent": false,
+    "lucide": "a-arrow-up",
+    "material": false,
+    "radix": false,
+    "sf": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "text"
+    }
+  ]
+}

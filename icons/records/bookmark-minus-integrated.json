@@ -1,0 +1,20 @@
+{
+  "name": "bookmark-minus-integrated",
+  "status": "active",
+  "parent": "bookmark",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:18906",
+  "looks": "A bookmark ribbon with a short dash drawn near the top inside it.",
+  "use": "Use for removing a bookmark or unsaving.",
+  "formerNames": [
+    "bookmark-minus"
+  ],
+  "compare": {
+    "lucide": "bookmark-minus",
+    "material": "bookmark-remove",
+    "sf": false,
+    "tabler": "bookmark-minus"
+  }
+}

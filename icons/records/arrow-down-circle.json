@@ -1,0 +1,32 @@
+{
+  "name": "arrow-down-circle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Arrows",
+  "figmaId": "27:3461",
+  "looks": "An arrow pointing down inside a circle.",
+  "use": "Use for download, scroll down, or move down.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.268Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "arrow-circle-down",
+    "heroicons": "arrow-down-circle",
+    "lucide": "arrow-down-circle",
+    "material": "arrow-circle-down",
+    "octicons": false,
+    "phosphor": "arrow-circle-down",
+    "radix": false,
+    "sf": "arrow.down.circle",
+    "tabler": "arrow-down-circle"
+  },
+  "compareAlso": {
+    "lucide": [
+      "circle-arrow-down"
+    ]
+  }
+}

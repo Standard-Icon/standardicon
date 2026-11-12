@@ -1,0 +1,11 @@
+{
+ "name": "reply",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M6.5 11L3 7.5L6.5 4M3 7.5H9.5C10.428 7.5 11.318 7.869 11.975 8.525C12.631 9.182 13 10.072 13 11V12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "calendar-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28477",
+  "looks": "A calendar page with two rings at the top and a minus sign cut into the lower right corner.",
+  "use": "Use for removing an event or a date.",
+  "compare": {
+    "lucide": "calendar-minus",
+    "material": false,
+    "phosphor": "calendar-minus",
+    "sf": "calendar.badge.minus",
+    "tabler": "calendar-minus"
+  }
+}

@@ -1,0 +1,7 @@
+[
+  { "kind": "several", "names": ["square-stack", "banknote-stack", "burst", "layers", "layers-minus", "layers-plus", "layers-arrow-down", "layers-arrow-up"] },
+  { "kind": "single", "names": ["calendars", "mails", "tickets", "tags", "magazine"] },
+  { "kind": "borderline", "reason": "Back item partly showing", "names": ["newspaper", "wallet-cards"] },
+  { "kind": "borderline", "reason": "Neighbors, not a stack", "names": ["carousel", "stabilize"] },
+  { "kind": "borderline", "reason": "Bands on one object", "names": ["coin-stack", "database", "database-off", "database-arrow-down", "database-arrow-up", "database-backup", "database-check", "database-cog", "database-minus", "database-plus", "database-search", "database-x", "database-zap"] }
+]

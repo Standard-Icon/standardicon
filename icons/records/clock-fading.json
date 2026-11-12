@@ -1,0 +1,24 @@
+{
+  "name": "clock-fading",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24729",
+  "looks": "A clock face with a broken, dashed ring on one side and hands in the middle.",
+  "use": "Use for time running out, expiring, or fading history.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.948Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "fluent": "clock",
+    "heroicons": "clock",
+    "lucide": "clock-fading",
+    "material": "schedule",
+    "octicons": "clock",
+    "phosphor": "clock",
+    "radix": "clock",
+    "sf": "clock",
+    "tabler": "clock"
+  }
+}

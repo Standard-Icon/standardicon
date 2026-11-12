@@ -1,0 +1,27 @@
+{
+  "name": "space",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31822",
+  "looks": "A long flat horizontal bar with short upturned ends, like the space key symbol.",
+  "use": "Use for the Space key, spacing, or a blank gap.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": "space",
+    "material": "space-bar",
+    "octicons": "space",
+    "radix": false,
+    "sf": "space",
+    "tabler": "space"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "development"
+    }
+  ]
+}

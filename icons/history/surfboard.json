@@ -1,0 +1,11 @@
+{
+ "name": "surfboard",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M13.52 2.48C13.37 5.17 12.07 7.82 9.94 9.94C7.47 12.42 3.93 14.54 2.7 13.3C1.46 12.07 3.58 8.53 6.06 6.06C8.18 3.93 10.83 2.63 13.52 2.48Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.86 3.91L12.09 7.14M7.17 5.05L10.95 8.83\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.88 10.12L4.46 11.54\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

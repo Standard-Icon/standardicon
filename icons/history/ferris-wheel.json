@@ -1,0 +1,11 @@
+{
+ "name": "ferris-wheel",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"6.75\" r=\"4.25\" stroke=\"currentColor\"/><circle cx=\"8\" cy=\"6.75\" r=\"0.75\" fill=\"currentColor\"/><path d=\"M9.75 6.75H12.25M8.88 8.27L10.13 10.43M7.13 8.27L5.88 10.43M6.25 6.75H3.75M7.12 5.23L5.87 3.07M8.88 5.23L10.13 3.07\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.88 10.43L4.5 13.5M10.13 10.43L11.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13.5H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "name": "decimal-decrease",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"3\" cy=\"7\" r=\"0.6\" fill=\"currentColor\"/><rect x=\"5.5\" y=\"2.5\" width=\"3\" height=\"5\" rx=\"1.5\" stroke=\"currentColor\"/><rect x=\"10.5\" y=\"2.5\" width=\"3\" height=\"5\" rx=\"1.5\" stroke=\"currentColor\"/><path d=\"M13.5 11.5H5.5M7.5 13.5L5.5 11.5L7.5 9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

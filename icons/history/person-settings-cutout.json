@@ -1,0 +1,11 @@
+{
+ "name": "person-settings-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M10.25 5.75C10.25 6.993 9.243 8 8 8C6.757 8 5.75 6.993 5.75 5.75C5.75 4.507 6.757 3.5 8 3.5C9.243 3.5 10.25 4.507 10.25 5.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.625 12.5C4.995 10.648 6.243 9.894 7.936 9.875\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.687 11.75C12.687 11.999 12.589 12.237 12.413 12.413C12.237 12.589 11.999 12.687 11.75 12.687C11.501 12.687 11.263 12.589 11.087 12.413C10.911 12.237 10.813 11.999 10.813 11.75C10.813 11.501 10.911 11.263 11.087 11.087C11.263 10.911 11.501 10.812 11.75 10.812C11.999 10.812 12.237 10.911 12.413 11.087C12.589 11.263 12.687 11.501 12.687 11.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.75 9.5V10.062M11.75 13.438V14M9.5 11.75H10.063M13.438 11.75H14M10.156 10.156L10.559 10.559M12.941 12.941L13.344 13.344M13.344 10.156L12.941 10.559M10.559 12.941L10.156 13.344\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

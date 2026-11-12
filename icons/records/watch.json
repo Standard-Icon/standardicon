@@ -1,0 +1,22 @@
+{
+  "name": "watch",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8300",
+  "looks": "A rounded square watch face with short straps above and below.",
+  "use": "Use for smartwatches, wearables, or time.",
+  "keywords": [
+    "wearable",
+    "smartwatch"
+  ],
+  "compare": {
+    "carbon": "watch",
+    "lucide": "watch",
+    "material": "watch",
+    "phosphor": "watch",
+    "sf": "watch.analog",
+    "tabler": "device-watch"
+  }
+}

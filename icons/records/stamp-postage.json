@@ -1,0 +1,14 @@
+{
+  "name": "stamp-postage",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:25054",
+  "compare": {
+    "carbon": false,
+    "lucide": false,
+    "phosphor": false,
+    "tabler": "email-stamp"
+  }
+}

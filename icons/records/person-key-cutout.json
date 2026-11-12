@@ -1,0 +1,14 @@
+{
+  "name": "person-key-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28197",
+  "looks": "A person's head and shoulders with a small key at the lower right.",
+  "use": "Use for credentials, passwords, or user access.",
+  "compare": {
+    "fluent": "person-key",
+    "lucide": "user-key",
+    "sf": "person.badge.key",
+    "tabler": "user-key"
+  }
+}

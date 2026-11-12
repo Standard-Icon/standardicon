@@ -1,0 +1,23 @@
+{
+  "name": "desktop-computer",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21821",
+  "looks": "A monitor on a stand on the left beside a tall tower with a dot on the right.",
+  "use": "Use for a desktop computer, a workstation, or a PC.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": "desktop",
+    "heroicons": "computer-desktop",
+    "lucide": "computer",
+    "material": "computer",
+    "octicons": "device-desktop",
+    "phosphor": "desktop",
+    "radix": "desktop",
+    "sf": "desktopcomputer",
+    "tabler": "device-desktop"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "split-clip",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26407",
+  "looks": "Two rounded halves of a rectangle with a dashed vertical line between them.",
+  "use": "Use for splitting a clip or cutting at the playhead.",
+  "compare": {
+    "carbon": "split",
+    "fluent": "arrow-split",
+    "heroicons": false,
+    "lucide": "split",
+    "material": "call-split",
+    "octicons": false,
+    "phosphor": "arrows-split",
+    "radix": false,
+    "tabler": "arrows-split"
+  }
+}

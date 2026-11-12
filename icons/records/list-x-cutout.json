@@ -1,0 +1,14 @@
+{
+  "name": "list-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28919",
+  "looks": "Three horizontal lines with a small x at the lower right.",
+  "use": "Use for clearing or deleting from a list.",
+  "compare": {
+    "heroicons": false,
+    "lucide": "list-x",
+    "radix": false,
+    "sf": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "stretch-vertical",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23644",
+  "compare": {
+    "carbon": false,
+    "fluent": "align-stretch-vertical",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "stretch-vertical",
+    "material": "align-stretch",
+    "phosphor": false,
+    "radix": "stretch-vertically",
+    "sf": false,
+    "tabler": false
+  }
+}

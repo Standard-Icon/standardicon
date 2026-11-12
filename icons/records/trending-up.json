@@ -1,0 +1,27 @@
+{
+  "name": "trending-up",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "21:1475",
+  "looks": "A zigzag line rising to the upper right and ending in an arrowhead.",
+  "use": "Use for growth, gains, or an upward trend.",
+  "keywords": [
+    "growth",
+    "increase"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "arrow-trending",
+    "heroicons": "arrow-trending-up",
+    "iconic": "trending-up",
+    "lucide": "trending-up",
+    "material": "trending-up",
+    "octicons": false,
+    "phosphor": "trend-up",
+    "radix": false,
+    "sf": false,
+    "tabler": "trending-up"
+  }
+}

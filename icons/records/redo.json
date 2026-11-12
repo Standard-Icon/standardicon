@@ -1,0 +1,28 @@
+{
+  "name": "redo",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "12:813",
+  "looks": "A short hooked curve that bends up and over into an arrow pointing right.",
+  "use": "Use for redo or repeat the last action.",
+  "keywords": [
+    "repeat",
+    "again"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.376Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "redo",
+    "fluent": "arrow-redo",
+    "heroicons": "arrow-uturn-right",
+    "lucide": "redo",
+    "material": "redo",
+    "octicons": "redo",
+    "sf": "arrow.uturn.forward"
+  }
+}

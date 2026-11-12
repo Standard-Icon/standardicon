@@ -1,0 +1,17 @@
+{
+ "name": "strikethrough",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M11 4.25C10.5 3.35 9.5 2.75 8 2.75C6 2.75 4.75 3.85 4.75 5.25C4.75 6.2 5.3 6.9 6.25 7.4M3 8H13M10.6 9.4C11 9.85 11.25 10.4 11.25 11C11.25 12.35 9.9 13.25 8 13.25C6.4 13.25 5.25 12.6 4.75 11.6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M11 4.25C10.5 3.35 9.5 2.75 8 2.75C6 2.75 4.75 3.85 4.75 5.25C4.75 6.2 5.3 6.9 6.25 7.4M2.998 7.441H12.998M10.6 9.4C11 9.85 11.25 10.4 11.25 11C11.25 12.35 9.9 13.25 8 13.25C6.4 13.25 5.25 12.6 4.75 11.6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

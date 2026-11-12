@@ -1,0 +1,19 @@
+{
+  "name": "bell-check-overlay",
+  "status": "active",
+  "parent": "bell",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "56:20144",
+  "looks": "A bell with a small rounded square holding a check overlapping its lower right.",
+  "use": "Use for notifications on, subscribed, or alerts read.",
+  "formerNames": [
+    "bell-check"
+  ],
+  "compare": {
+    "lucide": "bell-check",
+    "sf": false,
+    "tabler": "bell-check"
+  }
+}

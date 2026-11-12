@@ -1,0 +1,25 @@
+{
+  "name": "clock-4",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24591",
+  "looks": "A round clock face with hands pointing to four o'clock.",
+  "use": "Use for 4 o'clock or a specific time.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.884Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "clock",
+    "heroicons": "clock",
+    "lucide": "clock-4",
+    "material": "schedule",
+    "octicons": "clock",
+    "phosphor": "clock",
+    "radix": "clock",
+    "sf": "clock",
+    "tabler": "clock-hour-4"
+  }
+}

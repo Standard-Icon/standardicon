@@ -1,0 +1,26 @@
+{
+  "name": "lens",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26588",
+  "looks": "A circle with a small curved highlight in its upper left.",
+  "use": "Use for camera lenses, glass, or optics.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.224Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": "lens",
+    "material": "lens-blur",
+    "tabler": "lens-convex"
+  },
+  "notes": [
+    {
+      "at": "2026-11-10",
+      "by": "morgan",
+      "text": "what is this? this looks like crap",
+      "issue": "what-is-this-this-looks-like-crap"
+    }
+  ]
+}

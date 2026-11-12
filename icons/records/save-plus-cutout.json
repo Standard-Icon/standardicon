@@ -1,0 +1,12 @@
+{
+  "name": "save-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27641",
+  "looks": "A floppy disk with a small plus cut into its lower right corner.",
+  "use": "Use for save as new or save a copy.",
+  "compare": {
+    "lucide": "save-plus",
+    "sf": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "cpu",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M5 4H11C11.265 4 11.52 4.105 11.707 4.293C11.895 4.48 12 4.735 12 5V11C12 11.265 11.895 11.52 11.707 11.707C11.52 11.895 11.265 12 11 12H5C4.735 12 4.48 11.895 4.293 11.707C4.105 11.52 4 11.265 4 11V5C4 4.735 4.105 4.48 4.293 4.293C4.48 4.105 4.735 4 5 4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.75 6.25H9.25C9.383 6.25 9.51 6.303 9.604 6.396C9.697 6.49 9.75 6.617 9.75 6.75V9.25C9.75 9.383 9.697 9.51 9.604 9.604C9.51 9.697 9.383 9.75 9.25 9.75H6.75C6.617 9.75 6.49 9.697 6.396 9.604C6.303 9.51 6.25 9.383 6.25 9.25V6.75C6.25 6.617 6.303 6.49 6.396 6.396C6.49 6.303 6.617 6.25 6.75 6.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 2V4M9.5 2V4M6.5 12V14M9.5 12V14M2 6.5H4M2 9.5H4M12 6.5H14M12 9.5H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"4\" y=\"4\" width=\"8\" height=\"8\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"6.25\" y=\"6.25\" width=\"3.5\" height=\"3.5\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.5 2V4M9.5 2V4M6.5 12V14M9.5 12V14M2 6.5H4M2 9.5H4M12 6.5H14M12 9.5H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "video-call-plus-integrated",
+  "status": "active",
+  "parent": "video-call",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26828",
+  "looks": "A rounded rectangle camera body with a plus sign inside it and a triangular lens on the right.",
+  "use": "Use for starting a new video call or meeting.",
+  "formerNames": [
+    "video-call-plus",
+    "video-plus"
+  ],
+  "compare": {
+    "carbon": "video-add",
+    "fluent": false,
+    "material": false,
+    "sf": "video.badge.plus",
+    "tabler": "video-plus"
+  }
+}

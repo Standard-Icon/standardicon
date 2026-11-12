@@ -1,0 +1,21 @@
+{
+  "name": "fold-horizontal",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25812",
+  "looks": "A vertical dashed line with arrows pointing at it from the left and right.",
+  "use": "Use for collapsing sideways, merging, or compressing horizontally.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "fold-horizontal",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

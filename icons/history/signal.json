@@ -1,0 +1,11 @@
+{
+ "name": "signal",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3 12V10.5M6.33 12V8.5M9.66 12V6M13 12V3.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

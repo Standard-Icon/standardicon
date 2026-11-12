@@ -1,0 +1,24 @@
+{
+  "id": "octicons",
+  "title": "Octicons",
+  "kind": "svg",
+  "dir": ".workbench/sets/octicons",
+  "order": 2,
+  "off": true,
+  "color": "#8250df",
+  "grid": 16,
+  "matchLine": false,
+  "license": "MIT",
+  "usage": "For comparing only. Downloaded into .workbench/sets/ with `npm run workbench:sets`, which git ignores. No set's geometry is ever traced.",
+  "words": {
+    "person": "person",
+    "close": "x",
+    "settings": "gear",
+    "edit": "pencil",
+    "trash": "trash",
+    "more": "kebab-horizontal",
+    "bell": "bell",
+    "search": "search",
+    "folder": "file-directory"
+  }
+}

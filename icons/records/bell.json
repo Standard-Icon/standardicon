@@ -1,0 +1,27 @@
+{
+  "name": "bell",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Communication",
+  "solid": "needed",
+  "figmaId": "18:1433",
+  "looks": "A bell with a flared rim and a small clapper below.",
+  "use": "Use for notifications, alerts, or reminders.",
+  "keywords": [
+    "notification",
+    "alert"
+  ],
+  "compare": {
+    "carbon": "notification",
+    "fluent": "alert",
+    "heroicons": "bell",
+    "lucide": "bell",
+    "material": "notifications",
+    "octicons": "bell",
+    "phosphor": "bell",
+    "radix": "bell",
+    "sf": "bell",
+    "tabler": "bell"
+  }
+}

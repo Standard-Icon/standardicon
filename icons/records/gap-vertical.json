@@ -1,0 +1,20 @@
+{
+  "name": "gap-vertical",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26133",
+  "looks": "Two horizontal lines at top and bottom with a double ended vertical arrow between them.",
+  "use": "Use for vertical spacing, gap between items, or stack spacing.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "gap-vertical",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

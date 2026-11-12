@@ -1,0 +1,11 @@
+{
+ "name": "toast",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"1.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"4.5\" y=\"9\" width=\"7\" height=\"2.5\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

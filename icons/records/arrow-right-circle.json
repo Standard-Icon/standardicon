@@ -1,0 +1,33 @@
+{
+  "name": "arrow-right-circle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Arrows",
+  "figmaId": "27:3503",
+  "looks": "An arrow pointing right inside a circle.",
+  "use": "Use for next, continue, or go right.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.291Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "arrow-circle-right",
+    "heroicons": "arrow-right-circle",
+    "iconic": false,
+    "lucide": "arrow-right-circle",
+    "material": "arrow-circle-right",
+    "octicons": false,
+    "phosphor": "arrow-circle-right",
+    "radix": false,
+    "sf": "arrow.right.circle",
+    "tabler": "arrow-right-circle"
+  },
+  "compareAlso": {
+    "lucide": [
+      "circle-arrow-right"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "layout-panel-left",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26551",
+  "looks": "A tall panel on the left and two smaller squares stacked on the right.",
+  "use": "Use for a left sidebar layout or a side panel.",
+  "compare": {
+    "carbon": "open-panel-left",
+    "fluent": "panel-left",
+    "lucide": "layout-panel-left",
+    "material": "left-panel-open",
+    "radix": "panel-left",
+    "sf": false,
+    "tabler": "layout-align-left"
+  }
+}

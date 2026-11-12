@@ -1,0 +1,11 @@
+{
+ "name": "bug",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M5 7C5 6.204 5.316 5.441 5.879 4.879C6.441 4.316 7.204 4 8 4C8.796 4 9.559 4.316 10.121 4.879C10.684 5.441 11 6.204 11 7V10C11 10.796 10.684 11.559 10.121 12.121C9.559 12.684 8.796 13 8 13C7.204 13 6.441 12.684 5.879 12.121C5.316 11.559 5 10.796 5 10V7Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 4.5L4.75 3M10 4.5L11.25 3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 7.5H2.5M11 7.5H13.5M5 10.5L2.75 12M11 10.5L13.25 12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 7V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

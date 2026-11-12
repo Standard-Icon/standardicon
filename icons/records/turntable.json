@@ -1,0 +1,14 @@
+{
+  "name": "turntable",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "media",
+  "figmaId": "75:24088",
+  "looks": "A square turntable with a record at the center and a tonearm on the right side.",
+  "use": "Use for vinyl, DJ tools, or record players.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": "turntable"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "align-text-justified",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6166",
+  "looks": "Four horizontal lines of equal length stacked evenly.",
+  "use": "Use for justified text.",
+  "formerNames": [
+    "align-justify"
+  ],
+  "keywords": [
+    "text",
+    "format"
+  ],
+  "compare": {
+    "carbon": "text-align-left",
+    "fluent": "text-align-left",
+    "lucide": "text-align-justify",
+    "phosphor": "text-align-justify",
+    "radix": false,
+    "sf": "text.justify",
+    "tabler": "align-justified"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "tint",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "184:31794",
+  "looks": "A water drop with a horizontal line across its middle.",
+  "use": "Use for tint, color fill, or opacity.",
+  "compare": {
+    "lucide": "droplet",
+    "sf": "drop.halffull"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "photo"
+    }
+  ]
+}

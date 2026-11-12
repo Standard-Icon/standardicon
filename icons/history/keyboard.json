@@ -1,0 +1,17 @@
+{
+ "name": "keyboard",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3 4H13C13.265 4 13.52 4.105 13.707 4.293C13.895 4.48 14 4.735 14 5V11C14 11.265 13.895 11.52 13.707 11.707C13.52 11.895 13.265 12 13 12H3C2.735 12 2.48 11.895 2.293 11.707C2.105 11.52 2 11.265 2 11V5C2 4.735 2.105 4.48 2.293 4.293C2.48 4.105 2.735 4 3 4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 6.75H5M7.25 6.75H8.75M11 6.75H11.5M4.5 9.25H11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2\" y=\"4\" width=\"12\" height=\"8\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.5 6.75H5M7.25 6.75H8.75M11 6.75H11.5M4.5 9.25H11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

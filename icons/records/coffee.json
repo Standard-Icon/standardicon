@@ -1,0 +1,25 @@
+{
+  "name": "coffee",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8606",
+  "looks": "A cup with a handle on the right and two wavy lines of steam rising above it.",
+  "use": "Use for coffee, a break, or a cafe.",
+  "keywords": [
+    "cafe",
+    "mug",
+    "drink",
+    "break"
+  ],
+  "compare": {
+    "fluent": "drink-coffee",
+    "iconic": "mug",
+    "lucide": "coffee",
+    "material": "coffee",
+    "phosphor": "coffee",
+    "sf": "mug",
+    "tabler": "coffee"
+  }
+}

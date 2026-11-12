@@ -1,0 +1,17 @@
+{
+ "name": "flashlight",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M5 3C5 2.72 5.224 2.5 5.5 2.5H10.5C10.776 2.5 11 2.72 11 3V5L9.785 7.02C9.599 7.34 9.5 7.69 9.5 8.05V12.5C9.5 13.05 9.052 13.5 8.5 13.5C8.159 13.5 7.841 13.5 7.5 13.5C6.948 13.5 6.5 13.05 6.5 12.5V8.05C6.5 7.69 6.401 7.34 6.215 7.02L5 5V3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 4.8H11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 9.5V10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M11 5V3C11 2.72 10.776 2.5 10.5 2.5H5.5C5.224 2.5 5 2.72 5 3V5L6.215 7.02C6.401 7.34 6.5 7.69 6.5 8.05V12.5C6.5 13.05 6.948 13.5 7.5 13.5C7.841 13.5 8.159 13.5 8.5 13.5C9.052 13.5 9.5 13.05 9.5 12.5V8.05C9.5 7.69 9.599 7.34 9.785 7.02L11 5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 4.8H11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 9.5V10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

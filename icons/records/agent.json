@@ -1,0 +1,34 @@
+{
+  "name": "agent",
+  "status": "active",
+  "parent": "robot",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:53885",
+  "looks": "A wide rounded pill with two short vertical dots inside, like a face with two eyes.",
+  "use": "Use for an AI agent, bot, or assistant.",
+  "keywords": [
+    "ai",
+    "bot",
+    "assistant"
+  ],
+  "flags": [
+    "audit-ok:K3"
+  ],
+  "compare": {
+    "carbon": "ai-agent",
+    "lucide": "hat-glasses",
+    "material": "support-agent",
+    "octicons": "agent",
+    "tabler": "ai-agent"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "morgan",
+      "text": "agent should be my signature robot",
+      "issue": "agent-should-be-my-signature-robot"
+    }
+  ]
+}

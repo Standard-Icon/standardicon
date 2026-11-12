@@ -1,0 +1,22 @@
+{
+  "name": "move-vertical",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "navigation",
+  "figmaId": "58:21239",
+  "looks": "A vertical line with arrowheads pointing up and down.",
+  "use": "Use for vertical moves, resizing height, or scrolling.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "move-vertical",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "arrows-move-vertical"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "tv",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8326",
+  "keywords": [
+    "television",
+    "screen"
+  ],
+  "compare": {
+    "fluent": "tv",
+    "heroicons": "tv",
+    "iconic": false,
+    "lucide": "tv",
+    "material": "tv",
+    "sf": "tv",
+    "tabler": "device-tv"
+  }
+}

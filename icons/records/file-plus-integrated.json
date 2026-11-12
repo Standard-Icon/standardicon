@@ -1,0 +1,23 @@
+{
+  "name": "file-plus-integrated",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Files and folders",
+  "figmaId": "23:2410",
+  "looks": "A page with a folded top right corner and a plus sign in the middle.",
+  "use": "Use for a new file, a new document, or adding a file.",
+  "formerNames": [
+    "file-plus"
+  ],
+  "compare": {
+    "lucide": "file-plus",
+    "material": false,
+    "phosphor": "file-plus",
+    "radix": "file-plus",
+    "sf": "document.badge.plus",
+    "tabler": "file-plus"
+  }
+}

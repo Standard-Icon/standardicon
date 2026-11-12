@@ -1,0 +1,24 @@
+{
+  "name": "keyboard-music",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26718",
+  "looks": "A piano keyboard with black keys on top of a row of white keys and a bar beneath.",
+  "use": "Use for piano, synthesizers, or keyboards in music.",
+  "approved": {
+    "at": "2026-11-11T00:22:44.333Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "keyboard-music",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

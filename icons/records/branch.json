@@ -1,0 +1,22 @@
+{
+  "name": "branch",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4892",
+  "looks": "A vertical line between two circles with a curved line branching to a third circle at the upper right.",
+  "use": "Use for git branches or version control.",
+  "keywords": [
+    "git"
+  ],
+  "compare": {
+    "carbon": "branch",
+    "fluent": "branch",
+    "lucide": "git-branch",
+    "octicons": "git-branch",
+    "phosphor": "git-branch",
+    "sf": "arrow.trianglehead.branch",
+    "tabler": "git-branch"
+  }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "map",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2.5 4.5L6 3L10 4.5L13.5 3V11.5L10 13L6 11.5L2.5 13V4.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 3V11.5M10 4.5V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M2.5 4.665C2.5 4.565 2.56 4.474 2.651 4.435L5.908 3.039C5.967 3.014 6.034 3.013 6.094 3.035L9.906 4.465C9.966 4.487 10.033 4.486 10.092 4.461L13.151 3.149C13.317 3.079 13.5 3.2 13.5 3.379V11.335C13.5 11.435 13.44 11.525 13.349 11.565L10.092 12.96C10.033 12.986 9.966 12.987 9.906 12.965L6.094 11.535C6.034 11.513 5.967 11.514 5.908 11.54L2.849 12.851C2.683 12.921 2.5 12.8 2.5 12.621V4.665Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 3V11.5M10 4.5V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M2.849 12.851L5.908 11.54C5.967 11.514 6.034 11.513 6.094 11.535L9.906 12.965C9.966 12.987 10.033 12.986 10.092 12.96L13.349 11.565C13.44 11.526 13.5 11.435 13.5 11.335V3.379C13.5 3.2 13.317 3.079 13.151 3.149L10.092 4.46C10.033 4.486 9.966 4.487 9.906 4.465L6.094 3.035C6.034 3.013 5.967 3.014 5.908 3.04L2.651 4.435C2.56 4.474 2.5 4.565 2.5 4.665V12.621C2.5 12.8 2.684 12.921 2.849 12.851Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 3V11.5M10 4.5V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

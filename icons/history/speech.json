@@ -1,0 +1,17 @@
+{
+ "name": "speech",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M9.25 6.25C9.25 7.493 8.24 8.5 7 8.5C5.76 8.5 4.75 7.493 4.75 6.25C4.75 5.007 5.76 4 7 4C8.24 4 9.25 5.007 9.25 6.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.62 13C4 11.125 5.27 10.375 7 10.375C8.72 10.375 10 11.125 10.38 13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.9 4.338C11.21 4.857 11.38 5.512 11.38 6.189C11.38 6.866 11.21 7.521 10.9 8.039\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.83 3.981C13.11 4.652 13.25 5.414 13.25 6.189C13.25 6.964 13.11 7.725 12.83 8.396\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8.926 5.788C8.926 7.208 7.776 8.359 6.356 8.359C4.936 8.359 3.785 7.208 3.785 5.788C3.785 4.369 4.936 3.218 6.356 3.218C7.776 3.218 8.926 4.369 8.926 5.788Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 13.5C2.928 11.358 4.385 10.501 6.356 10.501C8.327 10.501 9.784 11.358 10.212 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.807 3.604C11.162 4.196 11.357 4.945 11.357 5.718C11.357 6.491 11.162 7.24 10.807 7.833\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.017 3.196C13.333 3.962 13.5 4.832 13.5 5.718C13.5 6.604 13.333 7.473 13.017 8.24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

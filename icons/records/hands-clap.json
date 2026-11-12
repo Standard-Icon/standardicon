@@ -1,0 +1,13 @@
+{
+  "name": "hands-clap",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "People",
+  "figmaId": "273:22843",
+  "compare": {
+    "material": false,
+    "phosphor": "hands-praying",
+    "sf": "hands.clap"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "code-block",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1244",
+  "looks": "A forward slash followed by a right-pointing chevron, like a closing tag.",
+  "use": "Use for code blocks or inserting code.",
+  "keywords": [
+    "snippet",
+    "pre"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:35.757Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "code-block",
+    "fluent": "code-block",
+    "heroicons": "code-bracket-square",
+    "lucide": "code",
+    "material": "code",
+    "octicons": "code",
+    "phosphor": "code-block",
+    "radix": "code",
+    "sf": "chevron.left.forwardslash.chevron.right",
+    "tabler": "code"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "citrus",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19427",
+  "looks": "A circle with an inner ring and spokes dividing it into segments, like a cut citrus fruit.",
+  "use": "Use for lemons, oranges, or fruit.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.795Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": "citrus",
+    "phosphor": "orange-slice",
+    "tabler": "lemon"
+  }
+}

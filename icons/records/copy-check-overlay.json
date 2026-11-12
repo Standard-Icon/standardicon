@@ -1,0 +1,19 @@
+{
+  "name": "copy-check-overlay",
+  "status": "active",
+  "parent": "copy",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:19835",
+  "looks": "Two overlapping rounded squares with a check mark inside a small rounded square at the lower right.",
+  "use": "Use for copied, copy succeeded, or a duplicate confirmed.",
+  "formerNames": [
+    "copy-check"
+  ],
+  "compare": {
+    "lucide": "copy-check",
+    "sf": false,
+    "tabler": "copy-check"
+  }
+}

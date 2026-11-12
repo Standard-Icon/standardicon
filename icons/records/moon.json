@@ -1,0 +1,27 @@
+{
+  "name": "moon",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Settings and controls",
+  "solid": "done",
+  "figmaId": "13:1054",
+  "looks": "A crescent moon opening toward the upper right.",
+  "use": "Use for night, dark mode, or sleep.",
+  "keywords": [
+    "dark mode",
+    "night"
+  ],
+  "compare": {
+    "carbon": "moon",
+    "fluent": "weather-moon",
+    "heroicons": "moon",
+    "lucide": "moon",
+    "material": "dark-mode",
+    "octicons": "moon",
+    "phosphor": "moon",
+    "radix": "moon",
+    "sf": "moon",
+    "tabler": "moon"
+  }
+}

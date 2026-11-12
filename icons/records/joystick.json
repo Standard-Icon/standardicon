@@ -1,0 +1,17 @@
+{
+  "name": "joystick",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21852",
+  "looks": "A ball on top of a stick rising from a flat base with a small button dot.",
+  "use": "Use for arcade games, joysticks, or game controls.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": "joystick",
+    "material": "joystick",
+    "phosphor": "joystick",
+    "sf": false
+  }
+}

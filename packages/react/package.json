@@ -1,0 +1,43 @@
+{
+  "name": "@standardicon/react",
+  "version": "0.3.0-alpha.3",
+  "description": "The Standard Icon Set as React components: line icons in nine sizes and five weights, typed so impossible combinations don't compile.",
+  "type": "module",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "sideEffects": false,
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "keywords": [
+    "standard icon",
+    "standard icons",
+    "standard-icon",
+    "standard-icons",
+    "the standard icon set",
+    "icons",
+    "react",
+    "svg",
+    "react-icons",
+    "line-icons"
+  ],
+  "homepage": "https://standardicon.com",
+  "license": "MIT",
+  "author": "Morgan Knutson",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node build.mjs && node --test react.test.mjs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "breakpoint",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M11.5 3V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9 8C9 8.53 8.789 9.039 8.414 9.414C8.039 9.789 7.53 10 7 10C6.47 10 5.961 9.789 5.586 9.414C5.211 9.039 5 8.53 5 8C5 7.47 5.211 6.961 5.586 6.586C5.961 6.211 6.47 6 7 6C7.53 6 8.039 6.211 8.414 6.586C8.789 6.961 9 7.47 9 8Z\" fill=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M11 3V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.5 8C8.5 8.53 8.289 9.039 7.914 9.414C7.539 9.789 7.03 10 6.5 10C5.97 10 5.461 9.789 5.086 9.414C4.711 9.039 4.5 8.53 4.5 8C4.5 7.47 4.711 6.961 5.086 6.586C5.461 6.211 5.97 6 6.5 6C7.03 6 7.539 6.211 7.914 6.586C8.289 6.961 8.5 7.47 8.5 8Z\" fill=\"currentColor\"/>"
+  }
+ ]
+}

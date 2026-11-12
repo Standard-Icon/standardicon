@@ -1,0 +1,26 @@
+{
+  "name": "highlight",
+  "status": "active",
+  "canonical": "pencil",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1250",
+  "looks": "A pencil angled down to the lower left with a short line beside its tip.",
+  "use": "Use for highlighting text or marking passages.",
+  "keywords": [
+    "marker"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:35.997Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "text-highlight",
+    "fluent": "highlight",
+    "lucide": false,
+    "material": "highlight",
+    "tabler": "highlight"
+  }
+}

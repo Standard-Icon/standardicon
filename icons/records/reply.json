@@ -1,0 +1,21 @@
+{
+  "name": "reply",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1827",
+  "looks": "An arrow pointing left with its tail curving down to the right.",
+  "use": "Use for reply or respond to a message.",
+  "compare": {
+    "carbon": "reply",
+    "fluent": "arrow-reply",
+    "heroicons": "arrow-uturn-left",
+    "lucide": "reply",
+    "material": "reply",
+    "octicons": "reply",
+    "phosphor": "arrow-bend-up-left",
+    "sf": "arrowshape.turn.up.left",
+    "tabler": "message-reply"
+  }
+}

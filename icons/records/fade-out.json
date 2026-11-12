@@ -1,0 +1,21 @@
+{
+  "name": "fade-out",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26659",
+  "looks": "A right triangle with a tall left edge sloping down to the lower right.",
+  "use": "Use for a fade out or a volume ramp down.",
+  "compare": {
+    "carbon": "fade",
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "transition-fade",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "tabler": false
+  }
+}

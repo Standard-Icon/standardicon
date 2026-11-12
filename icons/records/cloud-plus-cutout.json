@@ -1,0 +1,13 @@
+{
+  "name": "cloud-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29300",
+  "looks": "A cloud with a plus sign cut into the lower right.",
+  "use": "Use for adding to the cloud or a new cloud item.",
+  "compare": {
+    "fluent": "cloud-add",
+    "sf": false,
+    "tabler": "cloud-plus"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "corner-right-down",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23497",
+  "looks": "A line running from the top left, turning at a corner, and ending in a down arrow.",
+  "use": "Use for a path turning down or moving down from a right corner.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "arrow-turn-right-down",
+    "iconic": false,
+    "lucide": "corner-right-down",
+    "octicons": false,
+    "phosphor": "arrow-bend-right-down",
+    "radix": false,
+    "sf": "arrow.turn.right.down",
+    "tabler": "corner-right-down"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "map-pin-x-overlay",
+  "status": "active",
+  "parent": "map-pin",
+  "canonical": "map-pin",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "maps",
+  "figmaId": "56:22665",
+  "looks": "A location pin with an x in a rounded square at the lower right.",
+  "use": "Use for an invalid location or removing a place.",
+  "formerNames": [
+    "map-pin-x"
+  ],
+  "compare": {
+    "heroicons": false,
+    "lucide": "map-pin-x",
+    "material": "wrong-location",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "map-pin-x"
+  }
+}

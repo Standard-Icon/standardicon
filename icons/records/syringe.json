@@ -1,0 +1,21 @@
+{
+  "name": "syringe",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8892",
+  "looks": "A syringe angled with the needle at the lower left and the plunger at the upper right.",
+  "use": "Use for vaccines, injections, or shots.",
+  "keywords": [
+    "vaccine",
+    "injection",
+    "medical"
+  ],
+  "compare": {
+    "lucide": "syringe",
+    "material": "syringe",
+    "phosphor": "syringe",
+    "sf": "syringe"
+  }
+}

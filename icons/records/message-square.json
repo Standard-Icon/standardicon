@@ -1,0 +1,8 @@
+{
+  "name": "message-square",
+  "status": "covered",
+  "coveredBy": "message",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication"
+}

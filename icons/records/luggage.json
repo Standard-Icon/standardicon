@@ -1,0 +1,23 @@
+{
+  "name": "luggage",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "151:39807",
+  "looks": "A rolling suitcase with a handle on top, two vertical stripes, and two small wheels.",
+  "use": "Use for luggage, travel, or baggage.",
+  "keywords": [
+    "suitcase",
+    "travel",
+    "baggage"
+  ],
+  "compare": {
+    "fluent": "luggage",
+    "lucide": "luggage",
+    "material": "luggage",
+    "phosphor": "suitcase-rolling",
+    "sf": "suitcase",
+    "tabler": "luggage"
+  }
+}

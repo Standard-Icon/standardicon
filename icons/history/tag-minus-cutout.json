@@ -1,0 +1,12 @@
+{
+ "name": "tag-minus-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M13.953 8.01L8.099 2.15L3.092 2.78L2.466 7.79L7.662 12.98\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"5.4\" cy=\"5.09\" r=\"0.879771\" fill=\"currentColor\"/><path d=\"M9.5 11.75H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

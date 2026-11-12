@@ -1,0 +1,11 @@
+{
+ "name": "scooter",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"3.75\" cy=\"12\" r=\"1.5\" stroke=\"currentColor\"/><circle cx=\"12.25\" cy=\"12\" r=\"1.5\" stroke=\"currentColor\"/><path d=\"M5.25 12H10.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 2.5H12.5M11 2.5L12.25 10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

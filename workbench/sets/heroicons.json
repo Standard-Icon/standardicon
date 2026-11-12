@@ -1,0 +1,25 @@
+{
+  "id": "heroicons",
+  "title": "Heroicons Micro",
+  "kind": "svg",
+  "dir": ".workbench/sets/heroicons",
+  "order": 6,
+  "off": true,
+  "color": "#c026d3",
+  "grid": 16,
+  "matchLine": false,
+  "license": "MIT",
+  "usage": "For comparing only. Downloaded into .workbench/sets/ with `npm run workbench:sets`, which git ignores. No set's geometry is ever traced.",
+  "words": {
+    "close": "x-mark",
+    "x": "x-mark",
+    "settings": "cog-6-tooth",
+    "trash": "trash",
+    "edit": "pencil",
+    "person": "user",
+    "people": "users",
+    "search": "magnifying-glass",
+    "more": "ellipsis-horizontal",
+    "home": "home"
+  }
+}

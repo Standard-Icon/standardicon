@@ -1,0 +1,20 @@
+{
+  "name": "panel-left-close",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "navigation",
+  "figmaId": "58:21039",
+  "looks": "A wide rounded rectangle with a narrow left column and a left chevron in the main area.",
+  "use": "Use for hiding or collapsing the left sidebar.",
+  "compare": {
+    "carbon": false,
+    "fluent": "panel-left-text-dismiss",
+    "heroicons": false,
+    "lucide": "panel-left-close",
+    "material": "left-panel-close",
+    "radix": "panel-left",
+    "sf": false,
+    "tabler": false
+  }
+}

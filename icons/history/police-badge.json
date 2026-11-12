@@ -1,0 +1,17 @@
+{
+ "name": "police-badge",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M8 2.5L13 4.5V8C13 10.75 10.75 12.75 8 13.5C5.25 12.75 3 10.75 3 8V4.5L8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.5L8.7 7.1L10.4 7.25L9.1 8.4L9.5 10.1L8 9.2L6.5 10.1L6.9 8.4L5.6 7.25L7.3 7.1L8 5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M8 2.5L13 4.5V8C13 10.75 10.75 12.75 8 13.5C5.25 12.75 3 10.75 3 8V4.5L8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.5L8.786 6.941L10.4 7.244L9.272 8.437L9.483 10.065L8 9.361L6.517 10.065L6.728 8.437L5.6 7.244L7.214 6.941L8 5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

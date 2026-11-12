@@ -1,0 +1,11 @@
+{
+ "name": "personal-hotspot",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M9.9 5.732C10.5 6.334 10.84 7.15 10.84 8C10.84 8.85 10.5 9.666 9.9 10.268\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"2.59\" y=\"4.315\" width=\"5.18468\" height=\"7.36903\" rx=\"1\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.71 3.917C12.25 4.453 12.68 5.09 12.97 5.79C13.26 6.491 13.41 7.242 13.41 8C13.41 8.758 13.26 9.509 12.97 10.21C12.68 10.91 12.25 11.547 11.71 12.083\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

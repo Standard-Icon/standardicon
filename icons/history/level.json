@@ -1,0 +1,11 @@
+{
+ "name": "level",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"1.5\" y=\"4.5\" width=\"13\" height=\"7\" rx=\"1\" stroke=\"currentColor\"/><rect x=\"5.5\" y=\"6.5\" width=\"5\" height=\"3\" rx=\"1.5\" stroke=\"currentColor\"/><circle cx=\"8\" cy=\"8\" r=\"0.6\" fill=\"currentColor\"/>"
+  }
+ ]
+}

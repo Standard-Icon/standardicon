@@ -1,0 +1,13 @@
+{
+  "name": "dna",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27392",
+  "compare": {
+    "lucide": "dna",
+    "phosphor": "dna",
+    "tabler": "dna"
+  }
+}

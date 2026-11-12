@@ -1,0 +1,30 @@
+{
+  "name": "file-webp",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "255:19122",
+  "looks": "A page with a folded top right corner and the letters WEBP on it.",
+  "use": "Use for WebP images.",
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "file type, label in Polymath Display Bold"
+    }
+  ]
+}

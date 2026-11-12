@@ -1,0 +1,11 @@
+{
+ "name": "guitar",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M3.247 12.751C4.517 14.021 6.147 14.091 7.207 13.031C7.987 12.261 7.95 11.284 8.523 10.561C8.891 10.113 9.117 10.281 9.677 9.711C10.317 9.071 10.177 8.081 9.677 7.591L8.407 6.321C7.917 5.821 6.927 5.681 6.287 6.321C5.717 6.881 5.885 7.107 5.437 7.474C4.714 8.048 3.737 8.011 2.967 8.791C1.907 9.851 1.977 11.481 3.247 12.751Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.371 8.628L11.559 4.441\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.456 3.527L12.715 4.263C12.444 4.532 12.007 4.531 11.737 4.261C11.467 3.991 11.466 3.554 11.735 3.283L12.471 2.542L13.456 3.527Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.367 10.733L5.268 11.633\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"6.393\" cy=\"9.607\" r=\"1\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "bomb",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "59:22585",
+  "compare": {
+    "lucide": "bomb",
+    "material": "bomb",
+    "phosphor": "bomb",
+    "tabler": "bomb"
+  }
+}

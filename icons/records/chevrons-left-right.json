@@ -1,0 +1,22 @@
+{
+  "name": "chevrons-left-right",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24068",
+  "looks": "A left chevron and a right chevron facing outward, separated by a gap.",
+  "use": "Use for code, expanding horizontally, or both directions.",
+  "approved": {
+    "at": "2026-11-10T19:50:24.407Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "chevrons-left-right",
+    "material": false,
+    "phosphor": false,
+    "sf": "chevron.left.chevron.right",
+    "tabler": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "piano",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "media",
+  "figmaId": "58:21919",
+  "looks": "A rounded rectangle with piano keys, showing two black keys hanging from the top.",
+  "use": "Use for piano, keyboards, or music instruments.",
+  "compare": {
+    "lucide": "piano",
+    "material": "piano",
+    "phosphor": "piano-keys",
+    "tabler": "piano"
+  }
+}

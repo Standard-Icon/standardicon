@@ -1,0 +1,21 @@
+{
+  "name": "tablet",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8253",
+  "keywords": [
+    "ipad"
+  ],
+  "compare": {
+    "carbon": "tablet",
+    "fluent": "tablet",
+    "heroicons": "device-tablet",
+    "iconic": "tablet",
+    "lucide": "tablet",
+    "material": "tablet",
+    "phosphor": "device-tablet",
+    "tabler": "device-tablet"
+  }
+}

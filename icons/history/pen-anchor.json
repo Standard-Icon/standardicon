@@ -1,0 +1,11 @@
+{
+ "name": "pen-anchor",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M4.287 4.038L10.651 5.452L12.773 10.401L10.651 12.523L5.702 10.401L4.287 4.038Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.288 4.038L8.177 7.927\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.238 7.927C9.378 8.067 9.457 8.258 9.457 8.457C9.457 8.656 9.378 8.847 9.238 8.987C9.097 9.128 8.906 9.207 8.707 9.207C8.508 9.207 8.317 9.128 8.177 8.987C8.036 8.847 7.957 8.656 7.957 8.457C7.957 8.258 8.036 8.067 8.177 7.927C8.317 7.786 8.508 7.707 8.707 7.707C8.906 7.707 9.097 7.786 9.238 7.927Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"13.779\" cy=\"13.295\" r=\"0.865723\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

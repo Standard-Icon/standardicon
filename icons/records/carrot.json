@@ -1,0 +1,21 @@
+{
+  "name": "carrot",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19369",
+  "looks": "A carrot pointing down to the lower left, with leafy tops at the upper right.",
+  "use": "Use for vegetables, carrots, or produce.",
+  "approved": {
+    "at": "2026-11-12T19:39:47.352Z",
+    "by": "Morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "carrot",
+    "phosphor": "carrot",
+    "sf": "carrot",
+    "tabler": "carrot"
+  }
+}

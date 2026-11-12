@@ -1,0 +1,11 @@
+{
+ "name": "power-strip",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"1.5\" y=\"8.5\" width=\"13\" height=\"5\" rx=\"1.33\" stroke=\"currentColor\"/><circle cx=\"4.5\" cy=\"11\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"8\" cy=\"11\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"11.5\" cy=\"11\" r=\"0.6\" fill=\"currentColor\"/><path d=\"M4 2H5.5C6.052 2 6.5 2.448 6.5 3V4C6.5 4.552 6.052 5 5.5 5H4V2Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.75 2.75H4M2.75 4.25H4\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 3.5H9C10.4 3.5 11.5 4.6 11.5 6V8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "guides",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6334",
+  "keywords": [
+    "rulers",
+    "alignment"
+  ],
+  "compare": {
+    "lucide": false,
+    "material": "grid-guides"
+  }
+}

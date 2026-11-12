@@ -1,0 +1,11 @@
+{
+ "name": "commit",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M10.5 8C10.5 8.663 10.237 9.299 9.768 9.768C9.299 10.237 8.663 10.5 8 10.5C7.337 10.5 6.701 10.237 6.232 9.768C5.763 9.299 5.5 8.663 5.5 8C5.5 7.337 5.763 6.701 6.232 6.232C6.701 5.763 7.337 5.5 8 5.5C8.663 5.5 9.299 5.763 9.768 6.232C10.237 6.701 10.5 7.337 10.5 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 8H5.5M10.5 8H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

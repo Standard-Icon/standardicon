@@ -1,0 +1,16 @@
+{
+  "name": "flag-triangle-right",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25778",
+  "looks": "A flag pole with a triangular pennant pointing right.",
+  "use": "Use for flagging, marking a spot, or a goal.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": "flag-triangle-right",
+    "octicons": false,
+    "radix": false,
+    "sf": false
+  }
+}

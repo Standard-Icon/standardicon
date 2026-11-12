@@ -1,0 +1,24 @@
+{
+  "name": "message-oval",
+  "status": "active",
+  "canonical": "message-oval",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Communication",
+  "figmaId": "23:2211",
+  "looks": "An oval speech bubble with a small tail at the lower left.",
+  "use": "Use for messages, chat, or conversations.",
+  "formerNames": [
+    "comment"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "chat-bubble-oval-left",
+    "lucide": "message-circle",
+    "material": "chat-bubble",
+    "phosphor": "chat-circle",
+    "sf": "bubble",
+    "tabler": "message"
+  }
+}

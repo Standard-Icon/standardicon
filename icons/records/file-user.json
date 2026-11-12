@@ -1,0 +1,20 @@
+{
+  "name": "file-user",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25259",
+  "looks": "A file with a folded top right corner and a person bust inside.",
+  "use": "Use for a personal document, profile file, or resume.",
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "file-user",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

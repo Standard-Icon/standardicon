@@ -1,0 +1,33 @@
+{
+  "name": "calendar",
+  "status": "active",
+  "canonical": "calendar",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Time and planning",
+  "figmaId": "18:1412",
+  "looks": "A calendar page with two rings at the top and a header line, the body left empty.",
+  "use": "Use for dates, schedules, or events.",
+  "keywords": [
+    "date",
+    "schedule",
+    "event"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:23:21.369Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "calendar",
+    "fluent": "calendar",
+    "heroicons": "calendar",
+    "lucide": "calendar",
+    "material": "calendar-today",
+    "octicons": "calendar",
+    "phosphor": "calendar",
+    "radix": "calendar",
+    "sf": "calendar",
+    "tabler": "calendar"
+  }
+}

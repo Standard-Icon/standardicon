@@ -1,0 +1,11 @@
+{
+ "name": "hdr",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"1.5\" y=\"4\" width=\"13\" height=\"8\" rx=\"1.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.5 6V10M3.5 8H5.5V6M5.5 8V10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 6V10H7.5C8.6 10 9.25 9.1 9.25 8C9.25 6.9 8.6 6 7.5 6H7Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 10V6H11.6C12.2 6 12.6 6.45 12.6 7.05C12.6 7.65 12.2 8.1 11.6 8.1H10.5M11.6 8.1L12.6 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

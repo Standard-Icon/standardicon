@@ -1,0 +1,19 @@
+{
+  "name": "heart-check-integrated",
+  "status": "active",
+  "parent": "heart",
+  "canonical": "heart",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:19258",
+  "looks": "A heart with a small check mark drawn in the middle.",
+  "use": "Use for liked, favorited, or a saved favorite.",
+  "formerNames": [
+    "heart-check"
+  ],
+  "compare": {
+    "sf": false,
+    "tabler": "heart-check"
+  }
+}

@@ -1,0 +1,12 @@
+{
+ "name": "confetti",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M2.5 3.5C3.75 2.25 5 4.75 6.25 3.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 2L12.5 2.75L11.75 5.25L9.25 4.5L10 2Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 8.25C5.5 9.078 4.828 9.75 4 9.75C3.172 9.75 2.5 9.078 2.5 8.25C2.5 7.422 3.172 6.75 4 6.75C4.828 6.75 5.5 7.422 5.5 8.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 8.25C9.25 7 10.5 9.5 11.75 8.25C12.25 7.75 13 7.75 13.5 8.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.5 12.25C13.5 13.078 12.828 13.75 12 13.75C11.172 13.75 10.5 13.078 10.5 12.25C10.5 11.422 11.172 10.75 12 10.75C12.828 10.75 13.5 11.422 13.5 12.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.25 13.25C3.664 13.25 4 12.914 4 12.5C4 12.086 3.664 11.75 3.25 11.75C2.836 11.75 2.5 12.086 2.5 12.5C2.5 12.914 2.836 13.25 3.25 13.25Z\" fill=\"currentColor\"/><path d=\"M6 11.25L8 10.75L8.5 12.75L6.5 13.25L6 11.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

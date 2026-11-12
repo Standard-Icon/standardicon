@@ -1,0 +1,26 @@
+{
+  "name": "arrow-big-down-dash",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23930",
+  "looks": "A hollow block arrow pointing down with a short dash above it.",
+  "use": "Use for jump down, download to a line, or moving to the bottom.",
+  "approved": {
+    "at": "2026-11-10T19:48:57.603Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "arrow-big-down-dash",
+    "material": false,
+    "octicons": false,
+    "phosphor": "arrow-fat-line-down",
+    "radix": false,
+    "sf": false,
+    "tabler": "arrow-big-down-line"
+  }
+}

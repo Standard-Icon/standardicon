@@ -1,0 +1,17 @@
+{
+ "name": "star",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M8 3.167L9.167 6.833H12.833L9.833 9.167L10.833 12.833L8 10.5L5.167 12.833L6.167 9.167L3.167 6.833H6.833L8 3.167Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M8 2.043L10.012 5.731L14.141 6.505L11.255 9.558L11.795 13.724L8 11.922L4.205 13.724L4.745 9.558L1.859 6.505L5.989 5.731L8 2.043Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

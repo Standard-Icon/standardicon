@@ -1,0 +1,11 @@
+{
+ "name": "function",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M11 3H10C9.47 3 8.961 3.211 8.586 3.586C8.211 3.961 8 4.47 8 5V11C8 11.53 7.789 12.039 7.414 12.414C7.039 12.789 6.53 13 6 13H5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 7.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

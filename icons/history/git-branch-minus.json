@@ -1,0 +1,11 @@
+{
+ "name": "git-branch-minus",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M6.25 3.75C6.25 4.082 6.118 4.399 5.884 4.634C5.649 4.868 5.332 5 5 5C4.668 5 4.351 4.868 4.116 4.634C3.882 4.399 3.75 4.082 3.75 3.75C3.75 3.418 3.882 3.101 4.116 2.866C4.351 2.632 4.668 2.5 5 2.5C5.332 2.5 5.649 2.632 5.884 2.866C6.118 3.101 6.25 3.418 6.25 3.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.25 12.25C6.25 12.582 6.118 12.899 5.884 13.134C5.649 13.368 5.332 13.5 5 13.5C4.668 13.5 4.351 13.368 4.116 13.134C3.882 12.899 3.75 12.582 3.75 12.25C3.75 11.918 3.882 11.601 4.116 11.366C4.351 11.132 4.668 11 5 11C5.332 11 5.649 11.132 5.884 11.366C6.118 11.601 6.25 11.918 6.25 12.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 5V11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11 6C11 9.5 5 7 5 10.85\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.75 3.5H12.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

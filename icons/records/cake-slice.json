@@ -1,0 +1,19 @@
+{
+  "name": "cake-slice",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19298",
+  "looks": "A single slice of layered cake with a cherry on top.",
+  "use": "Use for cake, dessert, or celebrations.",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "cake-slice",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

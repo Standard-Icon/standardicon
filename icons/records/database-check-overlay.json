@@ -1,0 +1,18 @@
+{
+  "name": "database-check-overlay",
+  "status": "active",
+  "parent": "database",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:21968",
+  "looks": "A stacked database cylinder with a small rounded square holding a check overlapping its lower right.",
+  "use": "Use for a verified or healthy database.",
+  "formerNames": [
+    "database-check"
+  ],
+  "compare": {
+    "fluent": "database-checkmark",
+    "lucide": "database-check"
+  }
+}

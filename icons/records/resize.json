@@ -1,0 +1,16 @@
+{
+  "name": "resize",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:25815",
+  "compare": {
+    "fluent": "resize",
+    "lucide": "scaling",
+    "material": "resize",
+    "phosphor": "resize",
+    "sf": "square.resize",
+    "tabler": "resize"
+  }
+}

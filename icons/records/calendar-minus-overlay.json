@@ -1,0 +1,27 @@
+{
+  "name": "calendar-minus-overlay",
+  "status": "active",
+  "parent": "calendar",
+  "canonical": "calendar",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:20965",
+  "looks": "A calendar page with two rings at the top and a small rounded square holding a minus overlapping its lower right.",
+  "use": "Use for removing a date or event from a calendar.",
+  "formerNames": [
+    "calendar-minus"
+  ],
+  "compare": {
+    "lucide": "calendar-minus",
+    "material": false,
+    "phosphor": "calendar-minus",
+    "sf": "calendar.badge.minus",
+    "tabler": "calendar-minus"
+  },
+  "compareAlso": {
+    "lucide": [
+      "calendar-minus-2"
+    ]
+  }
+}

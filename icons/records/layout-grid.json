@@ -1,0 +1,20 @@
+{
+  "name": "layout-grid",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "21:1670",
+  "looks": "Four small rounded squares in a two by two grid.",
+  "use": "Use for grid view, tiles, or a gallery.",
+  "compare": {
+    "carbon": "grid",
+    "fluent": "grid",
+    "lucide": "layout-grid",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "square.grid.2x2",
+    "tabler": "layout-grid"
+  }
+}

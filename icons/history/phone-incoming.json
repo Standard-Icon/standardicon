@@ -1,0 +1,17 @@
+{
+ "name": "phone-incoming",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4.5 2.5H6L7 5.5L5.5 6.75C6.2 8.4 7.6 9.8 9.25 10.5L10.5 9L13.5 10V11.5C13.5 12.03 13.289 12.539 12.914 12.914C12.539 13.289 12.03 13.5 11.5 13.5C6.5 13.2 2.8 9.5 2.5 4.5C2.5 3.97 2.711 3.461 3.086 3.086C3.461 2.711 3.97 2.5 4.5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.5 2.5L9.5 6.5M12.5 6.5H9.5V3.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M4.5 2.5H5.279C5.71 2.5 6.092 2.775 6.228 3.184L6.784 4.852C6.914 5.243 6.792 5.673 6.476 5.937L5.5 6.75C6.2 8.4 7.6 9.8 9.25 10.5L10.063 9.524C10.327 9.208 10.757 9.086 11.148 9.216L12.816 9.772C13.225 9.908 13.5 10.29 13.5 10.721V11.5C13.5 12.03 13.289 12.539 12.914 12.914C12.539 13.289 12.03 13.5 11.5 13.5C6.5 13.2 2.8 9.5 2.5 4.5C2.5 3.97 2.711 3.461 3.086 3.086C3.461 2.711 3.97 2.5 4.5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.5 2.5L9.5 6.5M12.5 6.5H9.5V3.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

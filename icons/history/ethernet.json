@@ -1,0 +1,23 @@
+{
+ "name": "ethernet",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.5 3.5H12.5C12.765 3.5 13.02 3.605 13.207 3.793C13.395 3.98 13.5 4.235 13.5 4.5V11.5C13.5 11.765 13.395 12.02 13.207 12.207C13.02 12.395 12.765 12.5 12.5 12.5H3.5C3.235 12.5 2.98 12.395 2.793 12.207C2.605 12.02 2.5 11.765 2.5 11.5V4.5C2.5 4.235 2.605 3.98 2.793 3.793C2.98 3.605 3.235 3.5 3.5 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 12.5V9H6.5V7H9.5V9H11V12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3.5\" width=\"11\" height=\"9\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5 12.5V9.62H6.5V7.974H9.5V9.62H11V12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3.5\" width=\"11\" height=\"9\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5 9.986V7.606C5 7.468 5.112 7.356 5.25 7.356H6.49C6.496 7.356 6.5 7.351 6.5 7.346V6.097C6.5 5.959 6.612 5.847 6.75 5.847H9.25C9.388 5.847 9.5 5.959 9.5 6.097V7.346C9.5 7.351 9.504 7.356 9.51 7.356H10.75C10.888 7.356 11 7.468 11 7.606V9.986C11 10.124 10.888 10.236 10.75 10.236H5.25C5.112 10.236 5 10.124 5 9.986Z\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

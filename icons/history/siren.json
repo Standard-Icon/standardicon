@@ -1,0 +1,11 @@
+{
+ "name": "siren",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M4.5 13V8C4.5 7.072 4.87 6.182 5.53 5.525C6.18 4.869 7.07 4.5 8 4.5C8.93 4.5 9.82 4.869 10.47 5.525C11.13 6.182 11.5 7.072 11.5 8V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.83 13.192V8.022C6.83 7.713 6.96 7.416 7.17 7.197C7.39 6.978 7.69 6.855 8 6.855C8.31 6.855 8.61 6.978 8.83 7.197C9.04 7.416 9.17 7.713 9.17 8.022V13.192\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13.5H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2V3M3 3.5L3.75 4.25M13 3.5L12.25 4.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "play-pause",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "media",
+  "figmaId": "111:31032",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "play-pause",
+    "iconic": false,
+    "lucide": false,
+    "material": "play-pause",
+    "octicons": false,
+    "phosphor": "play-pause",
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

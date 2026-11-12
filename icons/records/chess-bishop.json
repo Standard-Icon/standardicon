@@ -1,0 +1,21 @@
+{
+  "name": "chess-bishop",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22990",
+  "looks": "A chess bishop with a pointed head, a collar and a wide base.",
+  "use": "Use for the bishop piece, chess, or strategy games.",
+  "approved": {
+    "at": "2026-11-12T02:32:22.048Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "fluent": false,
+    "lucide": "chess-bishop",
+    "material": "chess-bishop",
+    "tabler": "chess-bishop"
+  }
+}

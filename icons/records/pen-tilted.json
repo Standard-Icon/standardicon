@@ -1,0 +1,20 @@
+{
+  "name": "pen-tilted",
+  "status": "active",
+  "source": "later",
+  "figmaId": "340:43417",
+  "looks": "A pen nib tilted toward the upper left with a dot in its center and no badge.",
+  "use": "Use for the pen tool, drawing paths, or signing.",
+  "approved": {
+    "at": "2026-11-11T19:15:36.168Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "pen",
+    "fluent": "pen",
+    "lucide": "pen",
+    "material": "ink-pen",
+    "phosphor": "pen"
+  }
+}

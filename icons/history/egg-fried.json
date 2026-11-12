@@ -1,0 +1,11 @@
+{
+ "name": "egg-fried",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M7.501 2.5C9.501 2.25 10.501 3.5 12.001 4.5C13.501 5.6 13.751 7.5 13.251 9C12.751 10.75 11.501 11 10.501 12.25C9.501 13.4 7.751 13.75 6.001 13.25C4.251 12.75 3.001 11.75 2.601 9.75C2.251 8 2.501 6.75 3.501 5.5C4.501 4.2 5.501 2.75 7.501 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"8\" r=\"2.25\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

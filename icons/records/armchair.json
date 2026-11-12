@@ -1,0 +1,15 @@
+{
+  "name": "armchair",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24590",
+  "looks": "An armchair with a high rounded back, an arm on each side, and two short legs.",
+  "use": "Use for seating, furniture, or a living room.",
+  "compare": {
+    "lucide": "armchair",
+    "phosphor": "armchair",
+    "tabler": "armchair"
+  }
+}

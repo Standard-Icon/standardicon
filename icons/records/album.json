@@ -1,0 +1,14 @@
+{
+  "name": "album",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "media",
+  "figmaId": "75:24149",
+  "compare": {
+    "lucide": "album",
+    "material": "album",
+    "sf": false,
+    "tabler": "album"
+  }
+}

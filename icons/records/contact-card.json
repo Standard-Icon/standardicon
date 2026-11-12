@@ -1,0 +1,24 @@
+{
+  "name": "contact-card",
+  "status": "active",
+  "canonical": "person",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:4816",
+  "looks": "A wide card with a person on the left and two lines of text on the right.",
+  "use": "Use for a contact card, ID, or profile details.",
+  "compare": {
+    "carbon": false,
+    "fluent": "contact-card",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "contact",
+    "material": false,
+    "octicons": false,
+    "phosphor": "identification-card",
+    "radix": "id-card",
+    "sf": false,
+    "tabler": "id"
+  }
+}

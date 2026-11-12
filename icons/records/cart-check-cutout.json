@@ -1,0 +1,14 @@
+{
+  "name": "cart-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29419",
+  "looks": "A shopping cart with a small checkmark cut into the lower right, beside the wheels.",
+  "use": "Use for items added to cart or a completed purchase.",
+  "compare": {
+    "iconic": false,
+    "lucide": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "apps": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:35.027Z"
+  },
+  "bed-single": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:21.156Z"
+  },
+  "biohazard": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:26.271Z"
+  },
+  "blur": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:27.392Z"
+  },
+  "bookmark": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:31.248Z"
+  },
+  "brain": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:30.586Z"
+  },
+  "bullet-list": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:30.676Z"
+  },
+  "close": {
+    "choice": "keep",
+    "at": "2026-11-11T20:39:41.493Z"
+  },
+  "code-block": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:02.373Z"
+  },
+  "control": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:45.991Z"
+  },
+  "currency": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:47.070Z"
+  },
+  "cursor-hollow": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:48.033Z"
+  },
+  "cursor-line": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:24.361Z"
+  },
+  "cursor-simple": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:48.662Z"
+  },
+  "debug": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:30.854Z"
+  },
+  "diff": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:26.100Z"
+  },
+  "droplets": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:38.809Z"
+  },
+  "edit": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:32.219Z"
+  },
+  "escape": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:40.952Z"
+  },
+  "euro": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:26.087Z"
+  },
+  "expand": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:29.720Z"
+  },
+  "export": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:33.211Z"
+  },
+  "font": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:50.865Z"
+  },
+  "grape": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:31.876Z"
+  },
+  "guest": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:52.502Z"
+  },
+  "hand-fist": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:53.825Z"
+  },
+  "hand-grab": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:32.572Z"
+  },
+  "highlight": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:31.720Z"
+  },
+  "hiking-stick": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:18.676Z"
+  },
+  "horizontal-rule": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:31.429Z"
+  },
+  "hourglass": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:54.995Z"
+  },
+  "import": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:32.986Z"
+  },
+  "location-services": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:18.871Z"
+  },
+  "login": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:31.591Z"
+  },
+  "menu": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:28.353Z"
+  },
+  "multiply": {
+    "choice": "keep",
+    "at": "2026-11-11T19:06:14.329Z"
+  },
+  "navigation-arrow": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:35.463Z"
+  },
+  "numbered-list": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:25.441Z"
+  },
+  "pause": {
+    "choice": "keep",
+    "at": "2026-11-11T19:05:44.520Z"
+  },
+  "pen-tilted": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:24.975Z"
+  },
+  "person": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:55.727Z"
+  },
+  "play": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:57.033Z"
+  },
+  "pop-in": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:20.933Z"
+  },
+  "pop-out": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:21.990Z"
+  },
+  "prescription": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:13.712Z"
+  },
+  "query": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:32.038Z"
+  },
+  "redo": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:29.568Z"
+  },
+  "regex": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:14.896Z"
+  },
+  "restore": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:30.333Z"
+  },
+  "reverse": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:58.298Z"
+  },
+  "ring": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:31.067Z"
+  },
+  "rss": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:02.087Z"
+  },
+  "sconce-down": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:23.177Z"
+  },
+  "sconce-up": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:23.852Z"
+  },
+  "screwdriver": {
+    "choice": "keep",
+    "at": "2026-11-11T19:12:27.234Z"
+  },
+  "send": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:28.758Z"
+  },
+  "shift": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:26.846Z"
+  },
+  "skip-back": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:00.330Z"
+  },
+  "skip-back-10": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:16.023Z"
+  },
+  "skip-back-15": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:16.549Z"
+  },
+  "skip-back-30": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:16.725Z"
+  },
+  "skip-forward": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:06.408Z"
+  },
+  "skip-forward-10": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:17.242Z"
+  },
+  "skip-forward-15": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:17.614Z"
+  },
+  "skip-forward-30": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:18.095Z"
+  },
+  "sliders": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:30.166Z"
+  },
+  "sliders-vertical": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:28.160Z"
+  },
+  "speech": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:27.541Z"
+  },
+  "spinner": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:29.242Z"
+  },
+  "sprint": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:09.887Z"
+  },
+  "stamp": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:10.940Z"
+  },
+  "stop": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:11.715Z"
+  },
+  "sum": {
+    "choice": "square",
+    "at": "2026-11-11T19:07:12.692Z"
+  },
+  "undo": {
+    "choice": "square",
+    "at": "2026-11-11T19:06:30.257Z"
+  },
+  "volume": {
+    "choice": "keep",
+    "at": "2026-11-11T19:06:07.545Z"
+  },
+  "volume-low": {
+    "choice": "keep",
+    "at": "2026-11-11T19:06:37.741Z"
+  },
+  "widget-small": {
+    "choice": "square",
+    "at": "2026-11-11T19:05:52.847Z"
+  }
+}

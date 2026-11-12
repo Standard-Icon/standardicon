@@ -1,0 +1,21 @@
+{
+  "name": "margin-left",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26894",
+  "looks": "A small square beside a vertical line on its left.",
+  "use": "Use for left margin.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "margin-left",
+    "material": "margin",
+    "octicons": false,
+    "phosphor": false,
+    "radix": "margin",
+    "sf": false,
+    "tabler": "box-margin"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "map-pin-minus-overlay",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M11.8 9.55C12.22 8.782 12.5 7.924 12.5 7C12.5 5.807 12.026 4.662 11.182 3.818C10.338 2.974 9.193 2.5 8 2.5C6.807 2.5 5.662 2.974 4.818 3.818C3.974 4.662 3.5 5.807 3.5 7C3.5 10.707 8 13.353 8 13.353C8 13.353 8.701 12.941 9.55 12.214\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 7C9.5 7.398 9.342 7.779 9.061 8.061C8.779 8.342 8.398 8.5 8 8.5C7.602 8.5 7.221 8.342 6.939 8.061C6.658 7.779 6.5 7.398 6.5 7C6.5 6.602 6.658 6.221 6.939 5.939C7.221 5.658 7.602 5.5 8 5.5C8.398 5.5 8.779 5.658 9.061 5.939C9.342 6.221 9.5 6.602 9.5 7Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.12 12.25H13.38\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

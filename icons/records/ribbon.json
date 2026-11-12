@@ -1,0 +1,15 @@
+{
+  "name": "ribbon",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21318",
+  "compare": {
+    "fluent": "ribbon",
+    "lucide": "ribbon",
+    "material": false,
+    "sf": false,
+    "tabler": false
+  }
+}

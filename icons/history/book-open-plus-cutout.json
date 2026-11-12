@@ -1,0 +1,11 @@
+{
+ "name": "book-open-plus-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M8 9.74V4.42C8 3.59 8.68 2.91 9.52 2.91H12.73C13.15 2.91 13.49 3.25 13.49 3.67V7.86\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.99 9.74V4.42C7.99 3.59 7.31 2.91 6.47 2.91H3.25C2.83 2.91 2.49 3.25 2.49 3.67V10.66C2.49 11.08 2.83 11.42 3.25 11.42H5.21C6.02 11.42 6.79 11.74 7.36 12.31L7.57 12.52\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 11.75H14M11.75 9.5V14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

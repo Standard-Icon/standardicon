@@ -1,0 +1,22 @@
+{
+  "name": "payment",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7613",
+  "looks": "A card with a top stripe and a checkmark cut into the lower right corner, with no line on the card.",
+  "use": "Use for payments, paid status, or completed transactions.",
+  "keywords": [
+    "pay",
+    "checkout",
+    "billing"
+  ],
+  "compare": {
+    "carbon": "payment-methods",
+    "fluent": "payment",
+    "lucide": "nfc",
+    "material": "payment-card",
+    "phosphor": "contactless-payment"
+  }
+}

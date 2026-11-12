@@ -1,0 +1,23 @@
+{
+ "name": "rotate",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.75 6.5H9.25C9.449 6.5 9.64 6.579 9.78 6.72C9.921 6.86 10 7.051 10 7.25V12.75C10 12.949 9.921 13.14 9.78 13.28C9.64 13.421 9.449 13.5 9.25 13.5H3.75C3.551 13.5 3.36 13.421 3.22 13.28C3.079 13.14 3 12.949 3 12.75V7.25C3 7.051 3.079 6.86 3.22 6.72C3.36 6.579 3.551 6.5 3.75 6.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 2.5H10.5C11.428 2.5 12.318 2.869 12.975 3.525C13.631 4.182 14 5.072 14 6V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.5 1L7 2.5L8.5 4\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.5 6.5L14 8L15.5 6.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"3\" y=\"6.5\" width=\"7\" height=\"7\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M7 2.5H10.5C11.428 2.5 12.318 2.869 12.975 3.525C13.631 4.182 14 5.072 14 6V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.5 1L7 2.5L8.5 4\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.5 6.5L14 8L15.5 6.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"1.5\" y=\"7\" width=\"7\" height=\"7\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5.5 3H9C9.928 3 10.818 3.369 11.475 4.025C12.131 4.682 12.5 5.572 12.5 6.5V8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 1.5L5.5 3L7 4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11 7L12.5 8.5L14 7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

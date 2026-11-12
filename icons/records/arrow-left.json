@@ -1,0 +1,26 @@
+{
+  "name": "arrow-left",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "21:1326",
+  "looks": "A thin straight arrow pointing left.",
+  "use": "Use for back, previous, or go left.",
+  "keywords": [
+    "back",
+    "previous"
+  ],
+  "compare": {
+    "carbon": "arrow-left",
+    "fluent": "arrow-left",
+    "heroicons": "arrow-left",
+    "lucide": "arrow-left",
+    "material": "arrow-left",
+    "octicons": "arrow-left",
+    "phosphor": "arrow-left",
+    "radix": "arrow-left",
+    "sf": "arrow.left",
+    "tabler": "arrow-left"
+  }
+}

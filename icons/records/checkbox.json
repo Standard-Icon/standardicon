@@ -1,0 +1,21 @@
+{
+  "name": "checkbox",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "figmaId": "23:1952",
+  "looks": "An empty rounded square.",
+  "use": "Use for an unchecked box, a to-do, or an option.",
+  "compare": {
+    "carbon": "checkbox",
+    "fluent": "checkbox-unchecked",
+    "lucide": "square",
+    "material": "check-box-outline-blank",
+    "octicons": "checkbox",
+    "phosphor": "square",
+    "radix": "checkbox",
+    "sf": "square",
+    "tabler": "checkbox"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "camera-off",
+  "status": "active",
+  "parent": "camera",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5625",
+  "looks": "A camera body with a diagonal slash running from lower left to upper right.",
+  "use": "Use for camera off, video disabled, or no photos.",
+  "keywords": [
+    "video off",
+    "no camera"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "camera-off",
+    "heroicons": false,
+    "lucide": "camera-off",
+    "material": "no-photography",
+    "octicons": false,
+    "phosphor": "camera-slash",
+    "radix": false,
+    "sf": false,
+    "tabler": "camera-off"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "flash",
+  "status": "dropped",
+  "coveredBy": "lightning-bolt",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "Not drawn: zap already does this."
+    }
+  ]
+}

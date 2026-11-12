@@ -1,0 +1,20 @@
+{
+  "name": "lasso-select",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "58:21390",
+  "looks": "A loose lasso loop with a short tail and a pointer at its lower right.",
+  "use": "Use for lasso selection or freeform selecting.",
+  "compare": {
+    "carbon": "lasso",
+    "fluent": "select-object",
+    "lucide": "lasso-select",
+    "material": "lasso-select",
+    "octicons": "multi-select",
+    "phosphor": "lasso",
+    "sf": "lasso",
+    "tabler": "lasso"
+  }
+}

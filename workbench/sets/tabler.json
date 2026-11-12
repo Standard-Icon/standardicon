@@ -1,0 +1,22 @@
+{
+  "id": "tabler",
+  "title": "Tabler",
+  "kind": "svg",
+  "dir": ".workbench/sets/tabler",
+  "order": 9,
+  "off": true,
+  "color": "#4d7c0f",
+  "grid": 24,
+  "matchLine": true,
+  "license": "MIT",
+  "usage": "For comparing only. Downloaded into .workbench/sets/ with `npm run workbench:sets`, which git ignores. No set's geometry is ever traced.",
+  "words": {
+    "close": "x",
+    "settings": "settings",
+    "edit": "pencil",
+    "person": "user",
+    "people": "users",
+    "more": "dots",
+    "home": "home"
+  }
+}

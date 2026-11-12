@@ -1,0 +1,18 @@
+{
+  "name": "gradient",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6692",
+  "keywords": [
+    "fade",
+    "color"
+  ],
+  "compare": {
+    "carbon": "gradient",
+    "lucide": false,
+    "material": "gradient",
+    "phosphor": "gradient"
+  }
+}

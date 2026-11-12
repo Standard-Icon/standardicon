@@ -1,0 +1,17 @@
+{
+  "name": "binoculars",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "59:21619",
+  "looks": "A pair of binoculars with two round lenses at the bottom and a bridge between them.",
+  "use": "Use for searching, viewing, or exploring.",
+  "compare": {
+    "carbon": "binoculars",
+    "lucide": "binoculars",
+    "phosphor": "binoculars",
+    "sf": "binoculars",
+    "tabler": "binoculars"
+  }
+}

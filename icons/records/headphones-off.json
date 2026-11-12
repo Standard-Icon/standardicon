@@ -1,0 +1,24 @@
+{
+  "name": "headphones-off",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25153",
+  "aliases": [
+    "headphone-off"
+  ],
+  "formerNames": [
+    "headphone-off"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "headphone-off",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "headphones.slash",
+    "tabler": "headphones-off"
+  }
+}

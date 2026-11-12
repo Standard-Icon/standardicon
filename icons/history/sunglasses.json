@@ -1,0 +1,11 @@
+{
+ "name": "sunglasses",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M1.5 5.5H14.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1.5 5.5V8C1.5 9.38 2.62 10.5 4 10.5C5.38 10.5 6.5 9.38 6.5 8V5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 5.5V8C9.5 9.38 10.62 10.5 12 10.5C13.38 10.5 14.5 9.38 14.5 8V5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 8.75L4.75 7.5M11.5 8.75L12.75 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

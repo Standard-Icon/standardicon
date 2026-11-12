@@ -1,0 +1,16 @@
+{
+  "name": "coupon",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7305",
+  "looks": "A ticket with notched sides and a percent sign in the middle.",
+  "use": "Use for coupons, discounts, or promo codes.",
+  "keywords": [
+    "discount",
+    "voucher",
+    "promo"
+  ],
+  "fillApproved": true
+}

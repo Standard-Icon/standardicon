@@ -1,0 +1,23 @@
+{
+  "name": "infinity",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9437",
+  "looks": "A sideways figure eight loop.",
+  "use": "Use for infinity, unlimited, or endless loops.",
+  "keywords": [
+    "unlimited",
+    "loop",
+    "forever"
+  ],
+  "compare": {
+    "carbon": "infinity-symbol",
+    "lucide": "infinity",
+    "octicons": "infinity",
+    "phosphor": "infinity",
+    "sf": "infinity",
+    "tabler": "infinity"
+  }
+}

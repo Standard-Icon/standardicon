@@ -1,0 +1,16 @@
+{
+  "name": "mail-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28075",
+  "looks": "A closed envelope with a small x cut into the lower right corner.",
+  "use": "Use for deleting an email, failed delivery, or unsubscribing.",
+  "compare": {
+    "fluent": "mail-dismiss",
+    "heroicons": false,
+    "lucide": "mail-x",
+    "radix": false,
+    "sf": false,
+    "tabler": "mail-x"
+  }
+}

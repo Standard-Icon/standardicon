@@ -1,0 +1,26 @@
+{
+  "name": "wallet",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7357",
+  "looks": "A wallet with a flap rising at the back and a clasp tab on the right side.",
+  "use": "Use for a wallet, balance, or payment methods.",
+  "keywords": [
+    "payment",
+    "money",
+    "balance"
+  ],
+  "compare": {
+    "carbon": "wallet",
+    "fluent": "wallet",
+    "heroicons": "wallet",
+    "iconic": "wallet",
+    "lucide": "wallet",
+    "material": "wallet",
+    "phosphor": "wallet",
+    "sf": "wallet.pass",
+    "tabler": "wallet"
+  }
+}

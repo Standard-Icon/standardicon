@@ -1,0 +1,31 @@
+{
+  "name": "message-oval-minus-overlay",
+  "status": "active",
+  "parent": "message-oval",
+  "canonical": "message-oval",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "226:32869",
+  "looks": "An oval speech bubble with a small rounded square holding a minus overlapping its lower right.",
+  "use": "Use for deleting a message or removing a chat.",
+  "formerNames": [
+    "message-oval-minus"
+  ],
+  "approved": {
+    "at": "2026-11-12T01:52:24.084Z",
+    "by": "morgan",
+    "version": "2026-11-11T18:29:17.376Z"
+  },
+  "compare": {
+    "lucide": false,
+    "tabler": "message-minus"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "oval or square message family"
+    }
+  ]
+}

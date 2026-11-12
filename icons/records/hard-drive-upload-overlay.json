@@ -1,0 +1,20 @@
+{
+  "name": "hard-drive-upload-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26537",
+  "looks": "A hard drive with a small rounded square holding an up arrow overlapping its lower right.",
+  "use": "Use for uploading from a drive or backups.",
+  "formerNames": [
+    "hard-drive-upload"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "fluent": false,
+    "iconic": false,
+    "lucide": "hard-drive-upload",
+    "material": false,
+    "phosphor": false,
+    "sf": false
+  }
+}

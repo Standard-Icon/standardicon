@@ -1,0 +1,28 @@
+{
+  "name": "team",
+  "status": "active",
+  "canonical": "person",
+  "source": "plan",
+  "wave": "W1",
+  "group": "People and identity",
+  "figmaId": "12:972",
+  "looks": "Three people: one head and shoulders in front with two smaller ones behind on either side.",
+  "use": "Use for a team, a group of people, members, or servings.",
+  "keywords": [
+    "group",
+    "users",
+    "people",
+    "members",
+    "servings"
+  ],
+  "approved": {
+    "at": "2026-11-12T19:39:47.315Z",
+    "by": "Morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "fluent": "people-team",
+    "lucide": "users-collaboration",
+    "material": false
+  }
+}

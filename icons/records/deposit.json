@@ -1,0 +1,12 @@
+{
+  "name": "deposit",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:27307",
+  "compare": {
+    "lucide": "vault",
+    "phosphor": "hand-deposit"
+  }
+}

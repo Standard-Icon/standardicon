@@ -1,0 +1,19 @@
+{
+  "name": "cart-minus-overlay",
+  "status": "active",
+  "parent": "cart",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "commerce",
+  "figmaId": "56:21678",
+  "formerNames": [
+    "cart-minus"
+  ],
+  "compare": {
+    "iconic": false,
+    "lucide": "shopping-cart-minus",
+    "material": "remove-shopping-cart",
+    "sf": "cart.badge.minus",
+    "tabler": "shopping-cart-minus"
+  }
+}

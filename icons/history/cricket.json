@@ -1,0 +1,11 @@
+{
+ "name": "cricket",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M13.5 2.5L10.5 5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.44 4.44L11.56 6.56L5.3 12.82C4.72 13.41 3.77 13.41 3.18 12.82C2.59 12.23 2.59 11.28 3.18 10.7L9.44 4.44Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"11.75\" cy=\"11.75\" r=\"1.5\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

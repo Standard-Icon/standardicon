@@ -1,0 +1,29 @@
+{
+  "name": "person-settings-overlay",
+  "status": "active",
+  "parent": "person",
+  "canonical": "person",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31718",
+  "formerNames": [
+    "person-settings"
+  ],
+  "compare": {
+    "carbon": "user-settings",
+    "fluent": "person-settings",
+    "heroicons": false,
+    "lucide": "user-cog",
+    "material": "manage-accounts",
+    "phosphor": "user-gear",
+    "sf": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "people"
+    }
+  ]
+}

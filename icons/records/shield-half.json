@@ -1,0 +1,20 @@
+{
+  "name": "shield-half",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27835",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "shield-half",
+    "material": false,
+    "octicons": false,
+    "phosphor": "shield",
+    "radix": false,
+    "sf": "shield",
+    "tabler": "shield-half"
+  }
+}

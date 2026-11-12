@@ -1,0 +1,17 @@
+{
+  "name": "deadline",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7388",
+  "looks": "A calendar page with two rings at the top and an exclamation mark in the body.",
+  "use": "Use for due dates, deadlines, or urgent events.",
+  "keywords": [
+    "due date"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "lucide": "clock"
+  }
+}

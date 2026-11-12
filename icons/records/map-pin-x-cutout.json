@@ -1,0 +1,17 @@
+{
+  "name": "map-pin-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29607",
+  "looks": "A location pin with an x cut into the lower right.",
+  "use": "Use for an invalid location or removing a place.",
+  "compare": {
+    "heroicons": false,
+    "lucide": "map-pin-x",
+    "material": "wrong-location",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "map-pin-x"
+  }
+}

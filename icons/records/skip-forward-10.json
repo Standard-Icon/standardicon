@@ -1,0 +1,31 @@
+{
+  "name": "skip-forward-10",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "media",
+  "figmaId": "111:31408",
+  "looks": "A circular arrow turning clockwise with the number 10 inside.",
+  "use": "Use for jumping ahead 10 seconds.",
+  "approved": {
+    "at": "2026-11-11T19:15:36.584Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "forward-10",
+    "iconic": false,
+    "lucide": false,
+    "material": "forward-10",
+    "phosphor": false,
+    "sf": false,
+    "tabler": "rewind-forward-10"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "podcast, no solid"
+    }
+  ]
+}

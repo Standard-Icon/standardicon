@@ -1,0 +1,11 @@
+{
+ "name": "cigarette",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"1.5\" y=\"9.5\" width=\"13\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\"/><path d=\"M5.5 9.5V12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.407 8.1C13.407 7.1 12.234 6.613 12.234 5.613C12.234 4.613 13.667 3.821 13.667 2.821\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

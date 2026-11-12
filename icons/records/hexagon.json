@@ -1,0 +1,19 @@
+{
+  "name": "hexagon",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6533",
+  "looks": "A plain six sided outline.",
+  "use": "Use for hexagon shapes, polygons, or badges.",
+  "compare": {
+    "carbon": "hexagon-outline",
+    "fluent": "hexagon",
+    "lucide": "hexagon",
+    "material": "hexagon",
+    "phosphor": "hexagon",
+    "sf": "hexagon",
+    "tabler": "hexagon"
+  }
+}

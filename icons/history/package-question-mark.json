@@ -1,0 +1,12 @@
+{
+ "name": "package-question-mark",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M13 12.5V5.972C13 5.662 12.928 5.355 12.789 5.078L11.707 2.915C11.58 2.661 11.321 2.5 11.036 2.5H4.964C4.679 2.5 4.42 2.661 4.293 2.915L3.211 5.078C3.072 5.355 3 5.662 3 5.972V12.5C3 12.765 3.105 13.02 3.293 13.207C3.48 13.395 3.735 13.5 4 13.5H12C12.265 13.5 12.52 13.395 12.707 13.207C12.895 13.02 13 12.765 13 12.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.339 5.5H12.661\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2.5V5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.9 8.1C6.9 7.5 7.4 7 8 7C8.6 7 9.1 7.5 9.1 8.1C9.1 8.9 8 9 8 9.9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"11.4\" r=\"0.5\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

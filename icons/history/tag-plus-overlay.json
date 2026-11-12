@@ -1,0 +1,12 @@
+{
+ "name": "tag-plus-overlay",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M12.412 9.55L13.6 8.362C13.795 8.167 13.795 7.85 13.6 7.655L8.271 2.327C8.162 2.218 8.009 2.165 7.856 2.184L3.478 2.731C3.251 2.76 3.072 2.939 3.043 3.166L2.496 7.544C2.477 7.697 2.53 7.85 2.639 7.959L7.967 13.288C8.162 13.483 8.479 13.483 8.674 13.288L9.55 12.412\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"5.4\" cy=\"5.088\" r=\"0.879771\" fill=\"currentColor\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.306 12.25H13.194M12.25 11.307V13.194\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

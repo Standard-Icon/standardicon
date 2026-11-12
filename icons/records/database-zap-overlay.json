@@ -1,0 +1,14 @@
+{
+  "name": "database-zap-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25231",
+  "looks": "A stacked database cylinder with a small rounded square holding a lightning bolt overlapping its lower right.",
+  "use": "Use for fast databases, real-time data, or triggers.",
+  "formerNames": [
+    "database-zap"
+  ],
+  "compare": {
+    "lucide": "database-zap"
+  }
+}

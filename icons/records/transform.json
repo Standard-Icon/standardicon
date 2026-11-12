@@ -1,0 +1,17 @@
+{
+  "name": "transform",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26084",
+  "looks": "A square with a small square handle at each of its four corners.",
+  "use": "Use for transforming, scaling, or selecting an object.",
+  "compare": {
+    "carbon": false,
+    "lucide": false,
+    "material": "transform",
+    "radix": "transform",
+    "tabler": "transform"
+  }
+}

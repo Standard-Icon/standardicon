@@ -1,0 +1,15 @@
+{
+  "name": "list-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28883",
+  "looks": "Three horizontal lines with a small plus sign at the lower right.",
+  "use": "Use for adding an item to a list.",
+  "compare": {
+    "fluent": "reading-list-add",
+    "lucide": "list-plus",
+    "material": "list-alt-add",
+    "phosphor": "list-plus",
+    "sf": false
+  }
+}

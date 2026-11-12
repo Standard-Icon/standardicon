@@ -1,0 +1,16 @@
+{
+  "name": "fire-extinguisher",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25756",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "fire-extinguisher",
+    "material": "fire-extinguisher",
+    "phosphor": "fire-extinguisher",
+    "sf": "fire.extinguisher",
+    "tabler": "fire-extinguisher"
+  }
+}

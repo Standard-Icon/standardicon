@@ -1,0 +1,17 @@
+{
+ "name": "tuning-fork",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M5.5 2.5V6.5C5.5 7.9 6.6 9 8 9C9.4 9 10.5 7.9 10.5 6.5V2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 9V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 3.5V6.5M12.5 3.5V6.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T19:59:33.379Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M5.5 2.5V6.5C5.5 7.9 6.6 9 8 9C9.4 9 10.5 7.9 10.5 6.5V2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 9V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.505 3.5C3.505 3.5 3.051 4.09 3.051 5C3.051 5.91 3.505 6.5 3.505 6.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.495 3.5C12.495 3.5 12.949 4.09 12.949 5C12.949 5.91 12.495 6.5 12.495 6.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

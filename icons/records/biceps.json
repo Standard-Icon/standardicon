@@ -1,0 +1,11 @@
+{
+  "name": "biceps",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "People",
+  "figmaId": "273:22909",
+  "compare": {
+    "lucide": "biceps-flexed"
+  }
+}

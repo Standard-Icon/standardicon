@@ -1,0 +1,23 @@
+{
+  "name": "system",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Settings and controls",
+  "figmaId": "12:1343",
+  "looks": "A desktop monitor with a small stand beneath it.",
+  "use": "Use for the system theme, a computer, or a display.",
+  "keywords": [
+    "computer",
+    "monitor",
+    "desktop"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "desktop",
+    "lucide": "monitor",
+    "material": "monitor",
+    "phosphor": "desktop",
+    "radix": "desktop"
+  }
+}

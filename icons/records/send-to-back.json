@@ -1,0 +1,16 @@
+{
+  "name": "send-to-back",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "58:21364",
+  "looks": "Two rounded squares stacked diagonally, one at the upper left and one at the lower right.",
+  "use": "Use for sending an object to the back or layer order.",
+  "compare": {
+    "carbon": "send-to-back",
+    "lucide": "send-to-back",
+    "material": "flip-to-back",
+    "sf": false
+  }
+}

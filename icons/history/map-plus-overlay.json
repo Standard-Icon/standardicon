@@ -1,0 +1,11 @@
+{
+ "name": "map-plus-overlay",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M13.5 9.55L13.5 3.379C13.5 3.2 13.317 3.079 13.151 3.149L10.092 4.46C10.033 4.486 9.966 4.487 9.906 4.465L6.094 3.035C6.034 3.013 5.967 3.014 5.908 3.04L2.651 4.435C2.56 4.474 2.5 4.565 2.5 4.665L2.5 12.621C2.5 12.8 2.684 12.921 2.849 12.851L5.908 11.54C5.967 11.514 6.034 11.513 6.094 11.535L9.55 12.831\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 3L6 11.5M10 4.5L10 9.715\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.306 12.25H13.194M12.25 11.307V13.194\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

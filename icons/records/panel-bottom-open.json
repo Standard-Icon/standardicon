@@ -1,0 +1,17 @@
+{
+  "name": "panel-bottom-open",
+  "status": "active",
+  "parent": "panel-bottom",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "navigation",
+  "figmaId": "58:21117",
+  "looks": "A wide rounded rectangle with a band across the bottom and an up chevron above it.",
+  "use": "Use for showing or expanding the bottom panel.",
+  "compare": {
+    "carbon": "bottom-panel-open",
+    "lucide": "panel-bottom-open",
+    "material": "bottom-panel-open",
+    "radix": "panel-bottom"
+  }
+}

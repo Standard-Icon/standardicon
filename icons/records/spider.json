@@ -1,0 +1,20 @@
+{
+  "name": "spider",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:29444",
+  "looks": "A spider with a small head, a round body, and four bent legs on each side.",
+  "use": "Use for Halloween, spiders, or bugs.",
+  "keywords": [
+    "halloween",
+    "bug",
+    "insect",
+    "arachnid",
+    "web",
+    "spooky"
+  ],
+  "compare": {
+    "tabler": "spider"
+  }
+}

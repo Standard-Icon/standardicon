@@ -1,0 +1,17 @@
+{
+  "name": "pc-case",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "devices",
+  "figmaId": "59:22319",
+  "looks": "A tall rectangle tower with two short lines near the top and a dot below them.",
+  "use": "Use for a computer tower, PC hardware, or a server box.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": "pc-case",
+    "material": false,
+    "sf": "pc",
+    "tabler": false
+  }
+}

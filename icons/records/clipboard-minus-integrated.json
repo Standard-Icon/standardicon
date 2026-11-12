@@ -1,0 +1,20 @@
+{
+  "name": "clipboard-minus-integrated",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24305",
+  "looks": "A clipboard with a clip at the top and a minus drawn into its body.",
+  "use": "Use for removing from a list or a missing task.",
+  "formerNames": [
+    "clipboard-minus"
+  ],
+  "approved": {
+    "at": "2026-11-10T20:41:50.054Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "clipboard-minus",
+    "sf": false
+  }
+}

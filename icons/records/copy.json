@@ -1,0 +1,25 @@
+{
+  "name": "copy",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "12:642",
+  "looks": "Two overlapping rounded squares, the front one at the lower left.",
+  "use": "Use for copy, duplicate, or copy to the clipboard.",
+  "keywords": [
+    "duplicate",
+    "clone"
+  ],
+  "compare": {
+    "carbon": "copy",
+    "fluent": "copy",
+    "lucide": "copy",
+    "material": "content-copy",
+    "octicons": "copy",
+    "phosphor": "copy",
+    "radix": "copy",
+    "sf": "document.on.document",
+    "tabler": "copy"
+  }
+}

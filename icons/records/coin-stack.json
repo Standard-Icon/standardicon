@@ -1,0 +1,22 @@
+{
+  "name": "coin-stack",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:27039",
+  "looks": "A short stack of coins seen from the side, the top coin showing as an oval.",
+  "use": "Use for savings, credits, or a balance.",
+  "compare": {
+    "carbon": false,
+    "fluent": "coin-stack",
+    "heroicons": false,
+    "lucide": "coins",
+    "material": false,
+    "octicons": false,
+    "phosphor": "coins",
+    "radix": false,
+    "sf": false,
+    "tabler": "coin"
+  }
+}

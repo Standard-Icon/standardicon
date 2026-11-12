@@ -1,0 +1,23 @@
+{
+ "name": "caravan",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"1.5\" y=\"2.5\" width=\"10\" height=\"8\" rx=\"2\" stroke=\"currentColor\"/><rect x=\"3.5\" y=\"4.5\" width=\"6\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\"/><circle cx=\"5\" cy=\"12\" r=\"1.5\" stroke=\"currentColor\"/><path d=\"M11.5 9.5H14.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T02:43:49.866Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"1.5\" y=\"2.5\" width=\"10\" height=\"8\" rx=\"2\" stroke=\"currentColor\"/><rect x=\"3.5\" y=\"4.5\" width=\"6\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\"/><path d=\"M11.5 9.5H14.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.414 11.5C6.634 12.122 6.422 12.814 5.892 13.206C5.362 13.598 4.638 13.598 4.108 13.206C3.578 12.814 3.366 12.122 3.586 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T06:16:11.393Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M6.414 10.5H9.5C10.03 10.5 10.539 10.289 10.914 9.914C11.289 9.539 11.5 9.03 11.5 8.5V4.5C11.5 3.97 11.289 3.461 10.914 3.086C10.539 2.711 10.03 2.5 9.5 2.5H3.5C2.97 2.5 2.461 2.711 2.086 3.086C1.711 3.461 1.5 3.97 1.5 4.5V8.5C1.5 9.03 1.711 9.539 2.086 9.914C2.461 10.289 2.97 10.5 3.5 10.5H3.586\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 4.5H9C9.276 4.5 9.5 4.724 9.5 5V7C9.5 7.276 9.276 7.5 9 7.5H4C3.724 7.5 3.5 7.276 3.5 7V5C3.5 4.724 3.724 4.5 4 4.5Z\" stroke=\"currentColor\"/><path d=\"M6.5 11C6.5 11.828 5.828 12.5 5 12.5C4.172 12.5 3.5 11.828 3.5 11C3.5 10.172 4.172 9.5 5 9.5C5.828 9.5 6.5 10.172 6.5 11Z\" stroke=\"currentColor\"/><path d=\"M11.5 9.5H14.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

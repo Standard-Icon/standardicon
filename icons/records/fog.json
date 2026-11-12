@@ -1,0 +1,22 @@
+{
+  "name": "fog",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:7905",
+  "looks": "A cloud outline with two horizontal lines beneath it.",
+  "use": "Use for fog, mist, or low visibility weather.",
+  "approved": {
+    "at": "2026-11-12T02:33:29.005Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "fog",
+    "lucide": "cloud-fog",
+    "phosphor": "cloud-fog",
+    "sf": "cloud.fog",
+    "tabler": "cloud-fog"
+  }
+}

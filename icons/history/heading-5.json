@@ -1,0 +1,17 @@
+{
+ "name": "heading-5",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2.5 3.5V11.5M8 3.5V11.5M2.5 7.5H8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.25 3.5H10.75L10.5 6C11 5.75 11.5 5.6 12 5.6C13 5.6 13.75 6.4 13.75 7.5C13.75 8.75 12.9 9.5 11.9 9.5C11.1 9.5 10.6 9.1 10.25 8.6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M2.5 4V12M2.5 8H8V4M8 8V12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.25 4H10.75L10.5 6.5C11 6.25 11.5 6.1 12 6.1C13 6.1 13.75 6.9 13.75 8C13.75 9.25 12.9 10 11.9 10C11.1 10 10.6 9.6 10.25 9.1\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

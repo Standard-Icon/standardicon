@@ -1,0 +1,16 @@
+{
+  "name": "sword",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21228",
+  "looks": "A sword angled with the blade pointing to the upper right and a crossguard near the lower left hilt.",
+  "use": "Use for battles, games, or attack actions.",
+  "compare": {
+    "lucide": "sword",
+    "material": false,
+    "phosphor": "sword",
+    "tabler": "sword"
+  }
+}

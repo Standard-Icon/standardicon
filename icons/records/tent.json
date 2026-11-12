@@ -1,0 +1,21 @@
+{
+  "name": "tent",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7384",
+  "looks": "A camping tent seen at an angle, with a door opening at the front.",
+  "use": "Use for camping or a tent.",
+  "keywords": [
+    "camping",
+    "outdoors"
+  ],
+  "compare": {
+    "fluent": "tent",
+    "lucide": "tent",
+    "phosphor": "tent",
+    "sf": "tent",
+    "tabler": "tent"
+  }
+}

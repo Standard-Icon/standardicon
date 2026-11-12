@@ -1,0 +1,15 @@
+{
+  "name": "dock",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "navigation",
+  "figmaId": "58:20987",
+  "looks": "A rounded rectangle with a band along the bottom holding three short dashes.",
+  "use": "Use for a dock, a bottom toolbar, or app shortcuts.",
+  "compare": {
+    "lucide": "dock",
+    "material": false,
+    "sf": "dock.rectangle"
+  }
+}

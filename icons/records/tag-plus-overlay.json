@@ -1,0 +1,20 @@
+{
+  "name": "tag-plus-overlay",
+  "status": "active",
+  "parent": "tag",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:20755",
+  "looks": "A tilted price tag with a plus inside a small rounded square at the lower right.",
+  "use": "Use for adding a tag or new label.",
+  "formerNames": [
+    "tag-plus"
+  ],
+  "compare": {
+    "fluent": "tag-add",
+    "lucide": "tag-plus",
+    "sf": false,
+    "tabler": "tag-plus"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "save-plus-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M13.5 7.863V5.5L10.5 2.5H3.5C3.235 2.5 2.98 2.605 2.793 2.793C2.605 2.98 2.5 3.235 2.5 3.5V12.5C2.5 12.765 2.605 13.02 2.793 13.207C2.98 13.395 3.235 13.5 3.5 13.5H7.775\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 2.5V5.5H10V2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 13.5V9H8.45\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 11.75H14M11.75 9.5V14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

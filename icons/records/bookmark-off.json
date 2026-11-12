@@ -1,0 +1,24 @@
+{
+  "name": "bookmark-off",
+  "status": "active",
+  "parent": "bookmark",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:19002",
+  "looks": "A bookmark ribbon crossed by a diagonal slash from the lower left to the upper right.",
+  "use": "Use for bookmarks turned off or nothing saved.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "bookmark-slash",
+    "iconic": false,
+    "lucide": "bookmark-off",
+    "material": false,
+    "octicons": "bookmark-slash",
+    "phosphor": false,
+    "radix": false,
+    "sf": "bookmark.slash",
+    "tabler": "bookmark-off"
+  }
+}

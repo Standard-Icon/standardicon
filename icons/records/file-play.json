@@ -1,0 +1,21 @@
+{
+  "name": "file-play",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25393",
+  "looks": "A file with a folded top right corner and a play triangle inside.",
+  "use": "Use for video files or playable media.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "file-play",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

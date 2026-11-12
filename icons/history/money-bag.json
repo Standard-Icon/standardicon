@@ -1,0 +1,11 @@
+{
+ "name": "money-bag",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M6 3H10L9 5C11.5 6 13 8 13 10C13 12 11.498 13.744 7.998 13.744C4.498 13.744 3 12 3 10C3 8 4.5 6 7 5L6 3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 5H9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9 8.069C8.75 7.819 8.4 7.719 8 7.719C7.4 7.719 7 8.019 7 8.469C7 8.944 7.5 9.094 8 9.244V7.069M8 9.244C8.5 9.394 9 9.544 9 10.019C9 10.469 8.6 10.819 8 10.819V9.244M7 10.419C7.25 10.719 7.6 10.819 8 10.819V11.419\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

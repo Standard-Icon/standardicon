@@ -1,0 +1,34 @@
+{
+  "name": "filter-x-overlay",
+  "status": "active",
+  "parent": "filter",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31588",
+  "looks": "A funnel with an x inside a small rounded square at the lower right.",
+  "use": "Use for clearing or removing a filter.",
+  "formerNames": [
+    "filter-x"
+  ],
+  "compare": {
+    "fluent": "filter-dismiss",
+    "heroicons": false,
+    "lucide": "filter-x",
+    "radix": false,
+    "sf": false,
+    "tabler": "filter-x"
+  },
+  "compareAlso": {
+    "lucide": [
+      "funnel-x"
+    ]
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "actions"
+    }
+  ]
+}

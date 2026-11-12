@@ -1,0 +1,11 @@
+{
+  "name": "message-square-reply",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27001",
+  "compare": {
+    "lucide": "message-square-reply",
+    "sf": false,
+    "tabler": "message-reply"
+  }
+}

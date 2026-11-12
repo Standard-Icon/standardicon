@@ -1,0 +1,12 @@
+{
+  "name": "radical",
+  "status": "dropped",
+  "coveredBy": "square-root",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "Not drawn: square-root already does this."
+    }
+  ]
+}

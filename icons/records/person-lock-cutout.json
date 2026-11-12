@@ -1,0 +1,14 @@
+{
+  "name": "person-lock-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28176",
+  "looks": "A person's head and shoulders with a small padlock at the lower right.",
+  "use": "Use for a private or locked account.",
+  "compare": {
+    "fluent": "person-lock",
+    "lucide": "user-lock",
+    "material": "lock-person",
+    "sf": false
+  }
+}

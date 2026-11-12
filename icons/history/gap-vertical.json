@@ -1,0 +1,11 @@
+{
+ "name": "gap-vertical",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.5 2.5H13.5M2.5 13.5H13.5M8 5V11M10 7L8 5L6 7M10 9L8 11L6 9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "justify-end-horizontal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23107",
+  "compare": {
+    "lucide": "align-horizontal-justify-end",
+    "material": "align-justify-flex-end",
+    "sf": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "heading-3",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1236",
+  "looks": "A capital H with a small number 3 at its upper right.",
+  "use": "Use for a level 3 heading or subsection title.",
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "heading-3",
+    "material": false,
+    "octicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "h-3"
+  }
+}

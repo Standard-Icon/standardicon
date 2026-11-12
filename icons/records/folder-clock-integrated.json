@@ -1,0 +1,16 @@
+{
+  "name": "folder-clock-integrated",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26044",
+  "looks": "A folder with a clock drawn into its body.",
+  "use": "Use for recent folders, folder history, or scheduled items.",
+  "formerNames": [
+    "folder-clock"
+  ],
+  "compare": {
+    "lucide": "folder-clock",
+    "octicons": false,
+    "sf": false
+  }
+}

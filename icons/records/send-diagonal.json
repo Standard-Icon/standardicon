@@ -1,0 +1,16 @@
+{
+  "name": "send-diagonal",
+  "status": "active",
+  "source": "later",
+  "figmaId": "404:29982",
+  "looks": "A paper-plane arrowhead pointing to the upper right with a notch in its base.",
+  "use": "Use for sending a message.",
+  "compare": {
+    "carbon": "send",
+    "fluent": "send",
+    "lucide": "send",
+    "material": "send",
+    "sf": "paperplane",
+    "tabler": "send"
+  }
+}

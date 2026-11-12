@@ -1,0 +1,19 @@
+{
+  "name": "dice-4",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25362",
+  "looks": "A rounded square die with a dot in each corner.",
+  "use": "Use for a die showing four, dice games, or chance.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "lucide": "dice-4",
+    "material": false,
+    "octicons": false,
+    "phosphor": "dice-four",
+    "sf": "die.face.4",
+    "tabler": "dice-4"
+  }
+}

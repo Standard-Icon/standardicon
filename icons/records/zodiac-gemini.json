@@ -1,0 +1,14 @@
+{
+  "name": "zodiac-gemini",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22722",
+  "looks": "Two vertical bars joined by curved bars at the top and bottom, like a Roman numeral two.",
+  "use": "Use for Gemini, astrology, or horoscopes.",
+  "compare": {
+    "lucide": "zodiac-gemini",
+    "tabler": "zodiac-gemini"
+  }
+}

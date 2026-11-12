@@ -1,0 +1,27 @@
+{
+  "name": "refresh",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "18:1238",
+  "looks": "A nearly closed circle with an arrowhead at the top right.",
+  "use": "Use for refresh, reload, or try again.",
+  "keywords": [
+    "reload",
+    "update"
+  ],
+  "compare": {
+    "carbon": "renew",
+    "fluent": "arrow-sync",
+    "heroicons": "arrow-path",
+    "iconic": "refresh",
+    "lucide": "refresh-cw",
+    "material": "refresh",
+    "octicons": "sync",
+    "phosphor": "arrows-clockwise",
+    "radix": "reload",
+    "sf": "arrow.clockwise",
+    "tabler": "refresh"
+  }
+}

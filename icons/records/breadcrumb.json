@@ -1,0 +1,10 @@
+{
+  "name": "breadcrumb",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Navigation and layout",
+  "figmaId": "30:3410",
+  "looks": "Two small rounded squares side by side with a right chevron between them.",
+  "use": "Use for breadcrumbs, a page path, or steps in order."
+}

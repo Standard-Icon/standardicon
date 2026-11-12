@@ -1,0 +1,18 @@
+{
+  "name": "dice-6",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25319",
+  "looks": "A rounded square die with two columns of three dots.",
+  "use": "Use for a die showing six, dice games, or chance.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "lucide": "dice-6",
+    "material": false,
+    "octicons": false,
+    "phosphor": "dice-six",
+    "sf": "die.face.6",
+    "tabler": "dice-6"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "phone-forwarded",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M4.5 2.5H5.27C5.7 2.5 6.09 2.77 6.22 3.18L6.78 4.85C6.91 5.24 6.79 5.67 6.47 5.93L5.5 6.75C6.2 8.4 7.6 9.8 9.25 10.5L10.06 9.52C10.32 9.2 10.75 9.08 11.14 9.21L12.81 9.77C13.22 9.9 13.5 10.29 13.5 10.72V11.5C13.5 12.03 13.28 12.53 12.91 12.91C12.53 13.28 12.03 13.5 11.5 13.5C6.5 13.2 2.8 9.5 2.5 4.5C2.5 3.96 2.71 3.46 3.08 3.08C3.46 2.71 3.96 2.5 4.5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9 4.5H13.5M11.5 6.5L13.5 4.5L11.5 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

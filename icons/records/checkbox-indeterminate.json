@@ -1,0 +1,20 @@
+{
+  "name": "checkbox-indeterminate",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "figmaId": "23:1994",
+  "looks": "A rounded square with a horizontal dash inside.",
+  "use": "Use for a partly selected group or a mixed state.",
+  "compare": {
+    "carbon": "checkbox-indeterminate",
+    "fluent": "checkbox-indeterminate",
+    "lucide": "square-minus",
+    "material": "indeterminate-check-box",
+    "octicons": false,
+    "radix": false,
+    "sf": "minus.square",
+    "tabler": "square-minus"
+  }
+}

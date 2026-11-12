@@ -1,0 +1,22 @@
+{
+  "name": "timeline",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7424",
+  "looks": "A horizontal line with three vertical tick marks, the middle one longer and pointing down.",
+  "use": "Use for timelines or a sequence of events.",
+  "keywords": [
+    "history",
+    "sequence"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "timeline",
+    "lucide": "timeline",
+    "material": "timeline",
+    "sf": "timeline.selection",
+    "tabler": "timeline"
+  }
+}

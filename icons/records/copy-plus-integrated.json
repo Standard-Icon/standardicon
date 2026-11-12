@@ -1,0 +1,20 @@
+{
+  "name": "copy-plus-integrated",
+  "status": "active",
+  "parent": "copy",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1644",
+  "looks": "Two overlapping rounded squares with a plus drawn inside the front one at the lower left.",
+  "use": "Use for duplicate, add a copy, or clone.",
+  "formerNames": [
+    "copy-plus",
+    "duplicate"
+  ],
+  "compare": {
+    "lucide": "copy-plus",
+    "sf": false,
+    "tabler": "copy-plus"
+  }
+}

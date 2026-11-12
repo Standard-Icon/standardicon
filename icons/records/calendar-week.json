@@ -1,0 +1,26 @@
+{
+  "name": "calendar-week",
+  "status": "active",
+  "parent": "calendar",
+  "canonical": "calendar",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7191",
+  "looks": "A calendar page with two rings at the top and one thick horizontal bar across the middle.",
+  "use": "Use for a week view or a weekly schedule.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": "calendar-work-week",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "calendar-view-week",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "calendar-week"
+  }
+}

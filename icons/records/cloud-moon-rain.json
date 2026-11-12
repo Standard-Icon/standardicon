@@ -1,0 +1,17 @@
+{
+  "name": "cloud-moon-rain",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20107",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "lucide": "cloud-moon-rain",
+    "phosphor": false,
+    "sf": "cloud.moon.rain",
+    "tabler": false
+  }
+}

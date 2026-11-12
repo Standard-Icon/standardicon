@@ -1,0 +1,22 @@
+{
+  "name": "battery-full",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "settings",
+  "figmaId": "58:22080",
+  "looks": "A horizontal battery filled solid to the end, with a terminal nub on the right.",
+  "use": "Use for a full charge or a charged device.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": "battery-full",
+    "fluent": "battery-10",
+    "heroicons": "battery-100",
+    "lucide": "battery-full",
+    "material": "battery-full",
+    "octicons": false,
+    "phosphor": "battery-full",
+    "sf": "battery.100percent",
+    "tabler": "battery-4"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "training",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3 3V13H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 5C6 9 9 10.5 12.5 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.3 9.05C8.3 9.236 8.226 9.414 8.095 9.545C7.964 9.676 7.786 9.75 7.6 9.75C7.414 9.75 7.236 9.676 7.105 9.545C6.974 9.414 6.9 9.236 6.9 9.05C6.9 8.864 6.974 8.686 7.105 8.555C7.236 8.424 7.414 8.35 7.6 8.35C7.786 8.35 7.964 8.424 8.095 8.555C8.226 8.686 8.3 8.864 8.3 9.05Z\" fill=\"currentColor\"/>"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "bug",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:5850",
+  "looks": "A beetle seen from above with a line down its back, two antennae, and legs on each side.",
+  "use": "Use for bugs, debugging, or issue reports.",
+  "keywords": [
+    "issue",
+    "error"
+  ],
+  "compare": {
+    "fluent": "bug",
+    "heroicons": "bug-ant",
+    "lucide": "bug",
+    "material": "bug-report",
+    "octicons": "bug",
+    "phosphor": "bug",
+    "sf": "ant",
+    "tabler": "bug"
+  }
+}

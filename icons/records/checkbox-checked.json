@@ -1,0 +1,20 @@
+{
+  "name": "checkbox-checked",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "figmaId": "23:1973",
+  "looks": "A rounded square with a checkmark inside.",
+  "use": "Use for a checked box or a completed task.",
+  "compare": {
+    "carbon": "checkbox-checked",
+    "fluent": "checkbox-checked",
+    "lucide": "square-check",
+    "material": "check-box",
+    "octicons": "checkbox",
+    "radix": "checkbox",
+    "sf": "checkmark.square",
+    "tabler": "checkbox"
+  }
+}

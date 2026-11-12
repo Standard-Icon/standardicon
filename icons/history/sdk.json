@@ -1,0 +1,17 @@
+{
+ "name": "sdk",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M2.5 2.5H13.5C13.765 2.5 14.02 2.605 14.207 2.793C14.395 2.98 14.5 3.235 14.5 3.5V12.5C14.5 12.765 14.395 13.02 14.207 13.207C14.02 13.395 13.765 13.5 13.5 13.5H2.5C2.235 13.5 1.98 13.395 1.793 13.207C1.605 13.02 1.5 12.765 1.5 12.5V3.5C1.5 3.235 1.605 2.98 1.793 2.793C1.98 2.605 2.235 2.5 2.5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.25 6L4.5 8L6.25 10M9.75 6L11.5 8L9.75 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"1.5\" y=\"2.5\" width=\"13\" height=\"11\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5.8 6L4.5 8L5.8 10M10.2 6L11.5 8L10.2 10\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

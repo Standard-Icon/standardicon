@@ -1,0 +1,23 @@
+{
+  "name": "page-break",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6469",
+  "looks": "Two open rectangles, one above and one below, with a dashed horizontal line between them.",
+  "use": "Use for page breaks or splitting pages.",
+  "keywords": [
+    "pagination",
+    "divider"
+  ],
+  "compare": {
+    "carbon": "page-break",
+    "fluent": false,
+    "iconic": false,
+    "material": "insert-page-break",
+    "phosphor": false,
+    "sf": false,
+    "tabler": "page-break"
+  }
+}

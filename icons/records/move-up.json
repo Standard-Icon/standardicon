@@ -1,0 +1,23 @@
+{
+  "name": "move-up",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23305",
+  "looks": "A vertical arrow pointing up, with a short horizontal bar at its base.",
+  "use": "Use for moving something up or raising it.",
+  "compare": {
+    "carbon": false,
+    "fluent": "arrow-up",
+    "heroicons": "arrow-up",
+    "iconic": false,
+    "lucide": "move-up",
+    "material": "move-up",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "arrow-move-up"
+  }
+}

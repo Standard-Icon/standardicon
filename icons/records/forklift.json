@@ -1,0 +1,14 @@
+{
+  "name": "forklift",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "commerce",
+  "pick": "A",
+  "figmaId": "59:22449",
+  "compare": {
+    "lucide": "forklift",
+    "material": "forklift",
+    "tabler": "forklift"
+  }
+}

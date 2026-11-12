@@ -1,0 +1,19 @@
+{
+  "name": "playing-card",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27797",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "playing-card",
+    "material": "playing-cards",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "play-card"
+  }
+}

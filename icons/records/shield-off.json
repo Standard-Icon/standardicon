@@ -1,0 +1,24 @@
+{
+  "name": "shield-off",
+  "status": "active",
+  "parent": "shield",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:5617",
+  "looks": "A shield crossed by a diagonal slash from lower left to upper right.",
+  "use": "Use for disabled protection or an unsecured state.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "shield-off",
+    "material": false,
+    "octicons": "shield-slash",
+    "phosphor": "shield",
+    "radix": false,
+    "sf": "shield.slash",
+    "tabler": "shield-off"
+  }
+}

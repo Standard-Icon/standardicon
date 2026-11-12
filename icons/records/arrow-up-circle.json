@@ -1,0 +1,32 @@
+{
+  "name": "arrow-up-circle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Arrows",
+  "figmaId": "27:3440",
+  "looks": "An arrow pointing up inside a circle.",
+  "use": "Use for upload, scroll up, or move up.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.302Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "arrow-circle-up",
+    "heroicons": "arrow-up-circle",
+    "lucide": "arrow-up-circle",
+    "material": "arrow-circle-up",
+    "octicons": false,
+    "phosphor": "arrow-circle-up",
+    "radix": false,
+    "sf": "arrow.up.circle",
+    "tabler": "arrow-up-circle"
+  },
+  "compareAlso": {
+    "lucide": [
+      "circle-arrow-up"
+    ]
+  }
+}

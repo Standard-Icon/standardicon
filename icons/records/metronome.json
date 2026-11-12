@@ -1,0 +1,23 @@
+{
+  "name": "metronome",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "183:31658",
+  "looks": "A tall triangular metronome body with a slanted pendulum arm and a base line.",
+  "use": "Use for tempo, beat, or music practice.",
+  "compare": {
+    "lucide": "metronome",
+    "phosphor": "metronome",
+    "sf": "metronome",
+    "tabler": "metronome"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "audio"
+    }
+  ]
+}

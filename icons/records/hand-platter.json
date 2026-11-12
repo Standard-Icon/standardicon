@@ -1,0 +1,18 @@
+{
+  "name": "hand-platter",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:24469",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "hand-platter",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

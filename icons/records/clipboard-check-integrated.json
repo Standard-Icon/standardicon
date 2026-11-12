@@ -1,0 +1,26 @@
+{
+  "name": "clipboard-check-integrated",
+  "status": "active",
+  "parent": "clipboard",
+  "canonical": "clipboard",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:5136",
+  "looks": "A clipboard with a clip at the top and a checkmark on the board.",
+  "use": "Use for completed tasks, checklists, or approvals.",
+  "formerNames": [
+    "clipboard-check"
+  ],
+  "keywords": [
+    "approved",
+    "tasks done"
+  ],
+  "compare": {
+    "fluent": "clipboard-checkmark",
+    "heroicons": "clipboard-document-check",
+    "lucide": "clipboard-check",
+    "sf": false,
+    "tabler": "clipboard-check"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "repo",
+  "status": "active",
+  "parent": "book-closed",
+  "canonical": "book-closed",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:5012",
+  "looks": "A closed book standing upright with its spine on the left.",
+  "use": "Use for a code repository, a project, or documentation.",
+  "keywords": [
+    "git",
+    "repository"
+  ],
+  "compare": {
+    "carbon": "git-repo",
+    "lucide": "folder-git",
+    "octicons": "repo"
+  }
+}

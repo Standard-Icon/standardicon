@@ -1,0 +1,14 @@
+{
+  "name": "candy-cane",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19341",
+  "looks": "A hooked candy cane with diagonal stripes along its shaft.",
+  "use": "Use for candy canes, holidays, or Christmas.",
+  "compare": {
+    "lucide": "candy-cane",
+    "tabler": false
+  }
+}

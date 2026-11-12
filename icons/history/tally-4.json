@@ -1,0 +1,11 @@
+{
+ "name": "tally-4",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M3.5 3V13M6.5 3V13M9.5 3V13M12.5 3V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

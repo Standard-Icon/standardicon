@@ -1,0 +1,29 @@
+{
+  "name": "person-circle",
+  "status": "active",
+  "canonical": "person",
+  "source": "plan",
+  "wave": "W1",
+  "group": "People and identity",
+  "figmaId": "23:2347",
+  "looks": "A person's head and shoulders inside a circle.",
+  "use": "Use for an account, a profile, or the signed-in user.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.400Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "user-avatar",
+    "fluent": "person-circle",
+    "heroicons": "user-circle",
+    "iconic": false,
+    "lucide": "circle-user-round",
+    "material": "account-circle",
+    "octicons": false,
+    "phosphor": "user-circle",
+    "radix": false,
+    "sf": "person.circle",
+    "tabler": "user-circle"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "mail-check-overlay",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M9.55 12L3.5 12C2.948 12 2.5 11.552 2.5 11L2.5 5C2.5 4.448 2.948 4 3.5 4L12.5 4C13.052 4 13.5 4.448 13.5 5L13.5 9.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.8 4.7L8 8.5L13.2 4.7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11 12.172L11.938 13.109L13.5 11.391\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

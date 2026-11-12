@@ -1,0 +1,25 @@
+{
+  "name": "tab-plus",
+  "status": "active",
+  "parent": "tab",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Navigation and layout",
+  "figmaId": "30:3296",
+  "formerNames": [
+    "tab-new"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "tab-desktop-multiple-add",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

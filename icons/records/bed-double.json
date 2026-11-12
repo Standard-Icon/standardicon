@@ -1,0 +1,22 @@
+{
+  "name": "bed-double",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:24006",
+  "looks": "A front view of a wide bed with two pillows at the top and a mattress below.",
+  "use": "Use for a double bed, shared rooms, or hotels.",
+  "approved": {
+    "at": "2026-11-10T19:49:06.169Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "bed",
+    "lucide": "bed-double",
+    "material": "bed",
+    "phosphor": "bed",
+    "sf": "bed.double",
+    "tabler": "bed"
+  }
+}

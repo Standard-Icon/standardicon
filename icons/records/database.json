@@ -1,0 +1,25 @@
+{
+  "name": "database",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Data and infrastructure",
+  "figmaId": "12:1069",
+  "looks": "A cylinder with two curved bands dividing it into stacked layers.",
+  "use": "Use for databases, data storage, or records.",
+  "keywords": [
+    "db",
+    "sql",
+    "storage"
+  ],
+  "compare": {
+    "carbon": "db2-database",
+    "fluent": "database",
+    "lucide": "database",
+    "material": "database",
+    "octicons": "database",
+    "phosphor": "database",
+    "radix": "database",
+    "tabler": "database"
+  }
+}

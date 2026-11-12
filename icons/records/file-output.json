@@ -1,0 +1,23 @@
+{
+  "name": "file-output",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:23965",
+  "looks": "A file open at the top right with an arrow leaving it to the right.",
+  "use": "Use for exporting a file or sending it out.",
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": "file-output",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "tombstone",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M3.5 13.5V5.515C3.5 3.858 4.843 2.515 6.5 2.515H9.5C11.157 2.515 12.5 3.858 12.5 5.515V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 13.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T08:21:16.884Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M3.5 13.5V5.515C3.5 3.858 4.843 2.515 6.5 2.515H9.5C11.157 2.515 12.5 3.858 12.5 5.515V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 13.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"6.395\" y1=\"11.227\" x2=\"9.652\" y2=\"11.227\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"6.395\" y1=\"5.48\" x2=\"9.652\" y2=\"5.48\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"6.395\" y1=\"7.176\" x2=\"9.652\" y2=\"7.176\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

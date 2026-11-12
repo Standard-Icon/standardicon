@@ -1,0 +1,13 @@
+{
+  "name": "popcorn",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19803",
+  "compare": {
+    "lucide": "popcorn",
+    "phosphor": "popcorn",
+    "sf": "popcorn"
+  }
+}

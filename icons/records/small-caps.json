@@ -1,0 +1,28 @@
+{
+  "name": "small-caps",
+  "status": "active",
+  "canonical": "letter-a",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:32226",
+  "looks": "A large capital A next to a smaller capital A on its right.",
+  "use": "Use for small caps text formatting.",
+  "compare": {
+    "carbon": "text-small-caps",
+    "fluent": false,
+    "iconic": false,
+    "lucide": "a-large-small",
+    "material": false,
+    "octicons": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "text"
+    }
+  ]
+}

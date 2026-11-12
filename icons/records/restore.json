@@ -1,0 +1,24 @@
+{
+  "name": "restore",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3567",
+  "looks": "A trash can with an arrow pointing up out of it.",
+  "use": "Use for restore, recover from trash, or undelete.",
+  "keywords": [
+    "recover",
+    "revert"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.405Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "lucide": "archive-restore",
+    "material": "restore-page",
+    "tabler": "restore"
+  }
+}

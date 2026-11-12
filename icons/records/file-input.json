@@ -1,0 +1,23 @@
+{
+  "name": "file-input",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:23937",
+  "looks": "A file with a folded top right corner and an arrow entering it from the left.",
+  "use": "Use for importing a file or opening one into an app.",
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": "file-input",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

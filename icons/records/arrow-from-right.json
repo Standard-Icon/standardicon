@@ -1,0 +1,21 @@
+{
+  "name": "arrow-from-right",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23875",
+  "looks": "A right-pointing arrow starting from a vertical line at its left end.",
+  "use": "Use for moving something out from the right edge or going to the end.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "arrow-right-from-line",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

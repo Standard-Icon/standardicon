@@ -1,0 +1,22 @@
+{
+  "name": "chart-spline",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "charts",
+  "figmaId": "58:22054",
+  "looks": "A smooth curve rising across two axes.",
+  "use": "Use for smooth line charts and trends.",
+  "compare": {
+    "carbon": "chart-line-smooth",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "chart-spline",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "list-plus-overlay",
+  "status": "active",
+  "parent": "list",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "editor",
+  "figmaId": "58:21432",
+  "formerNames": [
+    "list-plus"
+  ],
+  "compare": {
+    "fluent": "reading-list-add",
+    "lucide": "list-plus",
+    "material": "list-alt-add",
+    "phosphor": "list-plus",
+    "sf": false
+  }
+}

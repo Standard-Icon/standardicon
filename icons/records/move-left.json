@@ -1,0 +1,23 @@
+{
+  "name": "move-left",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23337",
+  "looks": "A leftward arrow with a short bar across its right end.",
+  "use": "Use for moving left or sending to the start.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "arrow-left",
+    "iconic": false,
+    "lucide": "move-left",
+    "material": "move-selection-left",
+    "octicons": "arrow-left",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "arrow-move-left"
+  }
+}

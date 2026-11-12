@@ -1,0 +1,22 @@
+{
+  "name": "arrow-down-left",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "21:1374",
+  "looks": "A diagonal arrow pointing to the lower left, with a square corner for its head.",
+  "use": "Use for incoming, received, or move down and left.",
+  "compare": {
+    "carbon": "arrow-down-left",
+    "fluent": "arrow-down-left",
+    "heroicons": "arrow-down-left",
+    "lucide": "arrow-down-left",
+    "material": "south-west",
+    "octicons": "arrow-down-left",
+    "phosphor": "arrow-down-left",
+    "radix": "arrow-bottom-left",
+    "sf": "arrow.down.left",
+    "tabler": "arrow-down-left"
+  }
+}

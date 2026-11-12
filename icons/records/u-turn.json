@@ -1,0 +1,17 @@
+{
+  "name": "u-turn",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Arrows",
+  "figmaId": "27:3567",
+  "looks": "An arch that rises from the left, curves over, and comes down on the right into a down arrow.",
+  "use": "Use for a U-turn, turn around, or go back the way you came.",
+  "compare": {
+    "carbon": "direction-u-turn",
+    "lucide": false,
+    "material": "u-turn-left",
+    "sf": false,
+    "tabler": "u-turn-left"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "tachometer",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:21246",
+  "looks": "A three-quarter circle dial with tick marks around the rim and a needle pointing up-left.",
+  "use": "Use for engine revs, RPM, or a car gauge.",
+  "fillApproved": true,
+  "compare": {
+    "sf": "tachometer"
+  }
+}

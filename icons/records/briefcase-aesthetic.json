@@ -1,0 +1,18 @@
+{
+  "name": "briefcase-aesthetic",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26224",
+  "looks": "A rounded briefcase with a handle on top, a flap line across and a small clasp in the center.",
+  "use": "Use for work, business, or jobs.",
+  "compare": {
+    "fluent": "briefcase",
+    "heroicons": "briefcase",
+    "lucide": "briefcase-business",
+    "material": "work",
+    "octicons": "briefcase",
+    "phosphor": "briefcase",
+    "sf": "briefcase",
+    "tabler": "briefcase"
+  }
+}

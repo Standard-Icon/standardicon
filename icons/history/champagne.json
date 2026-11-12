@@ -1,0 +1,12 @@
+{
+ "name": "champagne",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M5.75 2.5H10.25L10.1 6.25C10 8 9.1 9.25 8 9.25C6.9 9.25 6 8 5.9 6.25L5.75 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.85 4.5H10.15\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.25 6.75C7.526 6.75 7.75 6.526 7.75 6.25C7.75 5.974 7.526 5.75 7.25 5.75C6.974 5.75 6.75 5.974 6.75 6.25C6.75 6.526 6.974 6.75 7.25 6.75Z\" fill=\"currentColor\"/><path d=\"M8.5 8C8.776 8 9 7.776 9 7.5C9 7.224 8.776 7 8.5 7C8.224 7 8 7.224 8 7.5C8 7.776 8.224 8 8.5 8Z\" fill=\"currentColor\"/><path d=\"M8 9.25V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 13.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

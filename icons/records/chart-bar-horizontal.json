@@ -1,0 +1,26 @@
+{
+  "name": "chart-bar-horizontal",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6234",
+  "looks": "Three horizontal bars of different lengths coming off a vertical axis.",
+  "use": "Use for horizontal bar charts and rankings.",
+  "keywords": [
+    "graph",
+    "analytics"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "data-bar-horizontal-descending",
+    "heroicons": false,
+    "lucide": "bar-chart-horizontal",
+    "material": false,
+    "octicons": "graph-bar-horizontal",
+    "phosphor": "chart-bar-horizontal",
+    "radix": false,
+    "sf": "chart.bar.horizontal.page",
+    "tabler": false
+  }
+}

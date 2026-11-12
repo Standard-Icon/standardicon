@@ -1,0 +1,11 @@
+{
+ "name": "sleep",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M4.84 6.25C4.72 6.603 4.66 6.978 4.66 7.367C4.66 9.415 6.33 11.08 8.38 11.08C8.77 11.08 9.14 11.02 9.49 10.908C9.02 12.408 7.62 13.495 5.96 13.495C3.91 13.495 2.25 11.837 2.25 9.79C2.25 8.133 3.34 6.723 4.84 6.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 2.5H12.5L9.5 5.5H12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.5 7H13.5L11.5 9H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

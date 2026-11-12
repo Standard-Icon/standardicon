@@ -1,0 +1,23 @@
+{
+  "name": "folder-minus-integrated",
+  "status": "active",
+  "parent": "folder",
+  "canonical": "folder",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:5032",
+  "looks": "A closed folder with a minus sign in the middle.",
+  "use": "Use for removing a folder or its contents.",
+  "formerNames": [
+    "folder-minus"
+  ],
+  "compare": {
+    "heroicons": "folder-minus",
+    "lucide": "folder-minus",
+    "octicons": false,
+    "phosphor": "folder-minus",
+    "sf": "folder.badge.minus",
+    "tabler": "folder-minus"
+  }
+}

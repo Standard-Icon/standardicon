@@ -1,0 +1,31 @@
+{
+  "name": "pop-out",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "12:480",
+  "looks": "A rounded square open at the top right, with a diagonal arrow pointing out of that corner.",
+  "use": "Use for an external link, open in a new window, or pop out.",
+  "keywords": [
+    "external",
+    "open in new",
+    "new window"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.219Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "external-link",
+    "material": "open-in-new",
+    "octicons": "link-external",
+    "phosphor": "arrow-square-out",
+    "radix": "external-link",
+    "tabler": "external-link"
+  }
+}

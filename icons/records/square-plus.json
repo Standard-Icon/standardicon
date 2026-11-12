@@ -1,0 +1,30 @@
+{
+  "name": "square-plus",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31523",
+  "looks": "A rounded square with a plus sign inside.",
+  "use": "Use for adding an item, creating new, or expanding.",
+  "compare": {
+    "carbon": false,
+    "fluent": "add-square",
+    "heroicons": false,
+    "iconic": "square-plus",
+    "lucide": "square-plus",
+    "material": false,
+    "octicons": false,
+    "phosphor": "plus-square",
+    "radix": false,
+    "sf": "plus.square",
+    "tabler": "square-plus"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "status"
+    }
+  ]
+}

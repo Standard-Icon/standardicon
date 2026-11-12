@@ -1,0 +1,11 @@
+{
+ "name": "select-x",
+ "versions": [
+  {
+   "at": "2026-11-07T19:08:10-08:00",
+   "source": "git 5279fa2",
+   "released": true,
+   "body": "<path d=\"M3 5V4C3 3.735 3.105 3.48 3.293 3.293C3.48 3.105 3.735 3 4 3H5M7.5 3H8.5M11 3H12C12.265 3 12.52 3.105 12.707 3.293C12.895 3.48 13 3.735 13 4V5M13 7.5V8.5M13 11V12C13 12.265 12.895 12.52 12.707 12.707C12.52 12.895 12.265 13 12 13H11M8.5 13H7.5M5 13H4C3.735 13 3.48 12.895 3.293 12.707C3.105 12.52 3 12.265 3 12V11M3 8.5V7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.125 6.125L9.875 9.875M9.875 6.125L6.125 9.875\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

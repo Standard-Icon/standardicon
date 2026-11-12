@@ -1,0 +1,11 @@
+{
+ "name": "globe-check-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M7.917 13.599C7.21 13.589 6.511 13.445 5.857 13.174C5.177 12.892 4.56 12.48 4.04 11.96C3.52 11.44 3.108 10.822 2.826 10.143C2.545 9.464 2.4 8.735 2.4 8C2.4 7.265 2.545 6.536 2.826 5.857C3.108 5.177 3.52 4.56 4.04 4.04C4.56 3.52 5.177 3.108 5.857 2.826C6.536 2.545 7.264 2.4 8 2.4C8.735 2.4 9.464 2.545 10.143 2.826C10.822 3.108 11.44 3.52 11.96 4.04C12.48 4.56 12.892 5.177 13.174 5.857C13.445 6.511 13.589 7.21 13.599 7.917\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.4 8H9.68\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.394 7.7C10.318 5.801 9.52 3.92 8 2.4C6.4 4 5.6 6 5.6 8C5.6 9.925 6.341 11.85 7.823 13.418\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 11.609L11.188 13.297L14 10.203\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

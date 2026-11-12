@@ -1,0 +1,41 @@
+{
+ "name": "superscript",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M2.5 13L6 3.75L9.5 13M3.75 10H8.25M10.75 3L13.5 5.75M13.5 3L10.75 5.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M11.75 3L14.5 5.75M14.5 3L11.75 5.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1.25 13L5.489 4.25L9.729 13M2.792 10.188H8.187\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<path d=\"M13.219 3.375L14.766 4.922L16.312 6.469M16.312 3.375L14.766 4.922L13.219 6.469\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1.406 14.625L6.176 4.781L10.945 14.625M3.141 11.461H9.211\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<path d=\"M14.688 3.75L16.406 5.469L18.125 7.188M18.125 3.75L16.406 5.469L14.688 7.188\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1.562 16.25L6.862 5.312L12.161 16.25M3.489 12.734H10.234\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<path d=\"M16.156 4.125L18.047 6.016L19.938 7.906M19.938 4.125L18.047 6.016L16.156 7.906\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1.719 17.875L7.548 5.844L13.377 17.875M3.838 14.008H11.257\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<path d=\"M17.625 4.5L19.688 6.562L21.75 8.625M21.75 4.5L17.625 8.625\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1.875 19.5L8.234 6.375L14.593 19.5M4.187 15.281H12.281\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M10.789 3.514L13.539 6.264M13.539 3.514L10.789 6.264\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.461 12.486L6.7 3.736L10.94 12.486M4.002 9.673H9.398\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<path d=\"M12.138 3.953L13.685 5.5L15.231 7.047M15.231 3.953L13.685 5.5L12.138 7.047\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.769 14.047L7.538 4.203L12.307 14.047M4.503 10.883H10.573\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<path d=\"M13.486 4.393L15.205 6.111L16.924 7.83M16.924 4.393L15.205 6.111L13.486 7.83\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.076 15.607L8.375 4.67L13.675 15.607M5.003 12.092H11.748\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<path d=\"M14.835 4.832L18.616 8.613M18.616 4.832L16.726 6.723L14.835 8.613\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.384 17.168L9.213 5.137L15.042 17.168M5.503 13.301H12.922\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<path d=\"M16.184 5.271L18.246 7.334L20.309 9.396M20.309 5.271L16.184 9.396\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.691 18.729L10.05 5.604L16.41 18.729M6.004 14.51H14.097\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-11T09:46:49.583Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M10.789 3.514L13.539 6.264M13.539 3.514L10.789 6.264\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.461 12.486L6.7 3.736L10.94 12.486M4.002 9.673H9.398\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

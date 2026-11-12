@@ -1,0 +1,11 @@
+{
+ "name": "traffic-cone",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M4 13.5L6.75 3.25C6.9 2.75 7.4 2.5 8 2.5C8.6 2.5 9.1 2.75 9.25 3.25L12 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.88 6.5H10.12M5.07 9.5H10.93\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 13.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "name": "contactless",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"1.5\" y=\"6.5\" width=\"8.5\" height=\"6.5\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M1.5 9H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.75 4C12.242 4.55 12.514 5.26 12.514 6C12.514 6.74 12.242 7.45 11.75 8M13.5 2.75C14.275 3.66 14.7 4.81 14.7 6C14.7 7.19 14.275 8.34 13.5 9.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "mosaic",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24450",
+  "compare": {
+    "material": "auto-awesome-mosaic",
+    "sf": "mosaic"
+  }
+}

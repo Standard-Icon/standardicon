@@ -1,0 +1,18 @@
+{
+  "name": "incognito",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:5933",
+  "looks": "A brimmed hat above a pair of round glasses.",
+  "use": "Use for private browsing, incognito mode, or anonymity.",
+  "keywords": [
+    "private",
+    "anonymous"
+  ],
+  "compare": {
+    "fluent": "incognito",
+    "lucide": "hat-glasses"
+  }
+}

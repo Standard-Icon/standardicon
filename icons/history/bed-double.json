@@ -1,0 +1,11 @@
+{
+ "name": "bed-double",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2 12.75V9.25C2 8.42 2.67 7.75 3.5 7.75H12.5C13.33 7.75 14 8.42 14 9.25V12.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.25 7.75V4.75C3.25 3.92 3.92 3.25 4.75 3.25H11.25C12.08 3.25 12.75 3.92 12.75 4.75V7.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 3.25V7.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2 11H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

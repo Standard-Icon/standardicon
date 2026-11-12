@@ -1,0 +1,11 @@
+{
+ "name": "phone-plus-overlay",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M9.55 13.197C5.562 12.177 2.759 8.825 2.5 4.5C2.5 3.97 2.711 3.461 3.086 3.086C3.461 2.711 3.97 2.5 4.5 2.5L5.279 2.5C5.71 2.5 6.092 2.775 6.228 3.184L6.784 4.852C6.914 5.243 6.792 5.673 6.476 5.937L5.5 6.75C6.2 8.4 7.6 9.8 9.25 10.5L10.063 9.524C10.327 9.208 10.757 9.086 11.148 9.216L12.15 9.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.307 12.25H13.194M12.25 11.306V13.194\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

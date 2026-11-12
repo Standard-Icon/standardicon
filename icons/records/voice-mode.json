@@ -1,0 +1,22 @@
+{
+  "name": "voice-mode",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:54096",
+  "looks": "Five vertical bars of varying height, tallest in the middle, like a sound wave.",
+  "use": "Use for voice input, audio waveforms, or voice chat.",
+  "keywords": [
+    "microphone",
+    "speech"
+  ],
+  "compare": {
+    "carbon": "voice-mode",
+    "fluent": "person-voice",
+    "material": "voice-chat",
+    "phosphor": "waveform",
+    "radix": "blending-mode",
+    "tabler": "waveform"
+  }
+}

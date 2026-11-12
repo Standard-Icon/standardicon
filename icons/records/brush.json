@@ -1,0 +1,25 @@
+{
+  "name": "brush",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6032",
+  "looks": "A paintbrush angled from the upper right down to a curved bristle tip at the lower left.",
+  "use": "Use for painting, brush tools, or styling.",
+  "keywords": [
+    "paint",
+    "draw",
+    "art"
+  ],
+  "compare": {
+    "carbon": "paint-brush",
+    "fluent": "paint-brush",
+    "heroicons": "paint-brush",
+    "lucide": "brush",
+    "material": "brush",
+    "octicons": "paintbrush",
+    "phosphor": "paint-brush",
+    "tabler": "brush"
+  }
+}

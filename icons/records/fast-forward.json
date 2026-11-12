@@ -1,0 +1,22 @@
+{
+  "name": "fast-forward",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "solid": "needed",
+  "figmaId": "34:5307",
+  "keywords": [
+    "seek"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "fast-forward",
+    "heroicons": "forward",
+    "lucide": "fast-forward",
+    "material": "fast-forward",
+    "phosphor": "fast-forward",
+    "sf": "forward",
+    "tabler": false
+  }
+}

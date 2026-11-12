@@ -1,0 +1,23 @@
+{
+  "name": "database-off",
+  "status": "active",
+  "parent": "database",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "12:1103",
+  "looks": "A database cylinder with a diagonal slash from the lower left to the upper right.",
+  "use": "Use for a database offline or no data connection.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "database-off",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "database-off"
+  }
+}

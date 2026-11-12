@@ -1,0 +1,17 @@
+{
+  "name": "filter-plus-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26150",
+  "looks": "A funnel with a small rounded square holding a plus overlapping its lower right.",
+  "use": "Use for adding a filter.",
+  "formerNames": [
+    "filter-plus"
+  ],
+  "compare": {
+    "fluent": "filter-add",
+    "lucide": "list-filter-plus",
+    "sf": false,
+    "tabler": "filter-plus"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "privacy",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Legal",
+  "figmaId": "82:28111",
+  "looks": "A shield with an eye in the middle.",
+  "use": "Use for privacy, data protection, or visibility settings.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": false,
+    "material": "privacy",
+    "sf": "lock.heart"
+  }
+}

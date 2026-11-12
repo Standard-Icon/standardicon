@@ -1,0 +1,32 @@
+{
+  "name": "bookmark",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "solid": "needed",
+  "figmaId": "22:1896",
+  "looks": "A tall bookmark ribbon with a V notch cut into the bottom.",
+  "use": "Use for bookmarks, saved items, or read later.",
+  "keywords": [
+    "save",
+    "favorite"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:35.722Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "bookmark",
+    "fluent": "bookmark",
+    "heroicons": "bookmark",
+    "lucide": "bookmark",
+    "material": "bookmark",
+    "octicons": "bookmark",
+    "phosphor": "bookmark",
+    "radix": "bookmark",
+    "sf": "bookmark",
+    "tabler": "bookmark"
+  }
+}

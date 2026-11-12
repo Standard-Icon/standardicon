@@ -1,0 +1,27 @@
+{
+  "name": "book-open-check-overlay",
+  "status": "active",
+  "parent": "book-open",
+  "canonical": "book-open",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:22179",
+  "looks": "An open book with a small rounded square holding a checkmark at the lower right.",
+  "use": "Use for finished reading or completed lessons.",
+  "formerNames": [
+    "book-check",
+    "book-open-check"
+  ],
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "book-open-check",
+    "phosphor": false
+  },
+  "compareAlso": {
+    "lucide": [
+      "book-open-check"
+    ]
+  }
+}

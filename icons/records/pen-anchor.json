@@ -1,0 +1,17 @@
+{
+  "name": "pen-anchor",
+  "status": "active",
+  "source": "later",
+  "figmaId": "340:43606",
+  "looks": "A pen nib tilted toward the upper left with a small circle at the lower right.",
+  "use": "Use for picking up an anchor or continuing a path.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "tabler": false
+  }
+}

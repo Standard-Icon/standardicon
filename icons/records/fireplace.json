@@ -1,0 +1,12 @@
+{
+  "name": "fireplace",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22029",
+  "compare": {
+    "material": "fireplace",
+    "sf": "fireplace"
+  }
+}

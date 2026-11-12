@@ -1,0 +1,17 @@
+{
+ "name": "star-x",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M9.75 12.753L8 11.922L4.205 13.724L4.745 9.558L1.859 6.505L5.989 5.731L8 2.043L10.012 5.731L14.141 6.505L11.255 9.558L11.28 9.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.75\" y=\"9.75\" width=\"5\" height=\"5\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.125 11.125L13.375 13.375M13.375 11.125L11.125 13.375\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<path d=\"M10.969 14.347L9 13.413L4.73 15.439L5.338 10.752L2.091 7.318L6.737 6.448L9 2.298L11.263 6.448L15.909 7.318L12.662 10.752L12.69 10.969\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"10.969\" y=\"10.969\" width=\"5.625\" height=\"5.625\" rx=\"1.125\" stroke=\"currentColor\"/><path d=\"M12.516 12.516L15.047 15.047M15.047 12.516L13.781 13.781L12.516 15.047\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<path d=\"M12.188 15.942L10 14.903L5.256 17.155L5.932 11.947L2.324 8.131L7.486 7.164L10 2.554L12.515 7.164L17.676 8.131L14.069 11.947L14.1 12.188\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"12.188\" y=\"12.188\" width=\"6.25\" height=\"6.25\" rx=\"1.25\" stroke=\"currentColor\"/><path d=\"M13.906 13.906L16.719 16.719M16.719 13.906L15.312 15.312L13.906 16.719\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<path d=\"M13.406 17.535L11 16.393L5.781 18.87L6.525 13.142L2.556 8.944L8.234 7.881L11 2.809L13.766 7.881L19.444 8.944L15.475 13.142L15.509 13.406\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"13.406\" y=\"13.406\" width=\"6.875\" height=\"6.875\" rx=\"1.375\" stroke=\"currentColor\"/><path d=\"M15.297 15.297L18.391 18.391M18.391 15.297L15.297 18.391\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<path d=\"M14.625 19.13L12 17.883L6.307 20.586L7.118 14.336L2.789 9.757L8.98 8.597L12 3.064L15.02 8.597L21.21 9.757L16.88 14.336L16.917 14.625\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"14.625\" y=\"14.625\" width=\"7.5\" height=\"7.5\" rx=\"1.5\" stroke=\"currentColor\"/><path d=\"M16.688 16.688L20.062 20.062M20.062 16.688L16.688 20.062\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  }
+ ]
+}

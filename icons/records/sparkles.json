@@ -1,0 +1,22 @@
+{
+  "name": "sparkles",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:53859",
+  "keywords": [
+    "ai",
+    "magic",
+    "generate"
+  ],
+  "compare": {
+    "fluent": false,
+    "heroicons": "sparkles",
+    "iconic": "sparkles",
+    "lucide": "sparkles",
+    "octicons": "sparkles-fill",
+    "sf": "sparkles",
+    "tabler": "sparkles"
+  }
+}

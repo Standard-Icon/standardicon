@@ -1,0 +1,19 @@
+{
+  "name": "panel-bottom-close",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "navigation",
+  "figmaId": "58:21143",
+  "looks": "A wide rounded rectangle with a band across the bottom and a down chevron above it.",
+  "use": "Use for hiding or collapsing the bottom panel.",
+  "compare": {
+    "carbon": "bottom-panel-close",
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "panel-bottom-close",
+    "material": "bottom-panel-close",
+    "radix": "panel-bottom",
+    "sf": false
+  }
+}

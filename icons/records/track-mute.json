@@ -1,0 +1,28 @@
+{
+  "name": "track-mute",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "183:31583",
+  "looks": "A rounded square with a capital letter M inside.",
+  "use": "Use for muting a track in a mixer or editor.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "audio"
+    }
+  ]
+}

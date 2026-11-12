@@ -1,0 +1,18 @@
+{
+  "name": "package-minus-overlay",
+  "status": "active",
+  "parent": "package",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "56:22377",
+  "looks": "A box with a slanted lid and a small rounded square holding a minus at its lower right.",
+  "use": "Use for removing a package or uninstalling.",
+  "formerNames": [
+    "package-minus"
+  ],
+  "compare": {
+    "lucide": "package-minus",
+    "sf": false
+  }
+}

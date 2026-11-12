@@ -1,0 +1,13 @@
+{
+  "name": "database-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29078",
+  "looks": "A database cylinder with a plus sign cut into the lower right.",
+  "use": "Use for adding a database or new records.",
+  "compare": {
+    "lucide": "database-plus",
+    "sf": false,
+    "tabler": "database-plus"
+  }
+}

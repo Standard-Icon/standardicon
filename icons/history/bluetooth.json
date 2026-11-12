@@ -1,0 +1,17 @@
+{
+ "name": "bluetooth",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M5 5L11 10.5L8 13.5V2.5L11 5.5L5 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M5 5L8 7.75L8.273 8L11 5.5L8 2.5V13.5L11 10.5L8.273 8L8 8.25L5 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

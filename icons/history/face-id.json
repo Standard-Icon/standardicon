@@ -1,0 +1,17 @@
+{
+ "name": "face-id",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3 6V4C3 3.735 3.105 3.48 3.293 3.293C3.48 3.105 3.735 3 4 3H6M10 3H12C12.265 3 12.52 3.105 12.707 3.293C12.895 3.48 13 3.735 13 4V6M13 10V12C13 12.265 12.895 12.52 12.707 12.707C12.52 12.895 12.265 13 12 13H10M6 13H4C3.735 13 3.48 12.895 3.293 12.707C3.105 12.52 3 12.265 3 12V10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 6.5V7.5M10.5 6.5V7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6.5V9H7.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.75 10.5C6.75 11.25 9.25 11.25 10.25 10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M3 6V4C3 3.735 3.105 3.48 3.293 3.293C3.48 3.105 3.735 3 4 3H6M10 3H12C12.265 3 12.52 3.105 12.707 3.293C12.895 3.48 13 3.735 13 4V6M13 10V12C13 12.265 12.895 12.52 12.707 12.707C12.52 12.895 12.265 13 12 13H10M6 13H4C3.735 13 3.48 12.895 3.293 12.707C3.105 12.52 3 12.265 3 12V10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 5.95V6.95M10.5 5.95V6.95\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.95V8.45H7.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.75 9.95C6.75 10.7 9.25 10.7 10.25 9.95\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "pip-exit",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24243",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "material": "pip-exit",
+    "radix": false,
+    "sf": "pip.exit",
+    "tabler": false
+  }
+}

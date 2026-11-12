@@ -1,0 +1,20 @@
+{
+  "name": "update",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5939",
+  "looks": "A circular arrow open at the top right with a downward arrow in the center.",
+  "use": "Use for updates or downloading an update.",
+  "keywords": [
+    "upgrade",
+    "new version"
+  ],
+  "compare": {
+    "carbon": "update-now",
+    "lucide": false,
+    "material": "update",
+    "radix": "update"
+  }
+}

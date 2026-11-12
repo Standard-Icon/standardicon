@@ -1,0 +1,17 @@
+{
+ "name": "inhaler",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M7.5 5.5H12.5V12.5C12.5 13.05 12.05 13.5 11.5 13.5H4.5C3.95 13.5 3.5 13.05 3.5 12.5V11.5C3.5 10.95 3.95 10.5 4.5 10.5H7.5V5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"8.5\" y=\"2.5\" width=\"3\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M6.5 5.5H11.5V12.5C11.5 13.05 11.05 13.5 10.5 13.5H4.528C3.978 13.5 3.528 13.05 3.528 12.5V11.5C3.528 10.95 3.978 10.5 4.528 10.5H6.5V5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"7.5\" y=\"2.5\" width=\"3\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

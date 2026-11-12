@@ -1,0 +1,23 @@
+{
+  "name": "move-right",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23353",
+  "looks": "A horizontal arrow pointing right, with a short vertical bar at its tail.",
+  "use": "Use for moving something to the right or to the end.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "arrow-right",
+    "iconic": false,
+    "lucide": "move-right",
+    "material": "move-selection-right",
+    "octicons": "arrow-right",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "arrow-move-right"
+  }
+}

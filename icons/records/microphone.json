@@ -1,0 +1,26 @@
+{
+  "name": "microphone",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5417",
+  "looks": "A capsule microphone with a curved holder and a stand with a base.",
+  "use": "Use for recording, voice input, or audio.",
+  "keywords": [
+    "mic",
+    "record",
+    "voice",
+    "audio"
+  ],
+  "compare": {
+    "carbon": "microphone",
+    "fluent": "mic",
+    "heroicons": "microphone",
+    "lucide": "mic",
+    "material": "mic",
+    "phosphor": "microphone",
+    "sf": "microphone",
+    "tabler": "microphone"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "refrigerator",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24673",
+  "looks": "A tall fridge split into a small upper door and a larger lower door, each with a handle.",
+  "use": "Use for refrigerators, groceries, or kitchen appliances.",
+  "compare": {
+    "fluent": "refrigerator",
+    "lucide": "refrigerator",
+    "sf": "refrigerator"
+  }
+}

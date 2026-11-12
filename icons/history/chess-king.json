@@ -1,0 +1,11 @@
+{
+ "name": "chess-king",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 2.5V7M6.75 3.75H9.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 9.25C4.5 8.25 4 7.4 4 6.75C4 5.9 4.75 5.5 5.5 5.5C6.75 5.5 7.5 6 8 7C8.5 6 9.25 5.5 10.5 5.5C11.25 5.5 12 5.9 12 6.75C12 7.4 11.5 8.25 10.5 9.25H5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 9.25C6.5 9.9 6 10.75 5.25 11.5M9.5 9.25C9.5 9.9 10 10.75 10.75 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"4\" y=\"11.5\" width=\"8\" height=\"2\" rx=\"0.5\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

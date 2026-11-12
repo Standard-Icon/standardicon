@@ -1,0 +1,20 @@
+{
+  "name": "phone-plus-overlay",
+  "status": "active",
+  "parent": "phone",
+  "canonical": "phone",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:22095",
+  "looks": "A telephone handset with a small rounded square holding a plus sign at the lower right.",
+  "use": "Use for adding a phone number or adding someone to a call.",
+  "formerNames": [
+    "phone-plus"
+  ],
+  "compare": {
+    "phosphor": "phone-plus",
+    "sf": "phone.badge.plus",
+    "tabler": "phone-plus"
+  }
+}

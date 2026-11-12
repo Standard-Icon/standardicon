@@ -1,0 +1,24 @@
+{
+  "name": "map",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:6937",
+  "looks": "A folded map with three vertical panels in a zigzag.",
+  "use": "Use for maps, locations, or exploring.",
+  "keywords": [
+    "location",
+    "navigation"
+  ],
+  "compare": {
+    "carbon": "map",
+    "fluent": "map",
+    "heroicons": "map",
+    "lucide": "map",
+    "material": "map",
+    "phosphor": "map-trifold",
+    "sf": "map",
+    "tabler": "map"
+  }
+}

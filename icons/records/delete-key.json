@@ -1,0 +1,20 @@
+{
+  "name": "delete-key",
+  "status": "active",
+  "source": "later",
+  "figmaId": "355:29743",
+  "looks": "A keyboard keycap with a backspace tag containing an x in its center.",
+  "use": "Use for the Delete or Backspace key.",
+  "compare": {
+    "carbon": false,
+    "fluent": "backspace",
+    "heroicons": "backspace",
+    "iconic": false,
+    "lucide": "delete",
+    "material": "backspace",
+    "octicons": false,
+    "phosphor": "backspace",
+    "sf": "delete.left",
+    "tabler": "backspace"
+  }
+}

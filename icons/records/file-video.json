@@ -1,0 +1,25 @@
+{
+  "name": "file-video",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:4779",
+  "looks": "A page with a folded top right corner and a play triangle pointing right in the middle.",
+  "use": "Use for video files or media.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "file-video",
+    "material": "video-file",
+    "octicons": false,
+    "phosphor": "file-video",
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

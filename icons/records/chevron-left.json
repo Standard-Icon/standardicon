@@ -1,0 +1,26 @@
+{
+  "name": "chevron-left",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Chevrons and carets",
+  "figmaId": "12:357",
+  "looks": "A single chevron pointing left.",
+  "use": "Use for back, previous, or scroll left.",
+  "keywords": [
+    "back",
+    "previous"
+  ],
+  "compare": {
+    "carbon": "chevron-left",
+    "fluent": "chevron-left",
+    "heroicons": "chevron-left",
+    "lucide": "chevron-left",
+    "material": "chevron-left",
+    "octicons": "chevron-left",
+    "phosphor": "caret-left",
+    "radix": "chevron-left",
+    "sf": "chevron.left",
+    "tabler": "chevron-left"
+  }
+}

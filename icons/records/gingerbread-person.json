@@ -1,0 +1,31 @@
+{
+  "name": "gingerbread-person",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:29279",
+  "looks": "A gingerbread figure with a round head, arms out, legs apart, and two buttons down the chest.",
+  "use": "Use for holiday baking, Christmas, or cookies.",
+  "keywords": [
+    "christmas",
+    "xmas",
+    "cookie",
+    "gingerbread",
+    "man",
+    "holiday"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

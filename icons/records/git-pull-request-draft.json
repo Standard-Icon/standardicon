@@ -1,0 +1,20 @@
+{
+  "name": "git-pull-request-draft",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "59:21877",
+  "looks": "A solid vertical line between two circles beside a dashed line ending in a circle at the bottom.",
+  "use": "Use for draft pull requests or work in progress.",
+  "compare": {
+    "carbon": false,
+    "fluent": "branch-request-draft",
+    "iconic": false,
+    "lucide": "git-pull-request-draft",
+    "material": false,
+    "octicons": "git-pull-request-draft",
+    "phosphor": false,
+    "tabler": "git-pull-request-draft"
+  }
+}

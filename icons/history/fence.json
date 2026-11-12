@@ -1,0 +1,11 @@
+{
+ "name": "fence",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M1.5 13.5V4L3 2.5L4.5 4V13.5H1.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 13.5V4L8 2.5L9.5 4V13.5H6.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.5 13.5V4L13 2.5L14.5 4V13.5H11.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 6.5H6.5M9.5 6.5H11.5M4.5 10.5H6.5M9.5 10.5H11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

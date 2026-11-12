@@ -1,0 +1,23 @@
+{
+  "name": "pill",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8861",
+  "looks": "A capsule tilted on a diagonal, with a line across its middle.",
+  "use": "Use for medicine, pills, or prescriptions.",
+  "keywords": [
+    "medicine",
+    "medication",
+    "pharmacy"
+  ],
+  "compare": {
+    "fluent": "pill",
+    "lucide": "pill",
+    "material": "pill",
+    "phosphor": "pill",
+    "sf": "pill",
+    "tabler": "pill"
+  }
+}

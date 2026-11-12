@@ -1,0 +1,17 @@
+{
+ "name": "align-middle",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2.5 8H4M7 8H9M12 8H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 4H6.5C6.633 4 6.76 4.053 6.854 4.146C6.947 4.24 7 4.367 7 4.5V11.5C7 11.633 6.947 11.76 6.854 11.854C6.76 11.947 6.633 12 6.5 12H4.5C4.367 12 4.24 11.947 4.146 11.854C4.053 11.76 4 11.633 4 11.5V4.5C4 4.367 4.053 4.24 4.146 4.146C4.24 4.053 4.367 4 4.5 4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 5.5H11.5C11.633 5.5 11.76 5.553 11.854 5.646C11.947 5.74 12 5.867 12 6V10C12 10.133 11.947 10.26 11.854 10.354C11.76 10.447 11.633 10.5 11.5 10.5H9.5C9.367 10.5 9.24 10.447 9.146 10.354C9.053 10.26 9 10.133 9 10V6C9 5.867 9.053 5.74 9.146 5.646C9.24 5.553 9.367 5.5 9.5 5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T19:08:10-08:00",
+   "source": "git 5279fa2",
+   "released": true,
+   "body": "<path d=\"M2.5 8H4M7 8H9M12 8H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"4\" y=\"4\" width=\"3\" height=\"8\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"9\" y=\"5.5\" width=\"3\" height=\"5\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

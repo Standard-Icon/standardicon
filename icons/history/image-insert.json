@@ -1,0 +1,11 @@
+{
+ "name": "image-insert",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M8 12.5H3.5C3.235 12.5 2.98 12.395 2.793 12.207C2.605 12.02 2.5 11.765 2.5 11.5V4.5C2.5 4.235 2.605 3.98 2.793 3.793C2.98 3.605 3.235 3.5 3.5 3.5H12.5C12.765 3.5 13.02 3.605 13.207 3.793C13.395 3.98 13.5 4.235 13.5 4.5V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.75 6.5C6.75 6.765 6.645 7.02 6.457 7.207C6.27 7.395 6.015 7.5 5.75 7.5C5.485 7.5 5.23 7.395 5.043 7.207C4.855 7.02 4.75 6.765 4.75 6.5C4.75 6.235 4.855 5.98 5.043 5.793C5.23 5.605 5.485 5.5 5.75 5.5C6.015 5.5 6.27 5.605 6.457 5.793C6.645 5.98 6.75 6.235 6.75 6.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 10.5L5.5 8L7.5 9.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12 10V14M10 12H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

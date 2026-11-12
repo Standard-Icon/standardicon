@@ -1,0 +1,22 @@
+{
+  "name": "palette",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6089",
+  "keywords": [
+    "color",
+    "paint",
+    "theme"
+  ],
+  "compare": {
+    "carbon": "color-palette",
+    "lucide": "palette",
+    "material": "palette",
+    "octicons": false,
+    "phosphor": "palette",
+    "sf": "paintpalette",
+    "tabler": "palette"
+  }
+}

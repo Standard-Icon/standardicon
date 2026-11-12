@@ -1,0 +1,12 @@
+{
+ "name": "tag-off",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M2.749 9.276L1.439 7.967L2.144 2.331L7.779 1.627L9.089 2.936M11.564 5.411L14.161 8.008L7.821 14.348L5.224 11.751\" stroke=\"currentColor\" stroke-linecap=\"round\"/><circle cx=\"4.9\" cy=\"5.088\" r=\"0.879771\" fill=\"currentColor\"/><path d=\"M2 12.5L12 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

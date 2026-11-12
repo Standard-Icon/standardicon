@@ -1,0 +1,11 @@
+{
+ "name": "align-object-right",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M13.5 2.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"4.5\" y=\"4\" width=\"7\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"7\" y=\"9\" width=\"4.5\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

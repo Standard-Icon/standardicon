@@ -1,0 +1,27 @@
+{
+  "name": "chart-gauge",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6396",
+  "looks": "A half circle with a needle pointing up and to the right.",
+  "use": "Use for gauges, speed, or performance scores.",
+  "keywords": [
+    "speedometer",
+    "meter",
+    "performance"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "gauge",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "gauge",
+    "material": false,
+    "phosphor": "gauge",
+    "radix": false,
+    "sf": "gauge.chart.lefthalf.righthalf",
+    "tabler": "gauge"
+  }
+}

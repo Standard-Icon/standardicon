@@ -1,0 +1,24 @@
+{
+  "name": "gift",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7253",
+  "looks": "A gift box with a ribbon down the middle and a bow on top.",
+  "use": "Use for gifts, rewards, or special offers.",
+  "keywords": [
+    "present",
+    "reward"
+  ],
+  "compare": {
+    "carbon": "gift",
+    "fluent": "gift",
+    "heroicons": "gift",
+    "lucide": "gift",
+    "octicons": "gift",
+    "phosphor": "gift",
+    "sf": "gift",
+    "tabler": "gift"
+  }
+}

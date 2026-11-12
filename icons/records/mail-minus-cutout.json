@@ -1,0 +1,13 @@
+{
+  "name": "mail-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28035",
+  "looks": "A closed envelope with a short dash cut into its lower right corner.",
+  "use": "Use for removing mail or unsubscribing.",
+  "compare": {
+    "lucide": "mail-minus",
+    "sf": "envelope.badge.minus",
+    "tabler": "mail-minus"
+  }
+}

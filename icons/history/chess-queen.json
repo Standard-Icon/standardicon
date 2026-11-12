@@ -1,0 +1,11 @@
+{
+ "name": "chess-queen",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M5.25 9.25L3.75 4L6 6.25L8 2.5L10 6.25L12.25 4L10.75 9.25H5.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 9.25C6.5 9.9 6 10.75 5.25 11.5M9.5 9.25C9.5 9.9 10 10.75 10.75 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"4\" y=\"11.5\" width=\"8\" height=\"2\" rx=\"0.5\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

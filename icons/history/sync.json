@@ -1,0 +1,11 @@
+{
+ "name": "sync",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3.5 8C3.51 7.087 3.797 6.198 4.324 5.452C4.85 4.706 5.592 4.138 6.449 3.823C7.306 3.508 8.239 3.462 9.123 3.69C10.008 3.918 10.802 4.41 11.4 5.1M11.5 2.7V5.2H9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.5 8C12.49 8.913 12.203 9.802 11.676 10.548C11.15 11.294 10.408 11.862 9.551 12.177C8.694 12.491 7.761 12.538 6.877 12.31C5.992 12.082 5.198 11.59 4.6 10.9M4.5 13.3V10.8H7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

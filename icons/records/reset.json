@@ -1,0 +1,21 @@
+{
+  "name": "reset",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5981",
+  "looks": "A circular arrow open at the top right with a small x in the center.",
+  "use": "Use for resetting or clearing back to defaults.",
+  "keywords": [
+    "defaults",
+    "clear"
+  ],
+  "compare": {
+    "carbon": "reset",
+    "lucide": "rotate-ccw",
+    "material": false,
+    "radix": "reset",
+    "tabler": false
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "memory-chip",
+  "status": "covered",
+  "coveredBy": "ram",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents"
+}

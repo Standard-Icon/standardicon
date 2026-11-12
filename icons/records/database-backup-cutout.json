@@ -1,0 +1,11 @@
+{
+  "name": "database-backup-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29188",
+  "looks": "A database cylinder with a circular arrow cut into the lower right.",
+  "use": "Use for database backups, restore, or sync.",
+  "compare": {
+    "lucide": "database-backup"
+  }
+}

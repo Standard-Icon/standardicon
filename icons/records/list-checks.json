@@ -1,0 +1,20 @@
+{
+  "name": "list-checks",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26652",
+  "looks": "Three rows of lines, the top and bottom marked with checks and the middle with a dash.",
+  "use": "Use for checklists, completed tasks, or to-do lists.",
+  "compare": {
+    "carbon": "list-checked",
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "list-checks",
+    "material": "checklist",
+    "octicons": "checklist",
+    "phosphor": "list-checks",
+    "radix": false,
+    "sf": "checklist",
+    "tabler": "checklist"
+  }
+}

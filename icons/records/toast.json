@@ -1,0 +1,20 @@
+{
+  "name": "toast",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31454",
+  "compare": {
+    "fluent": false,
+    "lucide": false,
+    "material": "toast"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "navigation"
+    }
+  ]
+}

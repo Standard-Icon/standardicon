@@ -1,0 +1,34 @@
+{
+  "name": "heart",
+  "status": "active",
+  "canonical": "heart",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "solid": "needed",
+  "figmaId": "22:1912",
+  "looks": "A heart.",
+  "use": "Use for like, favorite, or love.",
+  "keywords": [
+    "like",
+    "love",
+    "favorite"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:23:22.181Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "favorite",
+    "fluent": "heart",
+    "heroicons": "heart",
+    "lucide": "heart",
+    "material": "favorite",
+    "octicons": "heart",
+    "phosphor": "heart",
+    "radix": "heart",
+    "sf": "heart",
+    "tabler": "heart"
+  }
+}

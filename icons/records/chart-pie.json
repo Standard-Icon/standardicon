@@ -1,0 +1,26 @@
+{
+  "name": "chart-pie",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6297",
+  "looks": "A circle with one wedge pulled out at the top right.",
+  "use": "Use for pie charts and shares of a total.",
+  "keywords": [
+    "graph",
+    "analytics",
+    "share"
+  ],
+  "compare": {
+    "carbon": "chart-pie",
+    "fluent": "data-pie",
+    "heroicons": "chart-pie",
+    "lucide": "chart-pie",
+    "material": "pie-chart",
+    "phosphor": "chart-pie",
+    "radix": "pie-chart",
+    "sf": "chart.pie",
+    "tabler": "chart-pie"
+  }
+}

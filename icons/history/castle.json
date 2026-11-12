@@ -1,0 +1,17 @@
+{
+ "name": "castle",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M2.5 13.5V2.5H4.5V4.5H6.5V2.5H9.5V4.5H11.5V2.5H13.5V13.5H2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 13.5V10.5C6.5 9.67 7.17 9 8 9C8.83 9 9.5 9.67 9.5 10.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T04:22:24.748Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.897 13.103V2.897H4.753V4.753H6.608V2.897H9.392V4.753H11.247V2.897H13.103V13.103H2.897Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.608 13.103V10.319C6.608 9.549 7.23 8.928 8 8.928C8.77 8.928 9.392 9.549 9.392 10.319V13.103\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

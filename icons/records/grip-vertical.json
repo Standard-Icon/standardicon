@@ -1,0 +1,27 @@
+{
+  "name": "grip-vertical",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "21:1837",
+  "looks": "Six dots in three rows of two.",
+  "use": "Use for a drag handle to reorder list rows.",
+  "keywords": [
+    "handle",
+    "drag"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "grip-vertical",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "grip-vertical"
+  }
+}

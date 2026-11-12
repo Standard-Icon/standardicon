@@ -1,0 +1,29 @@
+{
+ "name": "sun-snow",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"6.25\" cy=\"6\" r=\"1.75\" stroke=\"currentColor\"/><path d=\"M6.25 2.25V1.75M8.902 3.348L9.255 2.995M10 6H10.5M6.25 9.75V10.25M3.598 8.652L3.245 9.005M2.5 6H2M3.598 3.348L3.245 2.995\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.75 9V14M9.585 10.25L13.915 12.75M13.915 10.25L9.585 12.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<circle cx=\"7.031\" cy=\"6.75\" r=\"1.96875\" stroke=\"currentColor\"/><path d=\"M7.031 2.531V1.969M10.015 3.766L10.412 3.369M11.25 6.75H11.812M7.031 10.969V11.531M4.048 9.734L3.651 10.131M2.812 6.75H2.25M4.048 3.766L3.651 3.369\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.219 10.125V15.75M10.783 11.531L13.219 12.938L15.654 14.344M15.654 11.531L13.219 12.938L10.783 14.344\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<circle cx=\"7.812\" cy=\"7.5\" r=\"2.1875\" stroke=\"currentColor\"/><path d=\"M7.812 2.812V2.188M11.128 4.185L11.569 3.744M12.5 7.5H13.125M7.812 12.188V12.812M4.498 10.815L4.056 11.256M3.125 7.5H2.5M4.498 4.185L4.056 3.744\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14.688 11.25V17.5M11.981 12.812L14.688 14.375L17.394 15.938M17.394 12.812L14.688 14.375L11.981 15.938\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<circle cx=\"8.594\" cy=\"8.25\" r=\"2.40625\" stroke=\"currentColor\"/><path d=\"M8.594 3.094V2.406M12.24 4.604L12.726 4.118M13.75 8.25H14.438M8.594 13.406V14.094M4.947 11.897L4.462 12.382M3.438 8.25H2.75M4.947 4.604L4.462 4.118\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M16.156 12.375V19.25M13.179 14.094L16.156 15.812L19.133 17.531M19.133 14.094L16.156 15.812L13.179 17.531\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<circle cx=\"9.375\" cy=\"9\" r=\"2.625\" stroke=\"currentColor\"/><path d=\"M9.375 3.375V2.625M13.353 5.022L13.882 4.492M15 9H15.75M9.375 14.625V15.375M5.397 12.978L4.867 13.507M3.75 9H3M5.397 5.022L4.867 4.492\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M17.625 13.5V21M14.377 15.375L17.625 17.25L20.872 19.125M20.872 15.375L17.625 17.25L14.377 19.125\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-11T09:46:49.583Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"6.25\" cy=\"6\" r=\"1.75\" stroke=\"currentColor\"/><path d=\"M6.25 2.25V1.75M8.902 3.348L9.255 2.995M10 6H10.5M6.25 9.75V10.25M3.598 8.652L3.245 9.005M2.5 6H2M3.598 3.348L3.245 2.995\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.75 9V14M9.585 10.25L13.915 12.75M13.915 10.25L9.585 12.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T09:52:05.430Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"6.25\" cy=\"6\" r=\"1.75\" stroke=\"currentColor\"/><path d=\"M6.25 2.25V1.75M8.9 3.348L9.26 2.995M10 6H10.5M6.25 9.75V10.25M3.6 8.652L3.24 9.005M2.5 6H2M3.6 3.348L3.24 2.995\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.75 9V14M9.58 10.25L11.75 11.5L13.91 12.75M13.91 10.25L11.75 11.5L9.58 12.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

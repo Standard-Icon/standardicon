@@ -1,0 +1,17 @@
+{
+  "name": "graph-2d",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Math",
+  "figmaId": "275:22653",
+  "compare": {
+    "carbon": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": "graph.2d",
+    "tabler": false
+  }
+}

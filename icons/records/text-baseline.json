@@ -1,0 +1,20 @@
+{
+  "name": "text-baseline",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23792",
+  "looks": "A capital A sitting above a horizontal baseline.",
+  "use": "Use for text baseline alignment.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "baseline",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "baseline"
+  }
+}

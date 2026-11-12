@@ -1,0 +1,21 @@
+{
+  "name": "sort-descending",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1576",
+  "looks": "Three short horizontal lines on the left beside an arrow pointing down.",
+  "use": "Use for sort descending, Z to A, or high to low.",
+  "compare": {
+    "carbon": "sort-descending",
+    "fluent": "text-sort-descending",
+    "iconic": "sort-descending",
+    "lucide": "list-sort-descending",
+    "material": "sort",
+    "octicons": "sort-asc",
+    "phosphor": "sort-descending",
+    "radix": false,
+    "tabler": "sort-descending"
+  }
+}

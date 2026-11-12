@@ -1,0 +1,30 @@
+{
+  "name": "text-wrap",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31746",
+  "looks": "Three horizontal lines, the last with a curved return arrow at its end.",
+  "use": "Use for word wrap or wrapping text.",
+  "compare": {
+    "carbon": "text-wrap",
+    "fluent": "text-wrap",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "text-wrap",
+    "material": "format-text-wrap",
+    "octicons": "wrap",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "text-wrap"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "editor"
+    }
+  ]
+}

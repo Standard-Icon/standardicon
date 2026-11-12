@@ -1,0 +1,19 @@
+{
+  "name": "slash",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Math",
+  "figmaId": "275:22669",
+  "compare": {
+    "carbon": false,
+    "fluent": "slash-forward",
+    "heroicons": "slash",
+    "lucide": "slash",
+    "octicons": false,
+    "phosphor": false,
+    "radix": "slash",
+    "sf": false,
+    "tabler": "slash"
+  }
+}

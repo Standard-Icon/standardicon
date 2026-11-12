@@ -1,0 +1,16 @@
+{
+  "name": "gyroscope",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:22319",
+  "looks": "A small globe on a stand with a tilted ring around it.",
+  "use": "Use for gyroscope, orientation, or motion sensors.",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "sf": "gyroscope"
+  }
+}

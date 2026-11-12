@@ -1,0 +1,20 @@
+{
+  "name": "beach-umbrella",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21418",
+  "looks": "A beach umbrella tilted to the left, its pole planted in a flat line of sand.",
+  "use": "Use for beaches, vacations, or summer.",
+  "compare": {
+    "carbon": false,
+    "fluent": "beach",
+    "iconic": false,
+    "lucide": "parasol",
+    "material": "umbrella",
+    "phosphor": false,
+    "sf": "beach.umbrella",
+    "tabler": "beach"
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "vr-headset",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M4 5H12C12.53 5 13.039 5.211 13.414 5.586C13.789 5.961 14 6.47 14 7V9.5C14 10.03 13.789 10.539 13.414 10.914C13.039 11.289 12.53 11.5 12 11.5H4C3.47 11.5 2.961 11.289 2.586 10.914C2.211 10.539 2 10.03 2 9.5V7C2 6.47 2.211 5.961 2.586 5.586C2.961 5.211 3.47 5 4 5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 11.5L7 9.5H9L10 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 5V3.5H11V5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M4 5.5H12C13.105 5.5 14 6.395 14 7.5V10C14 11.105 13.105 12 12 12H11.451L11.141 12C10.434 12 9.779 11.627 9.419 11.019L9.29 10.801C9.11 10.497 8.783 10.311 8.43 10.311H7.57C7.217 10.311 6.89 10.497 6.71 10.801L6.581 11.019C6.221 11.627 5.566 12 4.859 12L4.78 12H4C2.895 12 2 11.105 2 10V7.5C2 6.395 2.895 5.5 4 5.5Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5 5.5V5C5 4.448 5.448 4 6 4H10C10.552 4 11 4.448 11 5V5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

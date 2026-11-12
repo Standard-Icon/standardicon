@@ -1,0 +1,13 @@
+{
+  "name": "attach-context",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:54107",
+  "compare": {
+    "fluent": "attach",
+    "material": "attach-file",
+    "sf": "paperclip"
+  }
+}

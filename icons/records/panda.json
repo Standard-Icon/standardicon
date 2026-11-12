@@ -1,0 +1,11 @@
+{
+  "name": "panda",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:19748",
+  "compare": {
+    "lucide": "panda"
+  }
+}

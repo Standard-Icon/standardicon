@@ -1,0 +1,23 @@
+{
+  "name": "chevrons-down",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Chevrons and carets",
+  "figmaId": "21:1523",
+  "looks": "Two chevrons pointing down, stacked one above the other.",
+  "use": "Use for expand all, scroll to the bottom, or more below.",
+  "compare": {
+    "carbon": false,
+    "fluent": "chevron-double-down",
+    "heroicons": "chevron-double-down",
+    "iconic": false,
+    "lucide": "chevrons-down",
+    "material": "keyboard-double-arrow-down",
+    "octicons": false,
+    "phosphor": "caret-double-down",
+    "radix": "double-arrow-down",
+    "sf": "chevron.down.2",
+    "tabler": "chevrons-down"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "file-json",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:4954",
+  "looks": "A page with a folded top right corner and a pair of curly braces in the middle.",
+  "use": "Use for JSON files, data, or config.",
+  "compare": {
+    "carbon": "json",
+    "iconic": false,
+    "lucide": "file-json",
+    "material": "file-json",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "power-strip",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22402",
+  "looks": "A long rounded bar with three dots on it and a plug cord curling out of the top left.",
+  "use": "Use for a power strip or extension cord.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

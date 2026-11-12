@@ -1,0 +1,29 @@
+{
+ "name": "health-heart",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M8 13C8 13 2.5 9.8 2.5 6.1C2.5 4.3 3.9 3 5.5 3C6.6 3 7.5 3.6 8 4.5C8.5 3.6 9.4 3 10.5 3C12.1 3 13.5 4.3 13.5 6.1C13.5 9.8 8 13 8 13Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 8H6.25L7.25 6.25L8.75 9.75L9.75 8H12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T17:52:24-08:00",
+   "source": "git 723f40b",
+   "released": true,
+   "body": "<path d=\"M8 13C8 13 2.5 9.8 2.5 6.1C2.5 4.3 3.9 3 5.5 3C6.6 3 7.5 3.6 8 4.5C8.5 3.6 9.4 3 10.5 3C12.1 3 13.5 4.3 13.5 6.1C13.5 9.8 8 13 8 13Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.148 7.603H6.728L7.43 6.375L8.482 8.832L9.184 7.603H10.763\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T10:16:53.076Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 13.455C8 13.455 2 9.964 2 5.927C2 3.964 3.527 2.545 5.273 2.545C6.473 2.545 7.454 3.2 8 4.182C8.546 3.2 9.527 2.545 10.727 2.545C12.473 2.545 14 3.964 14 5.927C14 9.964 8 13.455 8 13.455Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.889 7.567H6.612L7.378 6.227L8.526 8.907L9.292 7.567H11.015\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 14.222C8 14.222 2 10.731 2 6.694C2 4.731 3.527 3.312 5.273 3.312C6.473 3.312 7.454 3.967 8 4.949C8.546 3.967 9.527 3.312 10.727 3.312C12.473 3.312 14 4.731 14 6.694C14 10.731 8 14.222 8 14.222Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.889 8.334H6.612L7.378 6.994L8.526 9.674L9.292 8.334H11.015\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

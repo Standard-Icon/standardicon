@@ -1,0 +1,21 @@
+{
+  "name": "copyright",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Legal",
+  "figmaId": "82:27785",
+  "looks": "A circle with a letter C inside.",
+  "use": "Use for copyright notices or ownership.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.019Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": "copyright",
+    "material": "copyright",
+    "phosphor": "copyright",
+    "tabler": "copyright"
+  }
+}

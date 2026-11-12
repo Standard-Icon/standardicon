@@ -1,0 +1,22 @@
+{
+  "name": "key-off",
+  "status": "active",
+  "parent": "key",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:21631",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "key-off",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "key.slash",
+    "tabler": "key-off"
+  }
+}

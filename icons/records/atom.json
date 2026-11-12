@@ -1,0 +1,22 @@
+{
+  "name": "atom",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9489",
+  "looks": "Three elliptical orbits crossing around a dot at the center.",
+  "use": "Use for science, physics, or React.",
+  "keywords": [
+    "science",
+    "physics",
+    "react"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "lucide": "atom",
+    "phosphor": "atom",
+    "sf": "atom",
+    "tabler": "atom"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "tags",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "commerce",
+  "figmaId": "59:22366",
+  "compare": {
+    "lucide": "tags",
+    "tabler": "tags"
+  }
+}

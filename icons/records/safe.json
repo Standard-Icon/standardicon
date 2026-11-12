@@ -1,0 +1,20 @@
+{
+  "name": "safe",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:5819",
+  "looks": "A square safe with a round dial on the front and two short feet below.",
+  "use": "Use for a vault, secure storage, or savings.",
+  "keywords": [
+    "vault"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "vault",
+    "lucide": "vault",
+    "phosphor": "vault",
+    "tabler": "vault"
+  }
+}

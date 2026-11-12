@@ -1,0 +1,15 @@
+{
+  "name": "transition",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26627",
+  "looks": "A rounded rectangle split by a diagonal line through the middle.",
+  "use": "Use for video transitions, wipes, or cross dissolves.",
+  "compare": {
+    "lucide": "door-stairwell",
+    "material": "transition-chop",
+    "tabler": "transition-top"
+  }
+}

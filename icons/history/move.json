@@ -1,0 +1,17 @@
+{
+ "name": "move",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M8 2.5V13.5M9.75 4.25L8 2.5L6.25 4.25M9.75 11.75L8 13.5L6.25 11.75M2.5 8H13.5M4.25 9.75L2.5 8L4.25 6.25M11.75 9.75L13.5 8L11.75 6.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M8 2.5V13.5M9.75 4.25L8 2.5L6.25 4.25M2.5 8H13.5M9.75 11.75L8 13.5L6.25 11.75M4.25 9.75L2.5 8L4.25 6.25M11.75 9.75L13.5 8L11.75 6.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

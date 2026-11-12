@@ -1,0 +1,19 @@
+{
+  "name": "star-minus-overlay",
+  "status": "active",
+  "parent": "star",
+  "canonical": "star",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "56:19066",
+  "looks": "A five-pointed star with a small rounded square holding a minus overlapping its lower right.",
+  "use": "Use for removing a favorite.",
+  "formerNames": [
+    "star-minus"
+  ],
+  "compare": {
+    "lucide": "star-minus",
+    "sf": false
+  }
+}

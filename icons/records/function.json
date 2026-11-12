@@ -1,0 +1,22 @@
+{
+  "name": "function",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4689",
+  "looks": "A cursive lowercase f with a crossbar.",
+  "use": "Use for functions, formulas, or methods.",
+  "keywords": [
+    "math",
+    "fx"
+  ],
+  "compare": {
+    "carbon": "function",
+    "lucide": false,
+    "material": "function",
+    "phosphor": "function",
+    "sf": "function",
+    "tabler": "function"
+  }
+}

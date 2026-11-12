@@ -1,0 +1,21 @@
+{
+  "name": "baseball",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21525",
+  "looks": "A circle with two curved seams on either side, each marked with short stitches.",
+  "use": "Use for baseball, sports, or softball.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.346Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "material": "sports-baseball",
+    "phosphor": "baseball",
+    "sf": "baseball",
+    "tabler": "ball-baseball"
+  }
+}

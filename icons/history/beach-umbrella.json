@@ -1,0 +1,11 @@
+{
+ "name": "beach-umbrella",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M3.3 5.69C4.25 3.1 7.12 1.76 9.71 2.7C12.3 3.65 13.64 6.52 12.7 9.11L3.3 5.69Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.89 6.63C6.57 4.75 8.05 3.16 9.71 2.7C10.68 4.12 10.8 6.29 10.11 8.17\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 7.4L5.79 13.47\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 13.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

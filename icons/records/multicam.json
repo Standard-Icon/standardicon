@@ -1,0 +1,17 @@
+{
+  "name": "multicam",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "183:32095",
+  "looks": "One large rounded rectangle above two small rounded rectangles side by side.",
+  "use": "Use for multicam editing, camera angles, or picture views.",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "video"
+    }
+  ]
+}

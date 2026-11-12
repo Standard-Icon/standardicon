@@ -1,0 +1,33 @@
+{
+  "name": "question-circle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "solid": "needed",
+  "figmaId": "12:1512",
+  "looks": "A question mark inside a circle.",
+  "use": "Use for help, questions, or more info.",
+  "keywords": [
+    "help",
+    "faq"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.469Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "help",
+    "fluent": "question-circle",
+    "heroicons": "question-mark-circle",
+    "lucide": "circle-question-mark",
+    "material": "help",
+    "octicons": false,
+    "phosphor": "question",
+    "radix": "question-mark-circled",
+    "sf": "questionmark.circle",
+    "tabler": "help-circle"
+  }
+}

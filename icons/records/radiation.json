@@ -1,0 +1,14 @@
+{
+  "name": "radiation",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21712",
+  "looks": "Three wedge-shaped blades around a small center dot, spaced evenly like a fan.",
+  "use": "Use for radiation, nuclear, or hazard warnings.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": "radiation"
+  }
+}

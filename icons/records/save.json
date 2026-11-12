@@ -1,0 +1,21 @@
+{
+  "name": "save",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1743",
+  "looks": "A floppy disk with a label slot at the top and a shutter at the bottom.",
+  "use": "Use for save or store changes.",
+  "keywords": [
+    "floppy",
+    "disk"
+  ],
+  "compare": {
+    "carbon": "save",
+    "fluent": "save",
+    "lucide": "save",
+    "material": "save",
+    "sf": "square.and.arrow.down"
+  }
+}

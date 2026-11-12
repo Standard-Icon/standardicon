@@ -1,0 +1,29 @@
+{
+  "name": "caps-lock",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31784",
+  "looks": "A hollow upward arrow with a short horizontal bar under it.",
+  "use": "Use for the Caps Lock key or uppercase input.",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "keyboard-capslock",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "capslock",
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "development"
+    }
+  ]
+}

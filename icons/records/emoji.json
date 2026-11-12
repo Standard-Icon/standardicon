@@ -1,0 +1,8 @@
+{
+  "name": "emoji",
+  "status": "covered",
+  "coveredBy": "face-smile",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor"
+}

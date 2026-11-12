@@ -1,0 +1,25 @@
+{
+  "name": "book-text",
+  "status": "active",
+  "parent": "book-closed",
+  "canonical": "book-closed",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:23950",
+  "looks": "A closed book with two short lines of text near the top of its cover.",
+  "use": "Use for a guide, manual, or written documentation.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "book-text",
+    "material": false,
+    "octicons": false,
+    "phosphor": "book-open-text",
+    "radix": false,
+    "sf": "text.book.closed",
+    "tabler": false
+  }
+}

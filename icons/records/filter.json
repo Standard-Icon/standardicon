@@ -1,0 +1,24 @@
+{
+  "name": "filter",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "18:1317",
+  "looks": "A funnel with a wide top narrowing to a short stem at the bottom.",
+  "use": "Use for filter, narrow results, or refine.",
+  "keywords": [
+    "funnel",
+    "refine"
+  ],
+  "compare": {
+    "carbon": "filter",
+    "fluent": "filter",
+    "lucide": "filter",
+    "material": "filter",
+    "octicons": "filter",
+    "radix": "filter",
+    "sf": "line.3.horizontal.decrease",
+    "tabler": "filter"
+  }
+}

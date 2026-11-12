@@ -1,0 +1,18 @@
+{
+  "name": "abacus",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6723",
+  "looks": "A rectangular frame with beads on two rows of rods.",
+  "use": "Use for counting, math, or early learning.",
+  "keywords": [
+    "math",
+    "counting"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "tabler": "abacus"
+  }
+}

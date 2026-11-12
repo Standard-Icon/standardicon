@@ -1,0 +1,22 @@
+{
+  "name": "folder-check-overlay",
+  "status": "active",
+  "parent": "folder",
+  "canonical": "folder",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:20623",
+  "looks": "A closed folder with a small rounded square holding a checkmark at the lower right.",
+  "use": "Use for a synced, approved, or completed folder.",
+  "formerNames": [
+    "folder-check"
+  ],
+  "compare": {
+    "lucide": "folder-check",
+    "material": "folder-check",
+    "octicons": false,
+    "sf": false,
+    "tabler": "folder-check"
+  }
+}

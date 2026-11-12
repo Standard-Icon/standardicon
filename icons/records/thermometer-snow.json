@@ -1,0 +1,16 @@
+{
+  "name": "thermometer-snow",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24428",
+  "compare": {
+    "carbon": false,
+    "lucide": "thermometer-snowflake",
+    "material": false,
+    "phosphor": "thermometer-cold",
+    "sf": false,
+    "tabler": "temperature-snow"
+  }
+}

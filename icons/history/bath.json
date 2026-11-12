@@ -1,0 +1,17 @@
+{
+ "name": "bath",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2 8H14V9.5C14 10.296 13.684 11.059 13.121 11.621C12.559 12.184 11.796 12.5 11 12.5H5C4.204 12.5 3.441 12.184 2.879 11.621C2.316 11.059 2 10.296 2 9.5V8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 8V4C3.5 3.602 3.658 3.221 3.939 2.939C4.221 2.658 4.602 2.5 5 2.5C5.398 2.5 5.779 2.658 6.061 2.939C6.342 3.221 6.5 3.602 6.5 4\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 12.5L4 14M11.5 12.5L12 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T17:52:24-08:00",
+   "source": "git 723f40b",
+   "released": true,
+   "body": "<path d=\"M2 8H14V9.5C14 10.296 13.684 11.059 13.121 11.621C12.559 12.184 11.796 12.5 11 12.5H5C4.204 12.5 3.441 12.184 2.879 11.621C2.316 11.059 2 10.296 2 9.5V8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1.344 6.227H14.656V7.997H1.344V6.227Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 6.008V3.32C3.5 2.922 3.658 2.541 3.939 2.26C4.221 1.978 4.602 1.82 5 1.82C5.398 1.82 5.779 1.978 6.061 2.26C6.342 2.541 6.5 2.922 6.5 3.32\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 12.5L4 14M11.5 12.5L12 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

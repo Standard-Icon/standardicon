@@ -1,0 +1,30 @@
+{
+  "name": "euro",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7493",
+  "looks": "A euro sign: a C shape with two horizontal bars through its middle.",
+  "use": "Use for euros, prices, or currency.",
+  "keywords": [
+    "money",
+    "currency",
+    "eur"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:35.894Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "currency-euro",
+    "fluent": false,
+    "heroicons": "currency-euro",
+    "lucide": "euro",
+    "material": "euro",
+    "phosphor": "currency-eur",
+    "sf": "eurosign",
+    "tabler": "currency-euro"
+  }
+}

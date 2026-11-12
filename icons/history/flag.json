@@ -1,0 +1,23 @@
+{
+ "name": "flag",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4 13.5V3M4 3.5C5.5 2.5 7 2.7 8.25 3.35C9.5 4 11 4.2 12.5 3.2V9.2C11 10.2 9.5 10 8.25 9.35C7 8.7 5.5 8.5 4 9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M4 13.5V3.5C5.5 2.5 7 2.7 8.25 3.35C9.5 4 11 4.2 12.5 3.2V9.2C11 10.2 9.5 10 8.25 9.35C7 8.7 5.5 8.5 4 9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M3.5 13.5V9.5M3.5 9.5V3.5C5 2.5 6.5 2.7 7.75 3.35C9 4 10.5 4.2 12 3.2V9.2C10.5 10.2 9 10 7.75 9.35C6.5 8.7 5 8.5 3.5 9.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

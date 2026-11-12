@@ -1,0 +1,23 @@
+{
+  "name": "map-pin-minus-overlay",
+  "status": "active",
+  "parent": "map-pin",
+  "canonical": "map-pin",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "maps",
+  "figmaId": "56:22581",
+  "looks": "A location pin with a minus sign in a rounded square at the lower right.",
+  "use": "Use for removing a location or a saved place.",
+  "formerNames": [
+    "map-pin-minus"
+  ],
+  "compare": {
+    "heroicons": false,
+    "lucide": "map-pin-minus",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": "map-pin-minus"
+  }
+}

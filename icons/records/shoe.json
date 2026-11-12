@@ -1,0 +1,16 @@
+{
+  "name": "shoe",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24871",
+  "looks": "A high-top sneaker seen from the side with a flat sole.",
+  "use": "Use for shoes, footwear, or sneakers.",
+  "compare": {
+    "lucide": "sport-shoe",
+    "material": "shoe-cleats",
+    "sf": "shoe",
+    "tabler": "shoe"
+  }
+}

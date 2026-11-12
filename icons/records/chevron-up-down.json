@@ -1,0 +1,8 @@
+{
+  "name": "chevron-up-down",
+  "status": "covered",
+  "coveredBy": "chevrons-up-down",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Chevrons and carets"
+}

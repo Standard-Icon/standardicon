@@ -1,0 +1,11 @@
+{
+ "name": "nose",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M6.25 2.5C6.25 5.5 8.25 7.5 10.25 10C11.15 11.1 10.75 13.5 9.25 13.5H6.75C5.95 13.5 5.25 12.95 5.25 12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

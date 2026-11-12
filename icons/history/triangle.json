@@ -1,0 +1,17 @@
+{
+ "name": "triangle",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M7.567 3.747C7.76 3.415 8.24 3.415 8.433 3.747L13.065 11.749C13.258 12.083 13.018 12.5 12.633 12.5H3.367C2.982 12.5 2.742 12.083 2.935 11.749L7.567 3.747Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M3.367 12.5H12.633C13.018 12.5 13.258 12.083 13.065 11.749L8.433 3.747C8.24 3.415 7.76 3.415 7.567 3.747L2.935 11.749C2.742 12.083 2.982 12.5 3.367 12.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

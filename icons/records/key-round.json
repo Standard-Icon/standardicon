@@ -1,0 +1,19 @@
+{
+  "name": "key-round",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:5565",
+  "compare": {
+    "carbon": "key",
+    "fluent": "key",
+    "heroicons": "key",
+    "lucide": "key-round",
+    "material": "key",
+    "octicons": "key",
+    "phosphor": "key",
+    "sf": "key",
+    "tabler": "key"
+  }
+}

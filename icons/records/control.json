@@ -1,0 +1,21 @@
+{
+  "name": "control",
+  "status": "active",
+  "source": "later",
+  "figmaId": "355:29782",
+  "looks": "A single upward chevron.",
+  "use": "Use for the Control key, collapse, or moving up.",
+  "approved": {
+    "at": "2026-11-11T19:15:35.768Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": "control",
+    "sf": "control",
+    "tabler": false
+  }
+}

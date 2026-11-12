@@ -1,0 +1,16 @@
+{
+  "name": "justify-center-horizontal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23081",
+  "compare": {
+    "carbon": "align-horizontal-center",
+    "fluent": "align-center-horizontal",
+    "lucide": "align-horizontal-justify-center",
+    "material": "align-justify-center",
+    "phosphor": "align-center-horizontal",
+    "sf": "align.horizontal.center"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "chevron-up",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Chevrons and carets",
+  "figmaId": "12:342",
+  "looks": "A single chevron pointing up.",
+  "use": "Use for collapse, show less, or scroll up.",
+  "keywords": [
+    "collapse"
+  ],
+  "compare": {
+    "carbon": "chevron-up",
+    "fluent": "chevron-up",
+    "heroicons": "chevron-up",
+    "lucide": "chevron-up",
+    "material": "keyboard-arrow-up",
+    "octicons": "chevron-up",
+    "phosphor": "caret-up",
+    "radix": "chevron-up",
+    "sf": "chevron.up",
+    "tabler": "chevron-up"
+  }
+}

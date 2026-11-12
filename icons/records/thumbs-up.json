@@ -1,0 +1,24 @@
+{
+  "name": "thumbs-up",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "People and identity",
+  "solid": "needed",
+  "figmaId": "12:1579",
+  "looks": "A hand with the thumb pointing up and a narrow cuff at the lower left.",
+  "use": "Use for like, approve, or positive feedback.",
+  "compare": {
+    "carbon": "thumbs-up",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "thumbs-up",
+    "material": false,
+    "octicons": false,
+    "phosphor": "thumbs-up",
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

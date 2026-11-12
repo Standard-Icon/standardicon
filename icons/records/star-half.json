@@ -1,0 +1,38 @@
+{
+  "name": "star-half",
+  "status": "active",
+  "parent": "star",
+  "canonical": "star",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31566",
+  "looks": "A five-pointed star with its left half filled solid.",
+  "use": "Use for half ratings or partial favorites.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": "star-half",
+    "fluent": "star-half",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "star-half",
+    "material": "star-half",
+    "octicons": false,
+    "phosphor": "star-half",
+    "radix": false,
+    "sf": false,
+    "tabler": "star-half"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "status"
+    },
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "half fill on purpose"
+    }
+  ]
+}

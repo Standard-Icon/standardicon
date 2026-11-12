@@ -1,0 +1,25 @@
+{
+  "name": "underline",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1226",
+  "looks": "A capital U above a horizontal line.",
+  "use": "Use for underlined text formatting.",
+  "keywords": [
+    "text",
+    "format"
+  ],
+  "compare": {
+    "carbon": "text-underline",
+    "fluent": "text-underline",
+    "heroicons": "underline",
+    "iconic": "underline",
+    "lucide": "underline",
+    "phosphor": "text-underline",
+    "radix": "underline",
+    "sf": "underline",
+    "tabler": "underline"
+  }
+}

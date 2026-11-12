@@ -1,0 +1,14 @@
+{
+  "name": "zodiac-libra",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22801",
+  "looks": "An omega-like arch sitting on a short line, with a longer line beneath.",
+  "use": "Use for Libra, astrology, or horoscopes.",
+  "compare": {
+    "lucide": "zodiac-libra",
+    "tabler": "zodiac-libra"
+  }
+}

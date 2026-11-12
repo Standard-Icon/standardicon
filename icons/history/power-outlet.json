@@ -1,0 +1,17 @@
+{
+ "name": "power-outlet",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"1.33\" stroke=\"currentColor\"/><path d=\"M6.5 5.5V8.5M9.5 5.5V8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"10.75\" r=\"0.6\" fill=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-10T23:57:29.422Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"1.33\" stroke=\"currentColor\"/><path d=\"M5.867 6.254V7.746M10.133 6.254V7.746\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"9.896\" r=\"0.6\" fill=\"currentColor\"/>"
+  }
+ ]
+}

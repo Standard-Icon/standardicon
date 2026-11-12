@@ -1,0 +1,19 @@
+{
+  "name": "pill-bottle",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:26896",
+  "looks": "A pill bottle with a wide cap on top and a label band around the body.",
+  "use": "Use for prescriptions, medication, or pharmacy.",
+  "compare": {
+    "fluent": false,
+    "iconic": false,
+    "lucide": "pill-bottle",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

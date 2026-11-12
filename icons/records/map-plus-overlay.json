@@ -1,0 +1,15 @@
+{
+  "name": "map-plus-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26790",
+  "formerNames": [
+    "map-plus"
+  ],
+  "compare": {
+    "lucide": "map-plus",
+    "phosphor": false,
+    "sf": false,
+    "tabler": "map-plus"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "table-row-plus",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6276",
+  "looks": "A small table grid with a plus sign below its bottom edge.",
+  "use": "Use for adding a row to a table.",
+  "compare": {
+    "carbon": false,
+    "fluent": "table-insert-row",
+    "material": "add-row-above",
+    "sf": false,
+    "tabler": false
+  }
+}

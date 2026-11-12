@@ -1,0 +1,13 @@
+{
+  "name": "justify-end-vertical",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23185",
+  "compare": {
+    "lucide": "align-vertical-justify-end",
+    "material": "align-justify-flex-end",
+    "sf": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "map-pin-x-inside",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26772",
+  "compare": {
+    "heroicons": false,
+    "lucide": "map-pin-x-inside",
+    "material": "wrong-location",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "map-pin-x"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "coin-stack",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M3 5C3 4.2 5.2 3.5 8 3.5C10.8 3.5 13 4.2 13 5V10.5C13 11.3 10.8 12 8 12C5.2 12 3 11.3 3 10.5V5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 5C3 5.8 5.2 6.5 8 6.5C10.8 6.5 13 5.8 13 5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 7.75C3 8.55 5.2 9.25 8 9.25C10.8 9.25 13 8.55 13 7.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

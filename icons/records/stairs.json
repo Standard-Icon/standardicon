@@ -1,0 +1,17 @@
+{
+  "name": "stairs",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22045",
+  "looks": "A staircase rising from the lower left to the upper right in three steps.",
+  "use": "Use for stairs, steps, or levels.",
+  "compare": {
+    "lucide": false,
+    "material": "stairs",
+    "phosphor": "stairs",
+    "sf": "stairs",
+    "tabler": "stairs"
+  }
+}

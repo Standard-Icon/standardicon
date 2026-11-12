@@ -1,0 +1,27 @@
+{
+  "name": "chart-line",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6255",
+  "looks": "A zigzag line rising across two axes.",
+  "use": "Use for line charts, trends, or analytics.",
+  "keywords": [
+    "graph",
+    "analytics",
+    "trend"
+  ],
+  "compare": {
+    "carbon": "chart-line",
+    "fluent": "data-line",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "chart-line",
+    "material": "show-chart",
+    "phosphor": "chart-line",
+    "radix": false,
+    "sf": "chart.xyaxis.line",
+    "tabler": "chart-line"
+  }
+}

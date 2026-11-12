@@ -1,0 +1,14 @@
+{
+  "name": "octagon",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27319",
+  "looks": "An empty eight-sided outline with rounded corners.",
+  "use": "Use for a stop shape or a generic octagon.",
+  "compare": {
+    "lucide": "octagon",
+    "phosphor": "octagon",
+    "sf": "octagon",
+    "tabler": "octagon"
+  }
+}

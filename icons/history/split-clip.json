@@ -1,0 +1,11 @@
+{
+ "name": "split-clip",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M8 2.5V3.5M8 6V7M8 9V10M8 12.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 5H3C2.448 5 2 5.448 2 6V10C2 10.552 2.448 11 3 11H6V5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 5H13C13.552 5 14 5.448 14 6V10C14 10.552 13.552 11 13 11H10V5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

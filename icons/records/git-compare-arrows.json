@@ -1,0 +1,12 @@
+{
+  "name": "git-compare-arrows",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26308",
+  "compare": {
+    "lucide": "git-compare-arrows",
+    "material": "compare-arrows",
+    "octicons": "git-compare",
+    "tabler": "git-compare"
+  }
+}

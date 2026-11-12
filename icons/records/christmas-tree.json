@@ -1,0 +1,25 @@
+{
+  "name": "christmas-tree",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:29078",
+  "looks": "A tiered pine tree with jagged sides on a short trunk.",
+  "use": "Use for Christmas, the holidays, or winter.",
+  "keywords": [
+    "christmas",
+    "xmas",
+    "holiday",
+    "pine",
+    "evergreen"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "lucide": "tree-pine",
+    "material": false,
+    "phosphor": "tree-evergreen",
+    "sf": false,
+    "tabler": "christmas-tree"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "package-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28937",
+  "looks": "A box with a slanted lid and a small plus sign cut into its lower right.",
+  "use": "Use for adding a package or installing.",
+  "compare": {
+    "lucide": "package-plus",
+    "sf": false
+  }
+}

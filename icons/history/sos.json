@@ -1,0 +1,11 @@
+{
+ "name": "sos",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M4.5 5.75C4.2 5.2 3.6 5 3 5C2.1 5 1.5 5.6 1.5 6.4C1.5 7.2 2 7.6 3 8C4 8.4 4.5 8.8 4.5 9.6C4.5 10.4 3.9 11 3 11C2.4 11 1.8 10.8 1.5 10.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse rx=\"1.5\" ry=\"3\" cx=\"8\" cy=\"8\" stroke=\"currentColor\"/><path d=\"M14.5 5.75C14.2 5.2 13.6 5 13 5C12.1 5 11.5 5.6 11.5 6.4C11.5 7.2 12 7.6 13 8C14 8.4 14.5 8.8 14.5 9.6C14.5 10.4 13.9 11 13 11C12.4 11 11.8 10.8 11.5 10.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

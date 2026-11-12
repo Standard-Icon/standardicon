@@ -1,0 +1,32 @@
+{
+  "name": "cloud-sun",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:7764",
+  "looks": "A cloud in front with a partial sun and rays peeking out behind its upper left.",
+  "use": "Use for partly cloudy weather.",
+  "keywords": [
+    "partly cloudy",
+    "weather"
+  ],
+  "approved": {
+    "at": "2026-11-12T02:32:42.130Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "weather-partly-cloudy-day",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "cloud-sun",
+    "material": "partly-cloudy-day",
+    "octicons": false,
+    "phosphor": "cloud-sun",
+    "radix": false,
+    "sf": "cloud.sun",
+    "tabler": false
+  }
+}

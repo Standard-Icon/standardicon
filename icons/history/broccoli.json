@@ -1,0 +1,17 @@
+{
+ "name": "broccoli",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M5.75 9C3.9 9.4 2.5 8.2 2.5 6.75C2.5 5.4 3.6 4.4 4.9 4.5C5.3 3.3 6.5 2.5 8 2.5C9.5 2.5 10.7 3.3 11.1 4.5C12.4 4.4 13.5 5.4 13.5 6.75C13.5 8.2 12.1 9.4 10.25 9L9.75 12.5C9.7 13.1 9.3 13.5 8.75 13.5H7.25C6.7 13.5 6.3 13.1 6.25 12.5L5.75 9Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 11V9L6.25 7M8 9L9.75 7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T23:46:29.485Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M5.75 9C3.9 9.4 2.5 8.2 2.5 6.75C2.5 5.4 3.6 4.4 4.9 4.5C5.3 3.3 6.5 2.5 8 2.5C9.5 2.5 10.7 3.3 11.1 4.5C12.4 4.4 13.5 5.4 13.5 6.75C13.5 8.2 12.1 9.4 10.25 9L9.75 12.5C9.7 13.1 9.3 13.5 8.75 13.5H7.25C6.7 13.5 6.3 13.1 6.25 12.5L5.75 9Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 11V9.615L5.814 9M8 9.615L10.217 9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.789 4.469C4.789 4.469 6.035 4.569 6.517 5.212C7 5.856 6.819 7.142 6.819 7.142\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M11.18 4.489C11.18 4.489 10.568 4.52 10.086 4.883C9.603 5.246 9.34 5.976 9.34 5.976\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

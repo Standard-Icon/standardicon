@@ -1,0 +1,26 @@
+{
+  "name": "rocket",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:5126",
+  "looks": "A rocket pointing straight up with a fin on each side and a small flame below.",
+  "use": "Use for launch, deploy, or getting started.",
+  "keywords": [
+    "launch",
+    "ship",
+    "startup"
+  ],
+  "compare": {
+    "carbon": "rocket",
+    "fluent": "rocket",
+    "heroicons": "rocket-launch",
+    "lucide": "rocket",
+    "material": "rocket",
+    "octicons": "rocket",
+    "phosphor": "rocket",
+    "radix": "rocket",
+    "tabler": "rocket"
+  }
+}

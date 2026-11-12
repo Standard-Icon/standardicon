@@ -1,0 +1,21 @@
+{
+  "name": "move-down-right",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23401",
+  "looks": "A diagonal arrow pointing to the lower right with a bar across its upper left end.",
+  "use": "Use for moving toward the lower right.",
+  "compare": {
+    "carbon": "arrow-down-right",
+    "fluent": false,
+    "heroicons": "arrow-down-right",
+    "lucide": "move-down-right",
+    "material": false,
+    "octicons": "arrow-down-right",
+    "phosphor": "arrow-down-right",
+    "sf": "arrow.down.right",
+    "tabler": false
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "chevrons-down-circle",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24017",
+  "looks": "A circle with two stacked down chevrons inside.",
+  "use": "Use for scrolling down, expanding fully, or jumping down.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.448Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle-chevrons-down",
+    "material": false,
+    "phosphor": "caret-circle-double-down",
+    "sf": false,
+    "tabler": "circle-chevrons-down"
+  }
+}

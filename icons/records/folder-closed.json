@@ -1,0 +1,12 @@
+{
+  "name": "folder-closed",
+  "status": "dropped",
+  "coveredBy": "folder",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "Not drawn: folder already does this."
+    }
+  ]
+}

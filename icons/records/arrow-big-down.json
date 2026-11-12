@@ -1,0 +1,23 @@
+{
+  "name": "arrow-big-down",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "navigation",
+  "figmaId": "58:21175",
+  "looks": "A thick hollow block arrow pointing down.",
+  "use": "Use for download, move down, or a strong down direction.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "arrow-big-down",
+    "material": false,
+    "octicons": false,
+    "phosphor": "arrow-fat-down",
+    "radix": "thick-arrow-down",
+    "sf": "arrowshape.down",
+    "tabler": "arrow-big-down"
+  }
+}

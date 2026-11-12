@@ -1,0 +1,16 @@
+{
+  "name": "git-branch-plus",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26372",
+  "looks": "A git branch of two nodes with a curved line and a plus at the upper right.",
+  "use": "Use for creating a new branch.",
+  "compare": {
+    "iconic": false,
+    "lucide": "git-branch-plus",
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

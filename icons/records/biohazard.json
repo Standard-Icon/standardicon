@@ -1,0 +1,16 @@
+{
+  "name": "biohazard",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21679",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "lucide": "biohazard",
+    "phosphor": "biohazard",
+    "tabler": "biohazard"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ungroup",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3761",
+  "looks": "Two separate rounded squares at the upper left and lower right, not touching.",
+  "use": "Use for ungrouping or separating objects.",
+  "compare": {
+    "carbon": "ungroup-objects",
+    "lucide": "ungroup",
+    "material": "ungroup",
+    "sf": false
+  }
+}

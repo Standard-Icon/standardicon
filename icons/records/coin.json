@@ -1,0 +1,25 @@
+{
+  "name": "coin",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7435",
+  "looks": "A circle with a dollar sign in the center.",
+  "use": "Use for coins, prices, or currency.",
+  "keywords": [
+    "money",
+    "currency"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:23:21.979Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "fluent": false,
+    "lucide": "circle-dollar-sign",
+    "phosphor": "coin",
+    "tabler": "coin"
+  }
+}

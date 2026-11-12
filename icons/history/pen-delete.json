@@ -1,0 +1,11 @@
+{
+ "name": "pen-delete",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M2.287 2.538L8.651 3.952L10.773 8.902L8.651 11.023L3.702 8.902L2.287 2.538Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.288 2.538L6.177 6.427\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.237 6.427C7.378 6.567 7.457 6.758 7.457 6.957C7.457 7.156 7.378 7.347 7.237 7.487C7.097 7.628 6.906 7.707 6.707 7.707C6.508 7.707 6.317 7.628 6.177 7.487C6.036 7.347 5.957 7.156 5.957 6.957C5.957 6.758 6.036 6.567 6.177 6.427C6.317 6.286 6.508 6.207 6.707 6.207C6.906 6.207 7.097 6.286 7.237 6.427Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.573 12.009H13.343\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

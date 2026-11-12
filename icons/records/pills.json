@@ -1,0 +1,16 @@
+{
+  "name": "pills",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:26829",
+  "looks": "A capsule tilted diagonally with a small round tablet with a slash across it at the lower right.",
+  "use": "Use for medication, pills, or prescriptions.",
+  "compare": {
+    "carbon": "pills",
+    "lucide": "tablets",
+    "sf": "pills",
+    "tabler": "pills"
+  }
+}

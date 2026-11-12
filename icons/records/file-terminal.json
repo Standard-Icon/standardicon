@@ -1,0 +1,19 @@
+{
+  "name": "file-terminal",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25304",
+  "looks": "A file with a folded top right corner and a command prompt arrow with an underscore inside.",
+  "use": "Use for shell scripts or command line files.",
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": "file-terminal",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

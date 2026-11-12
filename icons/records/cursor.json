@@ -1,0 +1,29 @@
+{
+  "name": "cursor",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31304",
+  "looks": "A classic arrow pointer aimed up and to the left, with a short tail at the bottom.",
+  "use": "Use for the mouse pointer, selecting, or clicking.",
+  "compare": {
+    "carbon": "cursor-1",
+    "fluent": "cursor",
+    "heroicons": false,
+    "lucide": "mouse-pointer-2",
+    "material": false,
+    "octicons": "cursor",
+    "phosphor": "cursor",
+    "radix": "cursor-arrow",
+    "sf": "pointer.arrow",
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "people"
+    }
+  ]
+}

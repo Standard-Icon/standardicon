@@ -1,0 +1,24 @@
+{
+  "name": "guitar",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "media",
+  "figmaId": "58:21950",
+  "looks": "An acoustic guitar tilted diagonally, body at the lower left and headstock at the upper right.",
+  "use": "Use for guitar, music, or instruments.",
+  "compare": {
+    "fluent": "guitar",
+    "lucide": "guitar",
+    "phosphor": "guitar",
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "morgan",
+      "text": "ours really doesn’t look great",
+      "issue": "ours-really-doesn-t-look-great"
+    }
+  ]
+}

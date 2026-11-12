@@ -1,0 +1,17 @@
+{
+ "name": "hard-hat",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M3.5 10.5V9C3.5 6.5 5.5 4.5 8 4.5C10.5 4.5 12.5 6.5 12.5 9V10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"2.5\" y=\"10.5\" width=\"11\" height=\"2\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.75 7.75V3.5H9.25V7.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T23:57:29.422Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M3.5 10.5V9C3.5 7.008 4.77 5.333 6.552 4.735M12.5 10.5V9C12.5 6.969 11.18 5.269 9.345 4.702\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.5 12.5V11.25C13.5 10.836 13.164 10.5 12.75 10.5H3.25C2.836 10.5 2.5 10.836 2.5 11.25V12.5H13.5Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.75 8.113V4.863C6.75 4.311 7.198 3.863 7.75 3.863H8.25C8.802 3.863 9.25 4.311 9.25 4.863V8.113\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

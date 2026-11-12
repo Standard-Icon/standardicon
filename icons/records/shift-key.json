@@ -1,0 +1,20 @@
+{
+  "name": "shift-key",
+  "status": "active",
+  "source": "later",
+  "figmaId": "355:29665",
+  "looks": "A keyboard keycap drawn in perspective with an upward arrow on top.",
+  "use": "Use for the Shift key and keyboard shortcuts.",
+  "compare": {
+    "carbon": "mac-shift",
+    "fluent": "keyboard-shift",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "arrow-big-up",
+    "material": "shift",
+    "octicons": false,
+    "phosphor": "arrow-fat-up",
+    "sf": "shift",
+    "tabler": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cloud-download",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:2832",
+  "looks": "A cloud with a downward arrow in the middle.",
+  "use": "Use for downloading from the cloud.",
+  "compare": {
+    "carbon": "cloud-download",
+    "fluent": "cloud-arrow-down",
+    "heroicons": "cloud-arrow-down",
+    "lucide": "cloud-download",
+    "material": "cloud-download",
+    "octicons": false,
+    "phosphor": "cloud-arrow-down",
+    "radix": false,
+    "sf": false,
+    "tabler": "cloud-download"
+  }
+}

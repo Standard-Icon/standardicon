@@ -1,0 +1,21 @@
+{
+  "name": "directions",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7000",
+  "looks": "A diamond road sign with an arrow inside that goes up and turns right.",
+  "use": "Use for directions, navigation, or turn-by-turn routes.",
+  "keywords": [
+    "navigate",
+    "route",
+    "signpost"
+  ],
+  "compare": {
+    "fluent": "directions",
+    "material": "directions",
+    "sf": "arrow.trianglehead.turn.up.right.circle",
+    "tabler": "directions"
+  }
+}

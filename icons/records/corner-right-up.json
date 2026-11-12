@@ -1,0 +1,23 @@
+{
+  "name": "corner-right-up",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23513",
+  "looks": "A line running from the bottom left, turning at a corner, and ending in an up arrow at the right.",
+  "use": "Use for returning up or moving up from a right corner.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "arrow-turn-right-up",
+    "iconic": false,
+    "lucide": "corner-right-up",
+    "material": false,
+    "octicons": false,
+    "phosphor": "arrow-bend-right-up",
+    "radix": false,
+    "sf": "arrow.turn.right.up",
+    "tabler": "corner-right-up"
+  }
+}

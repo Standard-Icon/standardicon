@@ -1,0 +1,11 @@
+{
+ "name": "piano",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3\" width=\"11\" height=\"10\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5.968 9V13M9.987 9.042V13.042\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.81 3V9H7.14V3M8.86 3V9H11.19V3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

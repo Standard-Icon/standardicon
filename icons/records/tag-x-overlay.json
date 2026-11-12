@@ -1,0 +1,21 @@
+{
+  "name": "tag-x-overlay",
+  "status": "active",
+  "parent": "tag",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:20881",
+  "looks": "A tilted price tag with an x inside a small rounded square at the lower right.",
+  "use": "Use for deleting or clearing a tag.",
+  "formerNames": [
+    "tag-x"
+  ],
+  "compare": {
+    "fluent": "tag-dismiss",
+    "heroicons": false,
+    "lucide": "tag-x",
+    "radix": false,
+    "sf": false
+  }
+}

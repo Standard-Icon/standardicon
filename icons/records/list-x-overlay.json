@@ -1,0 +1,20 @@
+{
+  "name": "list-x-overlay",
+  "status": "active",
+  "parent": "list",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "editor",
+  "figmaId": "58:21474",
+  "looks": "Three horizontal lines with a small rounded square holding an x at the lower right.",
+  "use": "Use for clearing or deleting from a list.",
+  "formerNames": [
+    "list-x"
+  ],
+  "compare": {
+    "heroicons": false,
+    "lucide": "list-x",
+    "radix": false,
+    "sf": false
+  }
+}

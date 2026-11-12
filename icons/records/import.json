@@ -1,0 +1,23 @@
+{
+  "name": "import",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1785",
+  "looks": "A page with a folded top right corner and an arrow pointing right into it from the left.",
+  "use": "Use for import, bring in a file, or load data.",
+  "approved": {
+    "at": "2026-11-11T19:15:36.042Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "arrow-import",
+    "lucide": "import",
+    "material": false,
+    "sf": "square.and.arrow.down",
+    "tabler": "file-import"
+  }
+}

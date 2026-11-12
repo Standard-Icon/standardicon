@@ -1,0 +1,11 @@
+{
+ "name": "chevron-down",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4 6.701L8 9.299L12 6.701\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

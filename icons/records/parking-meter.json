@@ -1,0 +1,21 @@
+{
+  "name": "parking-meter",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20780",
+  "looks": "A rounded meter head with a small gauge dial, on a pole with a flat base.",
+  "use": "Use for parking, paid parking, or meters.",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "carbon": false,
+    "lucide": "parking-meter",
+    "material": "parking-meter",
+    "octicons": false,
+    "sf": false,
+    "tabler": "parking-meter"
+  }
+}

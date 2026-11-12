@@ -1,0 +1,22 @@
+{
+  "name": "video-call",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:4197",
+  "looks": "A rounded rectangle camera body with a triangular lens pointing right.",
+  "use": "Use for video calls, the camera, or video.",
+  "compare": {
+    "carbon": "video",
+    "fluent": "video",
+    "heroicons": "video-camera",
+    "lucide": "video",
+    "material": "video-call",
+    "octicons": "video",
+    "phosphor": "video",
+    "radix": "video",
+    "sf": "video",
+    "tabler": "video"
+  }
+}

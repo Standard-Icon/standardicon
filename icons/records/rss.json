@@ -1,0 +1,30 @@
+{
+  "name": "rss",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:4244",
+  "looks": "A dot at the lower left with two quarter-circle arcs radiating out from it.",
+  "use": "Use for RSS feeds, subscriptions, or broadcasting.",
+  "keywords": [
+    "feed",
+    "subscribe"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T19:15:36.445Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "rss",
+    "fluent": "rss",
+    "heroicons": "rss",
+    "lucide": "rss",
+    "material": "rss-feed",
+    "octicons": "rss",
+    "phosphor": "rss",
+    "tabler": "rss"
+  }
+}

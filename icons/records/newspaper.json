@@ -1,0 +1,24 @@
+{
+  "name": "newspaper",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:5266",
+  "looks": "A newspaper with a small picture box at the upper left, lines of text, and a folded edge at the right.",
+  "use": "Use for news, articles, or a news feed.",
+  "keywords": [
+    "news",
+    "article",
+    "press"
+  ],
+  "compare": {
+    "fluent": "news",
+    "heroicons": "newspaper",
+    "lucide": "newspaper",
+    "material": "newspaper",
+    "phosphor": "newspaper",
+    "sf": "newspaper",
+    "tabler": "news"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "siren",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:6094",
+  "looks": "A dome light on a flat base with short rays above it.",
+  "use": "Use for alarms, emergencies, or urgent alerts.",
+  "formerNames": [
+    "alarm"
+  ],
+  "keywords": [
+    "siren"
+  ],
+  "compare": {
+    "lucide": "siren",
+    "material": "siren",
+    "phosphor": "siren",
+    "sf": "light.beacon.min"
+  }
+}

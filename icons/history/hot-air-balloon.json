@@ -1,0 +1,11 @@
+{
+ "name": "hot-air-balloon",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M8.001 2.238C10.297 2.238 12.111 3.605 12.159 6.081C12.201 8.209 9.923 10.313 9.249 11.634H6.753C6.037 10.232 3.799 8.21 3.841 6.081C3.889 3.605 5.705 2.238 8.001 2.238Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.9 11.634C5.981 8.787 5.981 4.516 8.002 2.238C10.024 4.516 10.024 8.787 9.105 11.634\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"6.742\" y=\"11.641\" width=\"2.51509\" height=\"2.12069\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.91 6.617C3.91 6.617 5.397 7.189 7.982 7.189C10.567 7.189 12.055 6.617 12.055 6.617\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

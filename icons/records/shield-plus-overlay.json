@@ -1,0 +1,21 @@
+{
+  "name": "shield-plus-overlay",
+  "status": "active",
+  "parent": "shield",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:21525",
+  "looks": "A shield with a small rounded square holding a plus sign at the lower right.",
+  "use": "Use for adding protection or a new security rule.",
+  "formerNames": [
+    "shield-plus"
+  ],
+  "compare": {
+    "fluent": "shield-add",
+    "lucide": "shield-plus",
+    "phosphor": "shield-plus",
+    "sf": false,
+    "tabler": "shield-plus"
+  }
+}

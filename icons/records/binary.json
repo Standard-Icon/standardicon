@@ -1,0 +1,15 @@
+{
+  "name": "binary",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "59:21702",
+  "compare": {
+    "carbon": false,
+    "lucide": "binary",
+    "octicons": false,
+    "phosphor": "binary",
+    "tabler": "binary"
+  }
+}

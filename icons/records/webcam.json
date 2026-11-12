@@ -1,0 +1,19 @@
+{
+  "name": "webcam",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "devices",
+  "figmaId": "59:22169",
+  "looks": "A round camera lens inside a larger circle, on a short stand with a base.",
+  "use": "Use for a webcam or video chat camera.",
+  "approved": {
+    "at": "2026-11-12T02:40:20.754Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "webcam",
+    "phosphor": "webcam"
+  }
+}

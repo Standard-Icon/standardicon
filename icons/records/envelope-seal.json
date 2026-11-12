@@ -1,0 +1,16 @@
+{
+  "name": "envelope-seal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:25033",
+  "looks": "A closed envelope with a small round seal where the flap meets in the middle.",
+  "use": "Use for sealed mail, a private message, or an invitation.",
+  "compare": {
+    "heroicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false
+  }
+}

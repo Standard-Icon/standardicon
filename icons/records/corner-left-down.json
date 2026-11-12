@@ -1,0 +1,22 @@
+{
+  "name": "corner-left-down",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23465",
+  "looks": "A line running from the top right, turning at a corner, and ending in a down arrow.",
+  "use": "Use for indented flow turning down, or moving down from a left corner.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "arrow-turn-left-down",
+    "iconic": false,
+    "lucide": "corner-left-down",
+    "octicons": false,
+    "phosphor": "arrow-bend-left-down",
+    "radix": false,
+    "sf": "arrow.turn.left.down",
+    "tabler": "corner-left-down"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "reverse",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26718",
+  "looks": "A single empty triangle pointing left.",
+  "use": "Use for playing in reverse or going back.",
+  "approved": {
+    "at": "2026-11-11T19:15:36.420Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "lucide": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "thermometer",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:7973",
+  "looks": "An upright thermometer with a round bulb at the bottom and a line rising in the tube.",
+  "use": "Use for temperature, weather, or fever.",
+  "keywords": [
+    "temperature",
+    "heat"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "lucide": "thermometer",
+    "material": "thermometer",
+    "phosphor": "thermometer",
+    "sf": "thermometer.medium",
+    "tabler": "thermometer"
+  }
+}

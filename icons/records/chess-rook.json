@@ -1,0 +1,21 @@
+{
+  "name": "chess-rook",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:23037",
+  "looks": "A chess rook with a battlement top, a straight tower body and a wide base.",
+  "use": "Use for the rook piece, chess, or castles.",
+  "approved": {
+    "at": "2026-11-12T02:32:24.960Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "fluent": false,
+    "lucide": "chess-rook",
+    "material": "chess-rook",
+    "tabler": "chess-rook"
+  }
+}

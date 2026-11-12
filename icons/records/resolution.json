@@ -1,0 +1,20 @@
+{
+  "name": "resolution",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "183:31952",
+  "looks": "A rounded rectangle with the letters HD inside.",
+  "use": "Use for video resolution, HD quality, or display settings.",
+  "compare": {
+    "lucide": "hd"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "video"
+    }
+  ]
+}

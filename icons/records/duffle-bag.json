@@ -1,0 +1,21 @@
+{
+  "name": "duffle-bag",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21903",
+  "looks": "A rounded duffle bag with a handle on top and a short horizontal strap on its front.",
+  "use": "Use for gym bags, luggage, or travel.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "sf": "duffle.bag",
+    "tabler": false
+  }
+}

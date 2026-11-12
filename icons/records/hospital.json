@@ -1,0 +1,22 @@
+{
+  "name": "hospital",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8918",
+  "looks": "A tall rounded building with a cross near the top and a door at the bottom center.",
+  "use": "Use for hospitals, clinics, or medical centers.",
+  "keywords": [
+    "medical",
+    "clinic",
+    "healthcare"
+  ],
+  "compare": {
+    "carbon": "hospital",
+    "lucide": "hospital",
+    "material": "local-hospital",
+    "phosphor": "hospital",
+    "tabler": "hospital"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "circle-dollar-sign",
+  "status": "covered",
+  "coveredBy": "coin",
+  "source": "lucide",
+  "compare": {
+    "lucide": "circle-dollar-sign"
+  }
+}

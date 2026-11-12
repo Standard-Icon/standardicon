@@ -1,0 +1,25 @@
+{
+  "name": "file-alert",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:23909",
+  "looks": "A file with a folded top right corner and an exclamation mark inside.",
+  "use": "Use for a file with a warning or a problem.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "file-alert"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "plane-ticket",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20160",
+  "looks": "A wide ticket with a plane on the left and a vertical tear line near the right.",
+  "use": "Use for plane tickets, boarding passes, or flight bookings.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "tickets-plane",
+    "material": "airplane-ticket",
+    "phosphor": false,
+    "radix": false,
+    "sf": "ticket",
+    "tabler": false
+  }
+}

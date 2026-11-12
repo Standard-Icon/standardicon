@@ -1,0 +1,16 @@
+{
+  "name": "message-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27925",
+  "looks": "A rectangular speech bubble with a small x cut into the lower right corner.",
+  "use": "Use for deleting a message or closing a chat.",
+  "compare": {
+    "fluent": "chat-dismiss",
+    "heroicons": false,
+    "lucide": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "message-x"
+  }
+}

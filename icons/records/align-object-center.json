@@ -1,0 +1,21 @@
+{
+  "name": "align-object-center",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "58:21714",
+  "looks": "Two horizontal bars, wide above narrow, centered on a vertical line through both.",
+  "use": "Use for centering objects horizontally.",
+  "compare": {
+    "carbon": "align-vertical-center",
+    "fluent": "align-center-vertical",
+    "iconic": false,
+    "lucide": "align-center-vertical",
+    "material": "align-center",
+    "phosphor": "align-center-vertical",
+    "radix": "align-center-vertically",
+    "sf": "align.vertical.center",
+    "tabler": "align-center"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "brightness",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5734",
+  "looks": "A circle half filled in solid, surrounded by eight short rays.",
+  "use": "Use for screen brightness or display settings.",
+  "keywords": [
+    "display",
+    "light"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "brightness-contrast",
+    "fluent": "brightness-low",
+    "lucide": "sun",
+    "material": "brightness-1",
+    "tabler": "brightness"
+  }
+}

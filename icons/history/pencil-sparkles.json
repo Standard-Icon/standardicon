@@ -1,0 +1,11 @@
+{
+ "name": "pencil-sparkles",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.926 13.075L6 12.575L12.257 6.318C12.599 5.976 12.79 5.513 12.79 5.03C12.79 4.548 12.599 4.085 12.257 3.743C11.916 3.402 11.453 3.21 10.97 3.21C10.487 3.21 10.024 3.402 9.683 3.743L3.426 10.001L2.926 13.075Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.268 4.619L11.381 6.733\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 2.5V5.5M3 4H6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

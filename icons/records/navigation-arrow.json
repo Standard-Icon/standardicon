@@ -1,0 +1,30 @@
+{
+  "name": "navigation-arrow",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23545",
+  "looks": "A pointed arrowhead aimed upward with a notch cut into its base.",
+  "use": "Use for navigation, your location, or heading.",
+  "flags": [
+    "possible-duplicate"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.144Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "navigation",
+    "heroicons": false,
+    "lucide": "navigation",
+    "material": "navigation",
+    "octicons": false,
+    "phosphor": "navigation-arrow",
+    "radix": false,
+    "sf": false,
+    "tabler": "navigation"
+  }
+}

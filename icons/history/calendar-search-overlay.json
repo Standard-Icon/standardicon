@@ -1,0 +1,17 @@
+{
+ "name": "calendar-search-overlay",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M9.55 13.126L4.213 13.126C3.661 13.126 3.213 12.678 3.213 12.126L3.213 4.699C3.213 4.147 3.661 3.699 4.213 3.699L11.787 3.699C12.34 3.699 12.787 4.147 12.787 4.699L12.787 9.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.213 6.031L12.787 6.031M5.824 2.945L5.824 4.481M10.176 2.945L10.176 4.481\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M13.192 12.071C13.192 12.368 13.073 12.653 12.863 12.863C12.653 13.073 12.368 13.192 12.071 13.192C11.774 13.192 11.489 13.073 11.278 12.863C11.068 12.653 10.95 12.368 10.95 12.071C10.95 11.774 11.068 11.489 11.278 11.278C11.489 11.068 11.774 10.95 12.071 10.95C12.368 10.95 12.653 11.068 12.863 11.278C13.073 11.489 13.192 11.774 13.192 12.071Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.878 12.877L13.55 13.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M9.55 13.889L3.5 13.889C2.948 13.889 2.5 13.441 2.5 12.889L2.5 4.059C2.5 3.507 2.948 3.059 3.5 3.059L12.499 3.059C13.052 3.059 13.499 3.507 13.499 4.059L13.499 9.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 5.738L13.499 5.738M5.5 2.192L5.5 3.958M10.5 2.192L10.5 3.958\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M13.192 12.071C13.192 12.368 13.073 12.653 12.863 12.863C12.653 13.073 12.368 13.192 12.071 13.192C11.774 13.192 11.489 13.073 11.278 12.863C11.068 12.653 10.95 12.368 10.95 12.071C10.95 11.774 11.068 11.489 11.278 11.278C11.489 11.068 11.774 10.95 12.071 10.95C12.368 10.95 12.653 11.068 12.863 11.278C13.073 11.489 13.192 11.774 13.192 12.071Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.878 12.877L13.55 13.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

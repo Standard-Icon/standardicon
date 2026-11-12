@@ -1,0 +1,11 @@
+{
+ "name": "light-switch",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"3.5\" y=\"2.5\" width=\"9\" height=\"11\" rx=\"1.33\" stroke=\"currentColor\"/><rect x=\"6.5\" y=\"5.5\" width=\"3\" height=\"5\" rx=\"0.5\" stroke=\"currentColor\"/><path d=\"M6.5 8H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

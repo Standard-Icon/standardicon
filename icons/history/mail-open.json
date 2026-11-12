@@ -1,0 +1,11 @@
+{
+ "name": "mail-open",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M2.5 6.5L8 2.5L13.5 6.5V12.5C13.5 12.765 13.395 13.02 13.207 13.207C13.02 13.395 12.765 13.5 12.5 13.5H3.5C3.235 13.5 2.98 13.395 2.793 13.207C2.605 13.02 2.5 12.765 2.5 12.5V6.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.8 6.9L8 10.5L13.2 6.9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

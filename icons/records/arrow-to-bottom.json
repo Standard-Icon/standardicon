@@ -1,0 +1,24 @@
+{
+  "name": "arrow-to-bottom",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "21:1406",
+  "looks": "An arrow pointing down onto a flat line beneath it.",
+  "use": "Use for download, jump to the bottom, or save to device.",
+  "keywords": [
+    "scroll to bottom"
+  ],
+  "compare": {
+    "carbon": "down-to-bottom",
+    "fluent": false,
+    "lucide": "arrow-down-to-line",
+    "material": false,
+    "octicons": "move-to-bottom",
+    "phosphor": "arrow-line-down",
+    "radix": false,
+    "sf": "arrow.down.to.line",
+    "tabler": "arrow-bar-to-down"
+  }
+}

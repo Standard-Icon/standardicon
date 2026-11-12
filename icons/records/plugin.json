@@ -1,0 +1,17 @@
+{
+  "name": "plugin",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4809",
+  "looks": "A plug with two prongs on top, a plus on its body, and a cord curling down and to the right.",
+  "use": "Use for plugins, extensions, or integrations.",
+  "keywords": [
+    "extension",
+    "addon"
+  ],
+  "compare": {
+    "lucide": "blocks"
+  }
+}

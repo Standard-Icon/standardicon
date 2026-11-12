@@ -1,0 +1,19 @@
+{
+  "name": "greater-than-equal",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Math",
+  "figmaId": "275:22561",
+  "looks": "A right-pointing angle with a horizontal line under it.",
+  "use": "Use for greater than or equal to comparisons.",
+  "approved": {
+    "at": "2026-11-12T01:54:08.037Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "phosphor": "greater-than-or-equal",
+    "tabler": "math-equal-greater"
+  }
+}

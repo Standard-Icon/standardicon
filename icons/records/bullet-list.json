@@ -1,0 +1,32 @@
+{
+  "name": "bullet-list",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1238",
+  "looks": "Three dots down the left, each followed by a horizontal line.",
+  "use": "Use for bulleted lists or unordered items.",
+  "keywords": [
+    "unordered",
+    "ul"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T19:15:35.745Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "list",
+    "fluent": "text-bullet-list",
+    "heroicons": "list-bullet",
+    "lucide": "list",
+    "material": "list",
+    "octicons": "list-unordered",
+    "phosphor": "list",
+    "radix": "list-bullet",
+    "sf": "list.bullet",
+    "tabler": "list"
+  }
+}

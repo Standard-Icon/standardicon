@@ -1,0 +1,26 @@
+{
+  "name": "cloud",
+  "status": "active",
+  "canonical": "cloud",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:2790",
+  "looks": "A simple cloud shape with a flat bottom and a rounded top.",
+  "use": "Use for cloud storage, syncing, or the weather.",
+  "keywords": [
+    "hosting",
+    "saas"
+  ],
+  "compare": {
+    "carbon": "cloud",
+    "fluent": "cloud",
+    "heroicons": "cloud",
+    "lucide": "cloud",
+    "material": "cloud",
+    "octicons": "cloud",
+    "phosphor": "cloud",
+    "sf": "cloud",
+    "tabler": "cloud"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "file-chart-column-increasing",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25665",
+  "looks": "A file with a folded top right corner and three bars rising from left to right inside.",
+  "use": "Use for growth reports or files showing rising metrics.",
+  "compare": {
+    "carbon": false,
+    "lucide": "file-chart-column-increasing",
+    "tabler": "file-chart"
+  }
+}

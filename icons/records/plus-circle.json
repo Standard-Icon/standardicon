@@ -1,0 +1,33 @@
+{
+  "name": "plus-circle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "solid": "needed",
+  "figmaId": "23:1799",
+  "looks": "A plus sign inside a circle.",
+  "use": "Use for add, create, or new item.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.423Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "add",
+    "fluent": "add-circle",
+    "heroicons": "plus-circle",
+    "lucide": "plus-circle",
+    "material": "add-circle",
+    "octicons": "plus-circle",
+    "phosphor": "plus-circle",
+    "radix": "plus",
+    "sf": "plus.circle",
+    "tabler": "circle-plus"
+  },
+  "compareAlso": {
+    "lucide": [
+      "circle-plus"
+    ]
+  }
+}

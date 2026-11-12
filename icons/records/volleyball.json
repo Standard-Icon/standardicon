@@ -1,0 +1,22 @@
+{
+  "name": "volleyball",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21653",
+  "looks": "A circle with three curved panels swirling from the center.",
+  "use": "Use for volleyball or sports.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.731Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": "volleyball",
+    "material": "sports-volleyball",
+    "phosphor": "volleyball",
+    "sf": "volleyball",
+    "tabler": "ball-volleyball"
+  }
+}

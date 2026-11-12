@@ -1,0 +1,15 @@
+{
+  "name": "trademark",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Legal",
+  "figmaId": "82:27807",
+  "looks": "The letters T and M side by side.",
+  "use": "Use for trademarks and brand names.",
+  "compare": {
+    "lucide": false,
+    "phosphor": "trademark",
+    "tabler": "trademark"
+  }
+}

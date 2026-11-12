@@ -1,0 +1,15 @@
+{
+  "name": "cat",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:19612",
+  "compare": {
+    "fluent": "animal-cat",
+    "lucide": "cat",
+    "phosphor": "cat",
+    "sf": "cat",
+    "tabler": "cat"
+  }
+}

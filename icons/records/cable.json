@@ -1,0 +1,16 @@
+{
+  "name": "cable",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "devices",
+  "figmaId": "59:22231",
+  "looks": "An S-shaped cord with a plug with two prongs at the top end and another plug at the bottom end.",
+  "use": "Use for cables, connections, or plugging in.",
+  "compare": {
+    "lucide": "cable",
+    "material": "cable",
+    "phosphor": false,
+    "sf": "cable.coaxial"
+  }
+}

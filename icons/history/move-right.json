@@ -1,0 +1,11 @@
+{
+ "name": "move-right",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M13.5 8H2.5V6M2.5 8V10M10 11.5L13.5 8L10 4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

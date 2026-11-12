@@ -1,0 +1,11 @@
+{
+ "name": "tool-call",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M5 3C3.5 5 3.5 11 5 13M11 3C12.5 5 12.5 11 11 13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.75L10.25 8L8 10.25L5.75 8L8 5.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

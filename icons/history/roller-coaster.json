@@ -1,0 +1,11 @@
+{
+ "name": "roller-coaster",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M1.5 9.5C3 9.5 4 2.5 6.5 2.5C9 2.5 9.5 10 11.5 10C12.7 10 13.5 8.5 14.5 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 6.29V13.5M6.5 2.5V13.5M9.5 7.1V13.5M12.5 9.64V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1.5 13.5H14.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

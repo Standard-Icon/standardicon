@@ -1,0 +1,29 @@
+{
+  "name": "chart",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Charts and analytics",
+  "figmaId": "12:1151",
+  "looks": "Three bars of rising height standing side by side on a baseline.",
+  "use": "Use for charts, growth, or reports.",
+  "keywords": [
+    "graph",
+    "analytics",
+    "bars"
+  ],
+  "flags": [
+    "possible-duplicate"
+  ],
+  "compare": {
+    "carbon": "chart-bar",
+    "fluent": "data-bar-vertical",
+    "heroicons": "chart-bar",
+    "lucide": "chart-column",
+    "material": "bar-chart",
+    "phosphor": "chart-bar",
+    "radix": "bar-chart",
+    "sf": "chart.bar",
+    "tabler": "chart-bar"
+  }
+}

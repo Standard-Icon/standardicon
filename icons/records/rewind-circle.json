@@ -1,0 +1,28 @@
+{
+  "name": "rewind-circle",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "media",
+  "figmaId": "111:31269",
+  "looks": "A circle containing two left-pointing triangles side by side.",
+  "use": "Use for rewinding media.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.528Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": "rewind-circle",
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

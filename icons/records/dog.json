@@ -1,0 +1,20 @@
+{
+  "name": "dog",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:19661",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "animal-dog",
+    "lucide": "dog",
+    "material": false,
+    "phosphor": "dog",
+    "sf": "dog",
+    "tabler": "dog"
+  }
+}

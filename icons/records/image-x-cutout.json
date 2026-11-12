@@ -1,0 +1,13 @@
+{
+  "name": "image-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28772",
+  "looks": "A picture of a sun and mountains with a small x cut into its lower right.",
+  "use": "Use for deleting an image or a broken image.",
+  "compare": {
+    "heroicons": false,
+    "radix": false,
+    "sf": false
+  }
+}

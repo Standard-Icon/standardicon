@@ -1,0 +1,17 @@
+{
+ "name": "drum",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<ellipse rx=\"5\" ry=\"1.75\" cx=\"8\" cy=\"5.75\" stroke=\"currentColor\"/><path d=\"M3 5.75V10.75C3 11.8 5.25 12.75 8 12.75C10.75 12.75 13 11.8 13 10.75V5.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 6L3.75 2.75M9 6L12.25 2.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T00:55:55.246Z",
+   "source": "figma",
+   "released": true,
+   "body": "<ellipse rx=\"5\" ry=\"1.75\" cx=\"8\" cy=\"5.75\" stroke=\"currentColor\"/><path d=\"M13 9.903C13 10.869 10.761 11.653 8 11.653C5.239 11.653 3 10.869 3 9.903\" stroke=\"currentColor\"/><path d=\"M13 7.232C13 8.198 10.761 8.982 8 8.982C5.239 8.982 3 8.198 3 7.232\" stroke=\"currentColor\"/><path d=\"M3 5.995V11.335C3 12.299 5.25 13.171 8 13.171C10.75 13.171 13 12.299 13 11.335V5.995\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.521 5.45L3.271 2.2M9.477 5.45L12.727 2.2\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.908 10.939V8.901\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M8.035 11.233V9.195\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M11.076 10.939V8.901\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

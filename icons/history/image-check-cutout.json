@@ -1,0 +1,11 @@
+{
+ "name": "image-check-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M13.5 7.825V4.5C13.5 3.948 13.052 3.5 12.5 3.5H3.5C2.948 3.5 2.5 3.948 2.5 4.5V11.5C2.5 12.052 2.948 12.5 3.5 12.5H7.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.188 6.152C6.188 6.417 6.082 6.671 5.895 6.859C5.707 7.046 5.453 7.152 5.188 7.152C4.922 7.152 4.668 7.046 4.48 6.859C4.293 6.671 4.188 6.417 4.188 6.152C4.188 5.887 4.293 5.632 4.48 5.445C4.668 5.257 4.922 5.152 5.188 5.152C5.453 5.152 5.707 5.257 5.895 5.445C6.082 5.632 6.188 5.887 6.188 6.152Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 11.25L5.5 8.75L7.688 10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 11.609L11.188 13.297L14 10.203\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

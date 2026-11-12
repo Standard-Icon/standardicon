@@ -1,0 +1,21 @@
+{
+  "name": "layers-arrow-down-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28662",
+  "looks": "A stack of a diamond and two layers with a small down arrow cut into the lower right.",
+  "use": "Use for moving a layer down or sending backward.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "layers-arrow-down",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "square.3.layers.3d.down.left",
+    "tabler": false
+  }
+}

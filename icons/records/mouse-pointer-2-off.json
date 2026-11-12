@@ -1,0 +1,15 @@
+{
+  "name": "mouse-pointer-2-off",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27156",
+  "looks": "A pointer aimed up-left with a diagonal slash through it.",
+  "use": "Use for pointer disabled, no interaction, or hidden cursor.",
+  "compare": {
+    "fluent": false,
+    "lucide": "mouse-pointer-2-off",
+    "material": false,
+    "sf": false,
+    "tabler": false
+  }
+}

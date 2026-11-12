@@ -1,0 +1,25 @@
+{
+  "name": "tag-off",
+  "status": "active",
+  "parent": "tag",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:20923",
+  "looks": "A tilted price tag crossed by a diagonal slash from the lower left to the upper right.",
+  "use": "Use for no tags, untagged, or labels turned off.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": "tag-off",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "tag.slash",
+    "tabler": "tag-off"
+  }
+}

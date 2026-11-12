@@ -1,0 +1,19 @@
+{
+  "name": "desk-bell",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24784",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "concierge-bell",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

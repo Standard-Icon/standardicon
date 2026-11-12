@@ -1,0 +1,14 @@
+{
+  "name": "embed",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6354",
+  "looks": "A rounded rectangle with a pair of angle brackets facing outward inside it.",
+  "use": "Use for embeds or inserting external content.",
+  "keywords": [
+    "iframe",
+    "widget"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "fullscreen",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "21:1739",
+  "looks": "Four corner brackets pointing outward, framing an empty square.",
+  "use": "Use for entering full screen.",
+  "keywords": [
+    "maximize"
+  ],
+  "compare": {
+    "lucide": "fullscreen",
+    "material": "fullscreen",
+    "sf": "arrow.up.left.and.arrow.down.right"
+  },
+  "compareAlso": {
+    "lucide": [
+      "maximize"
+    ]
+  }
+}

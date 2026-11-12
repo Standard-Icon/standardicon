@@ -1,0 +1,23 @@
+{
+ "name": "microphone",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M8 2.5C8.53 2.5 9.039 2.711 9.414 3.086C9.789 3.461 10 3.97 10 4.5V7.5C10 8.03 9.789 8.539 9.414 8.914C9.039 9.289 8.53 9.5 8 9.5C7.47 9.5 6.961 9.289 6.586 8.914C6.211 8.539 6 8.03 6 7.5V4.5C6 3.97 6.211 3.461 6.586 3.086C6.961 2.711 7.47 2.5 8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 7.5C3.5 8.693 3.974 9.838 4.818 10.682C5.662 11.526 6.807 12 8 12C9.193 12 10.338 11.526 11.182 10.682C12.026 9.838 12.5 8.693 12.5 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 12V13.5M6 13.5H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 2.5C8.53 2.5 9.039 2.711 9.414 3.086C9.789 3.461 10 3.97 10 4.5V7.5C10 8.03 9.789 8.539 9.414 8.914C9.039 9.289 8.53 9.5 8 9.5C7.47 9.5 6.961 9.289 6.586 8.914C6.211 8.539 6 8.03 6 7.5V4.5C6 3.97 6.211 3.461 6.586 3.086C6.961 2.711 7.47 2.5 8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 7.5C3.5 8.693 3.974 9.838 4.818 10.682C5.662 11.526 6.806 12 8 12C9.194 12 10.338 11.526 11.182 10.682C12.026 9.838 12.5 8.693 12.5 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 12V13.5H6M8 13.5H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T00:55:55.246Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 2.5C8.53 2.5 9.039 2.712 9.414 3.089C9.789 3.466 10 3.978 10 4.511V7.527C10 8.061 9.789 8.572 9.414 8.949C9.039 9.326 8.53 9.538 8 9.538C7.47 9.538 6.961 9.326 6.586 8.949C6.211 8.572 6 8.061 6 7.527V4.511C6 3.978 6.211 3.466 6.586 3.089C6.961 2.712 7.47 2.5 8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.996 7.535C3.996 8.597 4.418 9.615 5.169 10.366C5.92 11.117 6.938 11.539 8 11.539C9.062 11.539 10.08 11.117 10.831 10.366C11.582 9.615 12.004 8.597 12.004 7.535\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 12V13.5H6M8 13.5H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

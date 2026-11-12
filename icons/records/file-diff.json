@@ -1,0 +1,19 @@
+{
+  "name": "file-diff",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25530",
+  "looks": "A file with a folded top right corner with a plus above a minus inside.",
+  "use": "Use for file changes, comparing versions, or diffs.",
+  "compare": {
+    "carbon": "file-diff",
+    "iconic": false,
+    "lucide": "file-diff",
+    "material": false,
+    "octicons": "file-diff",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "file-diff"
+  }
+}

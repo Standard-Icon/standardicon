@@ -1,0 +1,9 @@
+{
+  "name": "a-arrow-up",
+  "status": "covered",
+  "coveredBy": "font-size-increase",
+  "source": "lucide",
+  "compare": {
+    "lucide": "a-arrow-up"
+  }
+}

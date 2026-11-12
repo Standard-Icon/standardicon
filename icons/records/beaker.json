@@ -1,0 +1,14 @@
+{
+  "name": "beaker",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23964",
+  "looks": "An open-top glass beaker with a rounded bottom and a line across near the top.",
+  "use": "Use for science, experiments, or lab work.",
+  "compare": {
+    "fluent": "beaker",
+    "heroicons": "beaker",
+    "lucide": "beaker",
+    "octicons": "beaker"
+  }
+}

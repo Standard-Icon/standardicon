@@ -1,0 +1,11 @@
+{
+ "name": "playing-cards",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M5.5 4.5V3C5.5 2.45 5.95 2 6.5 2H12.5C13.05 2 13.5 2.45 13.5 3V11C13.5 11.55 13.05 12 12.5 12H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"2.5\" y=\"4.5\" width=\"8\" height=\"9.5\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.5 7.25L8 9.25L6.5 11.25L5 9.25L6.5 7.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

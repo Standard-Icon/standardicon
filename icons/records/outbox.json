@@ -1,0 +1,13 @@
+{
+  "name": "outbox",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:3951",
+  "compare": {
+    "material": "outbox",
+    "phosphor": "tray-arrow-up",
+    "sf": "tray.and.arrow.up"
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "presentation",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2.5 3H13.5M3.5 3V10C3.5 10.265 3.605 10.52 3.793 10.707C3.98 10.895 4.235 11 4.5 11H11.5C11.765 11 12.02 10.895 12.207 10.707C12.395 10.52 12.5 10.265 12.5 10V3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 11V12M8 12L5.5 14M8 12L10.5 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 8.5L7.25 6.75L8.5 8L10.5 6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M2.5 2.5H12.5V9.5C12.5 9.765 12.395 10.02 12.207 10.207C12.02 10.395 11.765 10.5 11.5 10.5H4.5C4.235 10.5 3.98 10.395 3.793 10.207C3.605 10.02 3.5 9.765 3.5 9.5V2.5M12.5 2.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 10.5V11.5L5.5 13.5M8 11.5L10.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 8L7.25 6.25L8.5 7.5L10.5 5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

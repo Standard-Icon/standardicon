@@ -1,0 +1,28 @@
+{
+  "name": "message-oval-check-overlay",
+  "status": "active",
+  "parent": "message-oval",
+  "canonical": "message-oval",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "226:32904",
+  "looks": "An oval speech bubble with a small rounded square holding a checkmark at the lower right.",
+  "use": "Use for a read or delivered message, or a resolved comment.",
+  "formerNames": [
+    "message-oval-check"
+  ],
+  "compare": {
+    "iconic": false,
+    "lucide": "message-circle-check",
+    "sf": "checkmark.bubble",
+    "tabler": "message-check"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "oval or square message family"
+    }
+  ]
+}

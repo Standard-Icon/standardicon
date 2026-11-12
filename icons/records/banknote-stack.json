@@ -1,0 +1,22 @@
+{
+  "name": "banknote-stack",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:26686",
+  "looks": "A stack of banknotes seen from the front, with a circle on the top note.",
+  "use": "Use for cash, payments, or money.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

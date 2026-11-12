@@ -1,0 +1,11 @@
+{
+ "name": "leafy-greens",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M5.999 13C3.999 12.5 2.499 10.5 2.999 8.5C2.599 6.75 3.749 5.25 5.249 5.25C5.499 3.5 6.749 2.5 7.999 2.5C9.249 2.5 10.499 3.5 10.749 5.25C12.249 5.25 13.399 6.75 12.999 8.5C13.499 10.5 11.999 12.5 9.999 13C8.999 13.5 6.999 13.5 5.999 13Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 11V6M5.75 7.75L8 9.5L10.25 7.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

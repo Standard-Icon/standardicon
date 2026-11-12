@@ -1,0 +1,15 @@
+{
+  "name": "blocks",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "59:21944",
+  "looks": "Four rounded squares in a grid, with the lower two shaped as a wide block and a narrow one.",
+  "use": "Use for blocks, components, or modules.",
+  "compare": {
+    "lucide": "blocks",
+    "material": false,
+    "tabler": "blocks"
+  }
+}

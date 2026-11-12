@@ -1,0 +1,21 @@
+{
+  "name": "eye-closed",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25196",
+  "looks": "A closed eye shown as a downward curved lid line with three short lashes below.",
+  "use": "Use for hidden, hide password, or invisible.",
+  "compare": {
+    "carbon": "view-off",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "eye-closed",
+    "material": false,
+    "octicons": "eye-closed",
+    "phosphor": "eye-closed",
+    "radix": "eye-closed",
+    "sf": "eye.half.closed",
+    "tabler": "eye-closed"
+  }
+}

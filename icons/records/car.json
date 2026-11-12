@@ -1,0 +1,30 @@
+{
+  "name": "car",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7083",
+  "looks": "A front view of a car with a windshield, two headlights, side mirrors and wheels.",
+  "use": "Use for cars, driving, or vehicles.",
+  "keywords": [
+    "vehicle",
+    "drive",
+    "automobile"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-12T02:32:00.667Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "car",
+    "fluent": "vehicle-car",
+    "lucide": "car",
+    "material": "directions-car",
+    "phosphor": "car",
+    "sf": "car",
+    "tabler": "car"
+  }
+}

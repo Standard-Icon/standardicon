@@ -1,0 +1,13 @@
+{
+  "name": "personal-hotspot",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24630",
+  "looks": "A tall rounded phone shape with two curved signal waves to its right.",
+  "use": "Use for a personal hotspot or sharing a connection.",
+  "compare": {
+    "material": false
+  }
+}

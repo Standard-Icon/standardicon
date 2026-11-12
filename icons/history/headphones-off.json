@@ -1,0 +1,23 @@
+{
+ "name": "headphones-off",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2.492 10.905V7.601C2.492 6.847 2.647 6.108 2.939 5.428M5.312 2.795C6.126 2.34 7.05 2.095 7.999 2.095C9.459 2.095 10.86 2.675 11.893 3.708C12.925 4.74 13.506 6.141 13.506 7.601V10.905\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.25 9H4.25C4.664 9 5 9.336 5 9.75V12.25C5 12.664 4.664 13 4.25 13H3.25C2.836 13 2.5 12.664 2.5 12.25V9.75C2.5 9.336 2.836 9 3.25 9Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.499 11V9.75C13.499 9.336 13.163 9 12.749 9H11.749C11.673 9 11.6 9.011 11.531 9.032\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 2.5L13.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T01:06:15.657Z",
+   "source": "figma (before redraw, not importable)",
+   "released": false,
+   "body": "<path d=\"M3.01367 8.29213V7.3876C3.01367 6.06562 3.53883 4.79779 4.47361 3.86301C5.40839 2.92823 6.67622 2.40308 7.9982 2.40308C9.32018 2.40308 10.588 2.92823 11.5228 3.86301C12.4576 4.79779 12.9827 6.06562 12.9827 7.3876V8.29213\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.98828 9.08911C4.98828 8.6749 4.65249 8.33911 4.23828 8.33911H3.58193C2.89157 8.33911 2.33193 8.89876 2.33193 9.58911V11.3393C2.33193 12.0296 2.89157 12.5893 3.58193 12.5893H4.23828C4.65249 12.5893 4.98828 12.2535 4.98828 11.8393V9.08911Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M11.0098 9.08911C11.0098 8.6749 11.3456 8.33911 11.7598 8.33911H12.4161C13.1065 8.33911 13.6661 8.89876 13.6661 9.58911V11.3393C13.6661 12.0296 13.1065 12.5893 12.4161 12.5893H11.7598C11.3456 12.5893 11.0098 12.2535 11.0098 11.8393V9.08911Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M13.5 2.5L2.5 13.5\" stroke=\"white\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.5 2.5L2.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T01:08:13.918Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M3.014 8.292V7.388C3.014 6.066 3.539 4.798 4.474 3.863C5.408 2.928 6.676 2.403 7.998 2.403C8.872 2.403 9.722 2.632 10.467 3.058\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.711 5.764C12.889 6.282 12.983 6.83 12.983 7.388V8.292\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.858 8.667C4.723 8.469 4.496 8.339 4.238 8.339H3.582C2.892 8.339 2.332 8.899 2.332 9.589V11.193\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.01 9.089C11.01 8.675 11.346 8.339 11.76 8.339H12.416C13.107 8.339 13.666 8.899 13.666 9.589V11.339C13.666 12.03 13.107 12.589 12.416 12.589H11.76C11.346 12.589 11.01 12.254 11.01 11.839V9.089Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.5 2.5L2.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

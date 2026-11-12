@@ -1,0 +1,21 @@
+{
+  "name": "percent",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6615",
+  "keywords": [
+    "percentage",
+    "discount"
+  ],
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "percent",
+    "material": "percent",
+    "phosphor": "percent",
+    "sf": "percent",
+    "tabler": "percentage"
+  }
+}

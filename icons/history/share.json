@@ -1,0 +1,23 @@
+{
+ "name": "share",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M5.833 6.667H5C4.356 6.667 3.833 7.189 3.833 7.833V11.333C3.833 11.978 4.356 12.5 5 12.5H11C11.644 12.5 12.167 11.978 12.167 11.333V7.833C12.167 7.189 11.644 6.667 11 6.667H10.167M8 9.5V3.167M10.167 5.333L8 3.167L5.833 5.333\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M5.426 6.667H5C4.356 6.667 3.833 7.189 3.833 7.833V11.333C3.833 11.978 4.356 12.5 5 12.5H11C11.644 12.5 12.167 11.978 12.167 11.333V7.833C12.167 7.189 11.644 6.667 11 6.667H10.668M8 8.476V2.724M10.167 4.89L8 2.724L5.833 4.89\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M11.5 8.096C12.328 8.096 13 8.768 13 9.596V11.98C13 12.378 12.842 12.759 12.561 13.041C12.279 13.322 11.898 13.48 11.5 13.48H4.5C4.102 13.48 3.721 13.322 3.439 13.041C3.158 12.759 3 12.378 3 11.98V9.596C3 8.768 3.672 8.096 4.5 8.096\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 9.906V2.52M10.783 5.302L8 2.52L5.217 5.302\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

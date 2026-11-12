@@ -1,0 +1,17 @@
+{
+ "name": "battery",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3 5H11.5C11.765 5 12.02 5.105 12.207 5.293C12.395 5.48 12.5 5.735 12.5 6V10C12.5 10.265 12.395 10.52 12.207 10.707C12.02 10.895 11.765 11 11.5 11H3C2.735 11 2.48 10.895 2.293 10.707C2.105 10.52 2 10.265 2 10V6C2 5.735 2.105 5.48 2.293 5.293C2.48 5.105 2.735 5 3 5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 7V9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2\" y=\"5\" width=\"10.5\" height=\"6\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M14 7V9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

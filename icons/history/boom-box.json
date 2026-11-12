@@ -1,0 +1,11 @@
+{
+ "name": "boom-box",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M4 5.5V3.5C4 2.95 4.45 2.5 5 2.5H11C11.55 2.5 12 2.95 12 3.5V5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"2\" y=\"5.5\" width=\"12\" height=\"8\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><circle cx=\"5.25\" cy=\"9.5\" r=\"1.75\" stroke=\"currentColor\"/><circle cx=\"10.75\" cy=\"9.5\" r=\"1.75\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

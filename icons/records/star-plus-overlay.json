@@ -1,0 +1,20 @@
+{
+  "name": "star-plus-overlay",
+  "status": "active",
+  "parent": "star",
+  "canonical": "star",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "56:19034",
+  "looks": "A five-pointed star with a small rounded square holding a plus overlapping its lower right.",
+  "use": "Use for adding to favorites.",
+  "formerNames": [
+    "star-plus"
+  ],
+  "compare": {
+    "fluent": "star-add",
+    "lucide": "star-plus",
+    "sf": false
+  }
+}

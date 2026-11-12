@@ -1,0 +1,15 @@
+{
+  "name": "folder-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28315",
+  "looks": "A closed folder with a small checkmark cut into the lower right corner.",
+  "use": "Use for a synced, approved, or completed folder.",
+  "compare": {
+    "lucide": "folder-check",
+    "material": "folder-check",
+    "octicons": false,
+    "sf": false,
+    "tabler": "folder-check"
+  }
+}

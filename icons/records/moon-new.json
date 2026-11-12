@@ -1,0 +1,28 @@
+{
+  "name": "moon-new",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20449",
+  "looks": "A plain empty circle.",
+  "use": "Use for a new moon or moon phases.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.310Z",
+    "by": "Morgan",
+    "version": "2026-11-11T07:22:14.556Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "moonphase.new.moon",
+    "tabler": false
+  }
+}

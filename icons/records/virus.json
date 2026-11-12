@@ -1,0 +1,15 @@
+{
+  "name": "virus",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:5876",
+  "compare": {
+    "iconic": "virus",
+    "lucide": "virus",
+    "phosphor": "virus",
+    "sf": false,
+    "tabler": "virus"
+  }
+}

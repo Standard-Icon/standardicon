@@ -1,0 +1,11 @@
+{
+ "name": "cart-check-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M2 2.5H3.5L5 10H7.8M12.66 7.594L13.5 4.5H4\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 12.25C6.5 12.449 6.42 12.64 6.28 12.78C6.14 12.921 5.95 13 5.75 13C5.55 13 5.36 12.921 5.22 12.78C5.08 12.64 5 12.449 5 12.25C5 12.051 5.08 11.86 5.22 11.72C5.36 11.579 5.55 11.5 5.75 11.5C5.95 11.5 6.14 11.579 6.28 11.72C6.42 11.86 6.5 12.051 6.5 12.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 11.609L11.19 13.297L14 10.203\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

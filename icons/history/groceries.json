@@ -1,0 +1,17 @@
+{
+ "name": "groceries",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M3 7.5H13L12.5 12.5C12.45 13.05 12 13.5 11.5 13.5H4.5C4 13.5 3.55 13.05 3.5 12.5L3 7.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 7.5C4.5 5.75 5 4.75 6 4.75C7 4.75 7.5 5.75 7.5 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 7.5V3.5C9.5 3.235 9.605 2.98 9.793 2.793C9.98 2.605 10.235 2.5 10.5 2.5C10.765 2.5 11.02 2.605 11.207 2.793C11.395 2.98 11.5 3.235 11.5 3.5V7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.25 10.5H9.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T23:46:29.485Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M3 7.5H13L12.5 12.5C12.45 13.05 12 13.5 11.5 13.5H4.5C4 13.5 3.55 13.05 3.5 12.5L3 7.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.463 7.114C6.847 5.476 6.028 4.716 5.091 5.067C4.316 5.359 4.103 6.172 4.402 7.374\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.844 7.072L10.975 2.871C11.116 2.592 11.363 2.381 11.659 2.284C11.956 2.187 12.28 2.212 12.558 2.354C12.837 2.495 13.048 2.741 13.145 3.038C13.242 3.335 13.217 3.658 13.076 3.937L11.303 7.431\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.25 10.5H9.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

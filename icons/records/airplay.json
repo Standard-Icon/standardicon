@@ -1,0 +1,21 @@
+{
+  "name": "airplay",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5792",
+  "looks": "A screen with an open bottom edge and a triangle pointing up into it from below.",
+  "use": "Use for AirPlay or streaming to a screen.",
+  "keywords": [
+    "stream",
+    "apple"
+  ],
+  "compare": {
+    "carbon": "airplay",
+    "lucide": "airplay",
+    "material": "airplay",
+    "phosphor": "airplay",
+    "sf": "airplay.video"
+  }
+}

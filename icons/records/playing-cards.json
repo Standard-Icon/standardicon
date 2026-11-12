@@ -1,0 +1,12 @@
+{
+  "name": "playing-cards",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27777",
+  "compare": {
+    "lucide": "playing-cards",
+    "material": "playing-cards",
+    "phosphor": "cards",
+    "tabler": "cards"
+  }
+}

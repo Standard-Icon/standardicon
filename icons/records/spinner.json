@@ -1,0 +1,33 @@
+{
+  "name": "spinner",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "figmaId": "12:1654",
+  "looks": "A circle open at the upper right, like an unfinished ring.",
+  "use": "Use for loading or progress in motion.",
+  "keywords": [
+    "loading",
+    "progress",
+    "wait"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.657Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "fluent": "spinner-ios",
+    "iconic": "spinner",
+    "lucide": "loader-circle",
+    "material": "progress-activity",
+    "phosphor": "spinner",
+    "tabler": "loader-2"
+  },
+  "compareAlso": {
+    "lucide": [
+      "loader-2"
+    ]
+  }
+}

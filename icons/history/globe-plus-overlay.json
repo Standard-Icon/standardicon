@@ -1,0 +1,17 @@
+{
+ "name": "globe-plus-overlay",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M9.55 13.381C9.047 13.526 8.526 13.6 8 13.6C7.265 13.6 6.537 13.455 5.857 13.174C5.178 12.892 4.561 12.48 4.041 11.96C3.521 11.44 3.108 10.822 2.827 10.143C2.545 9.464 2.4 8.735 2.4 8C2.4 7.265 2.545 6.536 2.827 5.857C3.108 5.177 3.521 4.56 4.041 4.04C4.561 3.52 5.178 3.108 5.857 2.826C6.537 2.545 7.265 2.4 8 2.4C8.736 2.4 9.464 2.545 10.143 2.826C10.823 3.108 11.44 3.52 11.96 4.04C12.48 4.56 12.893 5.177 13.174 5.857C13.456 6.536 13.6 7.265 13.6 8C13.6 8.525 13.527 9.047 13.382 9.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.4 8L13.6 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.55 11.486C9.164 12.239 8.648 12.952 8 13.6C6.4 12 5.6 10 5.6 8C5.6 6 6.4 4 8 2.4C9.6 4 10.4 6 10.4 8C10.4 8.537 10.342 9.074 10.227 9.604\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.307 12.25H13.194M12.25 11.306V13.194\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T07:22:14.556Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M9.55 13.972C9.045 14.103 8.524 14.17 8 14.17C7.19 14.17 6.388 14.01 5.639 13.7C4.89 13.39 4.21 12.936 3.637 12.363C3.064 11.79 2.61 11.11 2.3 10.361C1.99 9.613 1.83 8.81 1.83 8C1.83 7.19 1.99 6.387 2.3 5.639C2.61 4.89 3.064 4.21 3.637 3.637C4.21 3.064 4.89 2.61 5.639 2.3C6.388 1.99 7.19 1.83 8 1.83C8.81 1.83 9.613 1.99 10.361 2.3C11.11 2.61 11.79 3.064 12.363 3.637C12.936 4.21 13.39 4.89 13.7 5.639C14.01 6.387 14.17 7.19 14.17 8C14.17 8.524 14.103 9.045 13.972 9.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1.83 8L14.17 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.55 12.135C9.146 12.856 8.629 13.541 8 14.17C6.237 12.407 5.356 10.204 5.356 8C5.356 5.796 6.237 3.593 8 1.83C9.763 3.593 10.644 5.796 10.644 8C10.644 8.519 10.595 9.038 10.497 9.551\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.307 12.25H13.194M12.25 11.306V13.194\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

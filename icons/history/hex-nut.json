@@ -1,0 +1,11 @@
+{
+ "name": "hex-nut",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 2.4L12.85 5.2V10.8L8 13.6L3.15 10.8V5.2L8 2.4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"8\" r=\"2.25\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

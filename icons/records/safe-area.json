@@ -1,0 +1,16 @@
+{
+  "name": "safe-area",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26938",
+  "looks": "A rounded rectangle with a smaller rectangle inset inside it.",
+  "use": "Use for title-safe areas, margins, or frame guides.",
+  "compare": {
+    "carbon": false,
+    "lucide": false,
+    "material": false,
+    "tabler": false
+  }
+}

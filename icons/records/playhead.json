@@ -1,0 +1,10 @@
+{
+  "name": "playhead",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26330",
+  "looks": "A pentagon marker pointing down, on a vertical line that ends in a horizontal base.",
+  "use": "Use for a playhead, current time, or timeline position."
+}

@@ -1,0 +1,11 @@
+{
+ "name": "sandwich",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2.5 6.5L7.4 2.8C7.75 2.5 8.25 2.5 8.6 2.8L13.5 6.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"2.5\" y=\"6.5\" width=\"11\" height=\"7\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M2.5 8.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 10.75C3.4 11.5 4.35 11.5 5.25 10.75C6.15 10 7.1 10 8 10.75C8.9 11.5 9.85 11.5 10.75 10.75C11.65 10 12.6 10 13.5 10.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

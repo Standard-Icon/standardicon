@@ -1,0 +1,25 @@
+{
+  "name": "folder-open",
+  "status": "active",
+  "parent": "folder",
+  "canonical": "folder",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Files and folders",
+  "figmaId": "23:2457",
+  "looks": "An open folder with its front flap tilted forward to the right.",
+  "use": "Use for an open folder, browsing files, or opening a directory.",
+  "compare": {
+    "carbon": "folder-open",
+    "fluent": "folder-open",
+    "heroicons": "folder-open",
+    "iconic": false,
+    "lucide": "folder-open",
+    "material": "folder-open",
+    "octicons": "file-directory-open-fill",
+    "phosphor": "folder-open",
+    "radix": false,
+    "sf": false,
+    "tabler": "folder-open"
+  }
+}

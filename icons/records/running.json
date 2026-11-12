@@ -1,0 +1,19 @@
+{
+  "name": "running",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8996",
+  "keywords": [
+    "exercise",
+    "fitness",
+    "jog"
+  ],
+  "compare": {
+    "carbon": "running",
+    "lucide": false,
+    "material": false,
+    "sf": false
+  }
+}

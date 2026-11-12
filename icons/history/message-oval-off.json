@@ -1,0 +1,17 @@
+{
+ "name": "message-oval-off",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M10.171 3.354C9.509 3.125 8.776 3 8 3C4.9 3 2.5 5 2.5 7.6C2.5 8.534 2.812 9.424 3.375 10.15M6.363 12.112C6.41 12.076 6.455 12.038 6.5 12C7 12.1 7.5 12.2 8 12.2C11.1 12.2 13.5 10.2 13.5 7.6C13.5 6.85 13.3 6.15 12.942 5.533\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13L13 3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T18:29:17.376Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M10.564 2.961C9.791 2.669 8.924 2.507 8 2.507C4.594 2.507 1.957 4.704 1.957 7.561C1.957 8.646 2.34 9.676 3.028 10.497M5.525 12.95C5.829 12.792 6.107 12.605 6.352 12.395H6.352C6.901 12.505 7.45 12.615 8 12.615C11.405 12.615 14.042 10.417 14.042 7.561C14.042 6.675 13.788 5.852 13.336 5.138\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13L13 3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

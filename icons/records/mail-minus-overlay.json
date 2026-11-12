@@ -1,0 +1,19 @@
+{
+  "name": "mail-minus-overlay",
+  "status": "active",
+  "parent": "mail",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:18710",
+  "looks": "A closed envelope with a dash inside a small rounded square at the lower right.",
+  "use": "Use for removing mail or unsubscribing.",
+  "formerNames": [
+    "mail-minus"
+  ],
+  "compare": {
+    "lucide": "mail-minus",
+    "sf": "envelope.badge.minus",
+    "tabler": "mail-minus"
+  }
+}

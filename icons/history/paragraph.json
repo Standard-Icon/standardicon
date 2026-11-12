@@ -1,0 +1,17 @@
+{
+ "name": "paragraph",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M5 13V3H9C10.65 3 12 4.2 12 5.85C12 7.5 10.65 8.75 9 8.75H5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M4.5 13V8.75M4.5 8.75V3H8.5C10.15 3 11.5 4.2 11.5 5.85C11.5 7.5 10.15 8.75 8.5 8.75H4.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

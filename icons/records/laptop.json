@@ -1,0 +1,23 @@
+{
+  "name": "laptop",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8232",
+  "keywords": [
+    "computer",
+    "macbook",
+    "notebook"
+  ],
+  "compare": {
+    "carbon": "laptop",
+    "fluent": "laptop",
+    "lucide": "laptop",
+    "material": false,
+    "phosphor": "laptop",
+    "radix": "laptop",
+    "sf": "laptopcomputer",
+    "tabler": "device-laptop"
+  }
+}

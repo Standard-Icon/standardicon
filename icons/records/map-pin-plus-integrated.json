@@ -1,0 +1,33 @@
+{
+  "name": "map-pin-plus-integrated",
+  "status": "active",
+  "parent": "map-pin",
+  "canonical": "map-pin",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:6979",
+  "looks": "A location pin with a plus sign inside in place of the circle.",
+  "use": "Use for adding a location or saving a place.",
+  "formerNames": [
+    "map-pin-plus"
+  ],
+  "keywords": [
+    "add location",
+    "new place"
+  ],
+  "compare": {
+    "fluent": "location-add",
+    "heroicons": false,
+    "lucide": "map-pin-plus",
+    "material": "add-location",
+    "phosphor": "map-pin-plus",
+    "sf": false,
+    "tabler": "map-pin-plus"
+  },
+  "compareAlso": {
+    "lucide": [
+      "map-pin-plus-inside"
+    ]
+  }
+}

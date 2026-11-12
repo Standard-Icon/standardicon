@@ -1,0 +1,11 @@
+{
+ "name": "package-search-overlay",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M13 9.55L13 5.972C13 5.662 12.928 5.355 12.789 5.078L11.707 2.915C11.58 2.661 11.321 2.5 11.036 2.5L4.964 2.5C4.679 2.5 4.42 2.661 4.293 2.915L3.211 5.078C3.072 5.355 3 5.662 3 5.972L3 12.5C3 12.765 3.105 13.02 3.293 13.207C3.48 13.395 3.735 13.5 4 13.5L9.55 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.339 5.5L12.661 5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2.5L8 5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 8.5L10 8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M13.191 12.071C13.191 12.368 13.073 12.653 12.863 12.863C12.653 13.073 12.368 13.192 12.071 13.192C11.773 13.192 11.488 13.073 11.278 12.863C11.068 12.653 10.95 12.368 10.95 12.071C10.95 11.774 11.068 11.489 11.278 11.278C11.488 11.068 11.773 10.95 12.071 10.95C12.368 10.95 12.653 11.068 12.863 11.278C13.073 11.489 13.191 11.774 13.191 12.071Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.878 12.877L13.55 13.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

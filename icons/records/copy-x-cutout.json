@@ -1,0 +1,15 @@
+{
+  "name": "copy-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27565",
+  "looks": "Two overlapping rounded squares with a small x cut into the lower right corner.",
+  "use": "Use for a failed copy or deleting a duplicate.",
+  "compare": {
+    "heroicons": false,
+    "lucide": "copy-x",
+    "radix": false,
+    "sf": false,
+    "tabler": "copy-x"
+  }
+}

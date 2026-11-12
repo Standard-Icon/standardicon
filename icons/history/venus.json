@@ -1,0 +1,11 @@
+{
+ "name": "venus",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"6\" r=\"3.5\" stroke=\"currentColor\"/><path d=\"M8 9.5V13.5M5.5 11.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

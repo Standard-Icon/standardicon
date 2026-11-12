@@ -1,0 +1,13 @@
+{
+  "name": "sharpen",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:25628",
+  "looks": "A rounded triangle with a smaller triangle nested inside it.",
+  "use": "Use for sharpening images or increasing detail.",
+  "compare": {
+    "lucide": false
+  }
+}

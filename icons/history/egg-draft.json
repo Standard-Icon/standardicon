@@ -1,0 +1,11 @@
+{
+ "name": "egg-draft",
+ "versions": [
+  {
+   "at": "2026-11-12T18:34:47.712Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 2.5C10.9 2.5 13 5.7 13 8.75C13 11.5 10.8 13.5 8 13.5C5.2 13.5 3 11.5 3 8.75C3 5.7 5.1 2.5 8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

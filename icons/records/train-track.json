@@ -1,0 +1,19 @@
+{
+  "name": "train-track",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20419",
+  "looks": "Two vertical rails crossed by four evenly spaced horizontal ties.",
+  "use": "Use for railways, tracks, or a rail route.",
+  "compare": {
+    "carbon": false,
+    "lucide": "train-track",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

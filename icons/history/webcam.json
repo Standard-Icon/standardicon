@@ -1,0 +1,11 @@
+{
+ "name": "webcam",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M12.5 7C12.5 8.193 12.026 9.338 11.182 10.182C10.338 11.026 9.193 11.5 8 11.5C6.807 11.5 5.662 11.026 4.818 10.182C3.974 9.338 3.5 8.193 3.5 7C3.5 5.807 3.974 4.662 4.818 3.818C5.662 2.974 6.807 2.5 8 2.5C9.193 2.5 10.338 2.974 11.182 3.818C12.026 4.662 12.5 5.807 12.5 7Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.75 7C9.75 7.464 9.566 7.909 9.237 8.237C8.909 8.566 8.464 8.75 8 8.75C7.536 8.75 7.091 8.566 6.763 8.237C6.434 7.909 6.25 7.464 6.25 7C6.25 6.536 6.434 6.091 6.763 5.763C7.091 5.434 7.536 5.25 8 5.25C8.464 5.25 8.909 5.434 9.237 5.763C9.566 6.091 9.75 6.536 9.75 7Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 13.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 11.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

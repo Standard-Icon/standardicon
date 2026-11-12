@@ -1,0 +1,12 @@
+{
+  "name": "align-start-vertical",
+  "status": "covered",
+  "coveredBy": "align-object-left",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:22863",
+  "flags": [
+    "possible-duplicate"
+  ]
+}

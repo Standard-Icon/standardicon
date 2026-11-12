@@ -1,0 +1,12 @@
+{
+  "name": "list-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28901",
+  "looks": "Three horizontal lines with a small minus sign at the lower right.",
+  "use": "Use for removing an item from a list.",
+  "compare": {
+    "lucide": "list-minus",
+    "sf": false
+  }
+}

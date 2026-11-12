@@ -1,0 +1,23 @@
+{
+  "name": "chevrons-left-circle",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24034",
+  "looks": "A circle with two stacked left chevrons inside.",
+  "use": "Use for rewind, jumping back, or going to the start.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.459Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle-chevrons-left",
+    "material": false,
+    "phosphor": "caret-circle-double-left",
+    "sf": false,
+    "tabler": "circle-chevrons-left"
+  }
+}

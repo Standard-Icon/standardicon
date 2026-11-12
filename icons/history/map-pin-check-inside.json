@@ -1,0 +1,17 @@
+{
+ "name": "map-pin-check-inside",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 13.353C8 13.353 12.5 10.707 12.5 7C12.5 5.807 12.026 4.662 11.182 3.818C10.338 2.974 9.193 2.5 8 2.5C6.807 2.5 5.662 2.974 4.818 3.818C3.974 4.662 3.5 5.807 3.5 7C3.5 10.707 8 13.353 8 13.353Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 6.75L7.6 7.85L9.75 5.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T23:46:29.485Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 13.353C8 13.353 12.5 10.707 12.5 7C12.5 5.807 12.026 4.662 11.182 3.818C10.338 2.974 9.193 2.5 8 2.5C6.807 2.5 5.662 2.974 4.818 3.818C3.974 4.662 3.5 5.807 3.5 7C3.5 10.707 8 13.353 8 13.353Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 7.243L7.6 8.343L9.75 6.243\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

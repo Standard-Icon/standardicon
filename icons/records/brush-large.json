@@ -1,0 +1,17 @@
+{
+  "name": "brush-large",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27492",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "paintbrush",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "dices",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25419",
+  "looks": "Two rounded square dice overlapping, one at upper right and one at lower left, each with dots.",
+  "use": "Use for random, shuffle, or games of chance.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": "dices"
+  }
+}

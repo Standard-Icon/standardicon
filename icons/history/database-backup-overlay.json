@@ -1,0 +1,11 @@
+{
+ "name": "database-backup-overlay",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M13.499 4.207C13.499 5.045 10.932 5.914 7.999 5.914C5.066 5.914 2.499 5.045 2.499 4.207C2.499 3.369 5.066 2.5 7.999 2.5C10.932 2.5 13.499 3.369 13.499 4.207Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.499 8C13.499 8.838 10.932 9.707 7.999 9.707C5.066 9.707 2.499 8.838 2.499 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.499 4.207L13.499 9.55M9.55 13.419C9.054 13.471 8.533 13.5 7.999 13.5C5.066 13.5 2.499 12.631 2.499 11.793L2.499 4.207\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M13.4 12.25C13.4 12.478 13.332 12.7 13.206 12.889C13.08 13.078 12.9 13.226 12.69 13.313C12.48 13.4 12.249 13.422 12.026 13.378C11.802 13.334 11.598 13.224 11.437 13.063C11.276 12.903 11.166 12.698 11.122 12.475C11.078 12.251 11.1 12.02 11.188 11.81C11.275 11.6 11.422 11.42 11.611 11.294C11.8 11.168 12.022 11.1 12.25 11.1M13.3 10.95V11.9H12.35\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

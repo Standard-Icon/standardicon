@@ -1,0 +1,23 @@
+{
+  "name": "cursor-simple",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27120",
+  "looks": "A closed triangular pointer aimed up-left with a notch at the back and no tail.",
+  "use": "Use for selecting, pointing, or the select tool.",
+  "approved": {
+    "at": "2026-11-11T19:15:35.818Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "cursor-1",
+    "fluent": "cursor",
+    "lucide": "mouse-pointer-2",
+    "octicons": "cursor",
+    "phosphor": "cursor",
+    "radix": "cursor-arrow",
+    "sf": "pointer.arrow",
+    "tabler": false
+  }
+}

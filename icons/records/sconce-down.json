@@ -1,0 +1,26 @@
+{
+  "name": "sconce-down",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26333",
+  "looks": "A wall bracket on the left with a lamp shade that is wider at the bottom, throwing light down.",
+  "use": "Use for a wall light shining down.",
+  "approved": {
+    "at": "2026-11-11T19:15:36.456Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "lamp-wall-down",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

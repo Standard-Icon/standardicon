@@ -1,0 +1,20 @@
+{
+  "name": "group",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3740",
+  "looks": "Two overlapping rounded squares.",
+  "use": "Use for grouping layers or objects, or duplicates.",
+  "compare": {
+    "carbon": "group",
+    "fluent": false,
+    "heroicons": "rectangle-group",
+    "lucide": "group",
+    "material": "group",
+    "radix": "group",
+    "sf": "rectangle.3.group",
+    "tabler": false
+  }
+}

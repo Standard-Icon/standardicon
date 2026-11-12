@@ -1,0 +1,11 @@
+{
+ "name": "align-object-middle",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M2.5 8H4M7 8H9M12 8H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"4\" y=\"4\" width=\"3\" height=\"8\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"9\" y=\"5.5\" width=\"3\" height=\"5\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

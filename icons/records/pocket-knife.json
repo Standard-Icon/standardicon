@@ -1,0 +1,15 @@
+{
+  "name": "pocket-knife",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21277",
+  "compare": {
+    "lucide": "pocket-knife",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

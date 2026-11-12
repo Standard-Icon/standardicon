@@ -1,0 +1,36 @@
+{
+  "name": "globe-simple",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Communication",
+  "figmaId": "23:2295",
+  "looks": "A circle crossed by a horizontal line and a vertical oval, like a globe's meridians.",
+  "use": "Use for the web, language, or worldwide.",
+  "formerNames": [
+    "globe"
+  ],
+  "keywords": [
+    "world",
+    "web",
+    "internet",
+    "language"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:23:22.171Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "earth",
+    "fluent": "earth",
+    "heroicons": "globe-alt",
+    "lucide": "earth",
+    "material": "globe",
+    "octicons": "globe",
+    "phosphor": "globe-simple",
+    "radix": "globe",
+    "sf": "globe",
+    "tabler": "globe"
+  }
+}

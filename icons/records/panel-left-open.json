@@ -1,0 +1,19 @@
+{
+  "name": "panel-left-open",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "navigation",
+  "figmaId": "58:21013",
+  "looks": "A wide rounded rectangle with a narrow left column and a right chevron in the main area.",
+  "use": "Use for showing or expanding the left sidebar.",
+  "compare": {
+    "carbon": "open-panel-left",
+    "fluent": "panel-left",
+    "lucide": "panel-left-open",
+    "material": "left-panel-open",
+    "radix": "panel-left",
+    "sf": false,
+    "tabler": false
+  }
+}

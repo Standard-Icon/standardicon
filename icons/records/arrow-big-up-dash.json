@@ -1,0 +1,26 @@
+{
+  "name": "arrow-big-up-dash",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23913",
+  "looks": "A hollow block arrow pointing up with a short horizontal dash below it.",
+  "use": "Use for upload, shift, or moving to the top.",
+  "approved": {
+    "at": "2026-11-10T19:48:59.299Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "arrow-big-up-dash",
+    "material": false,
+    "octicons": false,
+    "phosphor": "arrow-fat-line-up",
+    "radix": false,
+    "sf": false,
+    "tabler": "arrow-big-up-line"
+  }
+}

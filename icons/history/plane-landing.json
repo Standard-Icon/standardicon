@@ -1,0 +1,11 @@
+{
+ "name": "plane-landing",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M12.699 10.058C12.414 10.551 11.689 10.572 11.196 10.287L9.55 9.337L5.388 11.321L4.359 10.728L7.494 8.149L5.642 7.08L4.02 7.515L3.198 7.04L4.76 5.474L5.335 3.338L6.158 3.813L6.592 5.435L8.444 6.504L9.109 2.5L10.138 3.094L10.5 7.691L12.146 8.641C12.639 8.926 12.984 9.564 12.699 10.058Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 13.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "lamp-desk",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24564",
+  "looks": "A desk lamp with a bent arm and a head angled up to the right, on a flat base.",
+  "use": "Use for a desk lamp, study, or task lighting.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": "lamp-desk",
+    "material": "table-lamp",
+    "phosphor": "lamp",
+    "sf": "lamp.desk",
+    "tabler": "lamp"
+  }
+}

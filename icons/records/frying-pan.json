@@ -1,0 +1,14 @@
+{
+  "name": "frying-pan",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22169",
+  "compare": {
+    "carbon": false,
+    "material": false,
+    "sf": "frying.pan",
+    "tabler": false
+  }
+}

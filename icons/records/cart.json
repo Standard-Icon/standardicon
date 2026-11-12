@@ -1,0 +1,26 @@
+{
+  "name": "cart",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7087",
+  "looks": "A shopping cart facing right with a handle at the upper left and two wheels below.",
+  "use": "Use for a shopping cart, checkout, or buying.",
+  "keywords": [
+    "shopping",
+    "basket",
+    "checkout",
+    "ecommerce"
+  ],
+  "compare": {
+    "carbon": "shopping-cart",
+    "fluent": "cart",
+    "heroicons": "shopping-cart",
+    "lucide": "shopping-cart",
+    "material": "shopping-cart",
+    "phosphor": "shopping-cart",
+    "sf": "cart",
+    "tabler": "shopping-cart"
+  }
+}

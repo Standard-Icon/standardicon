@@ -1,0 +1,19 @@
+{
+  "name": "money-bag",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:26978",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "money-bag",
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

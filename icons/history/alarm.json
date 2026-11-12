@@ -1,0 +1,11 @@
+{
+ "name": "alarm",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4.5 13V8C4.5 7.072 4.869 6.182 5.525 5.525C6.182 4.869 7.072 4.5 8 4.5C8.928 4.5 9.818 4.869 10.475 5.525C11.131 6.182 11.5 7.072 11.5 8V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13.5H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2V3M3 3.5L3.75 4.25M13 3.5L12.25 4.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

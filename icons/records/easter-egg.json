@@ -1,0 +1,23 @@
+{
+  "name": "easter-egg",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:29769",
+  "looks": "An egg with a zigzag band across the middle and small dots above and below it.",
+  "use": "Use for Easter, spring holidays, or decorated eggs.",
+  "keywords": [
+    "easter",
+    "spring",
+    "painted",
+    "holiday"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "fluent": "food-egg",
+    "lucide": "egg",
+    "material": "egg",
+    "phosphor": "egg",
+    "tabler": "egg"
+  }
+}

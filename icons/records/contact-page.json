@@ -1,0 +1,21 @@
+{
+  "name": "contact-page",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24807",
+  "looks": "A tall rounded page with a head and shoulders person outline inside.",
+  "use": "Use for contact cards, profiles, or address book entries.",
+  "approved": {
+    "at": "2026-11-10T22:31:41.642Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "contact-card",
+    "lucide": "contact-round",
+    "material": "contact-page",
+    "sf": false,
+    "tabler": false
+  }
+}

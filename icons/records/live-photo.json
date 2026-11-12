@@ -1,0 +1,25 @@
+{
+  "name": "live-photo",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Media and camera",
+  "figmaId": "276:24672",
+  "looks": "A dot inside a ring surrounded by a dashed outer circle.",
+  "use": "Use for Live Photos, motion photos, or live capture.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.234Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "live",
+    "heroicons": false,
+    "iconic": false,
+    "material": false,
+    "sf": false,
+    "tabler": "live-photo"
+  }
+}

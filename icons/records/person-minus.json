@@ -1,0 +1,22 @@
+{
+  "name": "person-minus",
+  "status": "active",
+  "parent": "person",
+  "canonical": "person",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:4671",
+  "compare": {
+    "carbon": false,
+    "fluent": "person-subtract",
+    "heroicons": "user-minus",
+    "lucide": "user-minus",
+    "material": "person-remove",
+    "octicons": false,
+    "phosphor": "user-minus",
+    "radix": false,
+    "sf": "person.badge.minus",
+    "tabler": "user-minus"
+  }
+}

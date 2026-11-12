@@ -1,0 +1,11 @@
+{
+ "name": "playing-card",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"3.5\" y=\"2\" width=\"9\" height=\"12\" rx=\"1.25\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M8 6L9.5 8L8 10L6.5 8L8 6Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

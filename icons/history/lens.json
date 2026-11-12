@@ -1,0 +1,35 @@
+{
+ "name": "lens",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 2.5C10.5 4.5 10.5 11.5 8 13.5C5.5 11.5 5.5 4.5 8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 8H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T18:59:40.607Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 2.5C11.038 2.5 13.5 4.962 13.5 8C13.5 11.038 11.038 13.5 8 13.5C4.962 13.5 2.5 11.038 2.5 8C2.5 4.962 4.962 2.5 8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.75C9.243 5.75 10.25 6.757 10.25 8C10.25 9.243 9.243 10.25 8 10.25C6.757 10.25 5.75 9.243 5.75 8C5.75 6.757 6.757 5.75 8 5.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.336 6.666C4.69 5.694 5.415 4.903 6.353 4.465\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T00:55:55.246Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 2.5C11.038 2.5 13.5 4.96 13.5 8C13.5 11.04 11.038 13.5 8 13.5C4.962 13.5 2.5 11.04 2.5 8C2.5 4.96 4.962 2.5 8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.336 6.67C4.69 5.69 5.415 4.9 6.353 4.46\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T07:22:14.556Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 1.83C11.408 1.83 14.17 4.59 14.17 8C14.17 11.41 11.408 14.17 8 14.17C4.592 14.17 1.83 11.41 1.83 8C1.83 4.59 4.592 1.83 8 1.83Z\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M3.889 6.5C4.286 5.41 5.099 4.53 6.151 4.03\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 1.83C11.408 1.83 14.17 4.592 14.17 8C14.17 11.408 11.408 14.17 8 14.17C4.592 14.17 1.83 11.408 1.83 8C1.83 4.592 4.592 1.83 8 1.83Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.889 6.504C4.286 5.413 5.099 4.526 6.151 4.034\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

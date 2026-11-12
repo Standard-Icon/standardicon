@@ -1,0 +1,17 @@
+{
+ "name": "reply-all",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4.5 4L1.5 7.5L4.5 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 11L5 7.5L8 4M5 7.5H10.5C11.296 7.5 12.059 7.816 12.621 8.379C13.184 8.941 13.5 9.704 13.5 10.5V12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M5 4L2 7.5L5 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.5 11L5.5 7.5L8.5 4M5.5 7.5H11C11.796 7.5 12.559 7.82 13.121 8.38C13.684 8.94 14 9.7 14 10.5V12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "pie",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:29872",
+  "keywords": [
+    "thanksgiving",
+    "dessert",
+    "baking",
+    "food",
+    "holiday"
+  ],
+  "compare": {
+    "carbon": "chart-pie",
+    "fluent": "data-pie",
+    "heroicons": "chart-pie",
+    "lucide": "chart-pie",
+    "material": "pie-chart",
+    "phosphor": "chart-pie",
+    "radix": "pie-chart",
+    "sf": "chart.pie",
+    "tabler": "chart-pie"
+  }
+}

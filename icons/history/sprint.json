@@ -1,0 +1,23 @@
+{
+ "name": "sprint",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2.5 5.5H6M2 8H5M2.5 10.5H6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 3.5L12.5 8L7 12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M4 5.5H7.5M3.5 8H6.5M4 10.5H7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9 3.5L11.92 8L9 12.5\" stroke=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M3.198 4.817H7.653M2.561 8H6.38M3.198 11.182H7.653\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.563 2.272L13.279 8L9.563 13.728\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

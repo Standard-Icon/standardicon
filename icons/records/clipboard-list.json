@@ -1,0 +1,30 @@
+{
+  "name": "clipboard-list",
+  "status": "active",
+  "canonical": "clipboard",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:5162",
+  "looks": "A clipboard with a clip at the top and two horizontal lines on the board.",
+  "use": "Use for lists, tasks, or forms.",
+  "keywords": [
+    "tasks",
+    "checklist",
+    "shopping list",
+    "groceries"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "clipboard-task-list",
+    "heroicons": "clipboard-document-list",
+    "iconic": false,
+    "lucide": "clipboard-list",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "list.clipboard",
+    "tabler": "clipboard-list"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "seedling",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:8196",
+  "looks": "A short upright stem with two leaves opening out to the left and right.",
+  "use": "Use for growth, new beginnings, or plants.",
+  "keywords": [
+    "plant",
+    "grow",
+    "sprout"
+  ],
+  "compare": {
+    "tabler": "seedling"
+  }
+}

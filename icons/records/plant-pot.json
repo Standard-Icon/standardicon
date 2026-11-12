@@ -1,0 +1,16 @@
+{
+  "name": "plant-pot",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24803",
+  "looks": "A flowerpot with two leaves sprouting from a short stem.",
+  "use": "Use for plants, growth, or gardening.",
+  "compare": {
+    "lucide": "plant-pot",
+    "material": "potted-plant",
+    "phosphor": "potted-plant",
+    "tabler": "plant"
+  }
+}

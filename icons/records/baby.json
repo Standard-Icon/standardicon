@@ -1,0 +1,14 @@
+{
+  "name": "baby",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:4998",
+  "compare": {
+    "lucide": "baby",
+    "material": false,
+    "phosphor": "baby",
+    "tabler": "baby-carriage"
+  }
+}

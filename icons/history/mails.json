@@ -1,0 +1,11 @@
+{
+ "name": "mails",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"4.5\" y=\"3\" width=\"9\" height=\"7\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.8 3.7L9 6.75L13.2 3.7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.844 10.659V11.534C10.844 12.086 10.396 12.534 9.844 12.534H2.78C2.267 12.534 1.851 12.118 1.851 11.604V6.563C1.851 6.01 2.299 5.562 2.851 5.562H3.982\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

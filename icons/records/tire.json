@@ -1,0 +1,20 @@
+{
+  "name": "tire",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20899",
+  "looks": "A thick ring with a smaller circle inside and tread notches spaced around the rim.",
+  "use": "Use for tires, wheels, or car service.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.648Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "material": false,
+    "phosphor": "tire",
+    "sf": "tire"
+  }
+}

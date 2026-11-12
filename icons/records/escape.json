@@ -1,0 +1,26 @@
+{
+  "name": "escape",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31806",
+  "looks": "A circular arrow almost closed, with an arrow pointing up and to the left from the gap.",
+  "use": "Use for the Escape key, canceling, or exiting.",
+  "approved": {
+    "at": "2026-11-11T19:15:35.877Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "lucide": "circle-arrow-out-up-left",
+    "sf": "escape"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "development"
+    }
+  ]
+}

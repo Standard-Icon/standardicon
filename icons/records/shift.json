@@ -1,0 +1,30 @@
+{
+  "name": "shift",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31762",
+  "looks": "A hollow upward arrow with a wide head and a short stem, no bar underneath.",
+  "use": "Use for the Shift key or uppercase input.",
+  "approved": {
+    "at": "2026-11-11T19:15:36.490Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "mac-shift",
+    "fluent": "keyboard-shift",
+    "lucide": "arrow-big-up",
+    "material": "shift",
+    "sf": "shift",
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "development"
+    }
+  ]
+}

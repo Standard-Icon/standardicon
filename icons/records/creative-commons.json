@@ -1,0 +1,17 @@
+{
+  "name": "creative-commons",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24865",
+  "looks": "A circle with the letters CC inside.",
+  "use": "Use for Creative Commons licenses or shareable content.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.028Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": "creative-commons",
+    "tabler": "creative-commons"
+  }
+}

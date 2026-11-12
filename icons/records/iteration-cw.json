@@ -1,0 +1,22 @@
+{
+  "name": "iteration-cw",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "59:21965",
+  "looks": "A circular arrow open at the lower left with its head pointing left.",
+  "use": "Use for repeating, retrying, or looping.",
+  "compare": {
+    "lucide": "iteration-cw",
+    "tabler": "arrow-iteration"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "morgan",
+      "text": "ours is messed up",
+      "issue": "ours-is-messed-up"
+    }
+  ]
+}

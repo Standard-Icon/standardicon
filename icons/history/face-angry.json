@@ -1,0 +1,11 @@
+{
+ "name": "face-angry",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"5.6\" stroke=\"currentColor\"/><circle cx=\"6\" cy=\"6.74\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"10\" cy=\"6.74\" r=\"0.6\" fill=\"currentColor\"/><path d=\"M5.75 4.75L7 5.25M10.25 4.75L9 5.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.75 10.75C6.5 9.5 9.5 9.5 10.25 10.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

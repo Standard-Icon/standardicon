@@ -1,0 +1,19 @@
+{
+  "name": "message-minus-overlay",
+  "status": "active",
+  "parent": "message",
+  "canonical": "message",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:20485",
+  "looks": "A rectangular speech bubble with a small rounded square holding a minus sign at the lower right.",
+  "use": "Use for removing a message or hiding a comment.",
+  "formerNames": [
+    "message-minus"
+  ],
+  "compare": {
+    "sf": "message",
+    "tabler": "message-minus"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "tally-4",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:23127",
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "tally-4",
+    "material": false,
+    "sf": false,
+    "tabler": false
+  }
+}

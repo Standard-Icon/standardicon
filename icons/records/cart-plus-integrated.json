@@ -1,0 +1,24 @@
+{
+  "name": "cart-plus-integrated",
+  "status": "active",
+  "parent": "cart",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7118",
+  "formerNames": [
+    "cart-plus"
+  ],
+  "keywords": [
+    "add to cart",
+    "shopping",
+    "buy"
+  ],
+  "compare": {
+    "iconic": false,
+    "lucide": "shopping-cart-plus",
+    "material": "add-shopping-cart",
+    "sf": "cart.badge.plus",
+    "tabler": "shopping-cart-plus"
+  }
+}

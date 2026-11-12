@@ -1,0 +1,29 @@
+{
+  "name": "message-off",
+  "status": "active",
+  "parent": "message",
+  "canonical": "message",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:20581",
+  "looks": "A rectangular speech bubble with a tail, crossed out by a diagonal line.",
+  "use": "Use for muted chat or disabled comments.",
+  "approved": {
+    "at": "2026-11-12T01:52:19.505Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "chat-off",
+    "fluent": "chat-off",
+    "iconic": false,
+    "lucide": "message-circle-off",
+    "material": "chat-bubble-off",
+    "octicons": false,
+    "phosphor": "chat-slash",
+    "radix": false,
+    "sf": false,
+    "tabler": "message-off"
+  }
+}

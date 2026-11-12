@@ -1,0 +1,17 @@
+{
+ "name": "cable",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M4.5 11V9C4.5 8.47 4.711 7.961 5.086 7.586C5.461 7.211 5.97 7 6.5 7H9.5C10.03 7 10.539 6.789 10.914 6.414C11.289 6.039 11.5 5.53 11.5 5V4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"3\" y=\"11\" width=\"3\" height=\"2.5\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"10\" y=\"2\" width=\"3\" height=\"2.5\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.75 13.5V14.5M5.25 13.5V14.5M10.75 1V2M12.25 1V2\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M4.5 11V9C4.5 8.47 4.711 7.961 5.086 7.586C5.461 7.211 5.97 7 6.5 7H9.5C10.03 7 10.539 6.789 10.914 6.414C11.289 6.039 11.5 5.53 11.5 5V4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 13.5V12C6 11.448 5.552 11 5 11H4C3.448 11 3 11.448 3 12V13.5H6Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M10 2H13V3.5C13 4.052 12.552 4.5 12 4.5H11C10.448 4.5 10 4.052 10 3.5V2Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.75 13.5V14.5M5.25 13.5V14.5M10.75 1V2M12.25 1V2\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

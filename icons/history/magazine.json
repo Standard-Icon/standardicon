@@ -1,0 +1,11 @@
+{
+ "name": "magazine",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"9\" height=\"11\" rx=\"0.5\" stroke=\"currentColor\"/><path d=\"M4.82 4.74H9.18M4.82 7.48H9.18M4.82 9.32H7.436M4.82 11.15H7.436\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.585 3.37H12.34C12.616 3.37 12.84 3.59 12.84 3.87V12.83C12.84 13.93 11.944 14.83 10.84 14.83H3.004C2.728 14.83 2.504 14.61 2.504 14.33V12.95\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

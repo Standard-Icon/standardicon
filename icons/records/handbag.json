@@ -1,0 +1,23 @@
+{
+  "name": "handbag",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24913",
+  "looks": "A purse with a curved top handle and a body that widens toward the bottom.",
+  "use": "Use for handbags, fashion, or accessories.",
+  "compare": {
+    "lucide": "handbag",
+    "phosphor": "handbag",
+    "sf": "handbag"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "morgan",
+      "text": "apple’s is better",
+      "issue": "apple-s-is-better-2"
+    }
+  ]
+}

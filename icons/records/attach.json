@@ -1,0 +1,23 @@
+{
+  "name": "attach",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Files and folders",
+  "figmaId": "12:934",
+  "looks": "A paperclip tilted diagonally from the lower left to the upper right.",
+  "use": "Use for attachments or adding a file.",
+  "keywords": [
+    "paperclip",
+    "attachment"
+  ],
+  "compare": {
+    "fluent": "attach",
+    "lucide": "paperclip",
+    "material": "attach-file",
+    "octicons": "paperclip",
+    "phosphor": "paperclip",
+    "sf": "paperclip",
+    "tabler": "paperclip"
+  }
+}

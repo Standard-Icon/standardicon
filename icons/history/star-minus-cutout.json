@@ -1,0 +1,11 @@
+{
+ "name": "star-minus-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M12.779 7.611L13.825 6.505L9.696 5.731L7.684 2.043L5.672 5.731L1.543 6.505L4.429 9.558L3.889 13.724L7.494 12.012\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 11.75H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

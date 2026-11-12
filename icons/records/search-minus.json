@@ -1,0 +1,28 @@
+{
+  "name": "search-minus",
+  "status": "active",
+  "parent": "search",
+  "canonical": "search",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3489",
+  "looks": "A magnifying glass with a short dash inside the lens and its handle at the lower right.",
+  "use": "Use for zoom out or make smaller.",
+  "keywords": [
+    "zoom out"
+  ],
+  "compare": {
+    "carbon": "zoom-out",
+    "fluent": "zoom-out",
+    "heroicons": "magnifying-glass-minus",
+    "iconic": "zoom-out",
+    "lucide": "zoom-out",
+    "material": "zoom-out",
+    "octicons": "zoom-out",
+    "phosphor": "magnifying-glass-minus",
+    "radix": "zoom-out",
+    "sf": "minus.magnifyingglass",
+    "tabler": "zoom-out"
+  }
+}

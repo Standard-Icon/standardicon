@@ -1,0 +1,18 @@
+{
+  "name": "folder-kanban",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25953",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "folder-kanban",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

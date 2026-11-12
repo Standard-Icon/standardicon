@@ -1,0 +1,19 @@
+{
+  "name": "license-plate",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:21036",
+  "looks": "A wide rounded plate with a small dot in each corner and a few vertical characters in the middle.",
+  "use": "Use for license plates or vehicle registration.",
+  "flags": [
+    "weak-read"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "material": false,
+    "tabler": false
+  }
+}

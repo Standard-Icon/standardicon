@@ -1,0 +1,11 @@
+{
+ "name": "contact-page",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"3.5\" y=\"2.5\" width=\"9\" height=\"11\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"6.75\" r=\"1.4\" stroke=\"currentColor\"/><path d=\"M5.75 11C5.75 9.75 6.75 9 8 9C9.25 9 10.25 9.75 10.25 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

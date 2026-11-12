@@ -1,0 +1,21 @@
+{
+  "name": "webhook",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4783",
+  "looks": "Three circles in a triangle, joined by lines along the two upper sides and the base.",
+  "use": "Use for webhooks, events, or connected services.",
+  "keywords": [
+    "integration",
+    "event"
+  ],
+  "compare": {
+    "carbon": "webhook",
+    "lucide": "webhook",
+    "material": "webhook",
+    "octicons": "webhook",
+    "tabler": "webhook"
+  }
+}

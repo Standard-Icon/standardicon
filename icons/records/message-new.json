@@ -1,0 +1,24 @@
+{
+  "name": "message-new",
+  "status": "active",
+  "parent": "message",
+  "canonical": "message",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "26:4162",
+  "looks": "A rectangular speech bubble with a plus sign centered inside it.",
+  "use": "Use for starting a new message, chat, or comment.",
+  "formerNames": [
+    "new-chat"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "sf": "bubble.and.pencil",
+    "tabler": false
+  }
+}

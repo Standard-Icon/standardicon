@@ -1,0 +1,17 @@
+{
+  "name": "flashlight",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "59:21588",
+  "looks": "An upright flashlight with a wide head at the top and a button on the handle.",
+  "use": "Use for a flashlight, torch, or light.",
+  "compare": {
+    "fluent": "flashlight",
+    "lucide": "flashlight",
+    "material": "flashlight-on",
+    "phosphor": "flashlight",
+    "sf": "flashlight.on.circle"
+  }
+}

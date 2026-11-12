@@ -1,0 +1,17 @@
+{
+  "name": "student-desk",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22573",
+  "compare": {
+    "carbon": false,
+    "fluent": "desk",
+    "lucide": false,
+    "material": "desk",
+    "phosphor": false,
+    "sf": false,
+    "tabler": "desk"
+  }
+}

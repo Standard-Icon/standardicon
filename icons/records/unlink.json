@@ -1,0 +1,20 @@
+{
+  "name": "unlink",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1864",
+  "looks": "A chain link broken into two open halves, with small ticks at the break.",
+  "use": "Use for removing a link or a broken link.",
+  "keywords": [
+    "detach",
+    "broken link"
+  ],
+  "compare": {
+    "carbon": "unlink",
+    "lucide": "unlink",
+    "octicons": "unlink",
+    "tabler": "unlink"
+  }
+}

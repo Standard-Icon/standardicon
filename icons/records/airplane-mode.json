@@ -1,0 +1,26 @@
+{
+  "name": "airplane-mode",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5902",
+  "looks": "An airplane seen from above, nose pointing up, with swept wings and a small tail.",
+  "use": "Use for airplane mode, flights, or travel.",
+  "keywords": [
+    "flight",
+    "offline"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "airplane",
+    "heroicons": false,
+    "lucide": "plane",
+    "material": false,
+    "octicons": false,
+    "phosphor": "airplane",
+    "radix": false,
+    "sf": "airplane",
+    "tabler": "plane"
+  }
+}

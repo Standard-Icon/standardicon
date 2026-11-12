@@ -1,0 +1,22 @@
+{
+  "name": "control-key",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24576",
+  "looks": "A keyboard keycap with an upward chevron in its center.",
+  "use": "Use for the Control key or keyboard shortcuts.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "keyboard-control-key",
+    "octicons": false,
+    "phosphor": "control",
+    "sf": "control",
+    "tabler": false
+  }
+}

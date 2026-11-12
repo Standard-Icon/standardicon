@@ -1,0 +1,15 @@
+{
+  "name": "axe",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24137",
+  "looks": "An axe with a long handle angled to the lower left and a curved blade at the upper right.",
+  "use": "Use for chopping, cutting, or outdoor tools.",
+  "compare": {
+    "lucide": "axe",
+    "phosphor": "axe",
+    "tabler": "axe"
+  }
+}

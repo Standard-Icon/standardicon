@@ -1,0 +1,33 @@
+{
+  "name": "book-a",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "322:23936",
+  "looks": "A closed book with a spine on the left and a letter A on the cover.",
+  "use": "Use for dictionaries, glossaries, or reference books.",
+  "approved": {
+    "at": "2026-11-11T20:56:33.677Z",
+    "by": "Morgan (Figma)",
+    "version": "2026-11-11T20:25:52.393Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "book-a",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-10",
+      "by": "morgan",
+      "text": "smaller A",
+      "issue": "smaller-a"
+    }
+  ]
+}

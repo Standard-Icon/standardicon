@@ -1,0 +1,21 @@
+{
+  "name": "arrow-from-left",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23894",
+  "looks": "A left-pointing arrow touching a vertical line at its right end.",
+  "use": "Use for moving something out from the left edge or going to the start.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "arrow-left-from-line",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

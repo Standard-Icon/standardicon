@@ -1,0 +1,11 @@
+{
+ "name": "bean",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M9.5 2.75C12.5 2.75 13.75 5.5 13 8.5C12.2 11.5 9.5 13.25 6.5 13.25C3.75 13.25 2.25 11.25 2.75 9.25C3.1 7.75 4.5 7.25 5.75 6.9C7 6.5 7 5.5 7.4 4.4C7.8 3.3 8.5 2.75 9.5 2.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.75 5.25C10.75 7.75 9 10 6.5 10.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

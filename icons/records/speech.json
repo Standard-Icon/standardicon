@@ -1,0 +1,21 @@
+{
+  "name": "speech",
+  "status": "active",
+  "canonical": "person",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "communication",
+  "figmaId": "59:22101",
+  "looks": "A person's head and shoulders with two curved sound waves to the right of the head.",
+  "use": "Use for speaking, voice input, or text to speech.",
+  "approved": {
+    "at": "2026-11-11T19:15:36.644Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "lucide": "speech",
+    "material": false,
+    "sf": false
+  }
+}

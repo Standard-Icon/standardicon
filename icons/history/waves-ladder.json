@@ -1,0 +1,11 @@
+{
+ "name": "waves-ladder",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M5.25 9V3.75C5.25 2.9 5.9 2.25 6.75 2.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.75 9V3.75C9.75 2.9 10.4 2.25 11.25 2.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.25 4.5H9.75M5.25 7H9.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 11.5C3.46 10.835 4.29 10.835 5.25 11.5C6.21 12.165 7.04 12.165 8 11.5C8.96 10.835 9.79 10.835 10.75 11.5C11.71 12.165 12.54 12.165 13.5 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 13.5C3.46 12.835 4.29 12.835 5.25 13.5C6.21 14.165 7.04 14.165 8 13.5C8.96 12.835 9.79 12.835 10.75 13.5C11.71 14.165 12.54 14.165 13.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

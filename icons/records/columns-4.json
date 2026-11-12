@@ -1,0 +1,19 @@
+{
+  "name": "columns-4",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24766",
+  "looks": "A rounded rectangle divided by three vertical lines into four columns.",
+  "use": "Use for a four-column layout or table columns.",
+  "compare": {
+    "carbon": false,
+    "heroicons": "view-columns",
+    "lucide": "columns-4",
+    "material": false,
+    "octicons": "columns",
+    "phosphor": "columns",
+    "radix": "columns",
+    "sf": "4.lane",
+    "tabler": "columns"
+  }
+}

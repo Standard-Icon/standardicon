@@ -1,0 +1,29 @@
+{
+  "name": "skip-back-15",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "media",
+  "figmaId": "111:31436",
+  "looks": "A circular arrow turning counterclockwise with the number 15 inside.",
+  "use": "Use for jumping back 15 seconds.",
+  "approved": {
+    "at": "2026-11-11T19:15:36.546Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": false,
+    "phosphor": false,
+    "tabler": "rewind-backward-15"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "podcast, no solid"
+    }
+  ]
+}

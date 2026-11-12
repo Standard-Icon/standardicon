@@ -1,0 +1,14 @@
+{
+  "name": "space-between-horizontal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23237",
+  "compare": {
+    "lucide": "align-horizontal-space-between",
+    "material": "align-space-between",
+    "radix": "space-between-horizontally",
+    "sf": false
+  }
+}

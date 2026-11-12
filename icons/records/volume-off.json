@@ -1,0 +1,26 @@
+{
+  "name": "volume-off",
+  "status": "active",
+  "parent": "volume",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5391",
+  "looks": "A speaker pointing right with a small x beside it.",
+  "use": "Use for muted audio or sound turned off.",
+  "keywords": [
+    "mute",
+    "silent",
+    "sound off"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": "volume-off",
+    "material": "volume-off",
+    "octicons": "mute",
+    "radix": false,
+    "sf": "speaker.slash",
+    "tabler": "volume-off"
+  }
+}

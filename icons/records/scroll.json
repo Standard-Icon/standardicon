@@ -1,0 +1,15 @@
+{
+  "name": "scroll",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "files",
+  "figmaId": "59:21515",
+  "looks": "A rolled paper scroll with curled ends at the top right and bottom left.",
+  "use": "Use for scrolls, history, or old documents.",
+  "compare": {
+    "lucide": "scroll",
+    "phosphor": "scroll",
+    "sf": "scroll"
+  }
+}

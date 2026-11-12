@@ -1,0 +1,21 @@
+{
+  "name": "flow-horizontal",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25282",
+  "looks": "One small box on the left linked by lines to two boxes stacked on the right.",
+  "use": "Use for left-to-right workflows, branching, or process flows.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "diagram-flow-horizontal",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

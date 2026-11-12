@@ -1,0 +1,25 @@
+{
+  "name": "at-sign",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Communication",
+  "figmaId": "23:2253",
+  "looks": "An at sign, a letter a wrapped in an open circle.",
+  "use": "Use for mentions, email addresses, or usernames.",
+  "keywords": [
+    "mention",
+    "email"
+  ],
+  "compare": {
+    "carbon": "at",
+    "fluent": "mention",
+    "heroicons": "at-symbol",
+    "lucide": "at-sign",
+    "material": "alternate-email",
+    "octicons": "mention",
+    "phosphor": "at",
+    "sf": "at",
+    "tabler": "at"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "train",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7160",
+  "looks": "A rounded train front with a split windshield, two headlight dots, and two legs angled out.",
+  "use": "Use for trains, rail travel, or transit.",
+  "keywords": [
+    "rail",
+    "transit",
+    "subway"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "train",
+    "lucide": "train",
+    "material": "train",
+    "phosphor": "train",
+    "sf": "train.side.front.car",
+    "tabler": "train"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "map-pin-check-inside",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26754",
+  "compare": {
+    "heroicons": false,
+    "lucide": "map-pin-check-inside",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": "map-pin-check"
+  }
+}

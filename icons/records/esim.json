@@ -1,0 +1,13 @@
+{
+  "name": "esim",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:22442",
+  "looks": "A SIM card outline with a cut top right corner and a lowercase e in the middle.",
+  "use": "Use for eSIM, mobile plans, or cellular profiles.",
+  "compare": {
+    "sf": "esim"
+  }
+}

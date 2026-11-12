@@ -1,0 +1,20 @@
+{
+  "name": "credit-card-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29459",
+  "looks": "A card with a top stripe, a short line, and a small plus sign cut into the lower right corner.",
+  "use": "Use for adding a card or a new payment method.",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "credit-card-plus",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

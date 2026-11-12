@@ -1,0 +1,14 @@
+{
+  "name": "venus-mars",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:23211",
+  "looks": "Two linked circles, the left with a cross below and the right with an arrow pointing up-right.",
+  "use": "Use for couples, gender, or relationships.",
+  "compare": {
+    "lucide": "venus-and-mars",
+    "tabler": false
+  }
+}

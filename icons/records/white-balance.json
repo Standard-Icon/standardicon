@@ -1,0 +1,21 @@
+{
+  "name": "white-balance",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "184:31772",
+  "looks": "A rounded rectangle with the letters WB inside.",
+  "use": "Use for white balance or color temperature.",
+  "compare": {
+    "carbon": false,
+    "material": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "photo"
+    }
+  ]
+}

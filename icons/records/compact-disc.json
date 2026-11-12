@@ -1,0 +1,22 @@
+{
+  "name": "compact-disc",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25440",
+  "looks": "A round disc with a ring around a small center hole and a curved shine mark.",
+  "use": "Use for CDs, music, or albums.",
+  "approved": {
+    "at": "2026-11-10T20:42:43.203Z",
+    "by": "morgan",
+    "version": "2026-11-10T19:59:33.379Z"
+  },
+  "compare": {
+    "fluent": "cd",
+    "iconic": false,
+    "lucide": "disc-3",
+    "material": "album",
+    "phosphor": "disc",
+    "radix": "disc",
+    "tabler": "disc"
+  }
+}

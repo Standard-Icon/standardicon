@@ -1,0 +1,23 @@
+{
+ "name": "beer",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M4.5 5H9.5C9.765 5 10.02 5.105 10.207 5.293C10.395 5.48 10.5 5.735 10.5 6V12.5C10.5 12.765 10.395 13.02 10.207 13.207C10.02 13.395 9.765 13.5 9.5 13.5H4.5C4.235 13.5 3.98 13.395 3.793 13.207C3.605 13.02 3.5 12.765 3.5 12.5V6C3.5 5.735 3.605 5.48 3.793 5.293C3.98 5.105 4.235 5 4.5 5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 6.5H12C12.265 6.5 12.52 6.605 12.707 6.793C12.895 6.98 13 7.235 13 7.5V10.5C13 10.765 12.895 11.02 12.707 11.207C12.52 11.395 12.265 11.5 12 11.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 5C3.5 3.5 5 3 6 3.5C6.75 2.5 9 2.5 9.5 3.5C10.25 3.5 10.5 4.25 10.5 5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 7.5V11M8 7.5V11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T17:52:24-08:00",
+   "source": "git 723f40b",
+   "released": true,
+   "body": "<path d=\"M3.5 5.25C3.5 5.112 3.612 5 3.75 5H10.25C10.388 5 10.5 5.112 10.5 5.25V12.5C10.5 13.052 10.052 13.5 9.5 13.5H4.5C3.948 13.5 3.5 13.052 3.5 12.5V5.25Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M10.5 6.5H12C12.265 6.5 12.52 6.605 12.707 6.793C12.895 6.98 13 7.235 13 7.5V10.5C13 10.765 12.895 11.02 12.707 11.207C12.52 11.395 12.265 11.5 12 11.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 5.111C3.5 3.611 5 3.111 6 3.611C6.75 2.611 9 2.611 9.5 3.611C10.25 3.611 10.5 4.361 10.5 5.111\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 7.5V11M8 7.5V11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M4 13.5H9C9.552 13.5 10 13.052 10 12.5V5.25C10 5.112 9.888 5 9.75 5H3.25C3.112 5 3 5.112 3 5.25V12.5C3 13.052 3.448 13.5 4 13.5Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M10 6.5H11.5C11.765 6.5 12.02 6.605 12.207 6.793C12.395 6.98 12.5 7.235 12.5 7.5V10.5C12.5 10.765 12.395 11.02 12.207 11.207C12.02 11.395 11.765 11.5 11.5 11.5H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 5.111C3 3.611 4.5 3.111 5.5 3.611C6.25 2.611 8.5 2.611 9 3.611C9.75 3.611 10 4.361 10 5.111\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 7.5V11M7.5 7.5V11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

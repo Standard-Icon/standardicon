@@ -1,0 +1,14 @@
+{
+  "name": "exchange",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:27258",
+  "compare": {
+    "carbon": false,
+    "lucide": false,
+    "material": false,
+    "tabler": "exchange"
+  }
+}

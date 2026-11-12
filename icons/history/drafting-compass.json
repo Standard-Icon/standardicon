@@ -1,0 +1,17 @@
+{
+ "name": "drafting-compass",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M9.5 4C9.5 4.398 9.342 4.779 9.061 5.061C8.779 5.342 8.398 5.5 8 5.5C7.602 5.5 7.221 5.342 6.939 5.061C6.658 4.779 6.5 4.398 6.5 4C6.5 3.602 6.658 3.221 6.939 2.939C7.221 2.658 7.602 2.5 8 2.5C8.398 2.5 8.779 2.658 9.061 2.939C9.342 3.221 9.5 3.602 9.5 4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.3 5.35L3.5 13.5M8.7 5.35L12.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.75 10.75C6.75 11.75 9.25 11.75 11.25 10.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2.5V1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M9.5 4.5C9.5 4.898 9.342 5.279 9.061 5.561C8.779 5.842 8.398 6 8 6C7.602 6 7.221 5.842 6.939 5.561C6.658 5.279 6.5 4.898 6.5 4.5C6.5 4.102 6.658 3.721 6.939 3.439C7.221 3.158 7.602 3 8 3C8.398 3 8.779 3.158 9.061 3.439C9.342 3.721 9.5 4.102 9.5 4.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.3 5.85L3.5 14M8.7 5.85L12.5 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.75 11.25C6.75 12.25 9.25 12.25 11.25 11.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 3V2\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

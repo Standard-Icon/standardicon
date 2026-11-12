@@ -1,0 +1,22 @@
+{
+  "name": "steering-wheel",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20873",
+  "looks": "A circle with a small hub in the center and spokes to the left, right, and bottom.",
+  "use": "Use for driving, a car, or steering.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.593Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": false,
+    "material": false,
+    "phosphor": "steering-wheel",
+    "radix": false,
+    "tabler": "steering-wheel"
+  }
+}

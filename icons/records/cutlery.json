@@ -1,0 +1,35 @@
+{
+  "name": "cutlery",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8793",
+  "looks": "A fork and a knife standing upright side by side.",
+  "use": "Use for food, restaurants, dining, or meals.",
+  "keywords": [
+    "restaurant",
+    "food",
+    "fork",
+    "knife",
+    "dining",
+    "utensils",
+    "eat",
+    "meal",
+    "fork and knife"
+  ],
+  "approved": {
+    "at": "2026-11-12T19:39:47.303Z",
+    "by": "Morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "restaurant",
+    "fluent": "food",
+    "lucide": "utensils",
+    "material": "restaurant",
+    "phosphor": "fork-knife",
+    "sf": "fork.knife",
+    "tabler": "tools-kitchen-2"
+  }
+}

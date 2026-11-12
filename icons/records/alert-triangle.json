@@ -1,0 +1,29 @@
+{
+  "name": "alert-triangle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "solid": "needed",
+  "figmaId": "12:1458",
+  "looks": "An exclamation mark inside a rounded triangle.",
+  "use": "Use for warnings, caution, or risky actions.",
+  "keywords": [
+    "warning",
+    "caution",
+    "danger"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "warning-alt",
+    "fluent": "warning",
+    "heroicons": "exclamation-triangle",
+    "lucide": "alert-triangle",
+    "material": "warning",
+    "octicons": "alert-fill",
+    "phosphor": "warning",
+    "radix": "exclamation-triangle",
+    "sf": "exclamationmark.triangle",
+    "tabler": "alert-triangle"
+  }
+}

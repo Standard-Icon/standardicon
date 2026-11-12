@@ -1,0 +1,13 @@
+{
+  "name": "copy-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27545",
+  "looks": "Two overlapping rounded squares with a small check mark cut into the lower right corner.",
+  "use": "Use for copied, copy succeeded, or a duplicate confirmed.",
+  "compare": {
+    "lucide": "copy-check",
+    "sf": false,
+    "tabler": "copy-check"
+  }
+}

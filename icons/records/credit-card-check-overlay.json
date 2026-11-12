@@ -1,0 +1,25 @@
+{
+  "name": "credit-card-check-overlay",
+  "status": "active",
+  "parent": "credit-card",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "commerce",
+  "figmaId": "56:20327",
+  "looks": "A card with a top stripe and a small rounded square holding a checkmark at the lower right.",
+  "use": "Use for a successful payment or a verified card.",
+  "formerNames": [
+    "credit-card-check"
+  ],
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "credit-card-check",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

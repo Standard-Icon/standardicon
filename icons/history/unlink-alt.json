@@ -1,0 +1,11 @@
+{
+ "name": "unlink-alt",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M10.616 8.919L12.738 6.798C13.207 6.329 13.47 5.693 13.47 5.03C13.47 4.367 13.207 3.731 12.738 3.262C12.269 2.793 11.633 2.53 10.97 2.53C10.307 2.53 9.671 2.793 9.202 3.262L7.929 4.535\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.384 7.081L3.262 9.202C2.793 9.671 2.529 10.307 2.529 10.97C2.529 11.633 2.793 12.269 3.262 12.738C3.731 13.207 4.366 13.47 5.03 13.47C5.693 13.47 6.329 13.207 6.798 12.738L8.071 11.465\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.25 5.25L3.75 3.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.75 10.75L12.25 12.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

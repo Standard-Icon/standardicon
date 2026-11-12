@@ -1,0 +1,24 @@
+{
+  "id": "phosphor",
+  "title": "Phosphor",
+  "kind": "svg",
+  "dir": ".workbench/sets/phosphor",
+  "order": 7,
+  "off": true,
+  "color": "#a16207",
+  "grid": 256,
+  "matchLine": false,
+  "license": "MIT",
+  "usage": "For comparing only. Downloaded into .workbench/sets/ with `npm run workbench:sets`, which git ignores. No set's geometry is ever traced.",
+  "words": {
+    "close": "x",
+    "settings": "gear",
+    "trash": "trash",
+    "edit": "pencil-simple",
+    "person": "user",
+    "people": "users",
+    "search": "magnifying-glass",
+    "more": "dots-three",
+    "home": "house"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "bag",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7139",
+  "looks": "A shopping bag that widens slightly toward the bottom, with a curved handle on top.",
+  "use": "Use for shopping, a bag, or purchases.",
+  "keywords": [
+    "shopping",
+    "purchase",
+    "tote"
+  ],
+  "compare": {
+    "carbon": "shopping-bag",
+    "fluent": "shopping-bag",
+    "heroicons": "shopping-bag",
+    "lucide": "shopping-bag",
+    "material": false,
+    "phosphor": "bag",
+    "sf": "bag",
+    "tabler": false
+  }
+}

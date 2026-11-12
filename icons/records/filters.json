@@ -1,0 +1,16 @@
+{
+  "name": "filters",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:25656",
+  "looks": "Three overlapping circles arranged in a triangle.",
+  "use": "Use for color filters, effects, or blending.",
+  "compare": {
+    "carbon": false,
+    "lucide": false,
+    "sf": false,
+    "tabler": "filters"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "bookmark-minus",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M9.75 11.5L8.083 10.309L4.583 12.809L4.5 4.035C4.5 3.77 4.605 3.515 4.793 3.328C4.98 3.14 5.235 3.035 5.5 3.035L10.5 3.035C10.765 3.035 11.02 3.14 11.207 3.328C11.395 3.515 11.5 3.77 11.5 4.035L11.554 9.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.75\" y=\"9.75\" width=\"5\" height=\"5\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.125 12.25H13.375\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

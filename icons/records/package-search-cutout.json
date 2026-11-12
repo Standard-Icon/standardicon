@@ -1,0 +1,15 @@
+{
+  "name": "package-search-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29033",
+  "looks": "A box with a taped lid and a small magnifying glass cut into its lower right corner.",
+  "use": "Use for searching packages, tracking a shipment, or finding a dependency.",
+  "compare": {
+    "heroicons": false,
+    "lucide": "package-search",
+    "phosphor": false,
+    "radix": false,
+    "sf": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "tab",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "21:1707",
+  "keywords": [
+    "browser"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "tab",
+    "lucide": false,
+    "material": "tab",
+    "octicons": "tab",
+    "sf": false,
+    "tabler": false
+  }
+}

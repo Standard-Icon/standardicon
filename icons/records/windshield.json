@@ -1,0 +1,14 @@
+{
+  "name": "windshield",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:21129",
+  "looks": "A wide trapezoid with a curved top and a diagonal wiper line inside.",
+  "use": "Use for windshields, wipers, or car glass.",
+  "compare": {
+    "material": false,
+    "sf": false
+  }
+}

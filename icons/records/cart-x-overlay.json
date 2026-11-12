@@ -1,0 +1,20 @@
+{
+  "name": "cart-x-overlay",
+  "status": "active",
+  "parent": "cart",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "commerce",
+  "figmaId": "56:21772",
+  "formerNames": [
+    "cart-x"
+  ],
+  "compare": {
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

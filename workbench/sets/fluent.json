@@ -1,0 +1,28 @@
+{
+  "id": "fluent",
+  "title": "Fluent 16",
+  "kind": "svg",
+  "dir": ".workbench/sets/fluent",
+  "order": 3,
+  "off": true,
+  "color": "#0f6cbd",
+  "grid": 16,
+  "matchLine": false,
+  "license": "MIT",
+  "usage": "For comparing only. Downloaded into .workbench/sets/ with `npm run workbench:sets`, which git ignores. No set's geometry is ever traced.",
+  "words": {
+    "close": "dismiss",
+    "x": "dismiss",
+    "settings": "settings",
+    "trash": "delete",
+    "edit": "edit",
+    "more": "more-horizontal",
+    "bell": "alert",
+    "alert": "warning",
+    "person": "person",
+    "people": "people",
+    "plus": "add",
+    "minus": "subtract",
+    "check": "checkmark"
+  }
+}

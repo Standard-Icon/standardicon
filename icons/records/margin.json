@@ -1,0 +1,14 @@
+{
+  "name": "margin",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26840",
+  "looks": "A square outline with a smaller square inside it.",
+  "use": "Use for margins on all sides or outer spacing.",
+  "compare": {
+    "lucide": "margin",
+    "material": "margin",
+    "radix": "margin",
+    "tabler": "box-margin"
+  }
+}

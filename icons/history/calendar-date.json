@@ -1,0 +1,11 @@
+{
+ "name": "calendar-date",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"3.21\" y=\"3.69\" width=\"9.57\" height=\"9.42\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M3.21 6.03H12.78M5.82 2.94V4.48M10.17 2.94V4.48\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.25 9L8.5 8.05V11.1\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

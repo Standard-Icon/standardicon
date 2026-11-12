@@ -1,0 +1,23 @@
+{
+  "name": "chevrons-right",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Chevrons and carets",
+  "figmaId": "21:1555",
+  "looks": "Two chevrons pointing right, side by side.",
+  "use": "Use for last page, fast forward, or expand to the right.",
+  "compare": {
+    "carbon": false,
+    "fluent": "chevron-double-right",
+    "heroicons": "chevron-double-right",
+    "iconic": false,
+    "lucide": "chevrons-right",
+    "material": "keyboard-double-arrow-right",
+    "octicons": false,
+    "phosphor": "caret-double-right",
+    "radix": "double-arrow-right",
+    "sf": false,
+    "tabler": "chevrons-right"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "pen",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M8 2.5L11.5 8L9.5 13H6.5L4.5 8L8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2.5V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.75 8.75C8.75 8.949 8.671 9.14 8.53 9.28C8.39 9.421 8.199 9.5 8 9.5C7.801 9.5 7.61 9.421 7.47 9.28C7.329 9.14 7.25 8.949 7.25 8.75C7.25 8.551 7.329 8.36 7.47 8.22C7.61 8.079 7.801 8 8 8C8.199 8 8.39 8.079 8.53 8.22C8.671 8.36 8.75 8.551 8.75 8.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

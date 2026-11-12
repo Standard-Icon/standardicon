@@ -1,0 +1,27 @@
+{
+  "name": "folder-plus",
+  "status": "active",
+  "parent": "folder",
+  "canonical": "folder",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Files and folders",
+  "figmaId": "12:1039",
+  "looks": "A closed folder with a small plus sign cut into its upper right corner.",
+  "use": "Use for creating a new folder or adding to a folder.",
+  "formerNames": [
+    "add-project"
+  ],
+  "compare": {
+    "carbon": "folder-add",
+    "fluent": "folder-add",
+    "heroicons": "folder-plus",
+    "lucide": "folder-plus",
+    "material": false,
+    "octicons": false,
+    "phosphor": "folder-plus",
+    "radix": false,
+    "sf": "folder.badge.plus",
+    "tabler": "folder-plus"
+  }
+}

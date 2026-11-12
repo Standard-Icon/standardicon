@@ -1,0 +1,15 @@
+{
+  "name": "engine",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20966",
+  "compare": {
+    "carbon": false,
+    "lucide": "engine",
+    "phosphor": "engine",
+    "sf": "engine.combustion",
+    "tabler": "engine"
+  }
+}

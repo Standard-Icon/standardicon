@@ -1,0 +1,19 @@
+{
+  "name": "command-key",
+  "status": "active",
+  "source": "later",
+  "figmaId": "355:29622",
+  "looks": "A keyboard keycap with the command loop symbol in its center.",
+  "use": "Use for the Command key or Mac shortcuts.",
+  "compare": {
+    "carbon": "mac-command",
+    "fluent": "key-command",
+    "heroicons": false,
+    "lucide": "command",
+    "material": "keyboard-command-key",
+    "octicons": false,
+    "phosphor": "command",
+    "sf": "command",
+    "tabler": "command"
+  }
+}

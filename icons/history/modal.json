@@ -1,0 +1,29 @@
+{
+ "name": "modal",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3.5 3H12.5C12.765 3 13.02 3.105 13.207 3.293C13.395 3.48 13.5 3.735 13.5 4V12C13.5 12.265 13.395 12.52 13.207 12.707C13.02 12.895 12.765 13 12.5 13H3.5C3.235 13 2.98 12.895 2.793 12.707C2.605 12.52 2.5 12.265 2.5 12V4C2.5 3.735 2.605 3.48 2.793 3.293C2.98 3.105 3.235 3 3.5 3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.75 5.5H10.25C10.449 5.5 10.64 5.579 10.78 5.72C10.921 5.86 11 6.051 11 6.25V9.75C11 9.949 10.921 10.14 10.78 10.28C10.64 10.421 10.449 10.5 10.25 10.5H5.75C5.551 10.5 5.36 10.421 5.22 10.28C5.079 10.14 5 9.949 5 9.75V6.25C5 6.051 5.079 5.86 5.22 5.72C5.36 5.579 5.551 5.5 5.75 5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3.5\" width=\"11\" height=\"9\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.5 8.96H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.928 10.18C7.204 10.18 7.428 10.41 7.428 10.68C7.428 10.96 7.204 11.18 6.928 11.18H4.196C3.92 11.18 3.696 10.96 3.696 10.68C3.696 10.41 3.92 10.18 4.196 10.18H6.928ZM11.804 10.18C12.08 10.18 12.304 10.41 12.304 10.68C12.304 10.96 12.08 11.18 11.804 11.18H9.072C8.796 11.18 8.572 10.96 8.572 10.68C8.572 10.41 8.796 10.18 9.072 10.18H11.804Z\" fill=\"currentColor\"/>",
+   "sizes": {
+    "18": "<rect x=\"2.812\" y=\"3.94\" width=\"12.375\" height=\"10.125\" rx=\"1.125\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.812 10.08H15.188\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.793 11.52C8.069 11.52 8.293 11.74 8.293 12.02C8.293 12.3 8.069 12.52 7.793 12.52H4.721C4.445 12.52 4.221 12.3 4.221 12.02C4.221 11.74 4.445 11.52 4.721 11.52H7.793ZM13.278 11.52C13.554 11.52 13.778 11.74 13.778 12.02C13.778 12.3 13.555 12.52 13.278 12.52H10.206C9.93 12.52 9.706 12.3 9.706 12.02C9.706 11.74 9.93 11.52 10.206 11.52H13.278Z\" fill=\"currentColor\"/>",
+    "20": "<rect x=\"3.125\" y=\"4.38\" width=\"13.75\" height=\"11.25\" rx=\"1.25\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.125 11.2H16.875\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.659 12.86C8.935 12.86 9.159 13.08 9.159 13.36C9.159 13.63 8.936 13.86 8.659 13.86H5.245C4.969 13.86 4.745 13.63 4.745 13.36C4.746 13.08 4.969 12.86 5.245 12.86H8.659ZM14.754 12.86C15.03 12.86 15.254 13.08 15.254 13.36C15.254 13.63 15.03 13.86 14.754 13.86H11.34C11.064 13.86 10.84 13.63 10.84 13.36C10.84 13.08 11.064 12.86 11.34 12.86H14.754Z\" fill=\"currentColor\"/>",
+    "22": "<rect x=\"3.438\" y=\"4.81\" width=\"15.125\" height=\"12.375\" rx=\"1.375\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.438 12.33H18.562\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.526 14.19C9.802 14.19 10.026 14.42 10.026 14.69C10.026 14.97 9.802 15.19 9.526 15.19H5.77C5.494 15.19 5.27 14.97 5.27 14.69C5.27 14.42 5.494 14.19 5.77 14.19H9.526ZM16.231 14.19C16.506 14.19 16.731 14.42 16.731 14.69C16.731 14.97 16.507 15.19 16.231 15.19H12.475C12.199 15.19 11.975 14.97 11.975 14.69C11.975 14.42 12.199 14.19 12.475 14.19H16.231Z\" fill=\"currentColor\"/>",
+    "24": "<rect x=\"3.75\" y=\"5.25\" width=\"16.5\" height=\"13.5\" rx=\"1.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.75 13.45H20.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.391 15.53C10.667 15.53 10.891 15.75 10.891 16.03C10.891 16.3 10.667 16.53 10.391 16.53H6.294C6.018 16.53 5.794 16.3 5.794 16.03C5.795 15.75 6.018 15.53 6.294 15.53H10.391ZM17.706 15.53C17.981 15.53 18.205 15.75 18.206 16.03C18.206 16.3 17.982 16.53 17.706 16.53H13.609C13.333 16.53 13.109 16.3 13.109 16.03C13.109 15.75 13.333 15.53 13.609 15.53H17.706Z\" fill=\"currentColor\"/>"
+   }
+  },
+  {
+   "at": "2026-11-07T17:09:07-08:00",
+   "source": "git 822169b",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3.5\" width=\"11\" height=\"9\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.5 8.964H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.196 10.685H6.928\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.072 10.685H11.804\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

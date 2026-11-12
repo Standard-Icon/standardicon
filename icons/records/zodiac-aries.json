@@ -1,0 +1,14 @@
+{
+  "name": "zodiac-aries",
+  "status": "active",
+  "source": "later",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22685",
+  "looks": "A vertical line that splits at the top into two curls like ram horns.",
+  "use": "Use for Aries, astrology, or horoscopes.",
+  "compare": {
+    "lucide": "zodiac-aries",
+    "tabler": "zodiac-aries"
+  }
+}

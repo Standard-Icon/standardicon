@@ -1,0 +1,15 @@
+{
+  "name": "feather",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "59:21671",
+  "looks": "A leaf-shaped feather with a quill line running down to the lower left.",
+  "use": "Use for feathering edges, writing, or lightness.",
+  "compare": {
+    "lucide": "feather",
+    "phosphor": "feather",
+    "tabler": "feather"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "face-angry",
+  "status": "active",
+  "canonical": "face",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "People",
+  "figmaId": "273:22946",
+  "compare": {
+    "carbon": false,
+    "fluent": "emoji-angry",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "face-angry",
+    "material": false,
+    "octicons": "smiley-frustrated",
+    "phosphor": "smiley-angry",
+    "radix": false,
+    "sf": false,
+    "tabler": "mood-angry"
+  }
+}

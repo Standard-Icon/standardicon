@@ -1,0 +1,26 @@
+{
+  "name": "repeat",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3845",
+  "looks": "Two arrows forming a rounded loop, the top pointing right and the bottom pointing left.",
+  "use": "Use for repeat, loop, or recurring.",
+  "keywords": [
+    "loop"
+  ],
+  "compare": {
+    "carbon": "repeat",
+    "fluent": "arrow-repeat-all",
+    "heroicons": "arrow-path-rounded-square",
+    "iconic": "refresh",
+    "lucide": "repeat",
+    "material": "repeat",
+    "octicons": "loop",
+    "phosphor": "repeat",
+    "radix": "loop",
+    "sf": "repeat",
+    "tabler": "repeat"
+  }
+}

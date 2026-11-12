@@ -1,0 +1,22 @@
+{
+  "name": "archive-x-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23600",
+  "looks": "An archive box with a small rounded square holding an x overlapping its lower right.",
+  "use": "Use for removing an archive or deleting archived items.",
+  "formerNames": [
+    "archive-x"
+  ],
+  "approved": {
+    "at": "2026-11-10T19:48:55.715Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "heroicons": "archive-box-x-mark",
+    "lucide": "archive-x",
+    "radix": false,
+    "sf": false
+  }
+}

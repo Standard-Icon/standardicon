@@ -1,0 +1,22 @@
+{
+  "name": "cake",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8751",
+  "keywords": [
+    "birthday",
+    "celebration",
+    "dessert"
+  ],
+  "compare": {
+    "fluent": "food-cake",
+    "heroicons": "cake",
+    "lucide": "cake",
+    "material": "cake",
+    "phosphor": "cake",
+    "sf": "birthday.cake",
+    "tabler": "cake"
+  }
+}

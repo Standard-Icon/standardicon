@@ -1,0 +1,25 @@
+{
+  "name": "face-id",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:5679",
+  "looks": "Four corner brackets framing a simple face with two eyes, a nose, and a smile.",
+  "use": "Use for face recognition, biometric sign-in, or Face ID.",
+  "keywords": [
+    "biometric",
+    "auth"
+  ],
+  "compare": {
+    "carbon": "face-activated",
+    "heroicons": false,
+    "lucide": "scan-face",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "faceid",
+    "tabler": "face-id"
+  }
+}

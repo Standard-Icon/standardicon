@@ -1,0 +1,20 @@
+{
+  "name": "knowledge-base",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:54158",
+  "keywords": [
+    "docs",
+    "rag"
+  ],
+  "compare": {
+    "carbon": "share-knowledge",
+    "fluent": "library",
+    "lucide": "library",
+    "octicons": "library",
+    "sf": false,
+    "tabler": "library"
+  }
+}

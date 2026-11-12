@@ -1,0 +1,14 @@
+{
+  "name": "file-chart-column",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25687",
+  "looks": "A file with a folded top right corner and three vertical bars of different heights inside.",
+  "use": "Use for reports, bar chart files, or analytics documents.",
+  "compare": {
+    "carbon": false,
+    "lucide": "file-chart-column",
+    "sf": false,
+    "tabler": "file-chart"
+  }
+}

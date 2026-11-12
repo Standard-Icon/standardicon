@@ -1,0 +1,20 @@
+{
+  "name": "cloud-plus-overlay",
+  "status": "active",
+  "parent": "cloud",
+  "canonical": "cloud",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "data",
+  "figmaId": "56:21851",
+  "looks": "A cloud with a plus sign in a rounded square at the lower right.",
+  "use": "Use for adding to the cloud or a new cloud item.",
+  "formerNames": [
+    "cloud-plus"
+  ],
+  "compare": {
+    "fluent": "cloud-add",
+    "sf": false,
+    "tabler": "cloud-plus"
+  }
+}

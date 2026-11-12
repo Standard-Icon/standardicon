@@ -1,0 +1,20 @@
+{
+  "name": "list-start",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26669",
+  "looks": "Three list lines, the last with an arrow turning back toward the start.",
+  "use": "Use for adding to the start of a list or wrapping text.",
+  "compare": {
+    "carbon": "list",
+    "fluent": "list",
+    "heroicons": "queue-list",
+    "lucide": "list-start",
+    "material": "list",
+    "octicons": "list-ordered",
+    "phosphor": "list",
+    "radix": "list-bullet",
+    "sf": "list.dash",
+    "tabler": "list"
+  }
+}

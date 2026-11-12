@@ -1,0 +1,31 @@
+{
+  "name": "clock",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Time and planning",
+  "figmaId": "18:1454",
+  "looks": "A circle with clock hands pointing to twelve and down to the right.",
+  "use": "Use for time, history, or recent items.",
+  "keywords": [
+    "time",
+    "watch"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:23:21.805Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "time",
+    "fluent": "clock",
+    "heroicons": "clock",
+    "lucide": "clock",
+    "material": "schedule",
+    "octicons": "clock",
+    "phosphor": "clock",
+    "radix": "clock",
+    "sf": "clock",
+    "tabler": "clock"
+  }
+}

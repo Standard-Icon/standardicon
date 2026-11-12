@@ -1,0 +1,11 @@
+{
+  "name": "steak",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19254",
+  "compare": {
+    "lucide": "beef"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "credit-card-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29503",
+  "looks": "A card with a top stripe, a short line, and a small checkmark cut into the lower right corner.",
+  "use": "Use for a successful payment or a verified card.",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "credit-card-check",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

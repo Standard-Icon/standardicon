@@ -1,0 +1,20 @@
+{
+  "name": "list",
+  "status": "active",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "261:19158",
+  "compare": {
+    "carbon": "list",
+    "fluent": "list",
+    "heroicons": "queue-list",
+    "lucide": "list",
+    "material": "list",
+    "octicons": "list-ordered",
+    "phosphor": "list",
+    "radix": "list-bullet",
+    "sf": "list.dash",
+    "tabler": "list"
+  }
+}

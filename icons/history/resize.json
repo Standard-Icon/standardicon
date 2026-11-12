@@ -1,0 +1,11 @@
+{
+ "name": "resize",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2.5\" y=\"8.5\" width=\"5\" height=\"5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.5 6V3.5C2.5 3.23 2.605 2.98 2.793 2.79C2.98 2.61 3.235 2.5 3.5 2.5H12.5C12.765 2.5 13.02 2.61 13.207 2.79C13.395 2.98 13.5 3.23 13.5 3.5V12.5C13.5 12.77 13.395 13.02 13.207 13.21C13.02 13.39 12.765 13.5 12.5 13.5H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9 7L12 4M12 6.5V4H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

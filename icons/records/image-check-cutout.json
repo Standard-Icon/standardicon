@@ -1,0 +1,11 @@
+{
+  "name": "image-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28750",
+  "looks": "A picture of a sun and mountains with a small check mark cut into its lower right.",
+  "use": "Use for a selected, approved, or uploaded image.",
+  "compare": {
+    "sf": "photo.badge.checkmark"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "copy-slash",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.723\" y=\"5.331\" width=\"8.00745\" height=\"8.00745\" rx=\"1.5\" stroke=\"currentColor\"/><path d=\"M10.478 9.662H11.777C12.606 9.662 13.277 8.99 13.277 8.162V4.162C13.277 3.333 12.606 2.662 11.777 2.662H7.777C6.949 2.662 6.277 3.333 6.277 4.162V5.662\" stroke=\"currentColor\"/><path d=\"M8.5 7.75L4.75 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

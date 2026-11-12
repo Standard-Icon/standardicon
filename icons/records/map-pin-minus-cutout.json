@@ -1,0 +1,16 @@
+{
+  "name": "map-pin-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29567",
+  "looks": "A location pin with a minus sign cut into the lower right.",
+  "use": "Use for removing a location or a saved place.",
+  "compare": {
+    "heroicons": false,
+    "lucide": "map-pin-minus",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": "map-pin-minus"
+  }
+}

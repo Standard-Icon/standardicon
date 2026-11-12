@@ -1,0 +1,11 @@
+{
+ "name": "database-arrow-up-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M13.5 4.207C13.5 5.045 10.93 5.914 8 5.914C5.07 5.914 2.5 5.045 2.5 4.207C2.5 3.369 5.07 2.5 8 2.5C10.93 2.5 13.5 3.369 13.5 4.207Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 9.707C5.07 9.707 2.5 8.838 2.5 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.5 4.207V7.81M7.78 13.498C4.94 13.457 2.5 12.61 2.5 11.793V4.207\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.75 14V9.5M13.82 11.57L11.75 9.5L9.68 11.57\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

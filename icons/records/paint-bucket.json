@@ -1,0 +1,23 @@
+{
+  "name": "paint-bucket",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6141",
+  "keywords": [
+    "fill",
+    "color"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "paint-bucket",
+    "heroicons": false,
+    "iconic": "paintbucket",
+    "lucide": "paint-bucket",
+    "material": "format-paint",
+    "phosphor": "paint-bucket",
+    "sf": "paint.bucket.classic",
+    "tabler": "paint"
+  }
+}

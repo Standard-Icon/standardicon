@@ -1,0 +1,17 @@
+{
+ "name": "briefcase-aesthetic",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2.5\" y=\"5\" width=\"11\" height=\"8\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5.5 5V3.5C5.5 3.235 5.605 2.98 5.793 2.793C5.98 2.605 6.235 2.5 6.5 2.5H9.5C9.765 2.5 10.02 2.605 10.207 2.793C10.395 2.98 10.5 3.235 10.5 3.5V5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 9H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"7\" y=\"8.25\" width=\"2\" height=\"1.5\" rx=\"0.25\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T19:59:33.379Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"5.306\" width=\"11\" height=\"7.49902\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5.5 5.012V4.195C5.5 3.93 5.605 3.676 5.793 3.488C5.98 3.301 6.235 3.195 6.5 3.195H9.5C9.765 3.195 10.02 3.301 10.207 3.488C10.395 3.676 10.5 3.93 10.5 4.195V5.012\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 7.508C2.5 7.508 4.889 8.804 8 8.804C11.111 8.804 13.5 7.508 13.5 7.508\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"7\" y=\"8.795\" width=\"2\" height=\"1.5\" rx=\"0.25\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

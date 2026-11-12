@@ -1,0 +1,30 @@
+{
+  "name": "square-x",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31544",
+  "looks": "A rounded square with an x inside.",
+  "use": "Use for closing, removing, or canceling.",
+  "compare": {
+    "carbon": false,
+    "fluent": "square-dismiss",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "square-x",
+    "material": false,
+    "octicons": false,
+    "phosphor": "x-square",
+    "radix": false,
+    "sf": "xmark.square",
+    "tabler": "square-x"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "status"
+    }
+  ]
+}

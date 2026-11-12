@@ -1,0 +1,16 @@
+{
+  "name": "viewfinder",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Media and camera",
+  "figmaId": "276:24762",
+  "looks": "Four rounded corner brackets marking an empty square frame.",
+  "use": "Use for a camera viewfinder, capture, or framing a shot.",
+  "compare": {
+    "heroicons": "viewfinder-circle",
+    "lucide": "scan-square",
+    "sf": "viewfinder",
+    "tabler": "viewfinder"
+  }
+}

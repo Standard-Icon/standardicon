@@ -1,0 +1,21 @@
+{
+  "name": "battery-low",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5844",
+  "looks": "A horizontal battery with only a thin filled sliver at the left end.",
+  "use": "Use for low battery or a charge warning.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": "battery-low",
+    "fluent": false,
+    "heroicons": "battery-0",
+    "lucide": "battery-low",
+    "material": "battery-low",
+    "phosphor": "battery-low",
+    "sf": "battery.25percent",
+    "tabler": "battery-1"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "moon-waning",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20565",
+  "looks": "A circle with a curved line inside, leaving a crescent on the right.",
+  "use": "Use for the waning moon phase.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.321Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "moon",
+    "fluent": "weather-moon",
+    "heroicons": "moon",
+    "lucide": "moon",
+    "material": false,
+    "octicons": "moon",
+    "phosphor": "moon",
+    "radix": "moon",
+    "sf": "moon",
+    "tabler": "moon"
+  }
+}

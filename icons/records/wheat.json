@@ -1,0 +1,16 @@
+{
+  "name": "wheat",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:20012",
+  "looks": "A stalk of wheat with grain kernels in pairs along a center stem.",
+  "use": "Use for wheat, grain, bread, or gluten.",
+  "compare": {
+    "carbon": "wheat",
+    "lucide": "wheat",
+    "material": "wheat",
+    "tabler": "wheat"
+  }
+}

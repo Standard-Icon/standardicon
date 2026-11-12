@@ -1,0 +1,16 @@
+{
+  "name": "pane",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "1:3254",
+  "looks": "A nearly square rounded rectangle with a thin header band across the top.",
+  "use": "Use for a pane, a window, or a single view.",
+  "keywords": [
+    "split view"
+  ],
+  "compare": {
+    "lucide": "app-window"
+  }
+}

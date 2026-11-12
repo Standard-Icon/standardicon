@@ -1,0 +1,15 @@
+{
+  "name": "mails",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "communication",
+  "figmaId": "59:22049",
+  "looks": "Two closed envelopes stacked, one offset behind the other toward the lower left.",
+  "use": "Use for multiple emails, an inbox, or bulk mail.",
+  "compare": {
+    "carbon": "mail-all",
+    "fluent": "mail-multiple",
+    "lucide": "mails"
+  }
+}

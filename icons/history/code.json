@@ -1,0 +1,17 @@
+{
+ "name": "code",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M5.5 4.5L2 8L5.5 11.5M10.5 4.5L14 8L10.5 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.301 2.886L6.791 12.87\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M4.85 4.82L2.78 8L4.85 11.18M11.15 4.82L13.22 8L11.15 11.18\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M9.24 2.89L6.73 12.87\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

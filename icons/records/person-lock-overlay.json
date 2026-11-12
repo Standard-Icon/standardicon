@@ -1,0 +1,19 @@
+{
+  "name": "person-lock-overlay",
+  "status": "active",
+  "parent": "person",
+  "canonical": "person",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:21271",
+  "formerNames": [
+    "person-lock"
+  ],
+  "compare": {
+    "fluent": "person-lock",
+    "lucide": "user-lock",
+    "material": "lock-person",
+    "sf": false
+  }
+}

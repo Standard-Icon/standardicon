@@ -1,0 +1,20 @@
+{
+  "name": "credit-card-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29525",
+  "looks": "A card with a top stripe, a short line, and a small x cut into the lower right corner.",
+  "use": "Use for a declined payment or deleting a card.",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "credit-card-x",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

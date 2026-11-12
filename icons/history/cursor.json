@@ -1,0 +1,11 @@
+{
+ "name": "cursor",
+ "versions": [
+  {
+   "at": "2026-11-07T19:08:10-08:00",
+   "source": "git 5279fa2",
+   "released": true,
+   "body": "<path d=\"M4 2.5V12.5L6.6 10.1L8.3 13.5L9.8 12.8L8.1 9.4H11.5L4 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

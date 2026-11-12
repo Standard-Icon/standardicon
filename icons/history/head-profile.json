@@ -1,0 +1,11 @@
+{
+ "name": "head-profile",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M5.5 13.5V11.5C3.5 10.5 2.5 8.75 2.5 7C2.5 4.25 4.75 2.5 7.5 2.5C10 2.5 11.75 4.2 12 6.25L13.25 8.5C13.4 8.8 13.2 9 13 9H12V10.75C12 11.4 11.4 12 10.75 12H9.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

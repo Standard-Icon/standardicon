@@ -1,0 +1,27 @@
+{
+  "name": "circle-ellipsis",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24214",
+  "looks": "A circle with three dots in a row inside.",
+  "use": "Use for more options, loading, or a menu.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:21.708Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "more-circle",
+    "heroicons": "ellipsis-horizontal-circle",
+    "iconic": "dots-horizontal-circle",
+    "lucide": "circle-ellipsis",
+    "material": false,
+    "octicons": false,
+    "phosphor": "dots-three-circle",
+    "radix": false,
+    "sf": "ellipsis.circle",
+    "tabler": "dots-circle-horizontal"
+  }
+}

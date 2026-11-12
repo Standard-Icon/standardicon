@@ -1,0 +1,23 @@
+{
+  "name": "champagne",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:30063",
+  "looks": "A tall flute glass on a stem with bubbles inside and a line near the rim.",
+  "use": "Use for celebrations, toasts, or New Year.",
+  "keywords": [
+    "new",
+    "year",
+    "celebration",
+    "toast",
+    "drink",
+    "flute",
+    "holiday"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "phosphor": "champagne",
+    "tabler": "glass-champagne"
+  }
+}

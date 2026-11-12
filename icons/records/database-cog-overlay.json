@@ -1,0 +1,16 @@
+{
+  "name": "database-cog-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25076",
+  "looks": "A stacked database cylinder with a small rounded square holding a gear overlapping its lower right.",
+  "use": "Use for database settings or configuration.",
+  "formerNames": [
+    "database-cog"
+  ],
+  "compare": {
+    "fluent": "database-settings",
+    "lucide": "database-cog",
+    "tabler": "database-cog"
+  }
+}

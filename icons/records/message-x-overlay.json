@@ -1,0 +1,23 @@
+{
+  "name": "message-x-overlay",
+  "status": "active",
+  "parent": "message",
+  "canonical": "message",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:20549",
+  "looks": "A rectangular speech bubble with a small rounded square holding an x at the lower right.",
+  "use": "Use for deleting a message or closing a chat.",
+  "formerNames": [
+    "message-x"
+  ],
+  "compare": {
+    "fluent": "chat-dismiss",
+    "heroicons": false,
+    "lucide": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "message-x"
+  }
+}

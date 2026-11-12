@@ -1,0 +1,15 @@
+{
+  "name": "balloon",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:25007",
+  "compare": {
+    "fluent": "balloon",
+    "lucide": "balloon",
+    "phosphor": "balloon",
+    "sf": "balloon",
+    "tabler": "balloon"
+  }
+}

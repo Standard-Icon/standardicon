@@ -1,0 +1,8 @@
+{
+  "name": "build-shield-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29058",
+  "looks": "A brick wall with a small shield cut into its lower right.",
+  "use": "Use for a firewall, protected builds, or security."
+}

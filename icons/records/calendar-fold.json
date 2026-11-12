@@ -1,0 +1,25 @@
+{
+  "name": "calendar-fold",
+  "status": "active",
+  "parent": "calendar",
+  "canonical": "calendar",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "498:15808",
+  "looks": "A calendar page with two rings at the top and its lower right corner folded up.",
+  "use": "Use for a tear-off calendar, notes on a date, or a past date.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "calendar-fold",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "hand-grab",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "84:27634",
+  "looks": "A closed hand with curled fingers and a thumb on its left side.",
+  "use": "Use for grab cursors, dragging, or holding.",
+  "approved": {
+    "at": "2026-11-11T19:15:35.985Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "hand-grab",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "hand-grab"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "morgan",
+      "text": "awful",
+      "issue": "awful"
+    }
+  ]
+}

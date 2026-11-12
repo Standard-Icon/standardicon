@@ -1,0 +1,13 @@
+{
+  "name": "drumstick",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19499",
+  "looks": "A chicken drumstick with a rounded meat end and a small knobbed bone at the lower left.",
+  "use": "Use for meat, chicken, poultry, or a food item.",
+  "compare": {
+    "lucide": "drumstick"
+  }
+}

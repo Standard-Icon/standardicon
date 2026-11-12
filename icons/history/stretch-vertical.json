@@ -1,0 +1,11 @@
+{
+ "name": "stretch-vertical",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2.5 2.5H13.5M2.5 13.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"3.5\" y=\"4.5\" width=\"3\" height=\"7\" rx=\"0.5\" stroke=\"currentColor\"/><rect x=\"9.5\" y=\"4.5\" width=\"3\" height=\"7\" rx=\"0.5\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

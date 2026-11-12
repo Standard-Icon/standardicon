@@ -1,0 +1,19 @@
+{
+  "name": "human-in-the-loop",
+  "status": "active",
+  "canonical": "person",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:54199",
+  "looks": "A person bust inside a circle with a curved arrow at its top right.",
+  "use": "Use for human review in an automated flow or manual approval.",
+  "keywords": [
+    "review",
+    "approval"
+  ],
+  "compare": {
+    "phosphor": false,
+    "sf": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "blinds",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:21926",
+  "looks": "Several horizontal slats stacked inside a frame with a vertical bar on the right.",
+  "use": "Use for window blinds, shades, or privacy.",
+  "compare": {
+    "lucide": "blinds",
+    "material": "blinds",
+    "sf": "blinds.vertical.open"
+  }
+}

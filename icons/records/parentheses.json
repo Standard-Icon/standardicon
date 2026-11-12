@@ -1,0 +1,15 @@
+{
+  "name": "parentheses",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24482",
+  "compare": {
+    "fluent": false,
+    "iconic": "parenthesis",
+    "lucide": "parentheses",
+    "sf": "parentheses",
+    "tabler": "parentheses"
+  }
+}

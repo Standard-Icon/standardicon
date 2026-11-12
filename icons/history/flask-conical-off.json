@@ -1,0 +1,11 @@
+{
+ "name": "flask-conical-off",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M6 2.826H10M6.75 2.826V4.234M9.25 2.826V6.5L9.71 7.233M5.658 8.242L3.3 12C3.213 12.151 3.167 12.322 3.166 12.496C3.165 12.67 3.21 12.842 3.296 12.993C3.382 13.145 3.506 13.271 3.656 13.36C3.805 13.449 3.976 13.497 4.15 13.5H10.952\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 10H7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 2.5L13.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

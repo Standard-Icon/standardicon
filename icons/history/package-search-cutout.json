@@ -1,0 +1,11 @@
+{
+ "name": "package-search-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M13 7.688V5.5L11.5 2.5H4.5L3 5.5V12.5C3 12.765 3.105 13.02 3.293 13.207C3.48 13.395 3.735 13.5 4 13.5H7.8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.339 5.5H12.661\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2.5V5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 8.5H9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.379 11.44C13.379 11.954 13.175 12.447 12.811 12.811C12.448 13.175 11.954 13.379 11.44 13.379C10.925 13.379 10.432 13.175 10.068 12.811C9.704 12.447 9.5 11.954 9.5 11.44C9.5 10.925 9.704 10.432 10.068 10.068C10.432 9.704 10.925 9.5 11.44 9.5C11.954 9.5 12.448 9.704 12.811 10.068C13.175 10.432 13.379 10.925 13.379 11.44Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.836 12.836L14 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

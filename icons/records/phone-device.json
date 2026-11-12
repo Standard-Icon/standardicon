@@ -1,0 +1,33 @@
+{
+  "name": "phone-device",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8274",
+  "looks": "A tall rounded rectangle phone with a short bar near the bottom.",
+  "use": "Use for a mobile phone or smartphone.",
+  "keywords": [
+    "mobile",
+    "smartphone",
+    "iphone"
+  ],
+  "approved": {
+    "at": "2026-11-12T01:51:35.675Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "phone",
+    "heroicons": "device-phone-mobile",
+    "iconic": "smartphone",
+    "lucide": "smartphone",
+    "material": "phone-cancel",
+    "octicons": "device-mobile",
+    "phosphor": "device-mobile",
+    "radix": "mobile",
+    "sf": "iphone",
+    "tabler": "device-mobile"
+  }
+}

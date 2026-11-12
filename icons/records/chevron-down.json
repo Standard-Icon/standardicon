@@ -1,0 +1,27 @@
+{
+  "name": "chevron-down",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Chevrons and carets",
+  "figmaId": "12:277",
+  "looks": "A single chevron pointing down.",
+  "use": "Use for dropdowns, expand, or show more.",
+  "keywords": [
+    "dropdown",
+    "expand",
+    "disclosure"
+  ],
+  "compare": {
+    "carbon": "chevron-down",
+    "fluent": "chevron-down",
+    "heroicons": "chevron-down",
+    "lucide": "chevron-down",
+    "material": "keyboard-arrow-down",
+    "octicons": "chevron-down",
+    "phosphor": "caret-down",
+    "radix": "chevron-down",
+    "sf": "chevron.down",
+    "tabler": "chevron-down"
+  }
+}

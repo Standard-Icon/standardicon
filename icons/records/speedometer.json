@@ -1,0 +1,15 @@
+{
+  "name": "speedometer",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:21213",
+  "looks": "A three-quarter circle dial with a needle pointing up and to the right, no tick marks.",
+  "use": "Use for speed, performance, or a dashboard.",
+  "fillApproved": true,
+  "compare": {
+    "phosphor": "speedometer",
+    "sf": "gauge.with.dots.needle.0percent"
+  }
+}

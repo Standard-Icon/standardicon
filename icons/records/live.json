@@ -1,0 +1,19 @@
+{
+  "name": "live",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5834",
+  "keywords": [
+    "broadcast",
+    "streaming",
+    "on air"
+  ],
+  "compare": {
+    "fluent": "live",
+    "lucide": false,
+    "material": "live-tv",
+    "tabler": "live-view"
+  }
+}

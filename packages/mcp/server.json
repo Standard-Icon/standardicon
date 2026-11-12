@@ -1,0 +1,16 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.standardicon/icons",
+  "title": "The Standard Icon Set",
+  "description": "Search line icons by meaning or by what they look like, and get them as SVG at any size and weight.",
+  "websiteUrl": "https://standardicon.com",
+  "version": "0.2.0-alpha.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@standardicon/mcp",
+      "version": "0.2.0-alpha.1",
+      "transport": { "type": "stdio" }
+    }
+  ]
+}

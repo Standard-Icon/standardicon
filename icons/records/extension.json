@@ -1,0 +1,22 @@
+{
+  "name": "extension",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4825",
+  "looks": "A rounded square with a puzzle-piece tab notched into its left side.",
+  "use": "Use for extensions, plugins, or add-ons.",
+  "keywords": [
+    "plugin",
+    "addon",
+    "puzzle"
+  ],
+  "compare": {
+    "carbon": false,
+    "lucide": "puzzle",
+    "material": "extension",
+    "sf": "puzzlepiece.extension",
+    "tabler": "puzzle"
+  }
+}

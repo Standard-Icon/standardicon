@@ -1,0 +1,8 @@
+{
+  "name": "library-shelf",
+  "status": "covered",
+  "coveredBy": "bookshelf",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects"
+}

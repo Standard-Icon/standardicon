@@ -1,0 +1,8 @@
+{
+  "name": "arrow-up-down",
+  "status": "covered",
+  "coveredBy": "swap-vertical",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Covered by an existing icon"
+}

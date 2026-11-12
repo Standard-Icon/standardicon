@@ -1,0 +1,23 @@
+{
+  "name": "font-size",
+  "status": "active",
+  "canonical": "letter-a",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6039",
+  "looks": "A large capital A next to a smaller capital A on its right.",
+  "use": "Use for font size or text scale.",
+  "keywords": [
+    "text size",
+    "typography"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "text-font-size",
+    "material": false,
+    "radix": "font-size",
+    "sf": "textformat.size",
+    "tabler": "text-size"
+  }
+}

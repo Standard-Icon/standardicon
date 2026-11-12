@@ -1,0 +1,12 @@
+{
+ "name": "file-volume",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M4.543 2.498H9.481L12.444 5.499V12.501C12.444 12.766 12.34 13.021 12.155 13.208C11.969 13.396 11.718 13.501 11.456 13.501H4.543C4.281 13.501 4.03 13.396 3.845 13.208C3.66 13.021 3.556 12.766 3.556 12.501V3.499C3.556 3.233 3.66 2.979 3.845 2.791C4.03 2.604 4.281 2.498 4.543 2.498Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.09 2.651V4.908C9.09 5.46 9.538 5.908 10.09 5.908H12.306\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.984 9.12V10.463H6.88L8.224 11.583V8L6.88 9.12H5.984Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.344 8.672C9.971 9.254 9.971 10.329 9.344 10.911\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

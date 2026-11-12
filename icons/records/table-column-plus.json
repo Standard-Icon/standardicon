@@ -1,0 +1,17 @@
+{
+  "name": "table-column-plus",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6302",
+  "looks": "A small table grid with a plus sign on its right side.",
+  "use": "Use for adding a column to a table.",
+  "compare": {
+    "carbon": false,
+    "fluent": "table-insert-column",
+    "material": "add-column-left",
+    "sf": false,
+    "tabler": false
+  }
+}

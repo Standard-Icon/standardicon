@@ -1,0 +1,11 @@
+{
+ "name": "microchip",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"4\" y=\"3\" width=\"8\" height=\"10\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.5 1.5V3M9.5 1.5V3M6.5 13V14.5M9.5 13V14.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 5.5H4M2.5 8H4M2.5 10.5H4M12 5.5H13.5M12 8H13.5M12 10.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

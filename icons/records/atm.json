@@ -1,0 +1,12 @@
+{
+  "name": "atm",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:26844",
+  "compare": {
+    "lucide": false,
+    "material": "atm"
+  }
+}

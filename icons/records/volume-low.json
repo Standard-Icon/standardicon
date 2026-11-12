@@ -1,0 +1,24 @@
+{
+  "name": "volume-low",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5370",
+  "looks": "A speaker pointing right with one small curved sound wave beside it.",
+  "use": "Use for quiet volume or turning the sound down.",
+  "keywords": [
+    "sound",
+    "audio",
+    "quiet"
+  ],
+  "compare": {
+    "carbon": "volume-down",
+    "fluent": false,
+    "lucide": "volume-1",
+    "material": "volume-down",
+    "phosphor": "speaker-low",
+    "sf": "speaker.wave.1",
+    "tabler": false
+  }
+}

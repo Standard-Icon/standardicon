@@ -1,0 +1,17 @@
+{
+  "name": "snowman",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:29160",
+  "keywords": [
+    "christmas",
+    "winter",
+    "snow",
+    "holiday"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "tabler": "snowman"
+  }
+}

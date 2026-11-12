@@ -1,0 +1,35 @@
+{
+  "name": "popover-left",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "159:48569",
+  "looks": "A rounded square with a small point at the middle of the left side.",
+  "use": "Use for a popover or menu that opens to the right of its trigger.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "navigation"
+    },
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "Morgan, from tooltip"
+    }
+  ]
+}

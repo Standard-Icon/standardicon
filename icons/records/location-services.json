@@ -1,0 +1,28 @@
+{
+  "name": "location-services",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5918",
+  "looks": "A navigation arrowhead pointing up and to the right.",
+  "use": "Use for location services, current location, or navigation.",
+  "keywords": [
+    "gps",
+    "geolocation"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.054Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "location",
+    "fluent": "location",
+    "lucide": false,
+    "material": "location-on",
+    "octicons": "location",
+    "sf": "location",
+    "tabler": "location"
+  }
+}

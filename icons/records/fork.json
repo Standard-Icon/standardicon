@@ -1,0 +1,23 @@
+{
+  "name": "fork",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Development",
+  "figmaId": "12:735",
+  "looks": "A single stem that splits into two branches, each ending in an arrow pointing up.",
+  "use": "Use for fork, branch off, or split into two paths.",
+  "keywords": [
+    "branch"
+  ],
+  "compare": {
+    "carbon": "fork",
+    "fluent": false,
+    "iconic": false,
+    "lucide": "utensils",
+    "material": false,
+    "phosphor": "fork-knife",
+    "sf": "fork.knife",
+    "tabler": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "message-circle-reply",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26984",
+  "compare": {
+    "lucide": "message-circle-reply",
+    "sf": "message.circle",
+    "tabler": "message-reply"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "face-sad",
+  "status": "active",
+  "canonical": "face",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:5117",
+  "looks": "A circle face with two dot eyes and a downturned mouth.",
+  "use": "Use for sad mood, negative feedback, or a poor rating.",
+  "keywords": [
+    "unhappy",
+    "emoji"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.069Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "face-dissatisfied",
+    "fluent": "emoji-sad",
+    "heroicons": "face-frown",
+    "iconic": "emoji-sad",
+    "lucide": "frown",
+    "material": false,
+    "octicons": "smiley-frown",
+    "phosphor": "smiley-sad",
+    "radix": false,
+    "sf": false,
+    "tabler": "mood-sad"
+  }
+}

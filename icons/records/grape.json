@@ -1,0 +1,17 @@
+{
+  "name": "grape",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26416",
+  "looks": "A bunch of grapes made of small circles with a stem and a leaf curl at the top.",
+  "use": "Use for grapes, fruit, or wine.",
+  "approved": {
+    "at": "2026-11-11T19:15:35.950Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "lucide": "grape",
+    "tabler": "grape"
+  }
+}

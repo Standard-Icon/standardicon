@@ -1,0 +1,11 @@
+{
+  "name": "groceries",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:20046",
+  "compare": {
+    "lucide": "groceries"
+  }
+}

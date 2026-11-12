@@ -1,0 +1,13 @@
+{
+  "name": "mouth",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "People",
+  "figmaId": "273:22783",
+  "compare": {
+    "lucide": "mouth",
+    "material": "lips",
+    "sf": "mouth"
+  }
+}

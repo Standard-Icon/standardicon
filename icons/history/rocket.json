@@ -1,0 +1,11 @@
+{
+ "name": "rocket",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M8 2C10.348 4.03 11.053 7.219 10.583 11.278H5.417C4.947 7.219 5.652 4.03 8 2Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 14.264C8.989 13.611 9.285 12.585 9.088 11.279H6.912C6.715 12.585 7.011 13.611 8 14.264Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.482 6.445L2.758 9.345V11.205L5.117 10.81\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.526 6.453L13.242 9.345V11.205L10.883 10.81\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

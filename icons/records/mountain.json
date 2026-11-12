@@ -1,0 +1,23 @@
+{
+  "name": "mountain",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7400",
+  "looks": "Two mountain peaks side by side, the left one taller, on a flat base.",
+  "use": "Use for mountains, landscapes, or outdoors.",
+  "keywords": [
+    "hike",
+    "terrain",
+    "landscape"
+  ],
+  "compare": {
+    "carbon": "mountain",
+    "lucide": "mountain",
+    "material": "mountain-flag",
+    "phosphor": "mountains",
+    "sf": "mountain.2",
+    "tabler": "mountain"
+  }
+}

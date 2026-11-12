@@ -1,0 +1,23 @@
+{
+ "name": "hiking-stick",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M10.83 3.4C11.32 2.92 12.11 2.92 12.6 3.4C13.08 3.89 13.08 4.68 12.6 5.17L11.01 6.76C10.52 7.25 9.73 7.25 9.24 6.76C8.75 6.27 8.75 5.48 9.24 4.99L10.83 3.4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.24 6.76L3.05 12.95\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.4 10.12L5.88 12.6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T18:59:40.607Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M11.889 4.111C12.279 4.501 12.279 5.135 11.889 5.525L10.475 6.939C10.085 7.33 9.451 7.33 9.061 6.939C8.67 6.549 8.67 5.915 9.061 5.525L10.475 4.111C10.865 3.721 11.499 3.721 11.889 4.111Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.061 6.939L4.111 11.889\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.464 9.414L6.586 11.536\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M13.101 2.899C13.632 3.43 13.632 4.294 13.101 4.826L11.174 6.753C10.642 7.286 9.778 7.286 9.246 6.753C8.713 6.221 8.713 5.357 9.246 4.826L11.174 2.899C11.705 2.367 12.569 2.367 13.101 2.899Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.247 6.753L2.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.981 10.127L5.874 13.019\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

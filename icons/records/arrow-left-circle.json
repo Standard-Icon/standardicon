@@ -1,0 +1,33 @@
+{
+  "name": "arrow-left-circle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Arrows",
+  "figmaId": "27:3482",
+  "looks": "An arrow pointing left inside a circle.",
+  "use": "Use for back, previous, or go left.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.279Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "arrow-circle-left",
+    "heroicons": "arrow-left-circle",
+    "iconic": false,
+    "lucide": "arrow-left-circle",
+    "material": "arrow-circle-left",
+    "octicons": false,
+    "phosphor": "arrow-circle-left",
+    "radix": false,
+    "sf": "arrow.left.circle",
+    "tabler": "arrow-left-circle"
+  },
+  "compareAlso": {
+    "lucide": [
+      "circle-arrow-left"
+    ]
+  }
+}

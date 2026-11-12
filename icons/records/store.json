@@ -1,0 +1,23 @@
+{
+  "name": "store",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7170",
+  "looks": "A shop front with a scalloped awning on top and a door at the bottom center.",
+  "use": "Use for a store, shop, or marketplace.",
+  "keywords": [
+    "shop",
+    "storefront",
+    "retail"
+  ],
+  "compare": {
+    "carbon": "store",
+    "fluent": "building-shop",
+    "lucide": "store",
+    "material": "store",
+    "phosphor": "storefront",
+    "tabler": "building-store"
+  }
+}

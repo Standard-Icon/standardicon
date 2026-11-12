@@ -1,0 +1,24 @@
+{
+  "name": "ruler-dimension",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23754",
+  "looks": "A ruler with small tick marks, with a dimension line and end caps above it.",
+  "use": "Use for measurements, dimensions, or sizing.",
+  "approved": {
+    "at": "2026-11-12T01:50:41.127Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "ruler",
+    "fluent": "ruler",
+    "lucide": "ruler-dimension-line",
+    "phosphor": "ruler",
+    "radix": "ruler-square",
+    "sf": "ruler",
+    "tabler": "ruler"
+  }
+}

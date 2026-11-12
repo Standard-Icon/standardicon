@@ -1,0 +1,20 @@
+{
+  "name": "build",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:5064",
+  "looks": "A rounded rectangle filled with a staggered brick wall pattern.",
+  "use": "Use for builds, compiling, or construction.",
+  "keywords": [
+    "compile",
+    "bricks",
+    "wall"
+  ],
+  "compare": {
+    "carbon": "build-tool",
+    "lucide": "brick-wall",
+    "material": "build"
+  }
+}

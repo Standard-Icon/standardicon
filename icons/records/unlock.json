@@ -1,0 +1,20 @@
+{
+  "name": "unlock",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1970",
+  "looks": "A padlock with its shackle raised and open on the right side.",
+  "use": "Use for unlocked items, open access, or unlocking.",
+  "keywords": [
+    "open",
+    "public"
+  ],
+  "compare": {
+    "lucide": "unlock",
+    "material": false,
+    "octicons": "unlock",
+    "sf": "lock.open"
+  }
+}

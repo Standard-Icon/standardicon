@@ -1,0 +1,15 @@
+{
+  "name": "book-open-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28436",
+  "looks": "An open book with a small x cut into the lower right.",
+  "use": "Use for deleting a book or unavailable content.",
+  "compare": {
+    "fluent": "book-dismiss",
+    "heroicons": false,
+    "lucide": "book-x",
+    "phosphor": false,
+    "radix": false
+  }
+}

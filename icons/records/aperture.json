@@ -1,0 +1,29 @@
+{
+  "name": "aperture",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "184:32084",
+  "looks": "A circle with overlapping blades forming a hexagon opening in the middle.",
+  "use": "Use for camera aperture, lens, or photography.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.255Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "aperture",
+    "lucide": "aperture",
+    "phosphor": "aperture",
+    "sf": "camera.aperture",
+    "tabler": "aperture"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "photo"
+    }
+  ]
+}

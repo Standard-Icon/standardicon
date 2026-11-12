@@ -1,0 +1,29 @@
+{
+ "name": "message-oval-x-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M7.513 12.172C7.175 12.135 6.838 12.068 6.5 12C5.8 12.6 4.8 13 3.7 13C4.1 12.5 4.4 11.9 4.4 11.1C3.2 10.3 2.5 9 2.5 7.6C2.5 5 4.9 3 8 3C11.1 3 13.5 5 13.5 7.6C13.5 7.665 13.498 7.73 13.496 7.794\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 9.5L14 14M14 9.5L9.5 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<path d=\"M8.452 13.693C8.072 13.652 7.693 13.576 7.313 13.5C6.525 14.175 5.4 14.625 4.162 14.625C4.612 14.062 4.95 13.388 4.95 12.488C3.6 11.588 2.813 10.125 2.813 8.55C2.813 5.625 5.513 3.375 9 3.375C12.488 3.375 15.188 5.625 15.188 8.55C15.188 8.623 15.185 8.696 15.183 8.768\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.688 10.688L15.75 15.75M15.75 10.688L10.688 15.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<path d=\"M9.391 15.215C8.969 15.169 8.548 15.085 8.125 15C7.25 15.75 6 16.25 4.625 16.25C5.125 15.625 5.5 14.875 5.5 13.875C4 12.875 3.125 11.25 3.125 9.5C3.125 6.25 6.125 3.75 10 3.75C13.875 3.75 16.875 6.25 16.875 9.5C16.875 9.581 16.873 9.663 16.87 9.743\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.875 11.875L17.5 17.5M17.5 11.875L14.688 14.688L11.875 17.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<path d=\"M10.33 16.736C9.866 16.686 9.402 16.594 8.938 16.5C7.975 17.325 6.6 17.875 5.088 17.875C5.638 17.188 6.05 16.363 6.05 15.263C4.4 14.163 3.438 12.375 3.438 10.45C3.438 6.875 6.738 4.125 11 4.125C15.262 4.125 18.562 6.875 18.562 10.45C18.562 10.539 18.56 10.629 18.557 10.717\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.062 13.062L19.25 19.25M19.25 13.062L13.062 19.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<path d=\"M11.269 18.258C10.762 18.203 10.257 18.102 9.75 18C8.7 18.9 7.2 19.5 5.55 19.5C6.15 18.75 6.6 17.85 6.6 16.65C4.8 15.45 3.75 13.5 3.75 11.4C3.75 7.5 7.35 4.5 12 4.5C16.65 4.5 20.25 7.5 20.25 11.4C20.25 11.497 20.247 11.595 20.244 11.691\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14.25 14.25L21 21M21 14.25L14.25 21\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-11T09:46:49.583Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M7.513 12.172C7.175 12.135 6.838 12.068 6.5 12C5.8 12.6 4.8 13 3.7 13C4.1 12.5 4.4 11.9 4.4 11.1C3.2 10.3 2.5 9 2.5 7.6C2.5 5 4.9 3 8 3C11.1 3 13.5 5 13.5 7.6C13.5 7.665 13.498 7.73 13.496 7.794\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 9.5L14 14M14 9.5L9.5 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T18:29:17.376Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M14.004 8.147C14.029 7.955 14.042 7.76 14.042 7.561C14.042 4.704 11.405 2.507 8 2.507C4.594 2.507 1.957 4.704 1.957 7.561C1.957 9.099 2.726 10.527 4.044 11.406C4.044 12.285 3.715 12.944 3.275 13.493C4.484 13.493 5.583 13.054 6.352 12.395L6.378 12.4C6.78 12.48 7.183 12.561 7.585 12.596\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 9.5L14 14M14 9.5L9.5 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "name": "zodiac-aries",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M8 13.5V6C8 3.5 6.5 2.5 5 2.5C3.6 2.5 2.5 3.5 2.5 4.9C2.5 5.9 3 6.6 3.75 7M8 6C8 3.5 9.5 2.5 11 2.5C12.4 2.5 13.5 3.5 13.5 4.9C13.5 5.9 13 6.6 12.25 7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

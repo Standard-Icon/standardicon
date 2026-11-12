@@ -1,0 +1,11 @@
+{
+ "name": "image-off",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.5 11.025V4.5C2.5 3.948 2.948 3.5 3.5 3.5H10.025M13.5 4.975V11.5C13.5 12.052 13.052 12.5 12.5 12.5H5.975\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.082 7.443C5.976 7.48 5.864 7.5 5.75 7.5C5.485 7.5 5.23 7.395 5.043 7.207C4.855 7.02 4.75 6.765 4.75 6.5C4.75 6.235 4.855 5.98 5.043 5.793C5.23 5.605 5.485 5.5 5.75 5.5C6.015 5.5 6.27 5.605 6.457 5.793C6.645 5.98 6.75 6.235 6.75 6.5C6.75 6.614 6.73 6.726 6.693 6.832\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 10.5L5.5 8L5.514 8.011M10.737 7.737L13.5 10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13L13 3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

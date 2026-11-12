@@ -1,0 +1,17 @@
+{
+  "name": "focus",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "58:21260",
+  "looks": "Four corner brackets framing a small circle in the center.",
+  "use": "Use for focus, focus mode, or center on a subject.",
+  "compare": {
+    "lucide": "focus",
+    "material": false,
+    "octicons": "focus-center",
+    "phosphor": false,
+    "tabler": "focus"
+  }
+}

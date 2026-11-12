@@ -1,0 +1,24 @@
+{
+  "name": "signal",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5886",
+  "looks": "Four vertical bars of rising height, with rounded ends.",
+  "use": "Use for signal strength or cellular reception.",
+  "keywords": [
+    "cellular",
+    "reception",
+    "bars"
+  ],
+  "compare": {
+    "carbon": "signal-strength",
+    "heroicons": "signal",
+    "lucide": "signal",
+    "material": "signal-cellular-alt",
+    "phosphor": "cell-signal-full",
+    "sf": false,
+    "tabler": "antenna-bars-5"
+  }
+}

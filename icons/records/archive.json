@@ -1,0 +1,26 @@
+{
+  "name": "archive",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1717",
+  "looks": "A storage box with a wider lid on top and a short slot on the front.",
+  "use": "Use for archive, storage, or putting items away.",
+  "keywords": [
+    "box",
+    "store"
+  ],
+  "compare": {
+    "carbon": "archive",
+    "fluent": "archive",
+    "heroicons": "archive-box",
+    "lucide": "archive",
+    "material": "archive",
+    "octicons": "archive",
+    "phosphor": "archive",
+    "radix": "archive",
+    "sf": "archivebox",
+    "tabler": "archive"
+  }
+}

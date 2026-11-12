@@ -1,0 +1,22 @@
+{
+  "name": "uptime",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:3387",
+  "looks": "A circle with a pulse line across the middle.",
+  "use": "Use for uptime, monitoring, or service health.",
+  "keywords": [
+    "monitor",
+    "health"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:23:22.716Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": "monitor-activity"
+  }
+}

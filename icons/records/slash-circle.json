@@ -1,0 +1,23 @@
+{
+  "name": "slash-circle",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:24518",
+  "looks": "A circle with a short diagonal slash in the middle that doesn't touch the edge.",
+  "use": "Use for disabled, none, or empty values.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle-slash",
+    "material": false,
+    "octicons": "circle-slash",
+    "phosphor": false,
+    "radix": "circle-backslash",
+    "sf": "slash.circle",
+    "tabler": false
+  }
+}

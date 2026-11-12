@@ -1,0 +1,27 @@
+{
+  "name": "image-upscale",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26112",
+  "looks": "A square with a small mountain line and an arrow pointing out of its top right corner.",
+  "use": "Use for upscaling an image or enlarging it.",
+  "approved": {
+    "at": "2026-11-12T01:53:22.048Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "image-upscale",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

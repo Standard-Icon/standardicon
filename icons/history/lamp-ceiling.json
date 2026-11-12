@@ -1,0 +1,11 @@
+{
+ "name": "lamp-ceiling",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 2.75V5.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 11.75C4 8.25 5.5 5.75 8 5.75C10.5 5.75 12 8.25 12 11.75H4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.75 11.75C6.75 12.082 6.88 12.399 7.12 12.634C7.35 12.868 7.67 13 8 13C8.33 13 8.65 12.868 8.88 12.634C9.12 12.399 9.25 12.082 9.25 11.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

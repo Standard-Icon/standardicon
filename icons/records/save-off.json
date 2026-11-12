@@ -1,0 +1,22 @@
+{
+  "name": "save-off",
+  "status": "active",
+  "parent": "save",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:20018",
+  "looks": "A floppy disk outline crossed by a diagonal slash.",
+  "use": "Use for saving disabled or unsaved changes.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "save-off",
+    "material": "file-save-off",
+    "octicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "file-code-corner",
+  "status": "active",
+  "figmaId": "327:25575",
+  "looks": "A file with a folded top right corner and an angle bracket pair inside.",
+  "use": "Use for source code files or markup.",
+  "compare": {
+    "lucide": "file-code-corner",
+    "octicons": "file-code",
+    "phosphor": "file-code",
+    "sf": false,
+    "tabler": "file-code"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "Not drawn: file-code already does this."
+    }
+  ]
+}

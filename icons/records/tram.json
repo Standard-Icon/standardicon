@@ -1,0 +1,15 @@
+{
+  "name": "tram",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20370",
+  "compare": {
+    "carbon": "tram",
+    "lucide": "tram-front",
+    "material": "tram",
+    "phosphor": "tram",
+    "sf": "tram"
+  }
+}

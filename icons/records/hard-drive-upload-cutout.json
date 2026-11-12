@@ -1,0 +1,16 @@
+{
+  "name": "hard-drive-upload-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29355",
+  "looks": "A hard drive with an upward arrow cut into the lower right.",
+  "use": "Use for uploading from disk or exporting from a drive.",
+  "compare": {
+    "fluent": false,
+    "iconic": false,
+    "lucide": "hard-drive-upload",
+    "material": false,
+    "phosphor": false,
+    "sf": false
+  }
+}

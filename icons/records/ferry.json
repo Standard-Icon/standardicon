@@ -1,0 +1,12 @@
+{
+  "name": "ferry",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20847",
+  "compare": {
+    "sf": "ferry",
+    "tabler": "ferry"
+  }
+}

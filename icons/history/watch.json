@@ -1,0 +1,17 @@
+{
+ "name": "watch",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M6 4.5H10C10.398 4.5 10.779 4.658 11.061 4.939C11.342 5.221 11.5 5.602 11.5 6V10C11.5 10.398 11.342 10.779 11.061 11.061C10.779 11.342 10.398 11.5 10 11.5H6C5.602 11.5 5.221 11.342 4.939 11.061C4.658 10.779 4.5 10.398 4.5 10V6C4.5 5.602 4.658 5.221 4.939 4.939C5.221 4.658 5.602 4.5 6 4.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 4.5L6.5 2H9.5L10 4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 11.5L6.5 14H9.5L10 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T19:08:10-08:00",
+   "source": "git 5279fa2",
+   "released": true,
+   "body": "<rect x=\"4.5\" y=\"4.5\" width=\"7\" height=\"7\" rx=\"1.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6 4.5L6.5 2H9.5L10 4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 11.5L6.5 14H9.5L10 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

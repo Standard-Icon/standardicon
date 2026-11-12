@@ -1,0 +1,27 @@
+{
+  "name": "select-x",
+  "status": "active",
+  "parent": "select",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3719",
+  "looks": "A dashed rounded square with an x in the center.",
+  "use": "Use for deselect or clear the selection.",
+  "formerNames": [
+    "deselect"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

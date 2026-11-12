@@ -1,0 +1,29 @@
+{
+  "name": "pop-in",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "12:1299",
+  "looks": "A rounded square with a diagonal arrow pointing in toward its lower left corner.",
+  "use": "Use for docking a window back in or bringing content inside.",
+  "keywords": [
+    "dock"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.207Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "pop-in",
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "tabler": false
+  }
+}

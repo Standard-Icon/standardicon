@@ -1,0 +1,11 @@
+{
+  "name": "database-zap-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29278",
+  "looks": "A database cylinder with a lightning bolt cut into the lower right.",
+  "use": "Use for a fast database, caching, or triggers.",
+  "compare": {
+    "lucide": "database-zap"
+  }
+}

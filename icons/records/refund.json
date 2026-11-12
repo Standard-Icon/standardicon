@@ -1,0 +1,17 @@
+{
+  "name": "refund",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7634",
+  "keywords": [
+    "money back",
+    "return"
+  ],
+  "compare": {
+    "heroicons": "receipt-refund",
+    "lucide": "banknote-arrow-down",
+    "tabler": "receipt-refund"
+  }
+}

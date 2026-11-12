@@ -1,0 +1,11 @@
+{
+ "name": "book-open",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M8 12.94V4.42C8 3.59 8.678 2.91 9.515 2.91H12.735C13.153 2.91 13.493 3.25 13.493 3.67V10.66C13.493 11.08 13.153 11.42 12.735 11.42H10.77C9.967 11.42 9.196 11.74 8.628 12.31L8 12.94Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.985 12.93V4.42C7.985 3.59 7.306 2.91 6.47 2.91H3.25C2.831 2.91 2.492 3.25 2.492 3.67V10.66C2.492 11.08 2.831 11.42 3.25 11.42H5.214C6.018 11.42 6.789 11.74 7.357 12.31L7.985 12.93Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

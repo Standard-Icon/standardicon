@@ -1,0 +1,17 @@
+{
+  "name": "folder-sync",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25909",
+  "compare": {
+    "carbon": false,
+    "fluent": "folder-sync",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "folder-sync",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "tabler": false
+  }
+}

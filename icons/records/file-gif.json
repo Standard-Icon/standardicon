@@ -1,0 +1,32 @@
+{
+  "name": "file-gif",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "255:19068",
+  "looks": "A page with a folded top right corner and the letters GIF at the bottom.",
+  "use": "Use for GIF images or animations.",
+  "compare": {
+    "carbon": "gif",
+    "fluent": "gif",
+    "heroicons": "gif",
+    "iconic": false,
+    "lucide": false,
+    "material": "gif",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "file type, label in Polymath Display Bold"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "octagon-pause",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27255",
+  "looks": "An eight-sided outline with two short vertical bars inside.",
+  "use": "Use for paused, on hold, or halted.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "octagon-pause",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

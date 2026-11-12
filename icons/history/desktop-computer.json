@@ -1,0 +1,12 @@
+{
+ "name": "desktop-computer",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"1.5\" y=\"4.133\" width=\"6.87413\" height=\"5.1556\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M4.937 9.289V11.867H3.219M4.937 11.867H6.656\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"10.457\" y=\"4.153\" width=\"4.04297\" height=\"7.71289\" rx=\"0.5\" stroke=\"currentColor\"/><circle cx=\"11.98\" cy=\"10.359\" r=\"0.5\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

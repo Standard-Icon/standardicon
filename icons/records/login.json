@@ -1,0 +1,30 @@
+{
+  "name": "login",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Security and access",
+  "figmaId": "22:2054",
+  "looks": "An arrow entering an open bracket on the right.",
+  "use": "Use for log in, sign in, or entering.",
+  "keywords": [
+    "sign in",
+    "enter"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.065Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "login",
+    "fluent": "arrow-enter",
+    "heroicons": "arrow-right-end-on-rectangle",
+    "lucide": "log-in",
+    "material": "login",
+    "octicons": "sign-in",
+    "phosphor": "sign-in",
+    "radix": "enter",
+    "tabler": "login"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "handshake",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:4941",
+  "keywords": [
+    "deal",
+    "partnership"
+  ],
+  "compare": {
+    "fluent": "handshake",
+    "lucide": "handshake",
+    "material": "handshake",
+    "phosphor": "handshake",
+    "tabler": false
+  }
+}

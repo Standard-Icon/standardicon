@@ -1,0 +1,13 @@
+{
+  "name": "lollipop",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19675",
+  "compare": {
+    "carbon": false,
+    "lucide": "lollipop",
+    "tabler": "lollipop"
+  }
+}

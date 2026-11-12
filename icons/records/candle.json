@@ -1,0 +1,14 @@
+{
+  "name": "candle",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24829",
+  "looks": "A short upright candle with a teardrop flame on top.",
+  "use": "Use for candles, calm, or a memorial.",
+  "compare": {
+    "material": "candle",
+    "tabler": "candle"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "holiday-wreath",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:29248",
+  "looks": "A round scalloped wreath with a ring in the middle and a bow at the bottom.",
+  "use": "Use for Christmas, holiday decor, or the winter season.",
+  "keywords": [
+    "christmas",
+    "xmas",
+    "door",
+    "decoration",
+    "bow"
+  ],
+  "compare": {
+    "material": false,
+    "tabler": false
+  }
+}

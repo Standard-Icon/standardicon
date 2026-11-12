@@ -1,0 +1,34 @@
+{
+  "name": "face-smile",
+  "status": "active",
+  "canonical": "face",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:5055",
+  "looks": "A circle face with two dot eyes and an upturned smile.",
+  "use": "Use for happy mood, positive feedback, or a good rating.",
+  "keywords": [
+    "happy",
+    "emoji"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.091Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "face-satisfied",
+    "fluent": "emoji",
+    "heroicons": "face-smile",
+    "iconic": "emoji-happy",
+    "lucide": "face-slightly-smiling",
+    "material": false,
+    "octicons": "smiley",
+    "phosphor": "smiley",
+    "radix": false,
+    "sf": "face.smiling",
+    "tabler": "mood-smile"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "fingerprint",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:5648",
+  "keywords": [
+    "biometric",
+    "auth"
+  ],
+  "compare": {
+    "carbon": "fingerprint-recognition",
+    "fluent": "fingerprint",
+    "lucide": "fingerprint",
+    "material": "fingerprint",
+    "phosphor": "fingerprint",
+    "sf": "touchid",
+    "tabler": "fingerprint"
+  },
+  "compareAlso": {
+    "lucide": [
+      "fingerprint-pattern"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "blur",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6631",
+  "looks": "A grid of dots in three rows, the center dot large and the surrounding dots smaller.",
+  "use": "Use for blur effects, softening, or focus falloff.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T19:15:35.709Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "fluent": "blur",
+    "lucide": false,
+    "material": "blur-on",
+    "tabler": "blur"
+  }
+}

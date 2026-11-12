@@ -1,0 +1,11 @@
+{
+ "name": "package-plus",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M13 9.75L13 5.972C13 5.662 12.928 5.355 12.789 5.078L11.707 2.915C11.58 2.661 11.321 2.5 11.036 2.5L4.964 2.5C4.679 2.5 4.42 2.661 4.293 2.915L3.211 5.078C3.072 5.355 3 5.662 3 5.972L3 12.5C3 12.765 3.105 13.02 3.293 13.207C3.48 13.395 3.735 13.5 4 13.5L9.75 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.339 5.5L12.661 5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2.5L8 5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 8.5L10 8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.75\" y=\"9.75\" width=\"5\" height=\"5\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.125 12.25H13.375M12.25 11.125V13.375\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

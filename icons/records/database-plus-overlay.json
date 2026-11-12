@@ -1,0 +1,19 @@
+{
+  "name": "database-plus-overlay",
+  "status": "active",
+  "parent": "database",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:2738",
+  "looks": "A stacked database cylinder with a small rounded square holding a plus overlapping its lower right.",
+  "use": "Use for adding a database or creating records.",
+  "formerNames": [
+    "database-plus"
+  ],
+  "compare": {
+    "lucide": "database-plus",
+    "sf": false,
+    "tabler": "database-plus"
+  }
+}

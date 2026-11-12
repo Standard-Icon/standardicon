@@ -1,0 +1,30 @@
+{
+  "name": "file-jpg",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "255:19041",
+  "looks": "A page with a folded top right corner and the letters JPG at the bottom.",
+  "use": "Use for JPG or JPEG images.",
+  "compare": {
+    "carbon": "jpg",
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": "file-jpg",
+    "radix": false,
+    "sf": false,
+    "tabler": "file-type-jpg"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "file type, label in Polymath Display Bold"
+    }
+  ]
+}

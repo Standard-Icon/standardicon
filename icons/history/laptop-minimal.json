@@ -1,0 +1,11 @@
+{
+ "name": "laptop-minimal",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"3.5\" y=\"3.5\" width=\"9\" height=\"7\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M2.5 12.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

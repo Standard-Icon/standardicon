@@ -1,0 +1,15 @@
+{
+  "name": "table-of-contents",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "editor",
+  "figmaId": "58:21542",
+  "looks": "Three horizontal lines on the left, each with a short dash at the right like a page number.",
+  "use": "Use for a table of contents or document outline.",
+  "compare": {
+    "carbon": "table-of-contents",
+    "lucide": "table-of-contents",
+    "sf": false
+  }
+}

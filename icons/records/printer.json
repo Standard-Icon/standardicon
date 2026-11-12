@@ -1,0 +1,8 @@
+{
+  "name": "printer",
+  "status": "covered",
+  "coveredBy": "print",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices"
+}

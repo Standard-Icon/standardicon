@@ -1,0 +1,16 @@
+{
+  "name": "perspective",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:25937",
+  "looks": "A trapezoid wider at the bottom, split into four panes by a cross.",
+  "use": "Use for perspective transforms or distortion.",
+  "compare": {
+    "lucide": false,
+    "phosphor": "perspective",
+    "sf": "perspective",
+    "tabler": "perspective"
+  }
+}

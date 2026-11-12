@@ -1,0 +1,17 @@
+{
+ "name": "microscope",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M6.5 2.5H9.5V8H6.5V2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 8V10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 4.5C10.45 4.711 11.319 5.195 11.998 5.893C12.677 6.59 13.138 7.471 13.324 8.427C13.51 9.382 13.412 10.372 13.044 11.273C12.676 12.174 12.052 12.948 11.25 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13.5H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 11.5H9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M5.02 2H8.02V5.137H5.02V2Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.48 5.199H7.56V8.336H5.48V5.199Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.42 2.518C9.63 2.787 10.74 3.405 11.61 4.294C12.47 5.184 13.06 6.308 13.3 7.527C13.54 8.747 13.41 10.009 12.94 11.159C12.47 12.308 11.68 13.296 10.65 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.42 2.518C9.63 2.787 10.74 3.405 11.61 4.294C12.47 5.184 13.06 6.308 13.3 7.527C13.54 8.747 13.41 10.009 12.94 11.159C12.47 12.308 11.68 13.296 10.65 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.12 4.499C9 4.719 9.8 5.224 10.43 5.952C11.06 6.68 11.48 7.599 11.65 8.596C11.82 9.594 11.73 10.626 11.39 11.566C11.05 12.507 10.48 13.314 9.74 13.89\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 14H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.8 11.44H8.3M6.55 11.44V13.814\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "eye-dashed",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25215",
+  "looks": "A dashed eye outline with a round pupil in the middle, drawn as separated segments.",
+  "use": "Use for a hidden or partial visibility state, or unlisted items.",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "eye-dashed",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

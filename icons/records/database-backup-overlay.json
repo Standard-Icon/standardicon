@@ -1,0 +1,14 @@
+{
+  "name": "database-backup-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25025",
+  "looks": "A stacked database cylinder with a small rounded square holding a circular restore arrow overlapping its lower right.",
+  "use": "Use for database backups or restoring data.",
+  "formerNames": [
+    "database-backup"
+  ],
+  "compare": {
+    "lucide": "database-backup"
+  }
+}

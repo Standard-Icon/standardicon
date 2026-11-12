@@ -1,0 +1,24 @@
+{
+  "name": "check-circle-dashed",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24138",
+  "looks": "A dashed circle with a check mark in the middle.",
+  "use": "Use for a pending confirmation or something being verified.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.404Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle-fading-check",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": "checkmark.circle",
+    "tabler": "circle-dashed-check"
+  }
+}

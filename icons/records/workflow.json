@@ -1,0 +1,20 @@
+{
+  "name": "workflow",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:53974",
+  "looks": "A small square at the upper left joined by an elbow line to another square at the lower right.",
+  "use": "Use for workflows, processes, or automations.",
+  "keywords": [
+    "automation",
+    "flow",
+    "process"
+  ],
+  "compare": {
+    "carbon": "workflow-automation",
+    "lucide": "workflow",
+    "octicons": "workflow"
+  }
+}

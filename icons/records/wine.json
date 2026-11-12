@@ -1,0 +1,21 @@
+{
+  "name": "wine",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8632",
+  "looks": "A wine glass with a wavy wine line in the bowl, a straight stem, and a flat base.",
+  "use": "Use for wine, drinks, or dining out.",
+  "keywords": [
+    "drink",
+    "glass",
+    "bar"
+  ],
+  "compare": {
+    "fluent": "drink-wine",
+    "lucide": "wine",
+    "material": "wine-bar",
+    "phosphor": "wine"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "person-shield-overlay",
+  "status": "active",
+  "parent": "person",
+  "canonical": "person",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:21451",
+  "formerNames": [
+    "person-shield"
+  ],
+  "compare": {
+    "fluent": "person-shield",
+    "lucide": "shield-user",
+    "material": "person-shield",
+    "sf": false,
+    "tabler": "user-shield"
+  }
+}

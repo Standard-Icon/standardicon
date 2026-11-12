@@ -1,0 +1,24 @@
+{
+  "name": "indent",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6187",
+  "looks": "Four horizontal lines with a right-pointing chevron beside the two middle lines on the left.",
+  "use": "Use for indenting text or increasing list level.",
+  "keywords": [
+    "tab",
+    "text"
+  ],
+  "compare": {
+    "carbon": "text-indent-more",
+    "fluent": "text-indent-increase",
+    "iconic": false,
+    "lucide": "indent",
+    "material": "format-indent-increase",
+    "phosphor": "text-indent",
+    "sf": "increase.indent",
+    "tabler": "indent-increase"
+  }
+}

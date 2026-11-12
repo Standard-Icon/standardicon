@@ -1,0 +1,23 @@
+{
+ "name": "forklift",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2 10.5V6H5.5L7.5 9V10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 2.5V12.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.75 12C4.75 12.332 4.618 12.649 4.384 12.884C4.149 13.118 3.832 13.25 3.5 13.25C3.168 13.25 2.851 13.118 2.616 12.884C2.382 12.649 2.25 12.332 2.25 12C2.25 11.668 2.382 11.351 2.616 11.116C2.851 10.882 3.168 10.75 3.5 10.75C3.832 10.75 4.149 10.882 4.384 11.116C4.618 11.351 4.75 11.668 4.75 12Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.25 12C8.25 12.332 8.118 12.649 7.884 12.884C7.649 13.118 7.332 13.25 7 13.25C6.668 13.25 6.351 13.118 6.116 12.884C5.882 12.649 5.75 12.332 5.75 12C5.75 11.668 5.882 11.351 6.116 11.116C6.351 10.882 6.668 10.75 7 10.75C7.332 10.75 7.649 10.882 7.884 11.116C8.118 11.351 8.25 11.668 8.25 12Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.5 9H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T02:43:49.866Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2 9.5V6H5.5L7.5 9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 2.5V12.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.75 12C4.75 12.331 4.618 12.649 4.384 12.884C4.149 13.118 3.831 13.25 3.5 13.25C3.169 13.25 2.851 13.118 2.616 12.884C2.382 12.649 2.25 12.331 2.25 12C2.25 11.669 2.382 11.351 2.616 11.116C2.851 10.882 3.169 10.75 3.5 10.75C3.831 10.75 4.149 10.882 4.384 11.116C4.618 11.351 4.75 11.669 4.75 12Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.25 12C8.25 12.331 8.118 12.649 7.884 12.884C7.649 13.118 7.331 13.25 7 13.25C6.669 13.25 6.351 13.118 6.116 12.884C5.882 12.649 5.75 12.331 5.75 12C5.75 11.669 5.882 11.351 6.116 11.116C6.351 10.882 6.669 10.75 7 10.75C7.331 10.75 7.649 10.882 7.884 11.116C8.118 11.351 8.25 11.669 8.25 12Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.5 9H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T06:16:11.393Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2.354 11H2V6H5.5L7.5 9V10.354\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.75 11.5C4.75 12.19 4.19 12.75 3.5 12.75C2.81 12.75 2.25 12.19 2.25 11.5C2.25 10.81 2.81 10.25 3.5 10.25C4.19 10.25 4.75 10.81 4.75 11.5Z\" stroke=\"currentColor\"/><path d=\"M8.25 11.5C8.25 12.19 7.69 12.75 7 12.75C6.31 12.75 5.75 12.19 5.75 11.5C5.75 10.81 6.31 10.25 7 10.25C7.69 10.25 8.25 10.81 8.25 11.5Z\" stroke=\"currentColor\"/><path d=\"M9.5 2.5V12.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.5 9H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

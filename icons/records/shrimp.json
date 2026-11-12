@@ -1,0 +1,15 @@
+{
+  "name": "shrimp",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19919",
+  "looks": "A curled shrimp with a head, an eye, and a segmented body ending in a tail.",
+  "use": "Use for shrimp, seafood, or shellfish allergens.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": "shrimp",
+    "phosphor": "shrimp"
+  }
+}

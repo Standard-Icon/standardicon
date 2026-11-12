@@ -1,0 +1,11 @@
+{
+ "name": "release",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3 5.5L4.5 2.5H11.5L13 5.5V12.5C13 12.765 12.895 13.02 12.707 13.207C12.52 13.395 12.265 13.5 12 13.5H4C3.735 13.5 3.48 13.395 3.293 13.207C3.105 13.02 3 12.765 3 12.5V5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 5.5H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 11.5V7.5M9.75 9.25L8 7.5L6.25 9.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "book-closed",
+  "status": "active",
+  "canonical": "book-closed",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:23898",
+  "looks": "A plain closed book seen from the front, the page edge showing along the bottom.",
+  "use": "Use for books, guides, or documentation.",
+  "compare": {
+    "carbon": "book",
+    "fluent": "book",
+    "heroicons": false,
+    "lucide": "book",
+    "material": "book",
+    "octicons": "book",
+    "phosphor": "book",
+    "radix": false,
+    "sf": "book.closed",
+    "tabler": "book"
+  }
+}

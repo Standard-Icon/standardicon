@@ -1,0 +1,25 @@
+{
+  "name": "volume-high",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5349",
+  "looks": "A speaker pointing right with two curved sound waves beside it.",
+  "use": "Use for loud volume or turning the sound up.",
+  "keywords": [
+    "sound",
+    "audio",
+    "speaker",
+    "loud"
+  ],
+  "compare": {
+    "carbon": "volume-up",
+    "fluent": false,
+    "lucide": "volume-2",
+    "material": "volume-up",
+    "phosphor": "speaker-high",
+    "sf": "speaker.wave.3",
+    "tabler": "volume"
+  }
+}

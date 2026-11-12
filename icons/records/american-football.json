@@ -1,0 +1,16 @@
+{
+  "name": "american-football",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21553",
+  "looks": "An oval football tilted on a diagonal with laces across its center seam.",
+  "use": "Use for American football or sports.",
+  "compare": {
+    "material": "sports-football",
+    "phosphor": "football",
+    "sf": "american.football",
+    "tabler": "ball-american-football"
+  }
+}

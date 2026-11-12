@@ -1,0 +1,31 @@
+{
+  "name": "file-css",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "255:19284",
+  "looks": "A page with a folded top right corner and the letters CSS at the bottom.",
+  "use": "Use for CSS stylesheets.",
+  "compare": {
+    "carbon": false,
+    "fluent": "document-css",
+    "iconic": false,
+    "lucide": false,
+    "material": "css",
+    "octicons": false,
+    "phosphor": "file-css",
+    "radix": false,
+    "sf": false,
+    "tabler": "file-type-css"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "file type, label in Polymath Display Bold"
+    }
+  ]
+}

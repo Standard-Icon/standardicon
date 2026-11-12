@@ -1,0 +1,11 @@
+{
+  "name": "toothbrush",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21444",
+  "compare": {
+    "lucide": "toothbrush"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "microchip",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "59:21728",
+  "looks": "A rounded square chip with short pins sticking out on all four sides.",
+  "use": "Use for processors, hardware, or AI models.",
+  "compare": {
+    "lucide": "microchip"
+  }
+}

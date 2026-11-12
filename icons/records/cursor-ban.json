@@ -1,0 +1,22 @@
+{
+  "name": "cursor-ban",
+  "status": "active",
+  "parent": "cursor",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:24239",
+  "looks": "An arrow pointer with a circle and slash no-entry sign at the lower right.",
+  "use": "Use for not allowed, blocked actions, or disabled clicks.",
+  "compare": {
+    "carbon": false,
+    "fluent": "cursor-prohibited",
+    "iconic": false,
+    "lucide": "mouse-pointer-ban",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

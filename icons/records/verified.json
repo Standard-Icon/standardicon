@@ -1,0 +1,19 @@
+{
+  "name": "verified",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "figmaId": "23:1846",
+  "looks": "A check mark inside a seal with a wavy, scalloped edge.",
+  "use": "Use for verified accounts, approved, or authentic.",
+  "keywords": [
+    "badge",
+    "approved"
+  ],
+  "compare": {
+    "lucide": "verified",
+    "material": "verified",
+    "octicons": "verified"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "message-oval-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27961",
+  "looks": "An oval speech bubble with a small minus sign cut into the lower right.",
+  "use": "Use for removing a message or hiding a comment.",
+  "compare": {
+    "lucide": false,
+    "tabler": "message-minus"
+  }
+}

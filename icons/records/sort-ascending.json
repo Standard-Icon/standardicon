@@ -1,0 +1,21 @@
+{
+  "name": "sort-ascending",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1555",
+  "looks": "Three short horizontal lines on the left beside an arrow pointing up.",
+  "use": "Use for sort ascending, A to Z, or low to high.",
+  "compare": {
+    "carbon": "sort-ascending",
+    "fluent": "text-sort-ascending",
+    "iconic": "sort-ascending",
+    "lucide": "list-sort-ascending",
+    "material": "sort",
+    "octicons": "sort-asc",
+    "phosphor": "sort-ascending",
+    "radix": false,
+    "tabler": "sort-ascending"
+  }
+}

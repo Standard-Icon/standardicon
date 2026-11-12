@@ -1,0 +1,23 @@
+{
+  "name": "carousel",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:32247",
+  "looks": "A tall rounded rectangle in the middle with a short vertical line on each side.",
+  "use": "Use for carousels, slideshows, or swiping between items.",
+  "compare": {
+    "carbon": "carousel-horizontal",
+    "lucide": "gallery-horizontal",
+    "material": "view-carousel",
+    "tabler": "carousel-horizontal"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "ui"
+    }
+  ]
+}

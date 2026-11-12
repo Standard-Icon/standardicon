@@ -1,0 +1,14 @@
+{
+  "name": "iteration-ccw",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23561",
+  "looks": "A circular arrow open at the lower right with its head pointing right.",
+  "use": "Use for repeating, retrying, or looping.",
+  "compare": {
+    "lucide": "iteration-ccw",
+    "tabler": "arrow-iteration"
+  }
+}

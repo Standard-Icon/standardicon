@@ -1,0 +1,19 @@
+{
+  "name": "layer-arrow-down",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26375",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "layer-arrow-down",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

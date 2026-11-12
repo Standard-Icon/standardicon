@@ -1,0 +1,14 @@
+{
+  "name": "humidity",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20406",
+  "compare": {
+    "carbon": "humidity",
+    "fluent": "weather-humidity",
+    "material": "humidity-mid",
+    "sf": "humidity"
+  }
+}

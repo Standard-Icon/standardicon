@@ -1,0 +1,22 @@
+{
+  "name": "swap-vertical",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "21:1459",
+  "looks": "Two vertical arrows side by side, the left pointing up and the right pointing down.",
+  "use": "Use for swap, reorder, or sort up and down.",
+  "compare": {
+    "carbon": false,
+    "fluent": "arrow-swap",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "arrow-up-down",
+    "material": "swap-vert",
+    "phosphor": "swap",
+    "radix": false,
+    "sf": false,
+    "tabler": "switch-vertical"
+  }
+}

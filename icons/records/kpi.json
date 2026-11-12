@@ -1,0 +1,18 @@
+{
+  "name": "kpi",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6448",
+  "looks": "A rounded rectangle with a small zigzag trend line rising inside it.",
+  "use": "Use for KPIs, key metrics, or dashboard widgets.",
+  "keywords": [
+    "metric",
+    "number",
+    "stat"
+  ],
+  "compare": {
+    "carbon": "summary-kpi"
+  }
+}

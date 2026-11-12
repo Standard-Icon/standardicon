@@ -1,0 +1,14 @@
+{
+  "name": "sink",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22191",
+  "looks": "A curved basin with a faucet arching over it.",
+  "use": "Use for a sink, washing, or plumbing.",
+  "compare": {
+    "lucide": "faucet",
+    "sf": "sink"
+  }
+}

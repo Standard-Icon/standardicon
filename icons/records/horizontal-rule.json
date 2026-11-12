@@ -1,0 +1,33 @@
+{
+  "name": "horizontal-rule",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1248",
+  "looks": "A horizontal line between two flat rounded blocks, one above and one below.",
+  "use": "Use for a horizontal rule, divider, or section break.",
+  "keywords": [
+    "divider",
+    "separator",
+    "hr"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.019Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "rule",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "horizontal-rule",
+    "octicons": "horizontal-rule",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

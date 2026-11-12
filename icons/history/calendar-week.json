@@ -1,0 +1,17 @@
+{
+ "name": "calendar-week",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.5 3.5H12.5C12.765 3.5 13.02 3.605 13.207 3.793C13.395 3.98 13.5 4.235 13.5 4.5V12.5C13.5 12.765 13.395 13.02 13.207 13.207C13.02 13.395 12.765 13.5 12.5 13.5H3.5C3.235 13.5 2.98 13.395 2.793 13.207C2.605 13.02 2.5 12.765 2.5 12.5V4.5C2.5 4.235 2.605 3.98 2.793 3.793C2.98 3.605 3.235 3.5 3.5 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 6.5H13.5M5.5 2V4.5M10.5 2V4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.75 8.5H11.25C11.316 8.5 11.38 8.526 11.427 8.573C11.474 8.62 11.5 8.684 11.5 8.75V10.25C11.5 10.316 11.474 10.38 11.427 10.427C11.38 10.474 11.316 10.5 11.25 10.5H4.75C4.684 10.5 4.62 10.474 4.573 10.427C4.526 10.38 4.5 10.316 4.5 10.25V8.75C4.5 8.684 4.526 8.62 4.573 8.573C4.62 8.526 4.684 8.5 4.75 8.5Z\" fill=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3.059\" width=\"11\" height=\"10.8304\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.5 5.738H13.5M5.5 2.111V3.877M10.5 2.111V3.877\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"4.5\" y=\"8.29\" width=\"7\" height=\"2\" rx=\"0.25\" fill=\"currentColor\"/>"
+  }
+ ]
+}

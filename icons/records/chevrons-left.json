@@ -1,0 +1,23 @@
+{
+  "name": "chevrons-left",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Chevrons and carets",
+  "figmaId": "21:1539",
+  "looks": "Two chevrons pointing left, side by side.",
+  "use": "Use for first page, rewind, or collapse to the left.",
+  "compare": {
+    "carbon": false,
+    "fluent": "chevron-double-left",
+    "heroicons": "chevron-double-left",
+    "iconic": false,
+    "lucide": "chevrons-left",
+    "material": "keyboard-double-arrow-left",
+    "octicons": false,
+    "phosphor": "caret-double-left",
+    "radix": "double-arrow-left",
+    "sf": "chevron.left.2",
+    "tabler": "chevrons-left"
+  }
+}

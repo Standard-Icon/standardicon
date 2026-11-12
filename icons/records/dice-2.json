@@ -1,0 +1,21 @@
+{
+  "name": "dice-2",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25401",
+  "looks": "A rounded square die with two dots on a diagonal.",
+  "use": "Use for a die showing two, dice games, or chance.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "dice-2",
+    "material": false,
+    "octicons": false,
+    "phosphor": "dice-two",
+    "radix": false,
+    "sf": "die.face.2",
+    "tabler": "dice-2"
+  }
+}

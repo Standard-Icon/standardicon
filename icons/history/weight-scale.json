@@ -1,0 +1,11 @@
+{
+ "name": "weight-scale",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"2\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5.25 6.5C5.483 5.965 5.868 5.509 6.356 5.189C6.845 4.869 7.416 4.699 8 4.699C8.584 4.699 9.155 4.869 9.644 5.189C10.132 5.509 10.517 5.965 10.75 6.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 7L9 5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "panels-left-bottom",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23665",
+  "looks": "A rounded square split into a tall left panel and a right column divided into top and bottom, the bottom one filled by the lower line.",
+  "use": "Use for layouts with a left panel and a bottom panel.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "panels-left-bottom",
+    "material": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

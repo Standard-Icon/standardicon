@@ -1,0 +1,8 @@
+{
+  "name": "layout-rows",
+  "status": "covered",
+  "coveredBy": "layout-list",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Navigation and layout"
+}

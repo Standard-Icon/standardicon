@@ -1,0 +1,19 @@
+{
+ "name": "file-minus-integrated",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M4.142 1.858H9.654L12.962 5.208V13.025C12.962 13.321 12.845 13.605 12.639 13.815C12.432 14.024 12.151 14.142 11.859 14.142H4.142C3.849 14.142 3.569 14.024 3.362 13.815C3.155 13.605 3.039 13.321 3.039 13.025V2.975C3.039 2.679 3.155 2.395 3.362 2.185C3.569 1.976 3.849 1.858 4.142 1.858Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.217 2.028V4.665C9.217 5.217 9.665 5.665 10.217 5.665H12.807\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.425 9.5H9.576\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  },
+  {
+   "at": "2026-11-10T08:37:50.294Z",
+   "source": "working copy",
+   "released": true,
+   "body": "<path d=\"M4.543 2.498H9.481L12.444 5.499V12.501C12.444 12.766 12.34 13.021 12.155 13.208C11.969 13.396 11.718 13.501 11.456 13.501H4.543C4.281 13.501 4.03 13.396 3.845 13.208C3.66 13.021 3.556 12.766 3.556 12.501V3.499C3.556 3.233 3.66 2.979 3.845 2.791C4.03 2.604 4.281 2.498 4.543 2.498Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.09 2.651V4.908C9.09 5.46 9.538 5.908 10.09 5.908H12.306\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.589 9.344H9.411\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "towel-rack",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21423",
+  "looks": "A towel hanging over a horizontal rail with an end cap on each side.",
+  "use": "Use for towels, a bathroom, or laundry.",
+  "compare": {
+    "lucide": "towel-rack",
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

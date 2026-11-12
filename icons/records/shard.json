@@ -1,0 +1,10 @@
+{
+  "name": "shard",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:3340",
+  "looks": "A diamond split top to bottom by a jagged crack.",
+  "use": "Use for database shards, partitions, or fragments."
+}

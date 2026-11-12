@@ -1,0 +1,28 @@
+{
+  "name": "eye",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "18:1275",
+  "looks": "An almond-shaped eye with a round pupil in the middle.",
+  "use": "Use for view, show, or visible.",
+  "keywords": [
+    "view",
+    "show",
+    "visible",
+    "preview"
+  ],
+  "compare": {
+    "carbon": "view",
+    "fluent": "eye",
+    "heroicons": "eye",
+    "lucide": "eye",
+    "material": "visibility",
+    "octicons": "eye",
+    "phosphor": "eye",
+    "radix": "eye-open",
+    "sf": "eye",
+    "tabler": "eye"
+  }
+}

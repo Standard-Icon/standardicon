@@ -1,0 +1,25 @@
+{
+  "name": "arrow-to-top",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "21:1390",
+  "looks": "An arrow pointing up to a flat line above it.",
+  "use": "Use for back to top, upload, or jump to the start.",
+  "keywords": [
+    "scroll to top"
+  ],
+  "compare": {
+    "carbon": "up-to-top",
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "arrow-up-to-line",
+    "material": false,
+    "octicons": "move-to-top",
+    "phosphor": "arrow-line-up",
+    "radix": false,
+    "sf": "arrow.up.to.line",
+    "tabler": "arrow-bar-to-up"
+  }
+}

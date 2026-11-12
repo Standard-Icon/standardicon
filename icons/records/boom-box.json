@@ -1,0 +1,21 @@
+{
+  "name": "boom-box",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "322:23955",
+  "flags": [
+    "needs-revision"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "speaker-box",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "boom-box",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

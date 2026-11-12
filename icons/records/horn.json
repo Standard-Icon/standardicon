@@ -1,0 +1,24 @@
+{
+  "name": "horn",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:21085",
+  "looks": "A small circle on the left joined to a horn that flares open to the right.",
+  "use": "Use for a car horn, honking, or loud alerts.",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "sf": "horn"
+  },
+  "notes": [
+    {
+      "at": "2026-11-09",
+      "by": "morgan",
+      "text": "Need another iteration on this.",
+      "issue": "need-another-iteration-on-this"
+    }
+  ]
+}

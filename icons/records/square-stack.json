@@ -1,0 +1,23 @@
+{
+  "name": "square-stack",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24004",
+  "looks": "Two rounded squares stacked, with the back one peeking out at the upper right.",
+  "use": "Use for layers, stacks, or duplicates.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "square-2-stack",
+    "iconic": false,
+    "lucide": "square-stack",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "square.stack",
+    "tabler": false
+  }
+}

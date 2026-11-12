@@ -1,0 +1,17 @@
+{
+  "name": "panel-right-dashed",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27547",
+  "looks": "A rounded rectangle with a vertical dashed line near the right edge.",
+  "use": "Use for a right sidebar or panel.",
+  "compare": {
+    "carbon": "open-panel-right",
+    "fluent": "panel-right",
+    "lucide": "panel-right-dashed",
+    "material": "right-panel-open",
+    "radix": "panel-right",
+    "sf": false,
+    "tabler": false
+  }
+}

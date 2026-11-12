@@ -1,0 +1,28 @@
+{
+  "name": "plus",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "18:1222",
+  "looks": "A single plus sign.",
+  "use": "Use for add, create, or new.",
+  "keywords": [
+    "add",
+    "new",
+    "create",
+    "insert"
+  ],
+  "compare": {
+    "carbon": "add",
+    "fluent": "add",
+    "heroicons": "plus",
+    "lucide": "plus",
+    "material": "add",
+    "octicons": "plus",
+    "phosphor": "plus",
+    "radix": "plus",
+    "sf": "plus",
+    "tabler": "plus"
+  }
+}

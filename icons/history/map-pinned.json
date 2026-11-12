@@ -1,0 +1,11 @@
+{
+ "name": "map-pinned",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M8 10.68C8 10.68 11.6 8.56 11.6 5.6C11.6 4.64 11.22 3.728 10.54 3.048C9.86 2.376 8.95 2 8 2C7.04 2 6.13 2.376 5.45 3.048C4.78 3.728 4.4 4.64 4.4 5.6C4.4 8.56 8 10.68 8 10.68Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"5.6\" r=\"1.25\" stroke=\"currentColor\"/><path d=\"M4.25 11L2.5 13.5H13.5L11.75 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "minus",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1534",
+  "looks": "A single short horizontal line.",
+  "use": "Use for remove, subtract, or zoom out.",
+  "keywords": [
+    "remove",
+    "subtract"
+  ],
+  "compare": {
+    "carbon": "subtract",
+    "fluent": "subtract",
+    "heroicons": "minus",
+    "lucide": "minus",
+    "material": "remove",
+    "octicons": "dash",
+    "phosphor": "minus",
+    "radix": "minus",
+    "sf": "minus",
+    "tabler": "minus"
+  }
+}

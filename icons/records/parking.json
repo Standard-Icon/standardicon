@@ -1,0 +1,17 @@
+{
+  "name": "parking",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7306",
+  "looks": "A rounded square with a bold letter P inside.",
+  "use": "Use for parking, parking lots, or garages.",
+  "compare": {
+    "fluent": "vehicle-car-parking",
+    "lucide": "parking-square",
+    "material": "parking-sign",
+    "sf": "parkingsign",
+    "tabler": "parking"
+  }
+}

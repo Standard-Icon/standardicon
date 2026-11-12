@@ -1,0 +1,11 @@
+{
+ "name": "eye-closed",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.5 5.25C4 7.75 6 8.75 8 8.75C10 8.75 12 7.75 13.5 5.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.25 7.25L3 9M8 8.75V10.75M11.75 7.25L13 9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

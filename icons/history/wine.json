@@ -1,0 +1,23 @@
+{
+ "name": "wine",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M5 2.5H11L11.5 6C11.5 6.928 11.131 7.819 10.475 8.475C9.818 9.131 8.928 9.5 8 9.5C7.072 9.5 6.182 9.131 5.525 8.475C4.869 7.819 4.5 6.928 4.5 6L5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 9.5V13.5M5.5 13.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.75 5H11.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M5 2.5H11L11.5 6C11.5 6.928 11.131 7.819 10.475 8.475C9.818 9.131 8.928 9.5 8 9.5C7.072 9.5 6.182 9.131 5.525 8.475C4.869 7.819 4.5 6.928 4.5 6L5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 9.5V13.5M5.5 13.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.75 4.999C4.75 4.999 6.473 4.294 8 4.999C9.527 5.705 11.25 4.999 11.25 4.999\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M5 2.5H11L11.5 6C11.5 6.928 11.131 7.818 10.475 8.475C9.818 9.131 8.928 9.5 8 9.5C7.072 9.5 6.182 9.131 5.525 8.475C4.869 7.818 4.5 6.928 4.5 6L5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 9.5V13.5H5.5M8 13.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.75 5C4.75 5 6.473 4.295 8 5C9.527 5.705 11.25 5 11.25 5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "check",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "12:568",
+  "looks": "A single check mark.",
+  "use": "Use for done, confirm, or selected.",
+  "keywords": [
+    "done",
+    "confirm",
+    "success",
+    "tick",
+    "yes"
+  ],
+  "compare": {
+    "carbon": "checkmark",
+    "fluent": "checkmark",
+    "heroicons": "check",
+    "lucide": "check",
+    "material": "check",
+    "octicons": "check",
+    "phosphor": "check",
+    "radix": "check",
+    "sf": "checkmark",
+    "tabler": "check"
+  }
+}

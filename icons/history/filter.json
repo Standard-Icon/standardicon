@@ -1,0 +1,17 @@
+{
+ "name": "filter",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M2.5 3.5H13.5L9.5 8.5V12.5L6.5 11V8.5L2.5 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M9.315 8L12.95 3.657C13.168 3.396 12.983 3 12.644 3H3.359C3.019 3 2.834 3.397 3.053 3.658L6.707 8V11.344L9.315 12.844V8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

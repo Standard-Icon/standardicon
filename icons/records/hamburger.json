@@ -1,0 +1,15 @@
+{
+  "name": "hamburger",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19564",
+  "looks": "A burger with a domed top bun, a wavy filling layer, and a flat bottom bun.",
+  "use": "Use for burgers, fast food, or meals.",
+  "compare": {
+    "lucide": "hamburger",
+    "phosphor": "hamburger",
+    "radix": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "letter-spacing",
+  "status": "active",
+  "canonical": "letter-a",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:31985",
+  "looks": "A capital A above a horizontal double-headed arrow pointing left and right.",
+  "use": "Use for letter spacing, tracking, or kerning.",
+  "compare": {
+    "carbon": false,
+    "fluent": "text-line-spacing",
+    "lucide": "letter-spacing",
+    "material": "format-letter-spacing",
+    "octicons": false,
+    "radix": "letter-spacing",
+    "sf": false,
+    "tabler": "letter-spacing"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "text"
+    }
+  ]
+}

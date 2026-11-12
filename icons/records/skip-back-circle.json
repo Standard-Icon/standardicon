@@ -1,0 +1,24 @@
+{
+  "name": "skip-back-circle",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "media",
+  "figmaId": "111:31109",
+  "looks": "A left-pointing triangle with a bar at its left tip, inside a circle.",
+  "use": "Use for previous track or skipping back.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.560Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "phosphor": "skip-back-circle",
+    "sf": false,
+    "tabler": false
+  }
+}

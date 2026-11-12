@@ -1,0 +1,8 @@
+{
+  "name": "console",
+  "status": "covered",
+  "coveredBy": "terminal",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development"
+}

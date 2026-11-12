@@ -1,0 +1,19 @@
+{
+  "name": "dice-3",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25382",
+  "looks": "A rounded square die with three dots on a diagonal.",
+  "use": "Use for a die showing three, dice games, or chance.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "lucide": "dice-3",
+    "material": false,
+    "octicons": false,
+    "phosphor": "dice-three",
+    "sf": "die.face.3",
+    "tabler": "dice-3"
+  }
+}

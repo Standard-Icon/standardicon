@@ -1,0 +1,11 @@
+{
+ "name": "list-checks",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.5 3.5L3.75 4.75L5.75 2.5M2.5 12L3.75 13.25L5.75 11M2.75 8H5.5M8 4H13.5M8 8H13.5M8 12.25H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

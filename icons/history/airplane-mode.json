@@ -1,0 +1,17 @@
+{
+ "name": "airplane-mode",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M8 2C8.75 2 9 3 9 4V6.5L13.5 9V10.5L9 9V12L10.5 13V14L8 13.4L5.5 14V13L7 12V9L2.5 10.5V9L7 6.5V4C7 3 7.25 2 8 2Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M8 2C8.75 2 9 3 9 4V6.5L13.243 8.857C13.402 8.945 13.5 9.113 13.5 9.294V10.5L9 9V12L10.5 13V14L8 13.4L5.5 14V13L7 12V9L2.5 10.5V9.294C2.5 9.113 2.598 8.945 2.757 8.857L7 6.5V4C7 3 7.25 2 8 2Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

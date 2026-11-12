@@ -1,0 +1,11 @@
+{
+ "name": "fish-symbol",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M13.75 11C12.83 10.489 12.03 9.266 11.21 8C12.03 6.734 12.83 5.511 13.75 5M11.21 8C10.02 6.171 8.77 4.25 7 4.25C4.75 4.25 3.25 6 2.25 8C3.25 10 4.75 11.75 7 11.75C8.77 11.75 10.02 9.829 11.21 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

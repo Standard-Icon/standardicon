@@ -1,0 +1,16 @@
+{
+  "name": "tag-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "332:26911",
+  "looks": "A tilted price tag with a small x cut into its lower right corner.",
+  "use": "Use for deleting or clearing a tag.",
+  "fillApproved": true,
+  "compare": {
+    "fluent": "tag-dismiss",
+    "heroicons": false,
+    "lucide": "tag-x",
+    "radix": false,
+    "sf": false
+  }
+}

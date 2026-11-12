@@ -1,0 +1,17 @@
+{
+ "name": "hospital",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M4 2.5H12C12.265 2.5 12.52 2.605 12.707 2.793C12.895 2.98 13 3.235 13 3.5V12.5C13 12.765 12.895 13.02 12.707 13.207C12.52 13.395 12.265 13.5 12 13.5H4C3.735 13.5 3.48 13.395 3.293 13.207C3.105 13.02 3 12.765 3 12.5V3.5C3 3.235 3.105 2.98 3.293 2.793C3.48 2.605 3.735 2.5 4 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5V9M6 7H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 13.5V11.5H9.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"3\" y=\"1.922\" width=\"10\" height=\"12.1562\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M7.999 4.875V7.788M6.543 6.332H9.456\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.727 14.078V10.615H9.275V14.078\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

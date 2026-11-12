@@ -1,0 +1,11 @@
+{
+ "name": "layout-dashboard",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"5\" height=\"6.5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"9.5\" y=\"2.5\" width=\"4\" height=\"4\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"2.5\" y=\"11\" width=\"5\" height=\"2.5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"9.5\" y=\"8.5\" width=\"4\" height=\"5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

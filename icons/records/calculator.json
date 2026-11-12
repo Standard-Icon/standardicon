@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6682",
+  "looks": "A calculator with a display at the top and a grid of keys below.",
+  "use": "Use for calculations, pricing, or totals.",
+  "keywords": [
+    "math",
+    "accounting"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "calculator",
+    "fluent": "calculator",
+    "heroicons": "calculator",
+    "lucide": "calculator",
+    "phosphor": "calculator",
+    "tabler": "calculator"
+  }
+}

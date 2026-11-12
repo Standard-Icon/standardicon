@@ -1,0 +1,16 @@
+{
+  "name": "octagon-minus-integrated",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27287",
+  "looks": "An eight-sided outline with a short horizontal minus drawn inside it.",
+  "use": "Use for blocked, restricted, or no entry.",
+  "formerNames": [
+    "octagon-minus"
+  ],
+  "compare": {
+    "lucide": "octagon-minus",
+    "sf": false,
+    "tabler": "octagon-minus"
+  }
+}

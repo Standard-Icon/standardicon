@@ -1,0 +1,11 @@
+{
+ "name": "database-zap-overlay",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M13.499 4.207C13.499 5.045 10.932 5.914 7.999 5.914C5.066 5.914 2.499 5.045 2.499 4.207C2.499 3.369 5.066 2.5 7.999 2.5C10.932 2.5 13.499 3.369 13.499 4.207Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.499 8C13.499 8.838 10.932 9.707 7.999 9.707C5.066 9.707 2.499 8.838 2.499 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.499 4.207L13.499 9.55M9.55 13.419C9.054 13.471 8.533 13.5 7.999 13.5C5.066 13.5 2.499 12.631 2.499 11.793L2.499 4.207\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M12.6 11L11.4 12.4H13.1L11.9 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

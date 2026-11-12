@@ -1,0 +1,25 @@
+{
+  "name": "translate",
+  "status": "active",
+  "canonical": "letter-a",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:4307",
+  "looks": "A Chinese character at the upper left and a capital letter A at the lower right.",
+  "use": "Use for translation, languages, or localization.",
+  "keywords": [
+    "language",
+    "i18n"
+  ],
+  "compare": {
+    "carbon": "translate",
+    "fluent": "translate",
+    "heroicons": "language",
+    "lucide": "languages",
+    "material": "translate",
+    "phosphor": "translate",
+    "sf": "translate",
+    "tabler": "language"
+  }
+}

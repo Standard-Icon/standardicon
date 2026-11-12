@@ -1,0 +1,14 @@
+{
+  "name": "zodiac-aquarius",
+  "status": "active",
+  "source": "later",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22865",
+  "looks": "Two parallel zigzag lines, one above the other.",
+  "use": "Use for Aquarius, astrology, or horoscopes.",
+  "compare": {
+    "lucide": "zodiac-aquarius",
+    "tabler": "zodiac-aquarius"
+  }
+}

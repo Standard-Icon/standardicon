@@ -1,0 +1,8 @@
+{
+  "name": "chart-scatter",
+  "status": "covered",
+  "coveredBy": "embedding",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics"
+}

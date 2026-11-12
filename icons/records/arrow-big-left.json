@@ -1,0 +1,23 @@
+{
+  "name": "arrow-big-left",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "navigation",
+  "figmaId": "58:21191",
+  "looks": "A thick hollow block arrow pointing left.",
+  "use": "Use for back, previous, or a strong left direction.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "arrow-big-left",
+    "material": false,
+    "octicons": false,
+    "phosphor": "arrow-fat-left",
+    "radix": "thick-arrow-left",
+    "sf": "arrowshape.left",
+    "tabler": "arrow-big-left"
+  }
+}

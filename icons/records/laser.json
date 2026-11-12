@@ -1,0 +1,16 @@
+{
+  "name": "laser",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:22491",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "lucide": "laser",
+    "material": "stylus-laser-pointer",
+    "sf": "laser.burst"
+  }
+}

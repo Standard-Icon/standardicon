@@ -1,0 +1,20 @@
+{
+  "name": "bluetooth-off",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "322:23896",
+  "looks": "A Bluetooth rune with a diagonal line crossing it.",
+  "use": "Use for Bluetooth turned off or disabled.",
+  "compare": {
+    "carbon": "bluetooth-off",
+    "fluent": false,
+    "iconic": false,
+    "lucide": "bluetooth-off",
+    "material": "bluetooth-disabled",
+    "octicons": false,
+    "phosphor": "bluetooth-slash",
+    "radix": false,
+    "sf": false,
+    "tabler": "bluetooth-off"
+  }
+}

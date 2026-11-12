@@ -1,0 +1,23 @@
+{
+ "name": "map-pin-plus",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M8 13.5C8 13.5 12.5 9.75 12.5 6.5C12.5 5.306 12.026 4.162 11.182 3.318C10.338 2.474 9.193 2 8 2C6.807 2 5.662 2.474 4.818 3.318C3.974 4.162 3.5 5.306 3.5 6.5C3.5 9.75 8 13.5 8 13.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 4.75V8.25M6.25 6.5H9.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M8 12.853C8 12.853 12.5 10.207 12.5 6.5C12.5 5.307 12.026 4.162 11.182 3.318C10.338 2.474 9.194 2 8 2C6.806 2 5.662 2.474 4.818 3.318C3.974 4.162 3.5 5.307 3.5 6.5C3.5 10.207 8 12.853 8 12.853Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.001V7.999M6.501 6.5H9.499\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M8 13.353C8 13.353 12.5 10.707 12.5 7C12.5 5.807 12.026 4.662 11.182 3.818C10.338 2.974 9.193 2.5 8 2.5C6.807 2.5 5.662 2.974 4.818 3.818C3.974 4.662 3.5 5.807 3.5 7C3.5 10.707 8 13.353 8 13.353Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.999 5.501V8.499M6.5 7H9.498\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

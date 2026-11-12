@@ -1,0 +1,27 @@
+{
+  "name": "window-restore",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31412",
+  "looks": "Two overlapping windows with top bars, the back one up and to the right.",
+  "use": "Use for restoring a window to its earlier size.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "navigation"
+    }
+  ]
+}

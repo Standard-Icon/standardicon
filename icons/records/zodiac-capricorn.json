@@ -1,0 +1,14 @@
+{
+  "name": "zodiac-capricorn",
+  "status": "active",
+  "source": "later",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22849",
+  "looks": "A curve shaped like an n with a hooked tail that loops into a small circle at the lower right.",
+  "use": "Use for Capricorn, astrology, or horoscopes.",
+  "compare": {
+    "lucide": "zodiac-capricorn",
+    "tabler": "zodiac-capricorn"
+  }
+}

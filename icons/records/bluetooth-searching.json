@@ -1,0 +1,19 @@
+{
+  "name": "bluetooth-searching",
+  "status": "active",
+  "parent": "bluetooth",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:24107",
+  "looks": "A Bluetooth rune with two curved waves to the right.",
+  "use": "Use for searching or pairing Bluetooth devices.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": "bluetooth-searching",
+    "material": "bluetooth-searching",
+    "phosphor": false,
+    "tabler": false
+  }
+}

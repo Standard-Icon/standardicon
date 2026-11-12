@@ -1,0 +1,16 @@
+{
+  "name": "stove",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22086",
+  "looks": "A rounded square with burner lines at the top, a control row, and an oven window below.",
+  "use": "Use for a stove, range, or cooking.",
+  "fillApproved": true,
+  "compare": {
+    "fluent": "stove",
+    "lucide": false,
+    "sf": "stove"
+  }
+}

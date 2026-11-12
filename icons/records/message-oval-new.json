@@ -1,0 +1,27 @@
+{
+  "name": "message-oval-new",
+  "status": "active",
+  "parent": "message-oval",
+  "canonical": "message-oval",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:3878",
+  "looks": "An oval speech bubble with a plus sign centered inside it.",
+  "use": "Use for starting a new message, chat, or comment.",
+  "formerNames": [
+    "comment-plus"
+  ],
+  "compare": {
+    "iconic": false,
+    "lucide": false,
+    "sf": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "was `message-oval-plus` (plus inside the bubble)"
+    }
+  ]
+}

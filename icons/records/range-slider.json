@@ -1,0 +1,22 @@
+{
+  "name": "range-slider",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:32340",
+  "looks": "A horizontal line with two round knobs side by side near the center.",
+  "use": "Use for range selection or min and max values.",
+  "compare": {
+    "lucide": false,
+    "material": false,
+    "radix": "slider"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "ui"
+    }
+  ]
+}

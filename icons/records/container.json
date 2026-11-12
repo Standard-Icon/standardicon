@@ -1,0 +1,22 @@
+{
+  "name": "container",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:3148",
+  "looks": "A wide rectangle with four vertical ribs inside, like a shipping container.",
+  "use": "Use for containers, Docker, or shipping.",
+  "keywords": [
+    "docker",
+    "box"
+  ],
+  "compare": {
+    "carbon": "container-image",
+    "lucide": "container",
+    "octicons": "container",
+    "phosphor": "shipping-container",
+    "radix": "container",
+    "tabler": "container"
+  }
+}

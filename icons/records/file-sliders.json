@@ -1,0 +1,19 @@
+{
+  "name": "file-sliders",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25326",
+  "looks": "A file with a folded top right corner and two short slider lines with knobs inside.",
+  "use": "Use for file settings, config files, or preferences.",
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": "file-sliders",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

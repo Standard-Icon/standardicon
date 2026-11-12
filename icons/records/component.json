@@ -1,0 +1,24 @@
+{
+  "name": "component",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6723",
+  "looks": "Four small diamonds arranged in a larger diamond pattern, with the center left open.",
+  "use": "Use for components, reusable parts, or design systems.",
+  "keywords": [
+    "design system",
+    "symbol"
+  ],
+  "approved": {
+    "at": "2026-11-12T02:32:49.309Z",
+    "by": "morgan",
+    "version": "2026-11-07T00:54:17-08:00"
+  },
+  "compare": {
+    "lucide": "component",
+    "material": false,
+    "radix": "component-1"
+  }
+}

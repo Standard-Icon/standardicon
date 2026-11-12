@@ -1,0 +1,19 @@
+{
+  "name": "plane-seat",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20133",
+  "looks": "A side view of a reclined seat with a tall back, a cushion, and a pedestal base.",
+  "use": "Use for seat selection, flights, or seating.",
+  "compare": {
+    "carbon": false,
+    "fluent": "seat",
+    "lucide": false,
+    "material": "airline-seat-recline-normal",
+    "phosphor": "seat",
+    "radix": false,
+    "tabler": false
+  }
+}

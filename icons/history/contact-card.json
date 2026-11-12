@@ -1,0 +1,17 @@
+{
+ "name": "contact-card",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3 3.5H13C13.265 3.5 13.52 3.605 13.707 3.793C13.895 3.98 14 4.235 14 4.5V11.5C14 11.765 13.895 12.02 13.707 12.207C13.52 12.395 13.265 12.5 13 12.5H3C2.735 12.5 2.48 12.395 2.293 12.207C2.105 12.02 2 11.765 2 11.5V4.5C2 4.235 2.105 3.98 2.293 3.793C2.48 3.605 2.735 3.5 3 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 7C7 7.332 6.868 7.65 6.634 7.884C6.399 8.118 6.082 8.25 5.75 8.25C5.418 8.25 5.101 8.118 4.866 7.884C4.632 7.65 4.5 7.332 4.5 7C4.5 6.669 4.632 6.35 4.866 6.116C5.101 5.882 5.418 5.75 5.75 5.75C6.082 5.75 6.399 5.882 6.634 6.116C6.868 6.35 7 6.669 7 7Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.75 10.5C4 9.5 4.75 9.25 5.75 9.25C6.75 9.25 7.5 9.5 7.75 10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.75 6.5H12M9.75 9H12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2\" y=\"3.5\" width=\"12\" height=\"9\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.867 6.883C6.867 7.5 6.367 8 5.75 8C5.134 8 4.634 7.5 4.634 6.883C4.634 6.267 5.134 5.767 5.75 5.767C6.367 5.767 6.867 6.267 6.867 6.883Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.075 10.233C4.261 9.303 4.894 8.93 5.75 8.93C6.606 8.93 7.239 9.303 7.425 10.233\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.75 6.5H12M9.75 9H12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

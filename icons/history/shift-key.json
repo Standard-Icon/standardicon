@@ -1,0 +1,11 @@
+{
+ "name": "shift-key",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.294Z",
+   "source": "working copy",
+   "released": true,
+   "body": "<path d=\"M8.001 5.079L9.826 6.739H8.748V8.258H7.253V6.739H6.175L8.001 5.079Z\" fill=\"currentColor\"/><rect x=\"4.306\" y=\"3.519\" width=\"7.39025\" height=\"6.51025\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.74 12.764H11.263C12.396 12.764 13.303 11.824 13.262 10.692L13.075 5.442C13.036 4.366 12.153 3.514 11.076 3.514H4.937C3.862 3.514 2.979 4.364 2.939 5.439L2.741 10.689C2.698 11.822 3.606 12.764 4.74 12.764Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.567 9.66L3.463 12.212M11.432 9.66L12.536 12.212\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

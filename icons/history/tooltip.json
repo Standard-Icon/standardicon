@@ -1,0 +1,11 @@
+{
+ "name": "tooltip",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M4 4.215H12C12.828 4.215 13.5 4.887 13.5 5.715V8.893C13.5 9.721 12.828 10.393 12 10.393H10.084C9.856 10.393 9.635 10.471 9.457 10.614L8 11.785L6.516 10.609C6.34 10.469 6.121 10.393 5.895 10.393H4C3.172 10.393 2.5 9.721 2.5 8.893V5.715C2.5 4.887 3.172 4.215 4 4.215Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 7.276H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

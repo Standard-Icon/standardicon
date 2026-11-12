@@ -1,0 +1,12 @@
+{
+  "name": "sankey",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6573",
+  "compare": {
+    "carbon": "sankey-diagram",
+    "tabler": "chart-sankey"
+  }
+}

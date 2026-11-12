@@ -1,0 +1,21 @@
+{
+  "name": "two-factor",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:5736",
+  "looks": "A phone outline with a check mark in the center and a bar at the bottom.",
+  "use": "Use for two-factor authentication or phone verification.",
+  "keywords": [
+    "2fa",
+    "mfa",
+    "auth"
+  ],
+  "compare": {
+    "carbon": "two-factor-authentication",
+    "fluent": false,
+    "material": false,
+    "phosphor": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "toolbox",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "59:21650",
+  "looks": "A toolbox with a handle on top and a horizontal band with two latches across the front.",
+  "use": "Use for tools, utilities, or a kit of resources.",
+  "compare": {
+    "fluent": "toolbox",
+    "lucide": "toolbox",
+    "material": false,
+    "phosphor": "toolbox"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "skip-back",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "solid": "needed",
+  "figmaId": "34:5286",
+  "looks": "A left-pointing triangle with a vertical bar at its left tip.",
+  "use": "Use for previous track or skipping back.",
+  "keywords": [
+    "previous track"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.507Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "skip-back",
+    "fluent": "previous",
+    "lucide": "skip-back",
+    "material": "skip-previous",
+    "octicons": false,
+    "phosphor": "skip-back",
+    "sf": "backward.end",
+    "tabler": "player-skip-back"
+  }
+}

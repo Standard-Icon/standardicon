@@ -1,0 +1,15 @@
+{
+  "name": "message-oval-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27997",
+  "looks": "An oval speech bubble with a small x cut into the lower right.",
+  "use": "Use for deleting a message or closing a chat.",
+  "compare": {
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "message-circle-x",
+    "radix": false,
+    "tabler": "message-x"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "mouse-right",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27175",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "mouse-right",
+    "material": "mouse",
+    "octicons": false,
+    "phosphor": "mouse-right-click",
+    "radix": false,
+    "sf": false,
+    "tabler": "mouse"
+  }
+}

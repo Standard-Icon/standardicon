@@ -1,0 +1,11 @@
+{
+ "name": "diya",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2 9C4.5 9.75 9 9.75 13.75 8.25C13.5 11 11.25 13.25 8 13.25C4.75 13.25 2.25 11.75 2 9Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11 2.5C11.75 3.5 12.25 4.25 12.25 5C12.25 5.7 11.7 6.25 11 6.25C10.3 6.25 9.75 5.7 9.75 5C9.75 4.25 10.25 3.5 11 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11 6.25V9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

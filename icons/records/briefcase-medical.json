@@ -1,0 +1,25 @@
+{
+  "name": "briefcase-medical",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26197",
+  "looks": "A briefcase with a handle on top and a plus sign in the center.",
+  "use": "Use for first aid, medical kits, or healthcare.",
+  "approved": {
+    "at": "2026-11-10T19:50:15.199Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "briefcase-medical",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "briefcase-medical",
+    "material": "medical-services",
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

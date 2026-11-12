@@ -1,0 +1,26 @@
+{
+  "name": "cursor-line",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27137",
+  "looks": "An arrowhead aimed up-left with a straight tail line running down to the right.",
+  "use": "Use for selecting, pointing, or the select tool.",
+  "approved": {
+    "at": "2026-11-11T19:15:35.806Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "mouse-pointer",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

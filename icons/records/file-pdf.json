@@ -1,0 +1,28 @@
+{
+  "name": "file-pdf",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:4841",
+  "looks": "A page with a folded top right corner and the letters PDF on it.",
+  "use": "Use for PDF documents or downloads.",
+  "keywords": [
+    "document",
+    "acrobat"
+  ],
+  "compare": {
+    "carbon": "pdf",
+    "fluent": "document-pdf",
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": "file-pdf",
+    "radix": false,
+    "sf": false,
+    "tabler": "file-type-pdf"
+  }
+}

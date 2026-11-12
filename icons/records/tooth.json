@@ -1,0 +1,14 @@
+{
+  "name": "tooth",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27466",
+  "looks": "A molar tooth with a rounded crown and two roots.",
+  "use": "Use for dentists, dental care, or teeth.",
+  "compare": {
+    "heroicons": false,
+    "phosphor": "tooth"
+  }
+}

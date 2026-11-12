@@ -1,0 +1,21 @@
+{
+  "name": "folder-bookmark",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26067",
+  "looks": "A folder with a small bookmark ribbon inside its right side.",
+  "use": "Use for saved or favorite folders.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "folder-bookmark",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

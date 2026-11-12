@@ -1,0 +1,12 @@
+{
+ "name": "file-digit",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M4.542 2.491H9.478L12.443 5.492V12.497C12.443 12.765 12.335 13.016 12.147 13.204C11.968 13.392 11.717 13.5 11.448 13.5H4.542C4.273 13.5 4.023 13.392 3.843 13.204C3.655 13.016 3.548 12.765 3.548 12.497V3.494C3.548 3.226 3.655 2.975 3.843 2.787C4.023 2.599 4.273 2.491 4.542 2.491Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.084 2.643V5.008C9.084 5.501 9.487 5.904 9.98 5.904H12.3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"5.761\" y=\"7.776\" width=\"1.79153\" height=\"3.58306\" rx=\"0.895765\" stroke=\"currentColor\"/><path d=\"M9.344 8.672L10.239 7.776V11.359\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

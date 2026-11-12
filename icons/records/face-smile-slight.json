@@ -1,0 +1,14 @@
+{
+  "name": "face-smile-slight",
+  "status": "active",
+  "canonical": "face",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "People",
+  "figmaId": "273:23070",
+  "compare": {
+    "heroicons": "face-smile",
+    "lucide": "face-slightly-smiling",
+    "sf": "face.dashed"
+  }
+}

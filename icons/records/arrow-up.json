@@ -1,0 +1,26 @@
+{
+  "name": "arrow-up",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "21:1294",
+  "looks": "A thin straight arrow pointing up.",
+  "use": "Use for up, scroll up, or an increase.",
+  "keywords": [
+    "north",
+    "ascend"
+  ],
+  "compare": {
+    "carbon": "arrow-up",
+    "fluent": "arrow-up",
+    "heroicons": "arrow-up",
+    "lucide": "arrow-up",
+    "material": "arrow-upward",
+    "octicons": "arrow-up",
+    "phosphor": "arrow-up",
+    "radix": "arrow-up",
+    "sf": "arrow.up",
+    "tabler": "arrow-up"
+  }
+}

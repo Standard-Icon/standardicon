@@ -1,0 +1,15 @@
+{
+  "name": "mop",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21368",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "lucide": "mop",
+    "material": "mop"
+  }
+}

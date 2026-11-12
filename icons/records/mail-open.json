@@ -1,0 +1,23 @@
+{
+  "name": "mail-open",
+  "status": "active",
+  "parent": "mail",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:3899",
+  "looks": "An open envelope with its flap folded up into a peak at the top.",
+  "use": "Use for read mail, opened messages, or an invitation.",
+  "compare": {
+    "carbon": false,
+    "fluent": "mail-read",
+    "heroicons": "envelope-open",
+    "lucide": "mail-open",
+    "material": "drafts",
+    "octicons": false,
+    "phosphor": "envelope-open",
+    "radix": "envelope-open",
+    "sf": "envelope.open",
+    "tabler": false
+  }
+}

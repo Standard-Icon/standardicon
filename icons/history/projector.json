@@ -1,0 +1,17 @@
+{
+ "name": "projector",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M11.809 6.622H13C13.265 6.622 13.52 6.727 13.707 6.914C13.895 7.102 14 7.356 14 7.622V10.5C14 10.765 13.895 11.02 13.707 11.207C13.52 11.395 13.265 11.5 13 11.5H3C2.735 11.5 2.48 11.395 2.293 11.207C2.105 11.02 2 10.765 2 10.5V7.622C2 7.356 2.105 7.102 2.293 6.914C2.48 6.727 2.735 6.622 3 6.622H8.298\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.129 7.832C12.129 8.382 11.91 8.909 11.522 9.298C11.133 9.687 10.606 9.905 10.056 9.905C9.506 9.905 8.979 9.687 8.59 9.298C8.202 8.909 7.983 8.382 7.983 7.832C7.983 7.282 8.202 6.755 8.59 6.366C8.979 5.978 9.506 5.759 10.056 5.759C10.606 5.759 11.133 5.978 11.522 6.366C11.91 6.755 12.129 7.282 12.129 7.832Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.739 8.266H5.621\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 11.5V13M12 11.5V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M11.809 5.121H13C13.265 5.121 13.52 5.227 13.707 5.414C13.895 5.602 14 5.856 14 6.121V9C14 9.265 13.895 9.52 13.707 9.707C13.52 9.895 13.265 10 13 10H3C2.735 10 2.48 9.895 2.293 9.707C2.105 9.52 2 9.265 2 9V6.121C2 5.856 2.105 5.602 2.293 5.414C2.48 5.227 2.735 5.121 3 5.121H8.298\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.128 6.332C12.128 6.882 11.91 7.409 11.521 7.798C11.132 8.186 10.605 8.405 10.055 8.405C9.506 8.405 8.978 8.186 8.59 7.798C8.201 7.409 7.982 6.882 7.982 6.332C7.982 5.782 8.201 5.255 8.59 4.866C8.978 4.477 9.506 4.259 10.055 4.259C10.605 4.259 11.132 4.477 11.521 4.866C11.91 5.255 12.128 5.782 12.128 6.332Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.74 6.766H5.621\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 10V11.5M12 10V11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

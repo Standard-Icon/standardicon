@@ -1,0 +1,29 @@
+{
+  "name": "list-check",
+  "status": "active",
+  "parent": "list",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6250",
+  "looks": "Two check marks down the left, each followed by a horizontal line.",
+  "use": "Use for checklists, to-dos, or completed items.",
+  "keywords": [
+    "tasks",
+    "todo",
+    "checklist"
+  ],
+  "compare": {
+    "carbon": "list-checked",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "list-check",
+    "material": "checklist",
+    "octicons": "checklist",
+    "phosphor": false,
+    "radix": false,
+    "sf": "checklist",
+    "tabler": "list-check"
+  }
+}

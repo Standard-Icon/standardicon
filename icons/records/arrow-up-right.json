@@ -1,0 +1,22 @@
+{
+  "name": "arrow-up-right",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "18:1206",
+  "looks": "A diagonal arrow pointing to the upper right, with a square corner for its head.",
+  "use": "Use for outgoing, a rise, or open elsewhere.",
+  "compare": {
+    "carbon": "arrow-up-right",
+    "fluent": "arrow-up-right",
+    "heroicons": "arrow-up-right",
+    "lucide": "arrow-up-right",
+    "material": "north-east",
+    "octicons": "arrow-up-right",
+    "phosphor": "arrow-up-right",
+    "radix": "arrow-top-right",
+    "sf": "arrow.up.right",
+    "tabler": "arrow-up-right"
+  }
+}

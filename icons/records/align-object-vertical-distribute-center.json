@@ -1,0 +1,22 @@
+{
+  "name": "align-object-vertical-distribute-center",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23737",
+  "looks": "Two wide rounded bars stacked, each with a horizontal line running through its center.",
+  "use": "Use for distributing objects vertically or evenly spacing items down.",
+  "approved": {
+    "at": "2026-11-10T19:48:53.257Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "align-vertical-center",
+    "fluent": "align-center-vertical",
+    "lucide": "align-vertical-distribute-center",
+    "material": "align-vertical-center",
+    "phosphor": "align-center-vertical",
+    "sf": "align.vertical.center",
+    "tabler": "align-center"
+  }
+}

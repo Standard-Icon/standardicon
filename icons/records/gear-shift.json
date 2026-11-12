@@ -1,0 +1,25 @@
+{
+  "name": "gear-shift",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:21310",
+  "looks": "A gear shift pattern of three top nodes and two lower nodes joined by an H-shaped path.",
+  "use": "Use for manual transmission, gear selection, or driving.",
+  "approved": {
+    "at": "2026-11-12T02:33:32.762Z",
+    "by": "morgan",
+    "version": "2026-11-11T04:22:24.748Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

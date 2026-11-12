@@ -1,0 +1,23 @@
+{
+  "name": "book-open-plus-overlay",
+  "status": "active",
+  "parent": "book-open",
+  "canonical": "book-open",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:22137",
+  "looks": "An open book with a small rounded square holding a plus sign at the lower right.",
+  "use": "Use for adding a book, a page, or a lesson.",
+  "formerNames": [
+    "book-open-plus",
+    "book-plus"
+  ],
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "book-plus",
+    "phosphor": false,
+    "sf": "book.badge.plus"
+  }
+}

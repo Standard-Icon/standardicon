@@ -1,0 +1,14 @@
+{
+  "name": "keyframe",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26379",
+  "looks": "A diamond sitting on a horizontal line that runs through its left and right points.",
+  "use": "Use for keyframes in animation or a timeline.",
+  "compare": {
+    "lucide": false,
+    "tabler": "keyframe"
+  }
+}

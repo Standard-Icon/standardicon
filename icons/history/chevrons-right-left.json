@@ -1,0 +1,11 @@
+{
+ "name": "chevrons-right-left",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.5 4.5L6 8L2.5 11.5M13.5 4.5L10 8L13.5 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

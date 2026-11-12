@@ -1,0 +1,24 @@
+{
+  "name": "megaphone",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:4045",
+  "looks": "A megaphone pointing right, with a narrow mouthpiece on the left and a handle below.",
+  "use": "Use for announcements, marketing, or broadcasting a message.",
+  "keywords": [
+    "announcement",
+    "marketing"
+  ],
+  "compare": {
+    "carbon": "bullhorn",
+    "fluent": "megaphone",
+    "heroicons": "megaphone",
+    "lucide": "megaphone",
+    "material": "campaign",
+    "octicons": "megaphone",
+    "phosphor": "megaphone",
+    "sf": "megaphone"
+  }
+}

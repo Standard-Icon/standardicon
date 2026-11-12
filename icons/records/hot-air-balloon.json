@@ -1,0 +1,22 @@
+{
+  "name": "hot-air-balloon",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20813",
+  "looks": "A round balloon with curved panel lines narrowing down to a small basket.",
+  "use": "Use for hot air balloons, travel, or adventure.",
+  "compare": {
+    "lucide": "hot-air-balloon",
+    "tabler": "air-balloon"
+  },
+  "notes": [
+    {
+      "at": "2026-11-09",
+      "by": "morgan",
+      "text": "This could look more like a balloon.",
+      "issue": "this-could-look-more-like-a-balloon"
+    }
+  ]
+}

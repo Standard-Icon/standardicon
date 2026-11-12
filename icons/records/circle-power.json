@@ -1,0 +1,25 @@
+{
+  "name": "circle-power",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24249",
+  "looks": "A circle with a power symbol, a ring open at the top with a vertical line, inside.",
+  "use": "Use for power, shutdown, or on and off.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.774Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "power",
+    "fluent": false,
+    "heroicons": "power",
+    "lucide": "circle-power",
+    "material": "power-settings-circle",
+    "octicons": false,
+    "phosphor": "power",
+    "radix": false,
+    "sf": "power.circle",
+    "tabler": "power"
+  }
+}

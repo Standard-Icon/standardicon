@@ -1,0 +1,18 @@
+{
+  "name": "squares-unite",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "58:21584",
+  "looks": "Two overlapping rounded squares merged into one outline.",
+  "use": "Use for the unite shapes boolean operation.",
+  "compare": {
+    "carbon": "shape-unite",
+    "heroicons": false,
+    "lucide": "squares-unite",
+    "phosphor": "unite",
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "wind",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:7884",
+  "looks": "Three horizontal lines of different lengths, two ending in curls.",
+  "use": "Use for wind, air flow, or breezy weather.",
+  "keywords": [
+    "breeze",
+    "air"
+  ],
+  "compare": {
+    "carbon": "wind-gusts",
+    "iconic": "wind",
+    "lucide": "wind",
+    "material": false,
+    "phosphor": "wind",
+    "sf": "wind",
+    "tabler": "wind"
+  }
+}

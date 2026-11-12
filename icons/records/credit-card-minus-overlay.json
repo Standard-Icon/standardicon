@@ -1,0 +1,26 @@
+{
+  "name": "credit-card-minus-overlay",
+  "status": "active",
+  "parent": "credit-card",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "commerce",
+  "figmaId": "56:20280",
+  "looks": "A card with a top stripe and a small rounded square holding a minus sign at the lower right.",
+  "use": "Use for removing a card or a refund.",
+  "formerNames": [
+    "credit-card-minus"
+  ],
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "credit-card-minus",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "weight-scale",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27616",
+  "looks": "A rounded square with a small dial and needle near the top.",
+  "use": "Use for body weight, scales, or fitness tracking.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": false,
+    "material": false,
+    "sf": "scalemass",
+    "tabler": false
+  }
+}

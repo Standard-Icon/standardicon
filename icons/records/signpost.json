@@ -1,0 +1,16 @@
+{
+  "name": "signpost",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "maps",
+  "figmaId": "59:22475",
+  "looks": "A post with one sign pointing right at the top and another pointing left below it.",
+  "use": "Use for directions, wayfinding, or choices.",
+  "compare": {
+    "lucide": "signpost",
+    "material": "signpost",
+    "phosphor": "signpost",
+    "sf": "signpost.left"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "fish",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M1.75 8C3.2 5.25 5.5 4 7.75 4C9.6 4 11 5.4 11.5 6.75L14 5V11L11.5 9.25C11 10.6 9.6 12 7.75 12C5.5 12 3.2 10.75 1.75 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"5\" cy=\"7.25\" r=\"0.6\" fill=\"currentColor\"/><path d=\"M8 6.25C8.6 7.3 8.6 8.7 8 9.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

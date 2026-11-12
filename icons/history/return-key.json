@@ -1,0 +1,17 @@
+{
+ "name": "return-key",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"4.306\" y=\"3.519\" width=\"7.39025\" height=\"6.51025\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.74 12.764H11.263C12.396 12.764 13.303 11.824 13.262 10.692L13.075 5.442C13.036 4.366 12.153 3.514 11.076 3.514H4.937C3.862 3.514 2.979 4.364 2.939 5.439L2.741 10.689C2.698 11.822 3.606 12.764 4.74 12.764Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.567 9.66L3.463 12.212M11.432 9.66L12.536 12.212\" stroke=\"currentColor\"/><path d=\"M10.1 5.094V7.194H5.9M7.16 8.454L5.9 7.194L7.16 5.934\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T01:11:30.580Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M10.1 5.094V7.194H5.9M7.16 8.454L5.9 7.194L7.16 5.934\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.31 10.03H12.7C13.25 10.03 13.7 9.582 13.7 9.03V4.519C13.7 3.967 13.25 3.519 12.7 3.519L3.31 3.519C2.75 3.519 2.31 3.967 2.31 4.519V9.03C2.31 9.582 2.75 10.03 3.31 10.03Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.74 12.764H13.26C14.4 12.764 15.3 11.824 15.26 10.692L15.07 5.442C15.04 4.366 14.15 3.514 13.08 3.514L2.94 3.514C1.86 3.514 0.98 4.364 0.94 5.438L0.74 10.688C0.7 11.822 1.61 12.764 2.74 12.764Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.57 9.66L1.46 12.212M13.43 9.66L14.54 12.212\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

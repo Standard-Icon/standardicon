@@ -1,0 +1,11 @@
+{
+ "name": "forward",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M9.5 11L13 7.5L9.5 4M13 7.5H6.5C5.572 7.5 4.682 7.869 4.025 8.525C3.369 9.182 3 10.072 3 11V12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

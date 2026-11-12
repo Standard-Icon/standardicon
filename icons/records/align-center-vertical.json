@@ -1,0 +1,12 @@
+{
+  "name": "align-center-vertical",
+  "status": "covered",
+  "coveredBy": "align-object-center",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:22894",
+  "flags": [
+    "possible-duplicate"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "link-alt",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:24135",
+  "looks": "Two interlocking chain links set diagonally.",
+  "use": "Use for links, URLs, or connecting things.",
+  "compare": {
+    "carbon": "link",
+    "fluent": "link",
+    "heroicons": "link",
+    "lucide": "link",
+    "material": "link",
+    "octicons": "link",
+    "phosphor": "link",
+    "radix": "link-1",
+    "sf": "link",
+    "tabler": "link"
+  }
+}

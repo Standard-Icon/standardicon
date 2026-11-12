@@ -1,0 +1,24 @@
+{
+  "name": "clock-arrow-down-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24679",
+  "looks": "A clock with a small rounded square holding a down arrow overlapping its lower right.",
+  "use": "Use for time-based downloads or recent history.",
+  "formerNames": [
+    "clock-arrow-down"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "clock-arrow-down",
+    "material": "clock-arrow-down",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "clock-down"
+  }
+}

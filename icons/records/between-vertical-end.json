@@ -1,0 +1,12 @@
+{
+  "name": "between-vertical-end",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:24067",
+  "looks": "Two tall rounded rectangles side by side with a small chevron pointing up below them.",
+  "use": "Use for inserting a column after or adding to the end.",
+  "compare": {
+    "lucide": "between-vertical-end",
+    "sf": false
+  }
+}

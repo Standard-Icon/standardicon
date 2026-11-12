@@ -1,0 +1,11 @@
+{
+ "name": "angle",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M10 3.5L2.5 12.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.019 8.28C6.638 8.796 7.137 9.441 7.479 10.17C7.821 10.899 7.999 11.695 7.999 12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "face-expressionless",
+  "status": "active",
+  "canonical": "face",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "People",
+  "figmaId": "273:22977",
+  "compare": {
+    "carbon": "face-neutral",
+    "fluent": "emoji-meh",
+    "heroicons": false,
+    "iconic": "emoji-neutral",
+    "lucide": "face-expressionless",
+    "material": false,
+    "octicons": "smiley-neutral",
+    "phosphor": "smiley-meh",
+    "radix": false,
+    "sf": false,
+    "tabler": "mood-neutral"
+  }
+}

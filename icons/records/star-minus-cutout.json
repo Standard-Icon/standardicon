@@ -1,0 +1,12 @@
+{
+  "name": "star-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27728",
+  "looks": "A five-pointed star with a small minus sign cut into its lower right.",
+  "use": "Use for removing a favorite.",
+  "compare": {
+    "lucide": "star-minus",
+    "sf": false
+  }
+}

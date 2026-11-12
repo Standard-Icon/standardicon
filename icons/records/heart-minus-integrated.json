@@ -1,0 +1,20 @@
+{
+  "name": "heart-minus-integrated",
+  "status": "active",
+  "parent": "heart",
+  "canonical": "heart",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:19226",
+  "looks": "A heart with a short dash drawn in the middle.",
+  "use": "Use for removing a favorite or unliking.",
+  "formerNames": [
+    "heart-minus"
+  ],
+  "compare": {
+    "lucide": "heart-minus",
+    "sf": false,
+    "tabler": "heart-minus"
+  }
+}

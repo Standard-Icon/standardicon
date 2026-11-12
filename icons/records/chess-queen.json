@@ -1,0 +1,21 @@
+{
+  "name": "chess-queen",
+  "status": "active",
+  "source": "later",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22957",
+  "looks": "A chess queen with a pointed crown, a narrow body and a wide base.",
+  "use": "Use for the queen piece, chess, or a top player.",
+  "approved": {
+    "at": "2026-11-12T02:32:24.431Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "fluent": false,
+    "lucide": "chess-queen",
+    "material": "chess-queen",
+    "tabler": "chess-queen"
+  }
+}

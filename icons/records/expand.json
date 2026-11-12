@@ -1,0 +1,33 @@
+{
+  "name": "expand",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "12:446",
+  "looks": "Two diagonal arrows pointing outward, one to the top right and one to the bottom left.",
+  "use": "Use for enlarge, expand, or open a bigger view.",
+  "keywords": [
+    "maximize",
+    "enlarge"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:35.908Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "expand-all",
+    "fluent": false,
+    "lucide": "expand",
+    "material": "expand",
+    "octicons": false,
+    "sf": "rectangle.expand.vertical",
+    "tabler": false
+  },
+  "compareAlso": {
+    "lucide": [
+      "maximize-2"
+    ]
+  }
+}

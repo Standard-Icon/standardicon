@@ -1,0 +1,22 @@
+{
+  "name": "phone-incoming",
+  "status": "active",
+  "parent": "phone",
+  "canonical": "phone",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:4087",
+  "looks": "A telephone handset with an arrow at the upper right pointing down and left toward it.",
+  "use": "Use for incoming calls or received call history.",
+  "compare": {
+    "carbon": "phone-incoming",
+    "fluent": "call-inbound",
+    "heroicons": "phone-arrow-down-left",
+    "lucide": "phone-incoming",
+    "material": "call-received",
+    "phosphor": "phone-incoming",
+    "sf": false,
+    "tabler": "phone-incoming"
+  }
+}

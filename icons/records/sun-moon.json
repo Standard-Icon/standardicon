@@ -1,0 +1,29 @@
+{
+  "name": "sun-moon",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5708",
+  "looks": "A circle half filled on the left, with short sun rays around the left side only.",
+  "use": "Use for light and dark mode, theme switching, or day and night.",
+  "keywords": [
+    "theme",
+    "appearance",
+    "dark mode"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "sun-moon",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "sun-moon"
+  }
+}

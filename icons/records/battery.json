@@ -1,0 +1,24 @@
+{
+  "name": "battery",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5818",
+  "looks": "An empty horizontal battery with a small terminal nub on the right.",
+  "use": "Use for battery status or power.",
+  "keywords": [
+    "power",
+    "charge"
+  ],
+  "compare": {
+    "carbon": "battery-full",
+    "fluent": "battery-10",
+    "heroicons": "battery-100",
+    "lucide": "battery",
+    "material": "battery-6-bar",
+    "phosphor": "battery-low",
+    "sf": "battery.75percent",
+    "tabler": "battery"
+  }
+}

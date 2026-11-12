@@ -1,0 +1,12 @@
+{
+  "name": "save-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27663",
+  "looks": "A floppy disk with a small check mark cut into its lower right corner.",
+  "use": "Use for saved or changes stored.",
+  "compare": {
+    "lucide": "save-check",
+    "sf": false
+  }
+}

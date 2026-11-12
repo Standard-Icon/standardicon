@@ -1,0 +1,11 @@
+{
+ "name": "bring-forward",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M9.5 4.5V3.5C9.5 2.95 9.052 2.5 8.5 2.5H3.5C2.948 2.5 2.5 2.95 2.5 3.5V8.5C2.5 9.05 2.948 9.5 3.5 9.5H4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"6.5\" y=\"6.5\" width=\"7\" height=\"7\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

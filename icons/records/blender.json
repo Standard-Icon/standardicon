@@ -1,0 +1,19 @@
+{
+  "name": "blender",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "322:23872",
+  "looks": "A kitchen blender with a tall jar, a handle on the right, and a base with a dot.",
+  "use": "Use for blending, smoothies, or kitchen appliances.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-10T19:49:19.854Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "blender",
+    "material": "blender",
+    "tabler": "blender"
+  }
+}

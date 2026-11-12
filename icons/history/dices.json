@@ -1,0 +1,12 @@
+{
+ "name": "dices",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M6.5 5.5V3.5C6.5 2.95 6.95 2.5 7.5 2.5H12.5C13.05 2.5 13.5 2.95 13.5 3.5V8.5C13.5 9.05 13.05 9.5 12.5 9.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"2.5\" y=\"5.5\" width=\"8\" height=\"8\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><circle cx=\"4.75\" cy=\"7.75\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"8.25\" cy=\"11.25\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"11.25\" cy=\"4.75\" r=\"0.6\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

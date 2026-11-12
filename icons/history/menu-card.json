@@ -1,0 +1,11 @@
+{
+ "name": "menu-card",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"3.5\" y=\"2.5\" width=\"9\" height=\"11\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M6 7.5C6 6.12 6.9 5 8 5C9.1 5 10 6.12 10 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 7.5H10.5M5.5 9.5H10.5M6.5 11.5H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "clock-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28518",
+  "looks": "A clock with a plus sign cut into the lower right edge.",
+  "use": "Use for adding time, extending, or new reminders.",
+  "compare": {
+    "lucide": "clock-plus",
+    "sf": false,
+    "tabler": "clock-plus"
+  }
+}

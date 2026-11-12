@@ -1,0 +1,19 @@
+{
+  "name": "cherry",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19401",
+  "looks": "Two round cherries joined by stems that meet at the top with a leaf.",
+  "use": "Use for cherries, fruit, or food.",
+  "approved": {
+    "at": "2026-11-12T02:32:19.889Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "cherry",
+    "tabler": "cherry"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "flowchart",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24341",
+  "looks": "One box on top linked by lines to two smaller boxes below it.",
+  "use": "Use for flowcharts, hierarchies, or org charts.",
+  "approved": {
+    "at": "2026-11-12T02:33:26.548Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "fluent": "flowchart",
+    "lucide": false,
+    "material": "flowchart",
+    "octicons": "flowchart",
+    "sf": "flowchart"
+  }
+}

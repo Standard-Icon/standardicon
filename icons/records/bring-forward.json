@@ -1,0 +1,28 @@
+{
+  "name": "bring-forward",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31625",
+  "looks": "Two overlapping rounded squares, the lower right one drawn whole in front of the upper left one.",
+  "use": "Use for bring forward or move a layer up.",
+  "compare": {
+    "carbon": "bring-forward",
+    "fluent": "call-forward",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "actions"
+    }
+  ]
+}

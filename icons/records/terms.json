@@ -1,0 +1,14 @@
+{
+  "name": "terms",
+  "status": "active",
+  "canonical": "page",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Legal",
+  "figmaId": "82:28050",
+  "looks": "A page with a folded top right corner and two checkmarks, each followed by a short line.",
+  "use": "Use for terms and conditions, policies, or checklists.",
+  "compare": {
+    "lucide": false
+  }
+}

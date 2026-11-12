@@ -1,0 +1,8 @@
+{
+  "name": "radio",
+  "status": "covered",
+  "coveredBy": "circle",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback"
+}

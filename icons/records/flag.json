@@ -1,0 +1,26 @@
+{
+  "name": "flag",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "solid": "needed",
+  "figmaId": "22:1928",
+  "looks": "A flag with a wavy edge on a pole that runs down its left side.",
+  "use": "Use for flag, report, or mark for follow-up.",
+  "keywords": [
+    "report",
+    "mark"
+  ],
+  "compare": {
+    "carbon": "flag",
+    "fluent": "flag",
+    "heroicons": "flag",
+    "lucide": "flag",
+    "material": "flag",
+    "octicons": "flag",
+    "phosphor": "flag",
+    "sf": "flag",
+    "tabler": "flag"
+  }
+}

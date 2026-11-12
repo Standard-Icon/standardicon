@@ -1,0 +1,19 @@
+{
+  "name": "numbers",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:24497",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "carbon": false,
+    "lucide": "numbers",
+    "material": "numbers",
+    "phosphor": false,
+    "sf": "numbers",
+    "tabler": "numbers"
+  }
+}

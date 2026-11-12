@@ -1,0 +1,11 @@
+{
+ "name": "horn",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<circle cx=\"4.493\" cy=\"8\" r=\"2\" stroke=\"currentColor\"/><path d=\"M6.439 6.845C9.171 6.845 11.555 6 13.507 4V12C11.555 10 9.171 9.15 6.439 9.15\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

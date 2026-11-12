@@ -1,0 +1,15 @@
+{
+  "name": "rocking-chair",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21090",
+  "compare": {
+    "lucide": "rocking-chair",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": "rocking-chair"
+  }
+}

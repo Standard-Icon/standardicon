@@ -1,0 +1,29 @@
+{
+ "name": "ev-charger",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.75 2.5H8.75C8.949 2.5 9.14 2.579 9.28 2.72C9.421 2.86 9.5 3.051 9.5 3.25V12.75C9.5 12.949 9.421 13.14 9.28 13.28C9.14 13.421 8.949 13.5 8.75 13.5H3.75C3.551 13.5 3.36 13.421 3.22 13.28C3.079 13.14 3 12.949 3 12.75V3.25C3 3.051 3.079 2.86 3.22 2.72C3.36 2.579 3.551 2.5 3.75 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 5L5.25 7.75H7.25L5.5 10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 7.5H10.75C11.015 7.5 11.27 7.605 11.457 7.793C11.645 7.98 11.75 8.235 11.75 8.5V11C11.75 11.265 11.855 11.52 12.043 11.707C12.23 11.895 12.485 12 12.75 12C13.015 12 13.27 11.895 13.457 11.707C13.645 11.52 13.75 11.265 13.75 11V6L12 4.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"3\" y=\"2.992\" width=\"6.5\" height=\"10.0164\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.883 5.859L5.51 8.017H7.079L5.706 10.174\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 7.5H10.75C11.015 7.5 11.27 7.605 11.457 7.793C11.645 7.98 11.75 8.235 11.75 8.5V11C11.75 11.265 11.855 11.52 12.043 11.707C12.23 11.895 12.485 12 12.75 12C13.015 12 13.27 11.895 13.457 11.707C13.645 11.52 13.75 11.265 13.75 11V6L12 4.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.992\" width=\"6.5\" height=\"10.0164\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.38 5.859L5.01 8.017H6.58L5.21 10.174\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9 7.5H10.25C10.52 7.5 10.77 7.605 10.96 7.793C11.14 7.98 11.25 8.235 11.25 8.5V11C11.25 11.265 11.36 11.52 11.54 11.707C11.73 11.895 11.98 12 12.25 12C12.52 12 12.77 11.895 12.96 11.707C13.14 11.52 13.25 11.265 13.25 11V6L11.5 4.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.992\" width=\"6.5\" height=\"10.0164\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.38 5.859L5.01 8.017H6.58L5.21 10.174\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9 9.056H10.25C10.52 9.056 10.77 9.161 10.96 9.349C11.15 9.536 11.25 9.791 11.25 10.056L11.25 11C11.25 11.265 11.36 11.519 11.54 11.707C11.73 11.894 11.98 12 12.25 12C12.52 12 12.77 11.894 12.96 11.707C13.14 11.519 13.25 11.265 13.25 11V8.182\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.71 5.541H14.69V7.027C14.69 7.579 14.25 8.027 13.69 8.027H12.71C12.15 8.027 11.71 7.579 11.71 7.027V5.541Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.18 5.499V4.178\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M14.14 5.499V4.178\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

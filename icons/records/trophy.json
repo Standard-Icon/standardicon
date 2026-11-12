@@ -1,0 +1,26 @@
+{
+  "name": "trophy",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Status and feedback",
+  "figmaId": "30:4034",
+  "looks": "A trophy cup with handles on both sides, on a short stem and flat base.",
+  "use": "Use for winning, achievements, or competitions.",
+  "keywords": [
+    "award",
+    "winner"
+  ],
+  "compare": {
+    "carbon": "trophy",
+    "fluent": "trophy",
+    "heroicons": "trophy",
+    "iconic": "trophy",
+    "lucide": "trophy",
+    "material": "trophy",
+    "octicons": "trophy",
+    "phosphor": "trophy",
+    "sf": "trophy",
+    "tabler": "trophy"
+  }
+}

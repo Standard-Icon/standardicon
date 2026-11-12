@@ -1,0 +1,12 @@
+{
+ "name": "gamepad",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"1.5\" y=\"4.083\" width=\"13\" height=\"7.83398\" rx=\"1.5\" stroke=\"currentColor\"/><path d=\"M3.922 8H6.562M5.242 6.68V9.32\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"9.713\" cy=\"8.871\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"11.455\" cy=\"7.128\" r=\"0.6\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

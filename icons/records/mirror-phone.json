@@ -1,0 +1,8 @@
+{
+  "name": "mirror-phone",
+  "status": "planned",
+  "source": "lucide",
+  "compare": {
+    "lucide": "monitor-smartphone"
+  }
+}

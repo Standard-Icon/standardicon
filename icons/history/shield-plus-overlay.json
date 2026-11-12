@@ -1,0 +1,11 @@
+{
+ "name": "shield-plus-overlay",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M9.55 12.844C9.073 13.111 8.552 13.33 8 13.5C5.4 12.7 3.5 10.8 3.5 8L3.5 4L8 2.5L12.5 4L12.5 8C12.5 8.552 12.426 9.069 12.288 9.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.307 12.25H13.194M12.25 11.307V13.194\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

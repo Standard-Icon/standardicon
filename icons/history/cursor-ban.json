@@ -1,0 +1,11 @@
+{
+ "name": "cursor-ban",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M2.25 1.5V11.5L4.85 9.1L6.55 12.5L8.05 11.8L6.35 8.4H9.75L2.25 1.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"12\" cy=\"12\" r=\"2\" stroke=\"currentColor\"/><path d=\"M10.59 10.59L13.41 13.41\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "save-x-overlay",
+  "status": "active",
+  "parent": "save",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:19971",
+  "looks": "A floppy disk with an x inside a small rounded square at the lower right.",
+  "use": "Use for a failed save or discard changes.",
+  "formerNames": [
+    "save-x"
+  ],
+  "compare": {
+    "heroicons": false,
+    "radix": false,
+    "sf": false
+  }
+}

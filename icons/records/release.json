@@ -1,0 +1,19 @@
+{
+  "name": "release",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:5038",
+  "looks": "An open box with an arrow pointing up out of it.",
+  "use": "Use for releases, publishing, or shipping a version.",
+  "keywords": [
+    "version",
+    "ship"
+  ],
+  "compare": {
+    "lucide": false,
+    "material": false,
+    "octicons": "release"
+  }
+}

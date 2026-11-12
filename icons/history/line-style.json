@@ -1,0 +1,11 @@
+{
+ "name": "line-style",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2.5 3.5H13.5M2.5 6.5H6.5M9.5 6.5H13.5M2.5 9.5H4.5M7 9.5H9M11.5 9.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"2.5\" cy=\"12.5\" r=\"0.5\" fill=\"currentColor\"/><circle cx=\"5.25\" cy=\"12.5\" r=\"0.5\" fill=\"currentColor\"/><circle cx=\"8\" cy=\"12.5\" r=\"0.5\" fill=\"currentColor\"/><circle cx=\"10.75\" cy=\"12.5\" r=\"0.5\" fill=\"currentColor\"/><circle cx=\"13.5\" cy=\"12.5\" r=\"0.5\" fill=\"currentColor\"/>"
+  }
+ ]
+}

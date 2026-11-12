@@ -1,0 +1,22 @@
+{
+  "name": "scan",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3661",
+  "looks": "Four corner brackets with a horizontal line across the middle.",
+  "use": "Use for scan, a QR or barcode scanner, or capture.",
+  "keywords": [
+    "qr",
+    "barcode"
+  ],
+  "compare": {
+    "carbon": "scan",
+    "fluent": "scan",
+    "lucide": "scan",
+    "material": "scan",
+    "phosphor": "scan",
+    "tabler": "scan"
+  }
+}

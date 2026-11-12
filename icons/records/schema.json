@@ -1,0 +1,19 @@
+{
+  "name": "schema",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:3262",
+  "looks": "One box on top connected by branching lines to two boxes below.",
+  "use": "Use for schemas, data models, or hierarchies.",
+  "keywords": [
+    "erd",
+    "structure"
+  ],
+  "compare": {
+    "lucide": false,
+    "material": "schema",
+    "tabler": "schema"
+  }
+}

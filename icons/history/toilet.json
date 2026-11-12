@@ -1,0 +1,17 @@
+{
+ "name": "toilet",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2.5\" y=\"2\" width=\"4\" height=\"6\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.5 8H12.5C13.05 8 13.5 8.45 13.5 9C13.5 10.93 11.93 12.5 10 12.5L10.25 14H5V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T20:25:52.393Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2.5\" y=\"2.468\" width=\"4\" height=\"5.53223\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5.205 8H12.5C13.05 8 13.5 8.45 13.5 9C13.5 10.93 12.5 12.387 9.149 12.387L10.25 14H5V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

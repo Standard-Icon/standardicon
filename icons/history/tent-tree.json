@@ -1,0 +1,17 @@
+{
+ "name": "tent-tree",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M1.75 13.5H9.5L5.75 7L2 13.5M4.25 13.5L5.75 11L7.25 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.75 2.5L13.85 5.5H12.8L14.45 7.9H9.05L10.7 5.5H9.65L11.75 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.75 7.9V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T22:44:45.137Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M4.25 12.827H2L5.75 6.327L9.5 12.827H4.25L5.75 10.327L7.25 12.827\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.75 3.173L13.85 6.173H12.8L14.45 8.573H9.05L10.7 6.173H9.65L11.75 3.173Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.75 7.227L11.75 10.709\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "bluetooth",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5797",
+  "looks": "The Bluetooth rune: a vertical line with two angled arrowheads crossing it.",
+  "use": "Use for Bluetooth, wireless pairing, or devices.",
+  "compare": {
+    "carbon": "bluetooth",
+    "fluent": "bluetooth",
+    "lucide": "bluetooth",
+    "material": "bluetooth",
+    "phosphor": "bluetooth",
+    "tabler": "bluetooth"
+  }
+}

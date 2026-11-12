@@ -1,0 +1,11 @@
+{
+ "name": "rowing",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8.5\" cy=\"3.75\" r=\"1.25\" stroke=\"currentColor\"/><path d=\"M8.5 7L9.5 10.5M8.64 7.5H5.1\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 6.5L1.5 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 10.5H14.5C14 12.5 13 13.5 11.5 13.5H8C6.75 13.5 6 12.5 5.5 10.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

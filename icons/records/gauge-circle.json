@@ -1,0 +1,27 @@
+{
+  "name": "gauge-circle",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24194",
+  "looks": "A circle with a needle and a small arc inside, like a dial.",
+  "use": "Use for speedometers, performance, or meters.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.136Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "gauge",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle-gauge",
+    "material": false,
+    "octicons": false,
+    "phosphor": "gauge",
+    "radix": false,
+    "sf": false,
+    "tabler": "gauge"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "mouse-pointer-2-off",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M5.517 7.9L4 4L7.9 5.517M6.975 11.65L7.5 13L9.25 9.25L13 7.5L11.65 6.975\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 13.5L13.5 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

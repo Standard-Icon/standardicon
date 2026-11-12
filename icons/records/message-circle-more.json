@@ -1,0 +1,12 @@
+{
+  "name": "message-circle-more",
+  "status": "dropped",
+  "coveredBy": "message-oval-dots",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "Not drawn: message-oval-dots already does this."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "corner-down-right",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Arrows",
+  "figmaId": "27:3551",
+  "looks": "A line coming down from the top left that turns into an arrow pointing right.",
+  "use": "Use for a nested reply, an indent, or a sub-item.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "arrow-turn-down-right",
+    "iconic": false,
+    "lucide": "corner-down-right",
+    "material": "subdirectory-arrow-right",
+    "octicons": false,
+    "phosphor": "arrow-bend-down-right",
+    "radix": false,
+    "sf": "arrow.turn.down.right",
+    "tabler": "corner-down-right"
+  }
+}

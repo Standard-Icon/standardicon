@@ -1,0 +1,11 @@
+{
+ "name": "heart-arrow",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M8.17 12.565C8.17 12.565 3.77 10.005 3.77 7.045C3.77 5.605 4.89 4.565 6.17 4.565C7.05 4.565 7.77 5.045 8.17 5.765C8.57 5.045 9.29 4.565 10.17 4.565C11.45 4.565 12.57 5.605 12.57 7.045C12.57 10.005 8.17 12.565 8.17 12.565Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.92 12.065L5.42 10.565\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1.92 12.065H3.92V14.065\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.48 4.529L14.08 1.935M14.08 4.435V1.935H11.58\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

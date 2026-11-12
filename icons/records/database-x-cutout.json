@@ -1,0 +1,15 @@
+{
+  "name": "database-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29122",
+  "looks": "A database cylinder with an x cut into the lower right.",
+  "use": "Use for a database error or deleting data.",
+  "compare": {
+    "heroicons": false,
+    "lucide": "database-x",
+    "radix": false,
+    "sf": false,
+    "tabler": "database-x"
+  }
+}

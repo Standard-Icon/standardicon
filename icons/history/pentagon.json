@@ -1,0 +1,11 @@
+{
+ "name": "pentagon",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 2.7L13.42 6.64L11.35 13.01H4.65L2.58 6.64L8 2.7Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

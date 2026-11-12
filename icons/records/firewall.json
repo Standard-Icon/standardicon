@@ -1,0 +1,16 @@
+{
+  "name": "firewall",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:5897",
+  "looks": "A shield with a flame inside it.",
+  "use": "Use for firewalls, network protection, or blocked traffic.",
+  "compare": {
+    "carbon": "firewall",
+    "lucide": "brick-wall-fire",
+    "sf": "firewall",
+    "tabler": false
+  }
+}

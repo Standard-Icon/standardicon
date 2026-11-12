@@ -1,0 +1,27 @@
+{
+  "name": "check-double",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3447",
+  "looks": "Two check marks side by side, the second overlapping the first.",
+  "use": "Use for read receipts, all done, or delivered and seen.",
+  "keywords": [
+    "read",
+    "delivered"
+  ],
+  "compare": {
+    "carbon": "checkmark-double",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "check-check",
+    "material": "done-all",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "checks"
+  }
+}

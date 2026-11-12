@@ -1,0 +1,11 @@
+{
+ "name": "calendars",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"1.83\" y=\"5.247\" width=\"8.5\" height=\"8.5\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M10.417 11.253H13.17C13.722 11.253 14.17 10.805 14.17 10.253V3.753C14.17 3.201 13.722 2.753 13.17 2.753H6.67C6.118 2.753 5.67 3.201 5.67 3.753V5.262\" stroke=\"currentColor\"/><path d=\"M1.83 7.747H10.33M4.33 4.747V5.997M7.83 4.747V5.997\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.67 5.253H14.17M8.17 2.253V3.503M11.67 2.253V3.503\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

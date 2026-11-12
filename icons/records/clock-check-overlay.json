@@ -1,0 +1,19 @@
+{
+  "name": "clock-check-overlay",
+  "status": "active",
+  "parent": "clock",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "56:21139",
+  "looks": "A clock with a checkmark in a rounded square at the lower right.",
+  "use": "Use for on time, completed tasks, or confirmed times.",
+  "formerNames": [
+    "clock-check"
+  ],
+  "compare": {
+    "lucide": "alarm-clock-check",
+    "sf": "clock.badge.checkmark",
+    "tabler": "clock-check"
+  }
+}

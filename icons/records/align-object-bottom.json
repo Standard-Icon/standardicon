@@ -1,0 +1,23 @@
+{
+  "name": "align-object-bottom",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6412",
+  "looks": "Two rounded bars, one tall and one short, resting on a horizontal line below them.",
+  "use": "Use for aligning objects to the bottom edge.",
+  "formerNames": [
+    "align-bottom"
+  ],
+  "compare": {
+    "carbon": "align-vertical-bottom",
+    "fluent": "align-bottom",
+    "lucide": "align-end-horizontal",
+    "material": "align-vertical-bottom",
+    "phosphor": "align-bottom",
+    "radix": "align-bottom",
+    "sf": "align.vertical.bottom",
+    "tabler": "box-align-bottom"
+  }
+}

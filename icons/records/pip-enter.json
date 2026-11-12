@@ -1,0 +1,16 @@
+{
+  "name": "pip-enter",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24217",
+  "compare": {
+    "fluent": false,
+    "iconic": false,
+    "material": false,
+    "radix": false,
+    "sf": "pip.enter",
+    "tabler": false
+  }
+}

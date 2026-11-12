@@ -1,0 +1,20 @@
+{
+  "name": "widget-medium",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24143",
+  "looks": "A wide rounded rectangle with two short text lines inside.",
+  "use": "Use for a medium widget.",
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "widget-medium",
+    "octicons": false,
+    "phosphor": false,
+    "sf": "widget.medium",
+    "tabler": false
+  }
+}

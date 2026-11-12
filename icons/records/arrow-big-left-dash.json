@@ -1,0 +1,23 @@
+{
+  "name": "arrow-big-left-dash",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23529",
+  "looks": "A hollow block arrow pointing left with a short vertical dash beside it.",
+  "use": "Use for going to the start, previous, or moving left to an edge.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "arrow-big-left-dash",
+    "material": false,
+    "octicons": false,
+    "phosphor": "arrow-fat-line-left",
+    "radix": false,
+    "sf": false,
+    "tabler": "arrow-big-left-line"
+  }
+}

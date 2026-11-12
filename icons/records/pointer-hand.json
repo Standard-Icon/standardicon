@@ -1,0 +1,24 @@
+{
+  "name": "pointer-hand",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:5201",
+  "looks": "A hand with the index finger pointing up and the other fingers curled.",
+  "use": "Use for a link cursor, clicking, or pointing.",
+  "keywords": [
+    "click",
+    "cursor"
+  ],
+  "compare": {
+    "fluent": "hand-point",
+    "heroicons": false,
+    "lucide": "pointer",
+    "material": "back-hand",
+    "phosphor": "hand",
+    "radix": false,
+    "sf": false,
+    "tabler": "pointer"
+  }
+}

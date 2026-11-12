@@ -1,0 +1,16 @@
+{
+  "name": "cart-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29439",
+  "looks": "A shopping cart with a small x cut into the lower right, beside the wheels.",
+  "use": "Use for clearing the cart or a failed checkout.",
+  "compare": {
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "print",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1996",
+  "looks": "A printer with a paper tray on top and a sheet coming out the front.",
+  "use": "Use for print or a printer.",
+  "keywords": [
+    "printer"
+  ],
+  "compare": {
+    "carbon": "printer",
+    "fluent": "print",
+    "heroicons": "printer",
+    "lucide": "printer",
+    "material": "print",
+    "phosphor": "printer",
+    "sf": "printer",
+    "tabler": "printer"
+  }
+}

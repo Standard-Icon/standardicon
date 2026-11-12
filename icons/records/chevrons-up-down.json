@@ -1,0 +1,29 @@
+{
+  "name": "chevrons-up-down",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "12:509",
+  "looks": "A small up chevron above a small down chevron with a gap between them.",
+  "use": "Use for a select menu, sorting, or expand and collapse.",
+  "formerNames": [
+    "sort"
+  ],
+  "compare": {
+    "fluent": "chevron-up-down",
+    "heroicons": "chevron-up-down",
+    "lucide": "chevrons-up-down",
+    "material": "unfold-more",
+    "phosphor": "caret-up-down",
+    "sf": "chevron.up.chevron.down",
+    "tabler": "caret-up-down"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "was `sort`"
+    }
+  ]
+}

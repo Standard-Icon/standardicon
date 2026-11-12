@@ -1,0 +1,17 @@
+{
+ "name": "tv",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M5.5 1.75L8 3.5L10.5 1.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 3.5H13C13.265 3.5 13.52 3.605 13.707 3.793C13.895 3.98 14 4.235 14 4.5V11.5C14 11.765 13.895 12.02 13.707 12.207C13.52 12.395 13.265 12.5 13 12.5H3C2.735 12.5 2.48 12.395 2.293 12.207C2.105 12.02 2 11.765 2 11.5V4.5C2 4.235 2.105 3.98 2.293 3.793C2.48 3.605 2.735 3.5 3 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 14H11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M5.5 1.75L8 3.5L10.5 1.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"2\" y=\"3.5\" width=\"12\" height=\"9\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5 14H11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

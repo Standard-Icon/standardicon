@@ -1,0 +1,22 @@
+{
+  "name": "timer",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7289",
+  "looks": "A circle with a button on top and a diagonal hand inside.",
+  "use": "Use for timers, countdowns, or waiting.",
+  "keywords": [
+    "countdown"
+  ],
+  "compare": {
+    "carbon": "timer",
+    "fluent": "timer",
+    "lucide": "timer",
+    "material": "timer",
+    "phosphor": "timer",
+    "radix": "timer",
+    "sf": "timer"
+  }
+}

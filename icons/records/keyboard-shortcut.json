@@ -1,0 +1,8 @@
+{
+  "name": "keyboard-shortcut",
+  "status": "covered",
+  "coveredBy": "command",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls"
+}

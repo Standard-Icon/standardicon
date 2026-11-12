@@ -1,0 +1,11 @@
+{
+ "name": "skateboard",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M1.5 4.5C2 6 2.75 7.5 4 7.5H12C13.25 7.5 14 6 14.5 4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 7.5V8.75M11.5 7.5V8.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"4.5\" cy=\"10\" r=\"1.25\" stroke=\"currentColor\"/><circle cx=\"11.5\" cy=\"10\" r=\"1.25\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

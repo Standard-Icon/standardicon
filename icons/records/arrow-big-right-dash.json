@@ -1,0 +1,26 @@
+{
+  "name": "arrow-big-right-dash",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23947",
+  "looks": "A hollow block arrow pointing right with a short vertical dash before it.",
+  "use": "Use for moving right to an edge, next, or skip forward.",
+  "approved": {
+    "at": "2026-11-10T19:48:58.131Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "arrow-big-right-dash",
+    "material": false,
+    "octicons": false,
+    "phosphor": "arrow-fat-line-right",
+    "radix": false,
+    "sf": false,
+    "tabler": "arrow-big-right-line"
+  }
+}

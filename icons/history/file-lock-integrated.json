@@ -1,0 +1,19 @@
+{
+ "name": "file-lock-integrated",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M4.142 1.858H9.654L12.962 5.208V13.025C12.962 13.321 12.845 13.605 12.639 13.815C12.432 14.024 12.151 14.142 11.859 14.142H4.142C3.849 14.142 3.569 14.024 3.362 13.815C3.155 13.605 3.039 13.321 3.039 13.025V2.975C3.039 2.679 3.155 2.395 3.362 2.185C3.569 1.976 3.849 1.858 4.142 1.858Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.217 2.028V4.665C9.217 5.217 9.665 5.665 10.217 5.665H12.807\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"5.75\" y=\"9\" width=\"4.5\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.75 9V8C6.75 7.668 6.882 7.351 7.116 7.116C7.35 6.882 7.668 6.75 8 6.75C8.332 6.75 8.65 6.882 8.884 7.116C9.118 7.351 9.25 7.668 9.25 8V9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  },
+  {
+   "at": "2026-11-10T08:37:50.294Z",
+   "source": "working copy",
+   "released": true,
+   "body": "<path d=\"M4.543 2.498H9.481L12.444 5.499V12.501C12.444 12.766 12.34 13.021 12.155 13.208C11.969 13.396 11.718 13.501 11.456 13.501H4.543C4.281 13.501 4.03 13.396 3.845 13.208C3.66 13.021 3.556 12.766 3.556 12.501V3.499C3.556 3.233 3.66 2.979 3.845 2.791C4.03 2.604 4.281 2.498 4.543 2.498Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.09 2.651V4.908C9.09 5.46 9.538 5.908 10.09 5.908H12.306\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"5.984\" y=\"8.896\" width=\"4.03094\" height=\"2.6873\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.88 8.896V8C6.88 7.703 6.998 7.418 7.208 7.208C7.418 6.998 7.703 6.88 8 6.88C8.297 6.88 8.581 6.998 8.791 7.208C9.001 7.418 9.119 7.703 9.119 8V8.896\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

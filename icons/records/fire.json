@@ -1,0 +1,25 @@
+{
+  "name": "fire",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Status and feedback",
+  "figmaId": "30:4008",
+  "looks": "A single flame with a pointed tip and a rounded base.",
+  "use": "Use for trending, hot items, or streaks.",
+  "keywords": [
+    "hot",
+    "trending",
+    "flame"
+  ],
+  "compare": {
+    "carbon": "fire",
+    "fluent": "fire",
+    "heroicons": "fire",
+    "lucide": "flame",
+    "material": false,
+    "phosphor": "fire",
+    "sf": "flame",
+    "tabler": false
+  }
+}

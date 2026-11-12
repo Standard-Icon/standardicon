@@ -1,0 +1,19 @@
+{
+  "name": "panel-left-right-dashed",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27565",
+  "looks": "A rounded rectangle with two vertical dashed lines, one near each side.",
+  "use": "Use for side panels on both sides or multi-column layouts.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "panel-left-right-dashed",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

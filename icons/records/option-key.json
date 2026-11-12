@@ -1,0 +1,20 @@
+{
+  "name": "option-key",
+  "status": "active",
+  "source": "later",
+  "figmaId": "355:29645",
+  "looks": "A keyboard keycap drawn in perspective with the option symbol on top.",
+  "use": "Use for the Option or Alt key and keyboard shortcuts.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "option",
+    "material": "keyboard-option-key",
+    "octicons": false,
+    "phosphor": "option",
+    "sf": "option",
+    "tabler": "option"
+  }
+}

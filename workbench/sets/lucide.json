@@ -1,0 +1,13 @@
+{
+  "id": "lucide",
+  "title": "Lucide",
+  "kind": "svg",
+  "dir": "node_modules/lucide-static/icons",
+  "tags": "node_modules/lucide-static/tags.json",
+  "color": "#e5484d",
+  "grid": 24,
+  "matchLine": true,
+  "license": "ISC",
+  "usage": "For comparing only. No set's geometry is ever traced.",
+  "words": { "person": "user", "people": "users", "home": "house", "close": "x", "edit": "pencil", "oval": "circle", "more": "ellipsis", "question": "help", "alert": "alert", "message": "message", "bag": "shopping-bag", "cart": "shopping-cart" }
+}

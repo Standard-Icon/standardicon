@@ -1,0 +1,30 @@
+{
+  "name": "heart-arrow",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:29996",
+  "looks": "A heart pierced by an arrow from the lower left to an arrowhead at the upper right.",
+  "use": "Use for Valentine's Day, love, or romance.",
+  "keywords": [
+    "valentines",
+    "day",
+    "cupid",
+    "love",
+    "romance",
+    "holiday"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

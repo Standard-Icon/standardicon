@@ -1,0 +1,9 @@
+{
+  "name": "a-arrow-down",
+  "status": "covered",
+  "coveredBy": "font-size-decrease",
+  "source": "lucide",
+  "compare": {
+    "lucide": "a-arrow-down"
+  }
+}

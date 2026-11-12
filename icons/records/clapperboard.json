@@ -1,0 +1,20 @@
+{
+  "name": "clapperboard",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5703",
+  "keywords": [
+    "movie",
+    "video",
+    "production"
+  ],
+  "compare": {
+    "lucide": "clapperboard",
+    "material": "movie",
+    "phosphor": "film-slate",
+    "sf": "movieclapper",
+    "tabler": "movie"
+  }
+}

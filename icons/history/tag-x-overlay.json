@@ -1,0 +1,25 @@
+{
+ "name": "tag-x-overlay",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M12.411 9.55L13.6 8.36C13.795 8.17 13.795 7.85 13.6 7.66L8.272 2.33C8.162 2.22 8.009 2.17 7.856 2.18L3.478 2.73C3.251 2.76 3.072 2.94 3.043 3.17L2.496 7.54C2.477 7.7 2.53 7.85 2.639 7.96L7.967 13.29C8.162 13.48 8.479 13.48 8.674 13.29L9.55 12.413\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"5.4\" cy=\"5.09\" r=\"0.879771\" fill=\"currentColor\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.125 11.12L13.375 13.38M13.375 11.12L11.125 13.38\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<path d=\"M13.967 10.743L15.3 9.41C15.519 9.19 15.519 8.83 15.3 8.61L9.305 2.62C9.183 2.49 9.01 2.44 8.838 2.46L3.912 3.07C3.657 3.1 3.456 3.31 3.424 3.56L2.808 8.49C2.787 8.66 2.846 8.83 2.969 8.95L8.963 14.95C9.183 15.17 9.539 15.17 9.758 14.95L10.743 13.965\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"6.075\" cy=\"5.72\" r=\"0.989742\" fill=\"currentColor\"/><rect x=\"10.743\" y=\"10.74\" width=\"6.07571\" height=\"6.07571\" rx=\"1.125\" stroke=\"currentColor\"/><path d=\"M12.516 12.52L13.781 13.78L15.047 15.05M15.047 12.52L13.781 13.78L12.516 15.05\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<path d=\"M15.514 11.937L17 10.45C17.244 10.21 17.244 9.81 17 9.57L10.339 2.91C10.203 2.77 10.011 2.71 9.82 2.73L4.347 3.41C4.063 3.45 3.84 3.67 3.804 3.96L3.12 9.43C3.096 9.62 3.162 9.81 3.298 9.95L9.959 16.61C10.203 16.85 10.599 16.85 10.843 16.61L11.937 15.515\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"6.75\" cy=\"6.36\" r=\"1.09971\" fill=\"currentColor\"/><rect x=\"11.937\" y=\"11.94\" width=\"6.75079\" height=\"6.75079\" rx=\"1.25\" stroke=\"currentColor\"/><path d=\"M13.906 13.91L15.312 15.31L16.719 16.72M16.719 13.91L15.312 15.31L13.906 16.72\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<path d=\"M17.068 13.131L18.7 11.5C18.968 11.23 18.968 10.79 18.7 10.53L11.373 3.2C11.223 3.05 11.012 2.98 10.802 3L4.782 3.76C4.47 3.79 4.224 4.04 4.185 4.35L3.432 10.37C3.406 10.58 3.478 10.79 3.628 10.94L10.955 18.27C11.223 18.54 11.659 18.54 11.927 18.27L13.131 17.067\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"7.425\" cy=\"7\" r=\"1.20968\" fill=\"currentColor\"/><rect x=\"13.131\" y=\"13.13\" width=\"7.42587\" height=\"7.42587\" rx=\"1.375\" stroke=\"currentColor\"/><path d=\"M15.297 15.3L16.844 16.84L18.391 18.39M18.391 15.3L16.844 16.84L15.297 18.39\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<path d=\"M18.615 14.325L20.4 12.54C20.693 12.25 20.693 11.78 20.4 11.48L12.407 3.49C12.244 3.33 12.014 3.25 11.784 3.28L5.216 4.1C4.876 4.14 4.608 4.41 4.565 4.75L3.744 11.32C3.716 11.55 3.794 11.78 3.958 11.94L11.951 19.93C12.244 20.22 12.718 20.22 13.011 19.93L14.324 18.617\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8.1\" cy=\"7.63\" r=\"1.31966\" fill=\"currentColor\"/><rect x=\"14.32\" y=\"14.32\" width=\"8.10095\" height=\"8.10095\" rx=\"1.5\" stroke=\"currentColor\"/><path d=\"M16.69 16.69L20.06 20.06M20.06 16.69L18.38 18.38L16.69 20.06\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   },
+   "solidParts": true
+  },
+  {
+   "at": "2026-11-11T09:46:49.583Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M12.411 9.55L13.6 8.36C13.795 8.17 13.795 7.85 13.6 7.66L8.272 2.33C8.162 2.22 8.009 2.17 7.856 2.18L3.478 2.73C3.251 2.76 3.072 2.94 3.043 3.17L2.496 7.54C2.477 7.7 2.53 7.85 2.639 7.96L7.967 13.29C8.162 13.48 8.479 13.48 8.674 13.29L9.55 12.413\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"5.4\" cy=\"5.09\" r=\"0.879771\" fill=\"currentColor\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.125 11.12L13.375 13.38M13.375 11.12L11.125 13.38\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "shovel",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24163",
+  "looks": "A shovel angled with its rounded blade at the lower left and a D-grip at the upper right.",
+  "use": "Use for digging, gardening, or construction.",
+  "compare": {
+    "lucide": "shovel",
+    "phosphor": "shovel",
+    "tabler": "shovel"
+  }
+}

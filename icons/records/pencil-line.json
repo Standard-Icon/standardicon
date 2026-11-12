@@ -1,0 +1,21 @@
+{
+  "name": "pencil-line",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27677",
+  "looks": "A diagonal pencil with a short horizontal line at its lower right.",
+  "use": "Use for editing, writing, or signing.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "pencil-line",
+    "material": false,
+    "octicons": false,
+    "phosphor": "pencil-line",
+    "radix": false,
+    "sf": "pencil.line",
+    "tabler": "pencil"
+  }
+}

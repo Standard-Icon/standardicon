@@ -1,0 +1,21 @@
+{
+  "name": "toggle-off",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "figmaId": "23:1936",
+  "looks": "A pill-shaped switch with a hollow circle knob at the left end.",
+  "use": "Use for a switch turned off or a disabled setting.",
+  "compare": {
+    "carbon": "toggle-off",
+    "fluent": "toggle-left",
+    "lucide": "toggle-left",
+    "material": "toggle-off",
+    "octicons": false,
+    "phosphor": "toggle-left",
+    "radix": false,
+    "sf": false,
+    "tabler": "toggle-left"
+  }
+}

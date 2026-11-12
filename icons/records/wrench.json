@@ -1,0 +1,26 @@
+{
+  "name": "wrench",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Settings and controls",
+  "figmaId": "23:2588",
+  "looks": "A wrench angled with an open jaw at the upper right and the handle to the lower left.",
+  "use": "Use for settings, repairs, or maintenance.",
+  "keywords": [
+    "tool",
+    "fix",
+    "repair",
+    "settings"
+  ],
+  "compare": {
+    "fluent": "wrench",
+    "heroicons": "wrench",
+    "iconic": "wrench",
+    "lucide": "wrench",
+    "material": false,
+    "phosphor": "wrench",
+    "sf": "wrench.adjustable",
+    "tabler": "tool"
+  }
+}

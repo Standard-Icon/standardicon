@@ -1,0 +1,12 @@
+{
+ "name": "file-braces",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M4.543 2.498H9.481L12.444 5.499V12.501C12.444 12.766 12.34 13.021 12.155 13.208C11.969 13.396 11.718 13.501 11.456 13.501H4.543C4.281 13.501 4.03 13.396 3.845 13.208C3.66 13.021 3.556 12.766 3.556 12.501V3.499C3.556 3.233 3.66 2.979 3.845 2.791C4.03 2.604 4.281 2.498 4.543 2.498Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.09 2.651V4.908C9.09 5.46 9.538 5.908 10.09 5.908H12.306\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.104 7.552C6.656 7.552 6.432 7.776 6.432 8.224V8.896C6.432 9.254 6.208 9.478 5.984 9.568C6.208 9.657 6.432 9.881 6.432 10.239V10.911C6.432 11.359 6.656 11.583 7.104 11.583\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.895 7.552C9.343 7.552 9.567 7.776 9.567 8.224V8.896C9.567 9.254 9.791 9.478 10.015 9.568C9.791 9.657 9.567 9.881 9.567 10.239V10.911C9.567 11.359 9.343 11.583 8.895 11.583\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

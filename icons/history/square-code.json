@@ -1,0 +1,11 @@
+{
+ "name": "square-code",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"2\" stroke=\"currentColor\"/><path d=\"M6.5 6L4.75 8L6.5 10M9.5 6L11.25 8L9.5 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "spellcheck",
+  "status": "active",
+  "canonical": "letter-a",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6422",
+  "keywords": [
+    "grammar",
+    "proofread"
+  ],
+  "compare": {
+    "material": "spellcheck",
+    "tabler": "text-spellcheck"
+  }
+}

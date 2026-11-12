@@ -1,0 +1,23 @@
+{
+ "name": "filter-x-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M9.31 8.242V8L13.5 3H2.5L6.71 8V11.344L7.49 11.794\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 9.5L14 14M14 9.5L9.5 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<path d=\"M10.48 9.272V9L15.19 3.375H2.81L7.55 9V12.762L8.43 13.268\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.69 10.688L15.75 15.75M15.75 10.688L10.69 15.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<path d=\"M11.64 10.302V10L16.88 3.75H3.12L8.38 10V14.18L9.36 14.742\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.88 11.875L14.69 14.688L17.5 17.5M17.5 11.875L14.69 14.688L11.88 17.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<path d=\"M12.81 11.333V11L18.56 4.125H3.44L9.22 11V15.598L10.3 16.217\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.06 13.062L16.16 16.156L19.25 19.25M19.25 13.062L16.16 16.156L13.06 19.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<path d=\"M13.97 12.363V12L20.25 4.5H3.75L10.06 12V17.016L11.23 17.691\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14.25 14.25L17.62 17.625L21 21M21 14.25L17.62 17.625L14.25 21\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-11T09:46:49.583Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M9.31 8.242V8L13.5 3H2.5L6.71 8V11.344L7.49 11.794\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 9.5L14 14M14 9.5L9.5 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

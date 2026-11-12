@@ -1,0 +1,17 @@
+{
+  "name": "hat",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24850",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "fan",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24621",
+  "looks": "A circle containing a three-blade propeller.",
+  "use": "Use for fans, ventilation, cooling, or air flow.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.114Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": "fan",
+    "material": "mode-fan",
+    "phosphor": "fan",
+    "sf": "fan",
+    "tabler": false
+  }
+}

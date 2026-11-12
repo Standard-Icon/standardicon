@@ -1,0 +1,16 @@
+{
+  "name": "oven",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22112",
+  "looks": "A rounded square with a control line at the top and an inner window rectangle below it.",
+  "use": "Use for an oven, baking, or cooking.",
+  "compare": {
+    "lucide": false,
+    "material": "oven",
+    "phosphor": "oven",
+    "sf": "oven"
+  }
+}

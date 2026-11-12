@@ -1,0 +1,30 @@
+{
+  "name": "skip-forward",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "solid": "needed",
+  "figmaId": "34:5265",
+  "looks": "A right-pointing triangle with a vertical bar at its right tip.",
+  "use": "Use for next track or skipping forward.",
+  "keywords": [
+    "next track"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.572Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "skip-forward",
+    "fluent": "next",
+    "heroicons": "forward",
+    "lucide": "skip-forward",
+    "material": "skip-next",
+    "octicons": false,
+    "phosphor": "skip-forward",
+    "sf": "forward.end",
+    "tabler": "player-skip-forward"
+  }
+}

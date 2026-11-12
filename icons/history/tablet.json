@@ -1,0 +1,17 @@
+{
+ "name": "tablet",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M4.5 2H11.5C11.765 2 12.02 2.105 12.207 2.293C12.395 2.48 12.5 2.735 12.5 3V13C12.5 13.265 12.395 13.52 12.207 13.707C12.02 13.895 11.765 14 11.5 14H4.5C4.235 14 3.98 13.895 3.793 13.707C3.605 13.52 3.5 13.265 3.5 13V3C3.5 2.735 3.605 2.48 3.793 2.293C3.98 2.105 4.235 2 4.5 2Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.25 12H8.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"3.5\" y=\"2\" width=\"9\" height=\"12\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M7.25 12H8.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

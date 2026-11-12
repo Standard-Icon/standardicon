@@ -1,0 +1,19 @@
+{
+  "name": "ev-charger",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7285",
+  "looks": "A charging station box with a lightning bolt beside a cord ending in a two-prong plug.",
+  "use": "Use for electric vehicle charging or charging stations.",
+  "keywords": [
+    "electric vehicle",
+    "charging station"
+  ],
+  "compare": {
+    "lucide": "ev-charger",
+    "material": "charger",
+    "sf": "ev.charger"
+  }
+}

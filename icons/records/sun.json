@@ -1,0 +1,27 @@
+{
+  "name": "sun",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Settings and controls",
+  "solid": "done",
+  "figmaId": "13:1130",
+  "looks": "A circle surrounded by eight short rays.",
+  "use": "Use for sunny weather, light mode, or brightness.",
+  "keywords": [
+    "light mode",
+    "brightness",
+    "day"
+  ],
+  "compare": {
+    "carbon": "sun",
+    "heroicons": "sun",
+    "iconic": "sun",
+    "lucide": "sun",
+    "octicons": "sun",
+    "phosphor": "sun",
+    "radix": "sun",
+    "sf": "sun.max",
+    "tabler": "sun"
+  }
+}

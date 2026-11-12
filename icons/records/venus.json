@@ -1,0 +1,14 @@
+{
+  "name": "venus",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:23185",
+  "looks": "A circle with a cross below it.",
+  "use": "Use for female, gender, or the planet Venus.",
+  "compare": {
+    "lucide": "venus",
+    "tabler": "venus"
+  }
+}

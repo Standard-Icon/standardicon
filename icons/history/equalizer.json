@@ -1,0 +1,17 @@
+{
+ "name": "equalizer",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3 13V9M5.5 13V4M8 13V7M10.5 13V5M13 13V10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M8 13.112L8 7.736\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M8 4.112L8 2.902\" stroke=\"currentColor\" stroke-linecap=\"round\"/><rect x=\"7\" y=\"4.271\" width=\"2\" height=\"3.36548\" rx=\"1\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M4.305 13.154L4.305 11.972\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M4.305 8.321L4.305 2.902\" stroke=\"currentColor\" stroke-linecap=\"round\"/><rect x=\"3.305\" y=\"8.576\" width=\"2\" height=\"3.36548\" rx=\"1\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M11.695 13.221L11.695 9.826\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M11.695 6.291L11.695 2.778\" stroke=\"currentColor\" stroke-linecap=\"round\"/><rect x=\"10.695\" y=\"6.406\" width=\"2\" height=\"3.36548\" rx=\"1\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

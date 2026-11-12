@@ -1,0 +1,16 @@
+{
+  "name": "hard-drive-download-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29377",
+  "looks": "A hard drive with a downward arrow cut into the lower right.",
+  "use": "Use for saving to disk or downloading to a drive.",
+  "compare": {
+    "fluent": false,
+    "iconic": false,
+    "lucide": "hard-drive-download",
+    "material": false,
+    "phosphor": false,
+    "sf": false
+  }
+}

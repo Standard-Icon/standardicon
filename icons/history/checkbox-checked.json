@@ -1,0 +1,17 @@
+{
+ "name": "checkbox-checked",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4.5 3H11.5C11.898 3 12.279 3.158 12.561 3.439C12.842 3.721 13 4.102 13 4.5V11.5C13 11.898 12.842 12.279 12.561 12.561C12.279 12.842 11.898 13 11.5 13H4.5C4.102 13 3.721 12.842 3.439 12.561C3.158 12.279 3 11.898 3 11.5V4.5C3 4.102 3.158 3.721 3.439 3.439C3.721 3.158 4.102 3 4.5 3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 8L7.25 9.75L10.5 6.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"3\" y=\"3\" width=\"10\" height=\"10\" rx=\"1.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5.5 8L7.25 9.75L10.5 6.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

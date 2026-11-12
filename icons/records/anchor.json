@@ -1,0 +1,22 @@
+{
+  "name": "anchor",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9421",
+  "looks": "A ship anchor with a ring at the top, a vertical shaft, a crossbar and a curved bottom with two points.",
+  "use": "Use for anchor links, marine themes, or staying fixed in place.",
+  "keywords": [
+    "marine",
+    "link",
+    "dock"
+  ],
+  "compare": {
+    "carbon": "anchor",
+    "lucide": "anchor",
+    "material": "anchor",
+    "phosphor": "anchor",
+    "tabler": "anchor"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mail-search-overlay",
+  "status": "active",
+  "parent": "mail",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:18842",
+  "looks": "A closed envelope with a magnifying glass inside a small rounded square at the lower right.",
+  "use": "Use for searching mail or finding a message.",
+  "formerNames": [
+    "mail-search"
+  ],
+  "compare": {
+    "heroicons": false,
+    "lucide": "mail-search",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "mail-search"
+  }
+}

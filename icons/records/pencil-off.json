@@ -1,0 +1,21 @@
+{
+  "name": "pencil-off",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27656",
+  "looks": "A diagonal pencil crossed by a diagonal slash from upper left to lower right.",
+  "use": "Use for read only or editing disabled.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "pencil-off",
+    "material": false,
+    "octicons": false,
+    "phosphor": "pencil-slash",
+    "radix": false,
+    "sf": "pencil.slash",
+    "tabler": "pencil-off"
+  }
+}

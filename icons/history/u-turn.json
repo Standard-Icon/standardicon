@@ -1,0 +1,23 @@
+{
+ "name": "u-turn",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M5 13V6C5 5.204 5.316 4.441 5.879 3.879C6.441 3.316 7.204 3 8 3C8.796 3 9.559 3.316 10.121 3.879C10.684 4.441 11 5.204 11 6V12.5M13.5 10L11 12.5L8.5 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M3.458 11.5V6.98C3.458 5.924 3.877 4.912 4.623 4.166C5.37 3.419 6.382 3 7.438 3C8.493 3 9.505 3.419 10.252 4.166C10.998 4.912 11.417 5.737 11.417 6.98V12.5M13.917 10L11.417 12.5L8.917 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M2.958 11.5V6.98C2.958 5.924 3.377 4.912 4.123 4.166C4.87 3.419 5.882 3 6.938 3C7.993 3 9.005 3.419 9.752 4.166C10.498 4.912 10.917 5.737 10.917 6.98V12.5M13.417 10L10.917 12.5L8.417 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

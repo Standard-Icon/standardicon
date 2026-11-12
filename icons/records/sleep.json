@@ -1,0 +1,15 @@
+{
+  "name": "sleep",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27677",
+  "looks": "A crescent moon with two stacked z letters at the upper right.",
+  "use": "Use for sleep, rest, or do not disturb.",
+  "compare": {
+    "lucide": false,
+    "material": false,
+    "sf": "sleep"
+  }
+}

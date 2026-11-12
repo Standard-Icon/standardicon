@@ -1,0 +1,24 @@
+{
+  "name": "headphones",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5474",
+  "looks": "A headband arc with an ear cup at each end.",
+  "use": "Use for listening, audio, or music.",
+  "keywords": [
+    "audio",
+    "listen",
+    "support"
+  ],
+  "compare": {
+    "carbon": "headphones",
+    "fluent": "headphones",
+    "lucide": "headphones",
+    "material": "headphones",
+    "phosphor": "headphones",
+    "sf": "headphones",
+    "tabler": "headphones"
+  }
+}

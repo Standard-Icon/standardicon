@@ -1,0 +1,15 @@
+{
+  "name": "git-commit-vertical",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26354",
+  "looks": "A vertical line with a circle in the middle.",
+  "use": "Use for a git commit or a point on a timeline.",
+  "compare": {
+    "lucide": "git-commit-vertical",
+    "octicons": "git-commit",
+    "phosphor": "git-commit",
+    "sf": false,
+    "tabler": "git-commit"
+  }
+}

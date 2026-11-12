@@ -1,0 +1,19 @@
+{
+  "name": "drone",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8679",
+  "keywords": [
+    "quadcopter"
+  ],
+  "compare": {
+    "carbon": "drone",
+    "lucide": "drone",
+    "material": "drone",
+    "phosphor": "drone",
+    "sf": "drone",
+    "tabler": "drone"
+  }
+}

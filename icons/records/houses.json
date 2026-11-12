@@ -1,0 +1,22 @@
+{
+  "name": "houses",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:20785",
+  "looks": "Two houses side by side, a small one in front of a larger one.",
+  "use": "Use for neighborhoods, multiple properties, or housing.",
+  "compare": {
+    "lucide": "houses",
+    "material": "other-houses"
+  },
+  "notes": [
+    {
+      "at": "2026-11-09",
+      "by": "morgan",
+      "text": "The other house is too big. In the smaller house, change the shape from our canonical house.",
+      "issue": "the-other-house-is-too-big-in-the-smaller-house"
+    }
+  ]
+}

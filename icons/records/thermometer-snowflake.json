@@ -1,0 +1,12 @@
+{
+  "name": "thermometer-snowflake",
+  "status": "dropped",
+  "coveredBy": "thermometer-snow",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "Not drawn: thermometer-snow already does this."
+    }
+  ]
+}

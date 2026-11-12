@@ -1,0 +1,14 @@
+{
+  "name": "lambda",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "59:21981",
+  "looks": "A Greek lowercase lambda.",
+  "use": "Use for lambda functions, serverless functions, or wavelength.",
+  "compare": {
+    "lucide": "lambda",
+    "tabler": "lambda"
+  }
+}

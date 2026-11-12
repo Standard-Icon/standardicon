@@ -1,0 +1,22 @@
+{
+  "name": "layout-list",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "21:1691",
+  "looks": "Two wide rounded bars stacked one above the other.",
+  "use": "Use for list view, rows, or stacked items.",
+  "compare": {
+    "carbon": "list",
+    "fluent": "list",
+    "heroicons": "queue-list",
+    "lucide": "layout-list",
+    "material": "list",
+    "octicons": "list-ordered",
+    "phosphor": false,
+    "radix": false,
+    "sf": "list.dash",
+    "tabler": "layout-list"
+  }
+}

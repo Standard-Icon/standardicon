@@ -1,0 +1,16 @@
+{
+  "name": "table-cells-merge",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "editor",
+  "figmaId": "58:21568",
+  "looks": "A rounded rectangle with a header row and a double-headed horizontal arrow in the body.",
+  "use": "Use for merging table cells.",
+  "compare": {
+    "fluent": "table-cells-merge",
+    "heroicons": false,
+    "lucide": "table-cells-merge",
+    "sf": false
+  }
+}

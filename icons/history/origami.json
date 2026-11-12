@@ -1,0 +1,23 @@
+{
+ "name": "origami",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2.5 8L5 5L6.881 8.997L6.882 9H6.88L6.881 8.997L8.5 2.5L10 8.5M10 8.5L6.882 9L9 13.5L14 5L10 8.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<path d=\"M2.812 9L5.625 5.625L7.741 10.121L7.742 10.125H7.74L7.741 10.121L9.562 2.812L11.25 9.562M11.25 9.562L7.742 10.125L10.125 15.188L15.75 5.625L11.25 9.562Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<path d=\"M3.125 10L6.25 6.25L8.601 11.246L8.603 11.25H8.6L8.601 11.246L10.625 3.125L12.5 10.625M12.5 10.625L8.603 11.25L11.25 16.875L17.5 6.25L12.5 10.625Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<path d=\"M3.438 11L6.875 6.875L9.461 12.371L9.463 12.375H9.46L9.461 12.371L11.688 3.438L13.75 11.688M13.75 11.688L9.463 12.375L12.375 18.562L19.25 6.875L13.75 11.688Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<path d=\"M3.75 12L7.5 7.5L10.321 13.495L10.323 13.499L10.32 13.5L10.321 13.495L12.75 3.75L15 12.75M15 12.75L10.323 13.499L13.5 20.25L21 7.5L15 12.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-11T09:46:49.583Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2.5 8L5 5L6.881 8.997L6.882 9H6.88L6.881 8.997L8.5 2.5L10 8.5M10 8.5L6.882 9L9 13.5L14 5L10 8.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

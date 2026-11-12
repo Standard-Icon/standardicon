@@ -1,0 +1,35 @@
+{
+ "name": "horizontal-rule",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M11.457 1.185V2.37C11.457 3.025 10.926 3.555 10.272 3.555H3.951C3.296 3.555 2.765 3.025 2.765 2.37V1.185H11.457Z\" fill=\"currentColor\" fill-opacity=\"0.25\" stroke=\"currentColor\"/><path d=\"M2.765 7.111H12.543\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M11.457 13.037V11.852C11.457 11.197 10.926 10.667 10.272 10.667H3.951C3.296 10.667 2.765 11.197 2.765 11.852V13.037H11.457Z\" fill=\"currentColor\" fill-opacity=\"0.25\" stroke=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-07T17:09:07-08:00",
+   "source": "git 822169b",
+   "released": true,
+   "body": "<path d=\"M11.457 1.186V2.371C11.457 3.025 10.926 3.556 10.272 3.556H3.951C3.296 3.556 2.765 3.025 2.765 2.371V1.186H11.457Z\" stroke=\"currentColor\"/><path d=\"M2.765 7.111H12.543\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M11.457 13.037V11.852C11.457 11.198 10.926 10.667 10.272 10.667H3.951C3.296 10.667 2.765 11.198 2.765 11.852V13.037H11.457Z\" stroke=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M11.957 2.185V3.37C11.957 4.025 11.426 4.556 10.772 4.556H4.451C3.796 4.556 3.266 4.025 3.266 3.37V2.185H11.957Z\" stroke=\"currentColor\"/><path d=\"M3.266 8.111H13.043\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M11.957 14.037V12.852C11.957 12.197 11.426 11.667 10.772 11.667H4.451C3.796 11.667 3.266 12.197 3.266 12.852V14.037H11.957Z\" stroke=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M12.346 3.234V4.42C12.346 5.074 11.815 5.605 11.16 5.605H4.839C4.185 5.605 3.654 5.074 3.654 4.42V3.234H12.346Z\" stroke=\"currentColor\"/><path d=\"M3.111 8H12.889\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M12.346 12.766V11.58C12.346 10.926 11.815 10.395 11.16 10.395H4.839C4.185 10.395 3.654 10.926 3.654 11.58V12.766H12.346Z\" stroke=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M12.889 2.638V3.972C12.889 4.708 12.292 5.305 11.555 5.305H4.444C3.707 5.305 3.11 4.708 3.11 3.972V2.638H12.889Z\" stroke=\"currentColor\"/><path d=\"M2.5 8H13.497\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M12.889 13.362V12.028C12.889 11.292 12.292 10.695 11.555 10.695H4.444C3.707 10.695 3.11 11.292 3.11 12.028V13.362H12.889Z\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

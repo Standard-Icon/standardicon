@@ -1,0 +1,17 @@
+{
+ "name": "receipt",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.5 2.5H12.5V13.5L11 12.5L9.5 13.5L8 12.5L6.5 13.5L5 12.5L3.5 13.5V2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 5.5H10M6 8H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M2.891 2.5H13.109V13.5L11.406 12.5L9.703 13.5L8 12.5L6.297 13.5L4.594 12.5L2.891 13.5V2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 5.5H10M6 8H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

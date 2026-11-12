@@ -1,0 +1,13 @@
+{
+  "name": "star-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27749",
+  "looks": "A five-pointed star with a small check mark cut into its lower right.",
+  "use": "Use for a saved favorite or an approved rating.",
+  "compare": {
+    "fluent": "star-checkmark",
+    "lucide": "star-check",
+    "sf": false
+  }
+}

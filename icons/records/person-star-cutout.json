@@ -1,0 +1,14 @@
+{
+  "name": "person-star-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28238",
+  "looks": "A person's head and shoulders with a small star at the lower right.",
+  "use": "Use for favorite contacts, VIPs, or featured people.",
+  "compare": {
+    "fluent": "person-star",
+    "lucide": "user-star",
+    "sf": false,
+    "tabler": "user-star"
+  }
+}

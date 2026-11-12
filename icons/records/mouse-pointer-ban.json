@@ -1,0 +1,9 @@
+{
+  "name": "mouse-pointer-ban",
+  "status": "covered",
+  "coveredBy": "cursor-ban",
+  "source": "lucide",
+  "compare": {
+    "lucide": "mouse-pointer-ban"
+  }
+}

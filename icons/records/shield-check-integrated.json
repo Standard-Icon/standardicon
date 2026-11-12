@@ -1,0 +1,25 @@
+{
+  "name": "shield-check-integrated",
+  "status": "active",
+  "parent": "shield",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Status and feedback",
+  "figmaId": "30:3929",
+  "looks": "A shield with a checkmark inside it.",
+  "use": "Use for protected, verified, or compliant status.",
+  "formerNames": [
+    "shield-check"
+  ],
+  "compare": {
+    "fluent": "shield-checkmark",
+    "heroicons": "shield-check",
+    "iconic": "shield-tick",
+    "lucide": "shield-check",
+    "material": "verified-user",
+    "octicons": "shield-check",
+    "phosphor": "shield-check",
+    "sf": "checkmark.shield",
+    "tabler": "shield-check"
+  }
+}

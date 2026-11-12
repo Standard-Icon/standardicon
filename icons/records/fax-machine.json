@@ -1,0 +1,20 @@
+{
+  "name": "fax-machine",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:22544",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "fax",
+    "lucide": false,
+    "material": "fax",
+    "phosphor": false,
+    "sf": "faxmachine",
+    "tabler": false
+  }
+}

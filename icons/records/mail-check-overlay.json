@@ -1,0 +1,20 @@
+{
+  "name": "mail-check-overlay",
+  "status": "active",
+  "parent": "mail",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:18752",
+  "looks": "A closed envelope with a check mark inside a small rounded square at the lower right.",
+  "use": "Use for mail sent, read, or verified.",
+  "formerNames": [
+    "mail-check"
+  ],
+  "compare": {
+    "fluent": "mail-checkmark",
+    "lucide": "mail-check",
+    "sf": false,
+    "tabler": "mail-check"
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "indent",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3 3.5H13M7.5 6.5H13M7.5 9.5H13M3 12.5H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 6L5 8L3 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M3 3.5H13M7.5 6.5H13M7.5 9.5H13M3 12.5H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 6L4.3 8L3 10\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

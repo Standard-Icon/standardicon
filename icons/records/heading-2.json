@@ -1,0 +1,22 @@
+{
+  "name": "heading-2",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1234",
+  "looks": "A capital H with a small number 2 at its upper right.",
+  "use": "Use for a level 2 heading or section title.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "heading-2",
+    "material": false,
+    "octicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "h-2"
+  }
+}

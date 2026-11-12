@@ -1,0 +1,11 @@
+{
+ "name": "venus-mars",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<circle cx=\"5\" cy=\"7.75\" r=\"3\" stroke=\"currentColor\"/><circle cx=\"9\" cy=\"7.75\" r=\"3\" stroke=\"currentColor\"/><path d=\"M5 10.75V13.25M3.5 12.5H6.5M11.12 5.63L13.75 3M13.75 5V3H11.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

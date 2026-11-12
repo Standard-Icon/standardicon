@@ -1,0 +1,11 @@
+{
+ "name": "corner-up-left",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M12.5 12.5V8.5C12.5 7.97 12.289 7.461 11.914 7.086C11.539 6.711 11.03 6.5 10.5 6.5H3.5M6.5 9.5L3.5 6.5L6.5 3.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

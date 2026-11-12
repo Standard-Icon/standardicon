@@ -1,0 +1,17 @@
+{
+  "name": "stabilize",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "183:32000",
+  "looks": "A rounded rectangle with a short vertical line on each side, apart from it.",
+  "use": "Use for video stabilization or reducing shake.",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "video"
+    }
+  ]
+}

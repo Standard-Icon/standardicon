@@ -1,0 +1,15 @@
+{
+  "name": "book-open-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28376",
+  "looks": "An open book with a small plus sign cut into the lower right.",
+  "use": "Use for adding a book, a page, or a lesson.",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "book-plus",
+    "phosphor": false,
+    "sf": "book.badge.plus"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "eraser",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6058",
+  "keywords": [
+    "remove",
+    "clear"
+  ],
+  "compare": {
+    "carbon": "erase",
+    "fluent": false,
+    "lucide": "eraser",
+    "material": "ink-eraser",
+    "phosphor": "eraser",
+    "radix": "eraser",
+    "sf": "eraser",
+    "tabler": "eraser"
+  }
+}

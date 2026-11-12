@@ -1,0 +1,26 @@
+{
+  "name": "microphone-off",
+  "status": "active",
+  "parent": "microphone",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5448",
+  "keywords": [
+    "mute",
+    "mic off"
+  ],
+  "compare": {
+    "carbon": "microphone-off",
+    "fluent": "mic-off",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "mic-off",
+    "material": "mic-off",
+    "octicons": false,
+    "phosphor": "microphone-slash",
+    "radix": false,
+    "sf": "microphone.slash",
+    "tabler": "microphone-off"
+  }
+}

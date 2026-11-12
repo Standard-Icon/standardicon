@@ -1,0 +1,11 @@
+{
+ "name": "eyebrow",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M3 5.5C5 3 10 2.75 13 5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 10C5 8 6.5 7.5 8 7.5C9.5 7.5 11 8 12.5 10C11 12 9.5 12.5 8 12.5C6.5 12.5 5 12 3.5 10Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"10\" r=\"0.75\" fill=\"currentColor\"/>"
+  }
+ ]
+}

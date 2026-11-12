@@ -1,0 +1,25 @@
+{
+  "name": "qr-code",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7222",
+  "keywords": [
+    "scan",
+    "link"
+  ],
+  "compare": {
+    "carbon": "qr-code",
+    "fluent": false,
+    "heroicons": "qr-code",
+    "iconic": false,
+    "lucide": "qr-code",
+    "material": "qr-code",
+    "octicons": false,
+    "phosphor": "qr-code",
+    "radix": false,
+    "sf": false,
+    "tabler": "qrcode"
+  }
+}

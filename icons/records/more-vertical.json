@@ -1,0 +1,29 @@
+{
+  "name": "more-vertical",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "21:1863",
+  "looks": "Three dots stacked in a vertical column.",
+  "use": "Use for more options, an overflow menu, or row actions.",
+  "keywords": [
+    "ellipsis",
+    "overflow",
+    "kebab",
+    "dots"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "overflow-menu-vertical",
+    "fluent": "more-vertical",
+    "heroicons": "ellipsis-vertical",
+    "lucide": "ellipsis-vertical",
+    "material": false,
+    "octicons": false,
+    "phosphor": "dots-three-vertical",
+    "radix": "dots-vertical",
+    "sf": false,
+    "tabler": "dots-vertical"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "globe-lock-overlay",
+  "status": "active",
+  "parent": "globe-simple",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:19704",
+  "looks": "A globe with a small rounded square holding a padlock overlapping its lower right.",
+  "use": "Use for a secure connection, HTTPS, or private sites.",
+  "formerNames": [
+    "globe-lock"
+  ],
+  "compare": {
+    "lucide": "globe-lock",
+    "sf": false
+  }
+}

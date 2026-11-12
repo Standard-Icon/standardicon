@@ -1,0 +1,19 @@
+{
+  "name": "book-open-text",
+  "status": "active",
+  "parent": "book-open",
+  "canonical": "book-open",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:23603",
+  "looks": "An open book with three short lines of text on each page.",
+  "use": "Use for reading, articles, or documentation.",
+  "compare": {
+    "fluent": "book-open",
+    "heroicons": "book-open",
+    "lucide": "book-open-text",
+    "phosphor": "book-open-text",
+    "sf": "text.book.closed"
+  }
+}

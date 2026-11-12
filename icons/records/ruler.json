@@ -1,0 +1,22 @@
+{
+  "name": "ruler",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6443",
+  "looks": "A straight ruler tilted on a diagonal with tick marks along one edge.",
+  "use": "Use for measuring, rulers, or dimensions.",
+  "keywords": [
+    "measure"
+  ],
+  "compare": {
+    "carbon": "ruler",
+    "fluent": "ruler",
+    "lucide": "ruler",
+    "phosphor": "ruler",
+    "radix": "ruler-square",
+    "sf": "ruler",
+    "tabler": "ruler"
+  }
+}

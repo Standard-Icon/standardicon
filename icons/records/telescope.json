@@ -1,0 +1,20 @@
+{
+  "name": "telescope",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9551",
+  "looks": "A telescope tube tilted up on a three-legged stand.",
+  "use": "Use for astronomy, exploring, or looking ahead.",
+  "keywords": [
+    "space",
+    "astronomy",
+    "explore"
+  ],
+  "compare": {
+    "lucide": "telescope",
+    "octicons": "telescope",
+    "tabler": "telescope"
+  }
+}

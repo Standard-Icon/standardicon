@@ -1,0 +1,11 @@
+{
+  "name": "cupcake",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24902",
+  "looks": "A fluted cupcake with swirled frosting piled on top.",
+  "use": "Use for cupcakes, bakery, or desserts.",
+  "compare": {
+    "lucide": "cupcake"
+  }
+}

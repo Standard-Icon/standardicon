@@ -1,0 +1,27 @@
+{
+  "name": "ram",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:2983",
+  "looks": "A wide memory module with an inner rectangle and two short pins on a tab below.",
+  "use": "Use for memory, RAM, or hardware specs.",
+  "formerNames": [
+    "memory"
+  ],
+  "keywords": [
+    "memory"
+  ],
+  "compare": {
+    "fluent": "ram",
+    "lucide": "memory-stick"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "was `memory`"
+    }
+  ]
+}

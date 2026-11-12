@@ -1,0 +1,20 @@
+{
+  "name": "align-object-left",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "58:21688",
+  "looks": "Two horizontal bars, long above short, lined up against a vertical line on the left.",
+  "use": "Use for aligning objects to the left edge.",
+  "compare": {
+    "carbon": "align-horizontal-left",
+    "fluent": "align-left",
+    "lucide": "align-start-vertical",
+    "material": "align-horizontal-left",
+    "phosphor": "align-left",
+    "radix": "align-left",
+    "sf": "align.horizontal.left",
+    "tabler": "align-left"
+  }
+}

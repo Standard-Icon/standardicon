@@ -1,0 +1,21 @@
+{
+  "name": "dodge-burn",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "184:31937",
+  "looks": "A circle half filled on the left, on top of a short vertical handle.",
+  "use": "Use for dodge and burn tools or lightening and darkening.",
+  "fillApproved": true,
+  "compare": {
+    "sf": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "photo"
+    }
+  ]
+}

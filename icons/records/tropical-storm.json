@@ -1,0 +1,13 @@
+{
+  "name": "tropical-storm",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20374",
+  "compare": {
+    "carbon": "tropical-storm",
+    "material": "storm",
+    "tabler": "storm"
+  }
+}

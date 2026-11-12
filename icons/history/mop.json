@@ -1,0 +1,11 @@
+{
+ "name": "mop",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 2.5V8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 8.5H10C11.5 9.25 12.5 10.5 12.5 12C12.5 12.398 12.34 12.779 12.06 13.061C11.78 13.342 11.4 13.5 11 13.5C10.6 13.5 10.22 13.342 9.94 13.061C9.66 12.779 9.5 12.398 9.5 12C9.5 12.398 9.34 12.779 9.06 13.061C8.78 13.342 8.4 13.5 8 13.5C7.6 13.5 7.22 13.342 6.94 13.061C6.66 12.779 6.5 12.398 6.5 12C6.5 12.398 6.34 12.779 6.06 13.061C5.78 13.342 5.4 13.5 5 13.5C4.6 13.5 4.22 13.342 3.94 13.061C3.66 12.779 3.5 12.398 3.5 12C3.5 10.5 4.5 9.25 6 8.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 12V10.5M9.5 12V10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "cluster",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:3174",
+  "keywords": [
+    "kubernetes",
+    "nodes"
+  ],
+  "compare": {
+    "carbon": "edge-cluster",
+    "lucide": "boxes"
+  }
+}

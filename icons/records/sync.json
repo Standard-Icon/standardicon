@@ -1,0 +1,22 @@
+{
+  "name": "sync",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1597",
+  "looks": "Two curved arrows chasing each other around a circle, heads at the top right and bottom left.",
+  "use": "Use for sync, update, or keep in step.",
+  "keywords": [
+    "synchronize",
+    "update"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "arrow-sync",
+    "lucide": "refresh-cw",
+    "material": "sync",
+    "octicons": "sync",
+    "sf": "arrow.clockwise"
+  }
+}

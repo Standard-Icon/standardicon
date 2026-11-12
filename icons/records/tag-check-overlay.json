@@ -1,0 +1,17 @@
+{
+  "name": "tag-check-overlay",
+  "status": "active",
+  "parent": "tag",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:20839",
+  "looks": "A tilted price tag with a check mark inside a small rounded square at the lower right.",
+  "use": "Use for a tag applied or a confirmed label.",
+  "formerNames": [
+    "tag-check"
+  ],
+  "compare": {
+    "sf": false
+  }
+}

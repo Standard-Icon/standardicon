@@ -1,0 +1,13 @@
+{
+  "name": "sos",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24603",
+  "compare": {
+    "material": "sos",
+    "sf": "sos",
+    "tabler": "sos"
+  }
+}

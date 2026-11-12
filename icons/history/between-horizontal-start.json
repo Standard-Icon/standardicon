@@ -1,0 +1,17 @@
+{
+ "name": "between-horizontal-start",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"5.5\" y=\"2.5\" width=\"8\" height=\"4.75\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"5.5\" y=\"8.75\" width=\"8\" height=\"4.75\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.5 6L4.5 8L2.5 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T01:11:30.580Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"5.5\" y=\"2.5\" width=\"8\" height=\"4.00635\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"5.5\" y=\"9.51\" width=\"8\" height=\"3.99048\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.5 6L4.5 8L2.5 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

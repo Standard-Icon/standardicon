@@ -1,0 +1,20 @@
+{
+  "name": "route",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7026",
+  "looks": "An S-shaped path with a small circle at each end, the start at lower left and the end at upper right.",
+  "use": "Use for routes, paths, or trips from A to B.",
+  "keywords": [
+    "path",
+    "trip"
+  ],
+  "compare": {
+    "carbon": false,
+    "lucide": "route",
+    "material": "route",
+    "tabler": "route"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "guitar-electric",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26439",
+  "compare": {
+    "fluent": "guitar",
+    "lucide": "guitar-electric",
+    "material": false,
+    "phosphor": "guitar",
+    "tabler": false
+  }
+}

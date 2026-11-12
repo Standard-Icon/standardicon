@@ -1,0 +1,21 @@
+{
+  "name": "screwdriver",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24189",
+  "looks": "A diagonal screwdriver with a rounded handle and a thin shaft with a tip at the upper right.",
+  "use": "Use for tools, repairs, or tightening.",
+  "approved": {
+    "at": "2026-11-11T19:16:36.289Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "heroicons": false,
+    "lucide": false,
+    "phosphor": "screwdriver",
+    "sf": "screwdriver"
+  }
+}

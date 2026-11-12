@@ -1,0 +1,11 @@
+{
+ "name": "panorama-capture",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M1.5 4.5C5.833 5.833 10.167 5.833 14.5 4.5V11.5C10.167 10.167 5.833 10.167 1.5 11.5V4.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"8\" r=\"0.6\" fill=\"currentColor\"/>"
+  }
+ ]
+}

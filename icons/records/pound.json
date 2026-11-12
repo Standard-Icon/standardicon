@@ -1,0 +1,23 @@
+{
+  "name": "pound",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7514",
+  "looks": "A pound sterling sign: a curved L with a crossbar.",
+  "use": "Use for British pounds, prices, or currency.",
+  "keywords": [
+    "money",
+    "currency",
+    "gbp"
+  ],
+  "compare": {
+    "carbon": "currency-pound",
+    "heroicons": "currency-pound",
+    "lucide": "pound-sterling",
+    "material": "currency-pound",
+    "sf": "sterlingsign",
+    "tabler": "currency-pound"
+  }
+}

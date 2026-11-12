@@ -1,0 +1,25 @@
+{
+  "id": "radix",
+  "title": "Radix",
+  "kind": "svg",
+  "dir": ".workbench/sets/radix",
+  "order": 5,
+  "off": true,
+  "color": "#0ea5a5",
+  "grid": 15,
+  "matchLine": false,
+  "license": "MIT",
+  "usage": "For comparing only. Downloaded into .workbench/sets/ with `npm run workbench:sets`, which git ignores. No set's geometry is ever traced.",
+  "words": {
+    "close": "cross-2",
+    "x": "cross-2",
+    "settings": "gear",
+    "trash": "trash",
+    "edit": "pencil-1",
+    "person": "person",
+    "plus": "plus",
+    "check": "check",
+    "more": "dots-horizontal",
+    "search": "magnifying-glass"
+  }
+}

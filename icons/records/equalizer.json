@@ -1,0 +1,21 @@
+{
+  "name": "equalizer",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5808",
+  "looks": "Three vertical lines with a small knob on each at different heights.",
+  "use": "Use for an audio equalizer, mixing, or sound settings.",
+  "keywords": [
+    "audio",
+    "levels",
+    "eq"
+  ],
+  "compare": {
+    "carbon": "equalizer",
+    "lucide": "audio-lines-x",
+    "material": "equalizer",
+    "phosphor": "equalizer"
+  }
+}

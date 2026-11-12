@@ -1,0 +1,17 @@
+{
+ "name": "prescription",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M4.5 12.5V8M4.5 8V3.5H8.124C8.721 3.5 9.293 3.737 9.716 4.159C10.137 4.581 10.374 5.153 10.374 5.75C10.374 6.347 10.137 6.919 9.716 7.341C9.293 7.763 8.721 8 8.124 8H4.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 8L11.63 12.63\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.525 8.914L8.025 12.664\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M3.786 13.303V7.901M3.786 7.901V2.5H8.136C8.852 2.5 9.54 2.785 10.046 3.291C10.552 3.797 10.837 4.485 10.837 5.201C10.837 5.917 10.552 6.604 10.046 7.11C9.54 7.617 8.852 7.901 8.136 7.901H3.786Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.787 7.901L12.345 13.459\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.218 8.998L8.017 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "star-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27707",
+  "looks": "A five-pointed star with a small plus sign cut into its lower right.",
+  "use": "Use for adding to favorites.",
+  "compare": {
+    "fluent": "star-add",
+    "lucide": "star-plus",
+    "sf": false
+  }
+}

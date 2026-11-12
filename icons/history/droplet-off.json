@@ -1,0 +1,11 @@
+{
+ "name": "droplet-off",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M11.987 9.494C11.996 9.389 12 9.283 12 9.177C12 6.677 10 5.324 8 2.824C7.6 3.324 7.2 3.778 6.816 4.205M10.087 12.589C9.464 12.97 8.743 13.177 8 13.177C6.939 13.177 5.922 12.755 5.172 12.005C4.421 11.255 4 10.238 4 9.177C4 8.385 4.201 7.709 4.538 7.074\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 2.5L13.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

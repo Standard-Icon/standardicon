@@ -1,0 +1,11 @@
+{
+ "name": "less-than-equal",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M12 2.5L4 6.5L12 10.5M4 13.5H12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

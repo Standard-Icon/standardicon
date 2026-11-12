@@ -1,0 +1,15 @@
+{
+  "name": "star-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27770",
+  "looks": "A five-pointed star with a small x cut into its lower right.",
+  "use": "Use for deleting a favorite or clearing a rating.",
+  "compare": {
+    "fluent": "star-dismiss",
+    "heroicons": false,
+    "lucide": "star-x",
+    "radix": false,
+    "sf": false
+  }
+}

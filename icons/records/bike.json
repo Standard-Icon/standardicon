@@ -1,0 +1,21 @@
+{
+  "name": "bike",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7186",
+  "looks": "A side view of a bicycle with two round wheels, a frame, handlebars and a seat.",
+  "use": "Use for cycling, bike routes, or bike sharing.",
+  "keywords": [
+    "bicycle",
+    "cycling"
+  ],
+  "compare": {
+    "lucide": "bike",
+    "material": "pedal-bike",
+    "phosphor": "bicycle",
+    "sf": "bicycle",
+    "tabler": "bike"
+  }
+}

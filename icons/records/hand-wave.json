@@ -1,0 +1,23 @@
+{
+  "name": "hand-wave",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:5169",
+  "keywords": [
+    "hello",
+    "welcome"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "hand-wave",
+    "heroicons": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": "hand-waving",
+    "radix": false,
+    "sf": "hand.wave",
+    "tabler": false
+  }
+}

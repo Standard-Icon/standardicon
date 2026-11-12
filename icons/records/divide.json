@@ -1,0 +1,15 @@
+{
+  "name": "divide",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Math",
+  "figmaId": "275:22497",
+  "compare": {
+    "heroicons": "divide",
+    "lucide": "divide",
+    "phosphor": "divide",
+    "sf": "divide",
+    "tabler": "divide"
+  }
+}

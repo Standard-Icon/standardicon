@@ -1,0 +1,16 @@
+{
+  "name": "cooking-pot",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24725",
+  "looks": "A deep pot with a wide lid line and a small handle knob on top.",
+  "use": "Use for cooking, recipes, or kitchens.",
+  "compare": {
+    "lucide": "cooking-pot",
+    "material": "cooking",
+    "phosphor": "cooking-pot",
+    "sf": "frying.pan"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "heart-off",
+  "status": "active",
+  "parent": "heart",
+  "canonical": "heart",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:19322",
+  "looks": "A heart crossed by a diagonal slash from the lower left to the upper right.",
+  "use": "Use for favorites turned off or no likes.",
+  "compare": {
+    "carbon": false,
+    "fluent": "heart-off",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "heart-off",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "heart.slash",
+    "tabler": "heart-off"
+  }
+}

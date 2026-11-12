@@ -1,0 +1,11 @@
+{
+ "name": "humidity",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 2C8 2 12.5 6.4 12.5 9.5C12.5 12 10.5 14 8 14C5.5 14 3.5 12 3.5 9.5C3.5 6.4 8 2 8 2Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 7.75L6.5 11.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"6.15\" cy=\"8.4\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"9.85\" cy=\"11.1\" r=\"0.6\" fill=\"currentColor\"/>"
+  }
+ ]
+}

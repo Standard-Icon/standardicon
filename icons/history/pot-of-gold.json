@@ -1,0 +1,11 @@
+{
+ "name": "pot-of-gold",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2.5 7.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 7.5C2.5 9 2.5 11 3.5 12.25C4.25 13.1 5.25 13.5 6.5 13.5H9.5C10.75 13.5 11.75 13.1 12.5 12.25C13.5 11 13.5 9 12.5 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6.25C8 6.94 7.44 7.5 6.75 7.5C6.06 7.5 5.5 6.94 5.5 6.25C5.5 5.56 6.06 5 6.75 5C7.44 5 8 5.56 8 6.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 6.25C10.5 6.94 9.94 7.5 9.25 7.5C8.56 7.5 8 6.94 8 6.25C8 5.56 8.56 5 9.25 5C9.94 5 10.5 5.56 10.5 6.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.25 4.08C9.25 4.77 8.69 5.33 8 5.33C7.31 5.33 6.75 4.77 6.75 4.08C6.75 3.39 7.31 2.83 8 2.83C8.69 2.83 9.25 3.39 9.25 4.08Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

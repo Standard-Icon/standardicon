@@ -1,0 +1,11 @@
+{
+ "name": "layer-arrow-up",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 7.25L13.5 10.25L8 13.25L2.5 10.25L8 7.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6.5V2.75M9.5 4.25L8 2.75L6.5 4.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

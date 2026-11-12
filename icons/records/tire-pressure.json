@@ -1,0 +1,25 @@
+{
+  "name": "tire-pressure",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20932",
+  "looks": "A flattened tire cross-section with tread marks at the bottom and an exclamation mark inside.",
+  "use": "Use for low tire pressure warnings or car alerts.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "material": false,
+    "phosphor": "tire",
+    "sf": "tire"
+  },
+  "notes": [
+    {
+      "at": "2026-11-09",
+      "by": "morgan",
+      "text": "needs flared tops https://www.google.com/search?sca_esv=339de09c5849bf8a&sxsrf=AKL5yDhln0t7SlfqeMcQxz0hqcMMFJXbPg:1794183093543&udm=2&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVdbYfq_upmJPcFgYr-v9gSTVyD5sdmH9TPzYOdGBFKOTfx2zWZogXPQfjwf93Wr8nbTvw7mQ_l0pVuwClxXjbA5GXNsJeOIklNRADJjU7t8F-eTqBfnZYl6ulGSj7hbuEXcggUkSfD8YLlgJ6e-ykFv4d5MKz8-cxEoWlC_gOinio8QfaA&q=tire+pressure+icon&sa=X&ved=2ahUKEwiF_87vzPmXAxXAEDQIHTznAvgQtKgLegQIHBAB&biw=2494&bih=1553&dpr=2",
+      "issue": "needs-flared-tops"
+    }
+  ]
+}

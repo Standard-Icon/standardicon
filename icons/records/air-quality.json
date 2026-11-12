@@ -1,0 +1,17 @@
+{
+  "name": "air-quality",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20646",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "lucide": false,
+    "material": "air",
+    "sf": "air.purifier",
+    "tabler": false
+  }
+}

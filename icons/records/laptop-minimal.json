@@ -1,0 +1,25 @@
+{
+  "name": "laptop-minimal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21790",
+  "looks": "A laptop with a screen outline above a flat base line.",
+  "use": "Use for laptops, computers, or devices.",
+  "approved": {
+    "at": "2026-11-12T01:52:45.795Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "laptop",
+    "fluent": "laptop",
+    "lucide": "laptop-minimal",
+    "material": false,
+    "phosphor": "laptop",
+    "radix": "laptop",
+    "sf": "laptopcomputer",
+    "tabler": "device-laptop"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "iso",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "184:32019",
+  "looks": "A wide rounded rectangle with the letters ISO inside.",
+  "use": "Use for camera ISO sensitivity or ISO standards.",
+  "approved": {
+    "at": "2026-11-11T00:22:42.473Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "iso",
+    "material": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "photo"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "dice",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9390",
+  "looks": "A rounded square die showing five dots.",
+  "use": "Use for games, chance, or randomizing.",
+  "keywords": [
+    "random",
+    "game",
+    "chance"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "lucide": "dice-1",
+    "octicons": "dice",
+    "phosphor": "dice-one",
+    "sf": "dice",
+    "tabler": "dice"
+  }
+}

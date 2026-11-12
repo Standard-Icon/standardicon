@@ -1,0 +1,27 @@
+{
+  "name": "moon-full",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20517",
+  "looks": "A circle with a smaller circle inside it.",
+  "use": "Use for the full moon phase.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.288Z",
+    "by": "Morgan",
+    "version": "2026-11-11T07:22:14.556Z"
+  },
+  "compare": {
+    "carbon": "moon",
+    "fluent": "weather-moon",
+    "heroicons": "moon",
+    "lucide": "moon",
+    "material": false,
+    "octicons": "moon",
+    "phosphor": "moon",
+    "radix": "moon",
+    "sf": "moonphase.full.moon",
+    "tabler": "moon"
+  }
+}

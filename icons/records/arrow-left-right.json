@@ -1,0 +1,8 @@
+{
+  "name": "arrow-left-right",
+  "status": "covered",
+  "coveredBy": "switch",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Covered by an existing icon"
+}

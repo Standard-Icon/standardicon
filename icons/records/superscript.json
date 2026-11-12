@@ -1,0 +1,20 @@
+{
+  "name": "superscript",
+  "status": "active",
+  "canonical": "letter-a",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1252",
+  "looks": "A capital A with a small x at its upper right.",
+  "use": "Use for superscript text, exponents, or footnotes.",
+  "compare": {
+    "carbon": "text-superscript",
+    "fluent": "text-superscript",
+    "lucide": "superscript",
+    "material": "superscript",
+    "phosphor": "text-superscript",
+    "sf": "textformat.superscript",
+    "tabler": "superscript"
+  }
+}

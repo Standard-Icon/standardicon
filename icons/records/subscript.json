@@ -1,0 +1,20 @@
+{
+  "name": "subscript",
+  "status": "active",
+  "canonical": "letter-a",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1254",
+  "looks": "A capital A with a small x at its lower right.",
+  "use": "Use for subscript text or chemical formulas.",
+  "compare": {
+    "carbon": "text-subscript",
+    "fluent": "text-subscript",
+    "lucide": "subscript",
+    "material": "subscript",
+    "phosphor": "text-subscript",
+    "sf": "textformat.subscript",
+    "tabler": "subscript"
+  }
+}

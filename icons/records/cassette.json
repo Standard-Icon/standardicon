@@ -1,0 +1,15 @@
+{
+  "name": "cassette",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "media",
+  "figmaId": "75:24021",
+  "looks": "A cassette tape with two reels in a window and a trapezoid at the bottom edge.",
+  "use": "Use for tapes, retro audio, or mixtapes.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": "cassette-tape",
+    "phosphor": "cassette-tape"
+  }
+}

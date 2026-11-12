@@ -1,0 +1,13 @@
+{
+  "name": "database-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29233",
+  "looks": "A database cylinder with a minus sign cut into the lower right.",
+  "use": "Use for removing data or dropping a record.",
+  "compare": {
+    "lucide": "database-minus",
+    "sf": false,
+    "tabler": "database-minus"
+  }
+}

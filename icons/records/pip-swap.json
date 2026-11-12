@@ -1,0 +1,14 @@
+{
+  "name": "pip-swap",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24269",
+  "compare": {
+    "fluent": false,
+    "material": false,
+    "phosphor": false,
+    "sf": "pip.swap"
+  }
+}

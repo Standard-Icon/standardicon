@@ -1,0 +1,23 @@
+{
+ "name": "key-square",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"1.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><circle cx=\"6.5\" cy=\"9.5\" r=\"1.5\" stroke=\"currentColor\"/><path d=\"M7.6 8.4L10.75 5.25M9.5 6.5L10.75 7.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<rect x=\"2.81\" y=\"2.812\" width=\"12.375\" height=\"12.375\" rx=\"1.6875\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><circle cx=\"7.31\" cy=\"10.688\" r=\"1.6875\" stroke=\"currentColor\"/><path d=\"M8.55 9.45L10.69 7.312L12.09 5.906M10.69 7.312L12.09 8.719\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<rect x=\"3.12\" y=\"3.125\" width=\"13.75\" height=\"13.75\" rx=\"1.875\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><circle cx=\"8.12\" cy=\"11.875\" r=\"1.875\" stroke=\"currentColor\"/><path d=\"M9.5 10.5L11.88 8.125L13.44 6.562M11.88 8.125L13.44 9.688\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<rect x=\"3.44\" y=\"3.438\" width=\"15.125\" height=\"15.125\" rx=\"2.0625\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><circle cx=\"8.94\" cy=\"13.062\" r=\"2.0625\" stroke=\"currentColor\"/><path d=\"M10.45 11.55L13.06 8.937L14.78 7.219M13.06 8.937L14.78 10.656\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<rect x=\"3.75\" y=\"3.75\" width=\"16.5\" height=\"16.5\" rx=\"2.25\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><circle cx=\"9.75\" cy=\"14.25\" r=\"2.25\" stroke=\"currentColor\"/><path d=\"M11.4 12.6L14.25 9.75L16.12 7.875M14.25 9.75L16.12 11.625\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-11T09:46:49.583Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"1.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><circle cx=\"6.5\" cy=\"9.5\" r=\"1.5\" stroke=\"currentColor\"/><path d=\"M7.6 8.4L10.75 5.25M9.5 6.5L10.75 7.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

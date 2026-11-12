@@ -1,0 +1,11 @@
+{
+ "name": "towel-rack",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M2.5 3.174V5.174M2.5 4.174H4.437M13.5 3.174V5.174M13.5 4.174H11.529\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 3.219V11.5C4.5 12.05 4.95 12.5 5.5 12.5H10.5C11.05 12.5 11.5 12.05 11.5 11.5V3.219H4.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 10.5H11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

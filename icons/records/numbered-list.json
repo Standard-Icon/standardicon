@@ -1,0 +1,31 @@
+{
+  "name": "numbered-list",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1240",
+  "looks": "The numbers 1, 2, and 3 down the left, each followed by a horizontal line.",
+  "use": "Use for numbered lists or ordered steps.",
+  "keywords": [
+    "ordered",
+    "ol"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.156Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "list-numbered",
+    "fluent": "text-number-list-ltr",
+    "heroicons": "numbered-list",
+    "lucide": "list-ordered",
+    "material": "format-list-numbered",
+    "octicons": "list-ordered",
+    "phosphor": "list-numbers",
+    "radix": false,
+    "sf": "list.number",
+    "tabler": "list-numbers"
+  }
+}

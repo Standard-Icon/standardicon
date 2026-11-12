@@ -1,0 +1,21 @@
+{
+  "name": "file-down",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25508",
+  "looks": "A file with a folded top right corner and a downward arrow inside.",
+  "use": "Use for downloading a file or saving it.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "file-down",
+    "material": false,
+    "octicons": false,
+    "phosphor": "file-arrow-down",
+    "radix": false,
+    "sf": "arrow.down.document",
+    "tabler": "file-download"
+  }
+}

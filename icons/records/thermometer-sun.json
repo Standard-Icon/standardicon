@@ -1,0 +1,20 @@
+{
+  "name": "thermometer-sun",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24397",
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "thermometer-sun",
+    "material": false,
+    "octicons": false,
+    "phosphor": "thermometer-hot",
+    "radix": false,
+    "sf": "thermometer.sun",
+    "tabler": false
+  }
+}

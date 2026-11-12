@@ -1,0 +1,19 @@
+{
+  "name": "file-chart-pie",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25620",
+  "looks": "A file with a folded top right corner and a small pie chart with one slice inside.",
+  "use": "Use for pie chart reports or share-of-total documents.",
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "file-chart-pie",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "file-chart"
+  }
+}

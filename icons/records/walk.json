@@ -1,0 +1,19 @@
+{
+  "name": "walk",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7207",
+  "keywords": [
+    "pedestrian",
+    "steps"
+  ],
+  "compare": {
+    "lucide": false,
+    "material": "directions-walk",
+    "phosphor": "person-simple-walk",
+    "sf": "figure.walk",
+    "tabler": "walk"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "globe-check-overlay",
+  "status": "active",
+  "parent": "globe-simple",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:19604",
+  "looks": "A globe with a small rounded square holding a check overlapping its lower right.",
+  "use": "Use for a verified domain, online, or published.",
+  "formerNames": [
+    "globe-check"
+  ],
+  "compare": {
+    "lucide": "globe-check",
+    "sf": false
+  }
+}

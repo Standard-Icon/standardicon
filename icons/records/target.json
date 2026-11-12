@@ -1,0 +1,32 @@
+{
+  "name": "target",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6474",
+  "looks": "Two concentric circles with a filled dot in the center.",
+  "use": "Use for goals, targets, or a bullseye.",
+  "keywords": [
+    "goal",
+    "aim",
+    "bullseye"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.626Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "target",
+    "fluent": "target",
+    "iconic": "target",
+    "lucide": "target",
+    "material": "target",
+    "phosphor": "target",
+    "radix": "target",
+    "sf": "target",
+    "tabler": "target"
+  }
+}

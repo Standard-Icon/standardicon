@@ -1,0 +1,11 @@
+{
+ "name": "zodiac-aquarius",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M2.5 7L4.33 5L6.17 7L8 5L9.83 7L11.67 5L13.5 7M2.5 11L4.33 9L6.17 11L8 9L9.83 11L11.67 9L13.5 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

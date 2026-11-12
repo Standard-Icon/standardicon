@@ -1,0 +1,23 @@
+{
+ "name": "asterisk",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 3V13M3.67 5.5L12.33 10.5M3.67 10.5L12.33 5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<path d=\"M9 3.375V14.625M4.13 6.188L13.87 11.812M4.13 11.812L13.87 6.188\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<path d=\"M10 3.75V16.25M4.59 6.875L15.41 13.125M4.59 13.125L15.41 6.875\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<path d=\"M11 4.125V17.875M5.05 7.562L16.95 14.438M5.05 14.438L16.95 7.562\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<path d=\"M12 4.5V19.5M5.5 8.25L12 12L18.49 15.75M5.5 15.75L12 12L18.49 8.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-11T09:46:49.583Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 3V13M3.67 5.5L12.33 10.5M3.67 10.5L12.33 5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

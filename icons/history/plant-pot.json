@@ -1,0 +1,17 @@
+{
+ "name": "plant-pot",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M4 9H12L11 13.5H5L4 9Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 9V5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6C8 4 6.5 2.75 4.5 2.75C4.5 4.75 6 6 8 6Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6.5C8 4.75 9.5 3.5 11.5 3.5C11.5 5.25 10 6.5 8 6.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T20:25:52.393Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M4 9H12L11.13 12.913C11.05 13.256 10.75 13.5 10.4 13.5H5.6C5.25 13.5 4.95 13.256 4.87 12.913L4 9Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 9V5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6C8 4 6.5 2.75 4.5 2.75C4.5 4.75 6 6 8 6Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6.5C8 4.75 9.5 3.5 11.5 3.5C11.5 5.25 10 6.5 8 6.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

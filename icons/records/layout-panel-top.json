@@ -1,0 +1,15 @@
+{
+  "name": "layout-panel-top",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26533",
+  "looks": "A wide panel across the top and two squares side by side below.",
+  "use": "Use for a top panel or header layout.",
+  "compare": {
+    "carbon": "open-panel-top",
+    "fluent": "panel-top-gallery",
+    "lucide": "layout-panel-top",
+    "material": "top-panel-open",
+    "tabler": "layout-align-top"
+  }
+}

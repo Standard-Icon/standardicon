@@ -1,0 +1,17 @@
+{
+  "name": "antenna",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "devices",
+  "figmaId": "59:22262",
+  "looks": "A vertical pole with a base line and a dot at the top, with a curved wave on each side.",
+  "use": "Use for broadcasting, radio signal, or a transmitter.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": "antenna",
+    "material": "settings-input-antenna",
+    "sf": "antenna.radiowaves.left.and.right",
+    "tabler": "antenna"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "salad",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19859",
+  "looks": "A round bowl heaped with leafy greens.",
+  "use": "Use for salad, healthy food, or vegetarian dishes.",
+  "approved": {
+    "at": "2026-11-12T19:39:47.340Z",
+    "by": "Morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "salad",
+    "tabler": "salad"
+  }
+}

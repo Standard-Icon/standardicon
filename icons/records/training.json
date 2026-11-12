@@ -1,0 +1,13 @@
+{
+  "name": "training",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:54045",
+  "compare": {
+    "lucide": false,
+    "material": "model-training",
+    "sf": false
+  }
+}

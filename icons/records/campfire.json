@@ -1,0 +1,20 @@
+{
+  "name": "campfire",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20315",
+  "looks": "A flame above two crossed logs.",
+  "use": "Use for campfires, camping, or outdoor warmth.",
+  "approved": {
+    "at": "2026-11-12T02:31:28.209Z",
+    "by": "morgan",
+    "version": "2026-11-11T09:46:49.583Z"
+  },
+  "compare": {
+    "lucide": false,
+    "phosphor": "campfire",
+    "tabler": "campfire"
+  }
+}

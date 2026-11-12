@@ -1,0 +1,11 @@
+{
+ "name": "word-count",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.5 3H12.5M2.5 6H12.5M2.5 9H7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.25 8.5L10.094 9.75L9.906 11.25L9.75 12.5M9 9.75H12.344L12.5 8.5M8.75 11.25H12.156L12.344 9.75H13.25M12 12.5L12.156 11.25H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

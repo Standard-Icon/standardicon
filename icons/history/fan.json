@@ -1,0 +1,23 @@
+{
+ "name": "fan",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M13.5 8C13.5 11.038 11.038 13.5 8 13.5C4.962 13.5 2.5 11.038 2.5 8C2.5 4.962 4.962 2.5 8 2.5C11.038 2.5 13.5 4.962 13.5 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.63 7.956C8.63 8.318 8.336 8.613 7.973 8.613C7.61 8.613 7.316 8.318 7.316 7.956C7.316 7.593 7.61 7.299 7.973 7.299C8.336 7.299 8.63 7.593 8.63 7.956Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.973 7.299C7.097 6.204 7.316 4.453 8.63 4.453C9.505 4.453 9.505 5.766 8.498 7.518\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.54 8.284C9.926 8.073 11.334 9.138 10.677 10.276C10.239 11.034 9.101 10.377 8.088 8.629\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.404 8.284C6.894 9.59 5.268 10.276 4.611 9.138C4.173 8.38 5.311 7.723 7.331 7.719\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T07:22:14.556Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M14.17 8C14.17 11.408 11.408 14.17 8 14.17C4.592 14.17 1.83 11.408 1.83 8C1.83 4.592 4.592 1.83 8 1.83C11.408 1.83 14.17 4.592 14.17 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M8.706 7.95C8.706 8.357 8.376 8.687 7.969 8.687C7.562 8.687 7.232 8.357 7.232 7.95C7.232 7.543 7.562 7.213 7.969 7.213C8.376 7.213 8.706 7.543 8.706 7.95Z\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M7.97 7.214C6.988 5.985 7.233 4.021 8.707 4.021C9.69 4.021 9.69 5.494 8.56 7.459\" stroke=\"currentColor\"/><path d=\"M8.607 8.318C10.162 8.081 11.741 9.277 11.004 10.553C10.513 11.404 9.236 10.667 8.1 8.706\" stroke=\"currentColor\"/><path d=\"M7.332 8.318C6.76 9.783 4.935 10.553 4.198 9.276C3.707 8.425 4.983 7.689 7.25 7.685\" stroke=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M14.17 8C14.17 11.408 11.408 14.17 8 14.17C4.593 14.17 1.83 11.408 1.83 8C1.83 4.592 4.593 1.83 8 1.83C11.408 1.83 14.17 4.592 14.17 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.706 7.95C8.706 8.357 8.376 8.687 7.969 8.687C7.562 8.687 7.232 8.357 7.232 7.95C7.232 7.543 7.562 7.213 7.969 7.213C8.376 7.213 8.706 7.543 8.706 7.95Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.97 7.214C6.988 5.985 7.234 4.021 8.707 4.021C9.69 4.021 9.69 5.494 8.56 7.459\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.607 8.318C10.162 8.081 11.741 9.277 11.004 10.553C10.513 11.404 9.236 10.667 8.1 8.706\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.332 8.318C6.76 9.783 4.935 10.553 4.198 9.276C3.707 8.425 4.983 7.689 7.25 7.685\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

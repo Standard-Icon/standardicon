@@ -1,0 +1,18 @@
+{
+  "name": "audit",
+  "status": "active",
+  "canonical": "clipboard",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:5964",
+  "looks": "A clipboard with a magnifying glass on the page.",
+  "use": "Use for audits, reviews, or inspections.",
+  "keywords": [
+    "compliance",
+    "review"
+  ],
+  "compare": {
+    "lucide": false
+  }
+}

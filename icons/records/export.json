@@ -1,0 +1,24 @@
+{
+  "name": "export",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1811",
+  "looks": "A page with a folded top right corner and an arrow pointing right out of its right side.",
+  "use": "Use for export, save as, or send a file out.",
+  "approved": {
+    "at": "2026-11-11T19:15:35.925Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "export",
+    "fluent": "arrow-export",
+    "lucide": "file-up",
+    "material": "file-export",
+    "phosphor": "export",
+    "sf": "square.and.arrow.up",
+    "tabler": "file-export"
+  }
+}

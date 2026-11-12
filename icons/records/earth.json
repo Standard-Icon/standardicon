@@ -1,0 +1,8 @@
+{
+  "name": "earth",
+  "status": "covered",
+  "coveredBy": "globe-simple",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "arrow-right",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "18:1190",
+  "looks": "A thin straight arrow pointing right.",
+  "use": "Use for next, continue, or go right.",
+  "keywords": [
+    "next",
+    "continue",
+    "forward"
+  ],
+  "compare": {
+    "carbon": "arrow-right",
+    "fluent": "arrow-right",
+    "heroicons": "arrow-right",
+    "lucide": "arrow-right",
+    "material": "arrow-right",
+    "octicons": "arrow-right",
+    "phosphor": "arrow-right",
+    "radix": "arrow-right",
+    "sf": "arrow.right",
+    "tabler": "arrow-right"
+  }
+}

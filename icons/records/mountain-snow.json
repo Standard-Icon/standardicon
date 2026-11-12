@@ -1,0 +1,16 @@
+{
+  "name": "mountain-snow",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20030",
+  "compare": {
+    "carbon": "mountain",
+    "lucide": "mountain-snow",
+    "material": false,
+    "phosphor": false,
+    "sf": "mountain.2",
+    "tabler": "mountain"
+  }
+}

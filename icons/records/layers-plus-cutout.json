@@ -1,0 +1,15 @@
+{
+  "name": "layers-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28618",
+  "looks": "A stack of a diamond and two layers with a small plus sign cut into the lower right.",
+  "use": "Use for adding a new layer.",
+  "compare": {
+    "lucide": "layers-plus",
+    "octicons": "stack-add",
+    "phosphor": "stack-plus",
+    "sf": false,
+    "tabler": "stack-plus"
+  }
+}

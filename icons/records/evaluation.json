@@ -1,0 +1,17 @@
+{
+  "name": "evaluation",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:54185",
+  "looks": "A rounded square with a check and a bar in the top half and an x and a bar in the bottom half.",
+  "use": "Use for evaluations, pass or fail results, or scoring checklists.",
+  "keywords": [
+    "eval",
+    "score"
+  ],
+  "compare": {
+    "carbon": "chart-evaluation"
+  }
+}

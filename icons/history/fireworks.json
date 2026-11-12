@@ -1,0 +1,11 @@
+{
+ "name": "fireworks",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 13.5V9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2.5V4M5.17 3.67L6.23 4.73M10.83 3.67L9.77 4.73M3.5 6.5H5.5M12.5 6.5H10.5M5.17 9.33L6.23 8.27M10.83 9.33L9.77 8.27\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"4.5\" cy=\"11.75\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"11.5\" cy=\"11.75\" r=\"0.6\" fill=\"currentColor\"/>"
+  }
+ ]
+}

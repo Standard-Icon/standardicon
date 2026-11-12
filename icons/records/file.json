@@ -1,0 +1,25 @@
+{
+  "name": "file",
+  "status": "active",
+  "canonical": "page",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Files and folders",
+  "figmaId": "18:1391",
+  "looks": "A blank page with a folded top right corner.",
+  "use": "Use for files, documents, or attachments.",
+  "keywords": [
+    "document",
+    "page"
+  ],
+  "compare": {
+    "carbon": "document",
+    "lucide": "file",
+    "material": false,
+    "octicons": "file",
+    "phosphor": "file",
+    "radix": "file",
+    "sf": "document",
+    "tabler": "file"
+  }
+}

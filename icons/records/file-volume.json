@@ -1,0 +1,19 @@
+{
+  "name": "file-volume",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25235",
+  "looks": "A file with a folded top right corner and a speaker with sound waves inside.",
+  "use": "Use for audio files or sound clips.",
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": "file-volume",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

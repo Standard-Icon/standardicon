@@ -1,0 +1,16 @@
+{
+  "name": "stocking",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:29181",
+  "looks": "A Christmas stocking with a cuff at the top and the toe pointing to the left.",
+  "use": "Use for Christmas, gifts, or stocking stuffers.",
+  "keywords": [
+    "christmas",
+    "xmas",
+    "sock",
+    "fireplace",
+    "holiday"
+  ]
+}

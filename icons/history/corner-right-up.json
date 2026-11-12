@@ -1,0 +1,11 @@
+{
+ "name": "corner-right-up",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M3.5 12.5H7.5C8.03 12.5 8.53 12.28 8.91 11.91C9.28 11.53 9.5 11.03 9.5 10.5V3.5M6.5 6.5L9.5 3.5L12.5 6.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

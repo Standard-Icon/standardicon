@@ -1,0 +1,24 @@
+{
+  "name": "database-arrow-down-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24923",
+  "looks": "A stacked database cylinder with a small rounded square holding a down arrow overlapping its lower right.",
+  "use": "Use for importing or downloading a database.",
+  "formerNames": [
+    "database-arrow-down"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "database-arrow-down",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

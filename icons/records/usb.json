@@ -1,0 +1,28 @@
+{
+  "name": "usb",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8502",
+  "looks": "A forked stem with an arrowhead, a circle, and a square on its branches, ending in a circle at the bottom.",
+  "use": "Use for USB or wired connections.",
+  "keywords": [
+    "cable",
+    "port"
+  ],
+  "approved": {
+    "at": "2026-11-12T02:40:44.206Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "usb",
+    "fluent": "usb",
+    "lucide": "usb",
+    "material": "usb",
+    "phosphor": "usb",
+    "sf": false,
+    "tabler": "usb"
+  }
+}

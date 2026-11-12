@@ -1,0 +1,21 @@
+{
+  "name": "split",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3803",
+  "looks": "A single stem that splits wide into two curved branches, each ending in an arrow pointing up.",
+  "use": "Use for split, divide, or branch into two.",
+  "compare": {
+    "carbon": "split",
+    "fluent": "arrow-split",
+    "lucide": "split",
+    "material": "call-split",
+    "octicons": "split-view",
+    "phosphor": "arrows-split",
+    "radix": "border-split",
+    "sf": "square.split.2x1",
+    "tabler": "arrows-split"
+  }
+}

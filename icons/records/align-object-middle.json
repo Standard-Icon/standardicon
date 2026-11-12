@@ -1,0 +1,22 @@
+{
+  "name": "align-object-middle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6386",
+  "looks": "Two vertical bars, tall and short, centered on a horizontal line through both.",
+  "use": "Use for centering objects vertically.",
+  "formerNames": [
+    "align-middle"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "align-center-horizontal",
+    "lucide": "align-center-horizontal",
+    "phosphor": "align-center-horizontal",
+    "radix": "text-align-middle",
+    "sf": false,
+    "tabler": "layout-align-middle"
+  }
+}

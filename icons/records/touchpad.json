@@ -1,0 +1,8 @@
+{
+  "name": "touchpad",
+  "status": "covered",
+  "coveredBy": "trackpad",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Covered by an existing icon"
+}

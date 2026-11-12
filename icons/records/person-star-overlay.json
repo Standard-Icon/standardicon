@@ -1,0 +1,19 @@
+{
+  "name": "person-star-overlay",
+  "status": "active",
+  "parent": "person",
+  "canonical": "person",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:21493",
+  "formerNames": [
+    "person-star"
+  ],
+  "compare": {
+    "fluent": "person-star",
+    "lucide": "user-star",
+    "sf": false,
+    "tabler": "user-star"
+  }
+}

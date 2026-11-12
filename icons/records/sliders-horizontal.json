@@ -1,0 +1,8 @@
+{
+  "name": "sliders-horizontal",
+  "status": "covered",
+  "coveredBy": "sliders",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls"
+}

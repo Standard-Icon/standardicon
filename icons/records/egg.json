@@ -1,0 +1,23 @@
+{
+  "name": "egg",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19515",
+  "looks": "A plain egg outline, rounded with a slightly narrower top.",
+  "use": "Use for eggs, breakfast, or ingredients.",
+  "approved": {
+    "at": "2026-11-12T02:33:10.142Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "fluent": "food-egg",
+    "iconic": false,
+    "lucide": "egg",
+    "material": "egg",
+    "phosphor": "egg",
+    "tabler": "egg"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "playing-cards-fan",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27757",
+  "compare": {
+    "lucide": "playing-cards-fan",
+    "material": "playing-cards"
+  }
+}

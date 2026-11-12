@@ -1,0 +1,41 @@
+{
+  "name": "edit",
+  "status": "active",
+  "canonical": "pencil",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "12:708",
+  "looks": "A pencil tilted diagonally with its tip at the lower left.",
+  "use": "Use for edit, write, or change text.",
+  "keywords": [
+    "pencil",
+    "modify",
+    "write"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:35.865Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "edit",
+    "fluent": "edit",
+    "heroicons": "pencil",
+    "lucide": "pencil",
+    "material": "edit",
+    "octicons": "pencil",
+    "phosphor": "pencil",
+    "radix": "pencil-1",
+    "sf": "pencil",
+    "tabler": "pencil"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "morgan",
+      "text": "lets make the tip a little bit sharper",
+      "issue": "lets-make-the-tip-a-little-bit-sharper"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "eye-off",
+  "status": "active",
+  "parent": "eye",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "18:1301",
+  "looks": "An almond-shaped eye crossed by a diagonal slash from the lower left to the upper right.",
+  "use": "Use for hide, hidden, or not visible.",
+  "keywords": [
+    "hide",
+    "hidden",
+    "invisible"
+  ],
+  "compare": {
+    "carbon": "view-off",
+    "fluent": "eye-off",
+    "heroicons": "eye-slash",
+    "lucide": "eye-off",
+    "material": "visibility-off",
+    "octicons": "eye-closed",
+    "phosphor": "eye-slash",
+    "radix": "eye-closed",
+    "sf": "eye.slash",
+    "tabler": "eye-off"
+  }
+}

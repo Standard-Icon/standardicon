@@ -1,0 +1,14 @@
+{
+  "name": "omega",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27349",
+  "looks": "The Greek letter omega, an open arch with two feet flaring out at the bottom.",
+  "use": "Use for ohms, resistance, or the end.",
+  "compare": {
+    "carbon": "omega",
+    "fluent": "omega",
+    "lucide": "omega",
+    "tabler": "omega"
+  }
+}

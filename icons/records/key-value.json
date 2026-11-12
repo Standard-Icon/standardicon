@@ -1,0 +1,22 @@
+{
+  "name": "key-value",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:5315",
+  "looks": "A rounded rectangle split into four cells by a vertical line left of center and a horizontal line.",
+  "use": "Use for key-value pairs, properties, or metadata.",
+  "compare": {
+    "carbon": "key",
+    "fluent": "key",
+    "heroicons": "key",
+    "lucide": "key",
+    "material": "key",
+    "octicons": "key",
+    "phosphor": "key",
+    "radix": false,
+    "sf": "key",
+    "tabler": "key"
+  }
+}

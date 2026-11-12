@@ -1,0 +1,20 @@
+{
+  "name": "credit-card-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29481",
+  "looks": "A card with a top stripe, a short line, and a small minus sign cut into the lower right corner.",
+  "use": "Use for removing a card or a refund.",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "credit-card-minus",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

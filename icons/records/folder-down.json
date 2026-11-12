@@ -1,0 +1,19 @@
+{
+  "name": "folder-down",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25887",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "folder-arrow-down",
+    "iconic": false,
+    "lucide": "folder-down",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "folder-down"
+  }
+}

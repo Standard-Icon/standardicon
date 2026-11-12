@@ -1,0 +1,23 @@
+{
+  "name": "move-down",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23321",
+  "looks": "A downward arrow with a short bar across its top.",
+  "use": "Use for moving down or sending to the bottom.",
+  "compare": {
+    "carbon": false,
+    "fluent": "arrow-down",
+    "heroicons": "arrow-down",
+    "iconic": false,
+    "lucide": "move-down",
+    "material": "move-down",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "arrow-move-down"
+  }
+}

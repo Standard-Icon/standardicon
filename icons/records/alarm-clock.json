@@ -1,0 +1,27 @@
+{
+  "name": "alarm-clock",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7268",
+  "looks": "A round clock face with hands, two bells on top and two small feet at the bottom.",
+  "use": "Use for alarms, wake-up times, or timers.",
+  "keywords": [
+    "wake",
+    "reminder"
+  ],
+  "compare": {
+    "carbon": "alarm",
+    "fluent": "clock-alarm",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "alarm-clock",
+    "material": "alarm",
+    "octicons": false,
+    "phosphor": "alarm",
+    "radix": false,
+    "sf": "alarm",
+    "tabler": "alarm"
+  }
+}

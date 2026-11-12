@@ -1,0 +1,17 @@
+{
+ "name": "layout-grid",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3.75 3H6.25C6.449 3 6.64 3.079 6.78 3.22C6.921 3.36 7 3.551 7 3.75V6.25C7 6.449 6.921 6.64 6.78 6.78C6.64 6.921 6.449 7 6.25 7H3.75C3.551 7 3.36 6.921 3.22 6.78C3.079 6.64 3 6.449 3 6.25V3.75C3 3.551 3.079 3.36 3.22 3.22C3.36 3.079 3.551 3 3.75 3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.75 3H12.25C12.449 3 12.64 3.079 12.78 3.22C12.921 3.36 13 3.551 13 3.75V6.25C13 6.449 12.921 6.64 12.78 6.78C12.64 6.921 12.449 7 12.25 7H9.75C9.551 7 9.36 6.921 9.22 6.78C9.079 6.64 9 6.449 9 6.25V3.75C9 3.551 9.079 3.36 9.22 3.22C9.36 3.079 9.551 3 9.75 3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.75 9H6.25C6.449 9 6.64 9.079 6.78 9.22C6.921 9.36 7 9.551 7 9.75V12.25C7 12.449 6.921 12.64 6.78 12.78C6.64 12.921 6.449 13 6.25 13H3.75C3.551 13 3.36 12.921 3.22 12.78C3.079 12.64 3 12.449 3 12.25V9.75C3 9.551 3.079 9.36 3.22 9.22C3.36 9.079 3.551 9 3.75 9Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.75 9H12.25C12.449 9 12.64 9.079 12.78 9.22C12.921 9.36 13 9.551 13 9.75V12.25C13 12.449 12.921 12.64 12.78 12.78C12.64 12.921 12.449 13 12.25 13H9.75C9.551 13 9.36 12.921 9.22 12.78C9.079 12.64 9 12.449 9 12.25V9.75C9 9.551 9.079 9.36 9.22 9.22C9.36 9.079 9.551 9 9.75 9Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"3\" y=\"3\" width=\"4\" height=\"4\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"9\" y=\"3\" width=\"4\" height=\"4\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"3\" y=\"9\" width=\"4\" height=\"4\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"9\" y=\"9\" width=\"4\" height=\"4\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

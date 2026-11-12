@@ -1,0 +1,14 @@
+{
+  "name": "space-between-vertical",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23289",
+  "compare": {
+    "lucide": "align-vertical-space-between",
+    "material": "align-space-between",
+    "radix": "space-between-vertically",
+    "sf": false
+  }
+}

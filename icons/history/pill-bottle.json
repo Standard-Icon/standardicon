@@ -1,0 +1,17 @@
+{
+ "name": "pill-bottle",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"3.787\" y=\"2.227\" width=\"8.42514\" height=\"2.27344\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.5 4.5H11.5V12.184C11.5 12.736 11.052 13.184 10.5 13.184H5.5C4.948 13.184 4.5 12.736 4.5 12.184V4.5Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.5 6.588H11.5M4.5 11.168H11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"3.787\" y=\"2.727\" width=\"8.42514\" height=\"2.27344\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.5 5H11.5V12.684C11.5 13.236 11.052 13.684 10.5 13.684H5.5C4.948 13.684 4.5 13.236 4.5 12.684V5Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.5 7.088H11.5M4.5 11.668H11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

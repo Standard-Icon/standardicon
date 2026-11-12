@@ -1,0 +1,11 @@
+{
+ "name": "calendar-range",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"3.21\" y=\"3.69\" width=\"9.57\" height=\"9.42\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M3.21 6.03H12.78M5.82 2.94V4.48M10.17 2.94V4.48\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"5.75\" cy=\"8.5\" r=\"0.6\" fill=\"currentColor\"/><path d=\"M8 8.5H10.75M5.25 10.5H8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"10.25\" cy=\"10.5\" r=\"0.6\" fill=\"currentColor\"/>"
+  }
+ ]
+}

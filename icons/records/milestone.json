@@ -1,0 +1,19 @@
+{
+  "name": "milestone",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7502",
+  "looks": "A flag on a pole with a notched swallowtail end.",
+  "use": "Use for milestones, goals, or project checkpoints.",
+  "keywords": [
+    "goal",
+    "marker"
+  ],
+  "compare": {
+    "carbon": "milestone",
+    "lucide": "milestone",
+    "octicons": "milestone"
+  }
+}

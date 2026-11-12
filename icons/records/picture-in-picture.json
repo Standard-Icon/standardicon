@@ -1,0 +1,20 @@
+{
+  "name": "picture-in-picture",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5745",
+  "keywords": [
+    "pip",
+    "mini player"
+  ],
+  "compare": {
+    "fluent": "picture-in-picture",
+    "lucide": "picture-in-picture",
+    "material": "picture-in-picture",
+    "phosphor": "picture-in-picture",
+    "sf": false,
+    "tabler": "picture-in-picture"
+  }
+}

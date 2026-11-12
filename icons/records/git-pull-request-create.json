@@ -1,0 +1,18 @@
+{
+  "name": "git-pull-request-create",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26222",
+  "looks": "Two vertical lines with circles at each end and a plus above the right line.",
+  "use": "Use for opening a new pull request.",
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": "git-pull-request-create",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

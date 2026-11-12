@@ -1,0 +1,22 @@
+{
+  "name": "certificate",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:6047",
+  "looks": "A wide card with two lines of text and a round award ribbon at the lower right.",
+  "use": "Use for certificates, licenses, or credentials.",
+  "keywords": [
+    "ssl",
+    "award"
+  ],
+  "compare": {
+    "carbon": "certificate",
+    "fluent": "certificate",
+    "lucide": "certificate",
+    "material": "license",
+    "phosphor": "certificate",
+    "tabler": "certificate"
+  }
+}

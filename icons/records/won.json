@@ -1,0 +1,19 @@
+{
+  "name": "won",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:26549",
+  "looks": "The Korean won currency sign, a W crossed by two horizontal bars.",
+  "use": "Use for won or Korean currency.",
+  "approved": {
+    "at": "2026-11-12T01:49:41.527Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "currency-won",
+    "tabler": "currency-won"
+  }
+}

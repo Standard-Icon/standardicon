@@ -1,0 +1,21 @@
+{
+  "name": "margin-horizontal",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26930",
+  "looks": "A small square between two vertical lines on the left and right.",
+  "use": "Use for left and right margins or horizontal spacing.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "margin-horizontal",
+    "material": "margin",
+    "octicons": false,
+    "phosphor": false,
+    "radix": "margin",
+    "sf": false,
+    "tabler": "box-margin"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "curtains",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:21954",
+  "looks": "A curtain rod across the top with two drawn curtains tied back at each side.",
+  "use": "Use for curtains, stage, or theater.",
+  "compare": {
+    "material": "curtains",
+    "sf": "curtains.open"
+  }
+}

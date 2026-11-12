@@ -1,0 +1,29 @@
+{
+  "name": "music",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5526",
+  "looks": "Two music notes joined by a slanted beam across their tops.",
+  "use": "Use for music, songs, or audio.",
+  "keywords": [
+    "song",
+    "note",
+    "audio"
+  ],
+  "compare": {
+    "carbon": "music",
+    "fluent": "music-note-2",
+    "lucide": "music",
+    "material": "music-note",
+    "phosphor": "music-note",
+    "sf": "music.note",
+    "tabler": "music"
+  },
+  "compareAlso": {
+    "lucide": [
+      "eighth-notes"
+    ]
+  }
+}

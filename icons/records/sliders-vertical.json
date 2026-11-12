@@ -1,0 +1,32 @@
+{
+  "name": "sliders-vertical",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5661",
+  "looks": "Two vertical lines, each with a round knob, the knobs at different heights.",
+  "use": "Use for filters, adjustments, or audio levels.",
+  "keywords": [
+    "equalizer",
+    "mixer",
+    "controls"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.632Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "adjustments-vertical",
+    "lucide": "sliders-vertical",
+    "material": false,
+    "octicons": false,
+    "phosphor": "sliders",
+    "radix": "mixer-vertical",
+    "sf": "slider.vertical.3",
+    "tabler": "dots-vertical"
+  }
+}

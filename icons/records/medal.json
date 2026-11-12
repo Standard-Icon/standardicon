@@ -1,0 +1,17 @@
+{
+  "name": "medal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "59:22543",
+  "looks": "A medal circle with a ring inside, hanging from a V shaped ribbon.",
+  "use": "Use for awards, achievements, or rankings.",
+  "compare": {
+    "fluent": "medal",
+    "lucide": "medal",
+    "phosphor": "medal",
+    "sf": "medal",
+    "tabler": "medal"
+  }
+}

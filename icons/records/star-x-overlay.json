@@ -1,0 +1,22 @@
+{
+  "name": "star-x-overlay",
+  "status": "active",
+  "parent": "star",
+  "canonical": "star",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "56:19130",
+  "looks": "A five-pointed star with a small rounded square holding an x overlapping its lower right.",
+  "use": "Use for deleting a favorite or clearing a rating.",
+  "formerNames": [
+    "star-x"
+  ],
+  "compare": {
+    "fluent": "star-dismiss",
+    "heroicons": false,
+    "lucide": "star-x",
+    "radix": false,
+    "sf": false
+  }
+}

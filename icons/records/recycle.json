@@ -1,0 +1,20 @@
+{
+  "name": "recycle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:8237",
+  "keywords": [
+    "eco",
+    "sustainability",
+    "reuse"
+  ],
+  "compare": {
+    "carbon": "recycle",
+    "lucide": "recycle",
+    "phosphor": "recycle",
+    "sf": "arrow.3.trianglepath",
+    "tabler": "recycle"
+  }
+}

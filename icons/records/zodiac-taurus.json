@@ -1,0 +1,14 @@
+{
+  "name": "zodiac-taurus",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22706",
+  "looks": "A circle with an upward curved horn shape sitting on top of it.",
+  "use": "Use for Taurus, astrology, or horoscopes.",
+  "compare": {
+    "lucide": "zodiac-taurus",
+    "tabler": "zodiac-taurus"
+  }
+}

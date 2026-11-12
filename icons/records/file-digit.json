@@ -1,0 +1,23 @@
+{
+  "name": "file-digit",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:23876",
+  "looks": "A file with a folded top right corner and the digits 0 and 1 inside.",
+  "use": "Use for binary files, digital data, or numeric files.",
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": "file-digit",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "document",
+    "tabler": "file-digit"
+  }
+}

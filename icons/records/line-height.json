@@ -1,0 +1,25 @@
+{
+  "name": "line-height",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6229",
+  "looks": "A vertical double-headed arrow on the left beside three horizontal lines.",
+  "use": "Use for line height or line spacing.",
+  "keywords": [
+    "leading",
+    "spacing"
+  ],
+  "compare": {
+    "carbon": "text-line-spacing",
+    "fluent": "text-line-spacing",
+    "heroicons": false,
+    "lucide": "line-height",
+    "material": "height",
+    "phosphor": false,
+    "radix": "line-height",
+    "sf": false,
+    "tabler": "line-height"
+  }
+}

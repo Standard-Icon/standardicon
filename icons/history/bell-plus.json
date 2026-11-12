@@ -1,0 +1,11 @@
+{
+ "name": "bell-plus",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M12.628 9.75L12.026 8.747C11.956 8.63 11.919 8.497 11.919 8.361L11.919 6.569C11.919 4.217 10.464 2.426 8 2.426C5.536 2.426 4.081 4.217 4.081 6.569L4.081 8.361C4.081 8.497 4.044 8.63 3.974 8.747L3.082 10.232C2.782 10.732 3.143 11.368 3.725 11.368L9.75 11.368\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.674 11.683C9.674 12.645 8.894 13.426 7.931 13.426C6.968 13.426 6.188 12.645 6.188 11.683\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.75\" y=\"9.75\" width=\"5\" height=\"5\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.125 12.25H13.375M12.25 11.125V13.375\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "car-front",
+  "status": "covered",
+  "coveredBy": "car",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20623"
+}

@@ -1,0 +1,17 @@
+{
+ "name": "lotion-tube",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M3.5 2.5H12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 2.5L5.5 10.5H10.5L11.5 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"5.5\" y=\"10.5\" width=\"5\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-10T23:57:29.422Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M4.55 2.5H11.45\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.96 4H11.04\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 2.5L5.5 10.5H10.5L11.5 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"5.5\" y=\"10.5\" width=\"5\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

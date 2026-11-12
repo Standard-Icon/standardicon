@@ -1,0 +1,14 @@
+{
+  "name": "modal",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Navigation and layout",
+  "figmaId": "30:3348",
+  "looks": "A rounded rectangle with a band at the bottom holding two short dashes like buttons.",
+  "use": "Use for a modal, a dialog, or a pop-up window.",
+  "keywords": [
+    "dialog",
+    "popup"
+  ]
+}

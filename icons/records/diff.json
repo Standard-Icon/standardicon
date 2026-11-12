@@ -1,0 +1,27 @@
+{
+  "name": "diff",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4996",
+  "looks": "A plus sign above a single horizontal minus line.",
+  "use": "Use for differences, added and removed changes, or plus and minus.",
+  "keywords": [
+    "git",
+    "changes"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:35.841Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "file-diff",
+    "lucide": "diff",
+    "material": "difference",
+    "octicons": "diff",
+    "phosphor": "git-diff",
+    "tabler": "file-diff"
+  }
+}

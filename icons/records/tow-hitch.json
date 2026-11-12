@@ -1,0 +1,14 @@
+{
+  "name": "tow-hitch",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:21186",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "sf": "tow.hitch"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "glass-water",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M4 2.5H12L11 12.5C11 12.765 10.895 13.02 10.707 13.207C10.52 13.395 10.265 13.5 10 13.5H6C5.735 13.5 5.48 13.395 5.293 13.207C5.105 13.02 5 12.765 5 12.5L4 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 7C6 6.25 7 7.75 8 7C9 6.25 10 7.75 11.5 7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

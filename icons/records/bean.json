@@ -1,0 +1,13 @@
+{
+  "name": "bean",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19227",
+  "compare": {
+    "lucide": "bean",
+    "material": false,
+    "phosphor": "coffee-bean"
+  }
+}

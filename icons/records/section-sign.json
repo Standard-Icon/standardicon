@@ -1,0 +1,20 @@
+{
+  "name": "section-sign",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Legal",
+  "figmaId": "82:27736",
+  "looks": "The section symbol: two stacked S shapes linked into one tall mark.",
+  "use": "Use for legal sections, clauses, or document sections.",
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": "section",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": "section",
+    "tabler": "section-sign"
+  }
+}

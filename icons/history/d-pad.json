@@ -1,0 +1,12 @@
+{
+ "name": "d-pad",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M6.05 2.44H9.95V6.05H13.56V9.95H9.95V13.56H6.05V9.95H2.44V6.05H6.05V2.44Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"7.999\" cy=\"8\" r=\"0.857031\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

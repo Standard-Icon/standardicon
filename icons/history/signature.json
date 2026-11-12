@@ -1,0 +1,17 @@
+{
+ "name": "signature",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M2.5 11C4 9 5 5 6 3.5C7 2.25 7.75 4 6.75 6.5C6 8.5 5 11 6 11C7 11 7.5 8.5 8.5 8.5C9.5 8.5 8.75 10.5 9.75 10.5C10.5 10.5 11 9.75 13.5 9.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 13.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M2.5 8.702C4 7.754 5 5.857 6 5.146C7 4.553 7.75 5.383 6.75 6.568C6 7.517 5 8.702 6 8.702C7 8.702 7.5 7.517 8.5 7.517C9.5 7.517 8.75 8.465 9.75 8.465C10.5 8.465 11 8.109 13.5 8.109\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 11.051H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

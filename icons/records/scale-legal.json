@@ -1,0 +1,25 @@
+{
+  "name": "scale-legal",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7847",
+  "looks": "A balance scale with a central post, a crossbar, and two hanging pans.",
+  "use": "Use for justice, law, or comparing options.",
+  "keywords": [
+    "law",
+    "justice",
+    "compliance",
+    "balance"
+  ],
+  "compare": {
+    "carbon": "scale",
+    "fluent": false,
+    "heroicons": "scale",
+    "lucide": "scale",
+    "material": false,
+    "sf": false,
+    "tabler": "scale"
+  }
+}

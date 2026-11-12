@@ -1,0 +1,25 @@
+{
+  "name": "dollar",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7472",
+  "looks": "A dollar sign with a single vertical line through an S.",
+  "use": "Use for US dollars, prices, or money.",
+  "keywords": [
+    "money",
+    "currency",
+    "usd",
+    "price"
+  ],
+  "compare": {
+    "carbon": "currency-dollar",
+    "fluent": false,
+    "heroicons": "currency-dollar",
+    "lucide": "dollar-sign",
+    "phosphor": "currency-dollar",
+    "sf": "dollarsign",
+    "tabler": "currency-dollar"
+  }
+}

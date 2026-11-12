@@ -1,0 +1,8 @@
+{
+  "name": "shrink",
+  "status": "covered",
+  "coveredBy": "collapse",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Covered by an existing icon"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "pencil-ruler",
+  "status": "active",
+  "canonical": "pencil",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9162",
+  "looks": "An upright ruler with tick marks next to an upright pencil.",
+  "use": "Use for design, drafting, or editing tools.",
+  "keywords": [
+    "design",
+    "tools",
+    "draft"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "pencil-ruler",
+    "material": false,
+    "octicons": false,
+    "phosphor": "pencil-ruler",
+    "radix": false,
+    "sf": "pencil.and.ruler",
+    "tabler": "pencil-ruler"
+  }
+}

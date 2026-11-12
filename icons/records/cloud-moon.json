@@ -1,0 +1,21 @@
+{
+  "name": "cloud-moon",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24262",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "cloud-moon",
+    "material": "partly-cloudy-night",
+    "octicons": false,
+    "phosphor": "cloud-moon",
+    "radix": false,
+    "sf": "cloud.moon",
+    "tabler": false
+  }
+}

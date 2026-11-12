@@ -1,0 +1,23 @@
+{
+  "name": "umbrella",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:7947",
+  "looks": "An open umbrella with a scalloped edge and a hooked handle below.",
+  "use": "Use for rain, insurance, or protection.",
+  "keywords": [
+    "rain",
+    "insurance"
+  ],
+  "compare": {
+    "carbon": "umbrella",
+    "iconic": "umbrella",
+    "lucide": "umbrella",
+    "material": "umbrella",
+    "phosphor": "umbrella",
+    "sf": "umbrella",
+    "tabler": "umbrella"
+  }
+}

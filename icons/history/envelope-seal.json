@@ -1,0 +1,17 @@
+{
+ "name": "envelope-seal",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"4\" width=\"11\" height=\"8\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.8 4.7L6.9 7.7M9.1 7.7L13.2 4.7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.4 8.75C9.4 9.121 9.253 9.477 8.99 9.74C8.727 10.002 8.371 10.15 8 10.15C7.629 10.15 7.273 10.002 7.01 9.74C6.748 9.477 6.6 9.121 6.6 8.75C6.6 8.378 6.748 8.022 7.01 7.76C7.273 7.497 7.629 7.35 8 7.35C8.371 7.35 8.727 7.497 8.99 7.76C9.253 8.022 9.4 8.378 9.4 8.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"4\" width=\"11\" height=\"8\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M9.394 7.484L13.2 4.7M2.8 4.7L6.605 7.484\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.4 8.117C9.4 8.488 9.252 8.844 8.99 9.107C8.727 9.369 8.371 9.517 8 9.517C7.628 9.517 7.272 9.369 7.01 9.107C6.747 8.844 6.6 8.488 6.6 8.117C6.6 7.745 6.747 7.389 7.01 7.127C7.272 6.864 7.628 6.717 8 6.717C8.371 6.717 8.727 6.864 8.99 7.127C9.252 7.389 9.4 7.745 9.4 8.117Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "name": "moped",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"3.75\" cy=\"11.75\" r=\"1.75\" stroke=\"currentColor\"/><circle cx=\"12.25\" cy=\"11.75\" r=\"1.75\" stroke=\"currentColor\"/><path d=\"M9 2.5H10.75L12.25 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.22 8H7.219L7.5 9.5H9.5C10.4 9.5 10.9 8.2 11.35 5.5M7.219 8H2.5V7.5C2.5 6.4 3.4 5.5 4.5 5.5H6.75L7.219 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

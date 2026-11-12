@@ -1,0 +1,17 @@
+{
+  "name": "folder-cog-integrated",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26021",
+  "looks": "A folder with a gear drawn into its body.",
+  "use": "Use for folder settings or system and config folders.",
+  "formerNames": [
+    "folder-cog"
+  ],
+  "compare": {
+    "lucide": "folder-cog",
+    "octicons": false,
+    "sf": false,
+    "tabler": "folder-cog"
+  }
+}

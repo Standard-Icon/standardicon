@@ -1,0 +1,14 @@
+{
+  "name": "skull",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "59:22616",
+  "compare": {
+    "lucide": "skull",
+    "material": "skull",
+    "phosphor": "skull",
+    "tabler": "skull"
+  }
+}

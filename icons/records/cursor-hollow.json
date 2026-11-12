@@ -1,0 +1,23 @@
+{
+  "name": "cursor-hollow",
+  "status": "active",
+  "source": "later",
+  "figmaId": "349:43892",
+  "looks": "Just the open corner of a pointer: two lines meeting at a point at the upper left, nothing else.",
+  "use": "Use for direct selection or a minimal pointer.",
+  "approved": {
+    "at": "2026-11-11T19:15:35.793Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "cursor-1",
+    "fluent": "cursor",
+    "lucide": "mouse-pointer",
+    "octicons": "cursor",
+    "phosphor": "cursor",
+    "radix": "cursor-arrow",
+    "sf": "pointer.arrow",
+    "tabler": false
+  }
+}

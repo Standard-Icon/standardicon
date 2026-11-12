@@ -1,0 +1,18 @@
+{
+ "name": "tag-x",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M12.211 9.75L13.6 8.362C13.8 8.167 13.8 7.85 13.6 7.655L8.27 2.326C8.16 2.217 8.01 2.165 7.86 2.184L3.48 2.731C3.25 2.76 3.07 2.938 3.04 3.165L2.5 7.544C2.48 7.697 2.53 7.85 2.64 7.959L7.97 13.288C8.16 13.483 8.48 13.483 8.67 13.288L9.75 12.209\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"5.4\" cy=\"5.088\" r=\"0.879771\" fill=\"currentColor\"/><rect x=\"9.75\" y=\"9.75\" width=\"5\" height=\"5\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.125 11.125L13.375 13.375M13.375 11.125L11.125 13.375\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<path d=\"M13.739 10.969L15.3 9.407C15.52 9.188 15.52 8.831 15.3 8.612L9.31 2.617C9.18 2.495 9.01 2.435 8.84 2.457L3.91 3.073C3.66 3.105 3.46 3.306 3.42 3.561L2.81 8.487C2.79 8.659 2.85 8.831 2.97 8.954L8.96 14.949C9.18 15.168 9.54 15.168 9.76 14.949L10.969 13.74\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"6.07\" cy=\"5.724\" r=\"0.989742\" fill=\"currentColor\"/><rect x=\"10.969\" y=\"10.969\" width=\"5.625\" height=\"5.625\" rx=\"1.125\" stroke=\"currentColor\"/><path d=\"M12.516 12.516L15.047 15.047M15.047 12.516L13.781 13.781L12.516 15.047\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<path d=\"M15.263 12.188L17 10.452C17.24 10.208 17.24 9.813 17 9.568L10.34 2.908C10.2 2.772 10.01 2.706 9.82 2.73L4.35 3.414C4.06 3.449 3.84 3.673 3.8 3.957L3.12 9.43C3.1 9.621 3.16 9.813 3.3 9.949L9.96 16.609C10.2 16.853 10.6 16.853 10.84 16.609L12.188 15.262\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"6.75\" cy=\"6.36\" r=\"1.09971\" fill=\"currentColor\"/><rect x=\"12.188\" y=\"12.188\" width=\"6.25\" height=\"6.25\" rx=\"1.25\" stroke=\"currentColor\"/><path d=\"M13.906 13.906L16.719 16.719M16.719 13.906L15.312 15.312L13.906 16.719\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<path d=\"M16.793 13.406L18.7 11.498C18.97 11.229 18.97 10.794 18.7 10.525L11.37 3.199C11.22 3.049 11.01 2.977 10.8 3.003L4.78 3.755C4.47 3.794 4.22 4.04 4.18 4.352L3.43 10.373C3.41 10.583 3.48 10.794 3.63 10.944L10.95 18.27C11.22 18.539 11.66 18.539 11.93 18.27L13.406 16.794\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"7.43\" cy=\"6.996\" r=\"1.20968\" fill=\"currentColor\"/><rect x=\"13.406\" y=\"13.406\" width=\"6.875\" height=\"6.875\" rx=\"1.375\" stroke=\"currentColor\"/><path d=\"M15.297 15.297L18.391 18.391M18.391 15.297L15.297 18.391\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<path d=\"M18.317 14.625L20.4 12.543C20.69 12.25 20.69 11.775 20.4 11.482L12.41 3.49C12.24 3.326 12.01 3.247 11.78 3.276L5.22 4.097C4.88 4.139 4.61 4.408 4.57 4.748L3.74 11.316C3.72 11.545 3.79 11.775 3.96 11.939L11.95 19.931C12.24 20.224 12.72 20.224 13.01 19.931L14.625 18.316\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8.1\" cy=\"7.632\" r=\"1.31966\" fill=\"currentColor\"/><rect x=\"14.625\" y=\"14.625\" width=\"7.5\" height=\"7.5\" rx=\"1.5\" stroke=\"currentColor\"/><path d=\"M16.688 16.688L20.062 20.062M20.062 16.688L16.688 20.062\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   },
+   "solidParts": true
+  }
+ ]
+}

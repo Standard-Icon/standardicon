@@ -1,0 +1,13 @@
+{
+  "name": "bell-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27831",
+  "looks": "A bell with a small check mark cut into its lower right.",
+  "use": "Use for notifications on, subscribed, or alerts read.",
+  "compare": {
+    "lucide": "bell-check",
+    "sf": false,
+    "tabler": "bell-check"
+  }
+}

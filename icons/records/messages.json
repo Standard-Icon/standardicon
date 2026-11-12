@@ -1,0 +1,25 @@
+{
+  "name": "messages",
+  "status": "active",
+  "parent": "message",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:3857",
+  "looks": "Two overlapping rectangular speech bubbles, one at the upper left and one at the lower right.",
+  "use": "Use for conversations, group chat, or threads.",
+  "keywords": [
+    "chat",
+    "conversations"
+  ],
+  "compare": {
+    "carbon": "comments",
+    "fluent": "chat-multiple",
+    "heroicons": "chat-bubble-left-right",
+    "lucide": "messages-square",
+    "material": "business-messages",
+    "phosphor": "chats",
+    "sf": "bubble.left.and.bubble.right",
+    "tabler": "messages"
+  }
+}

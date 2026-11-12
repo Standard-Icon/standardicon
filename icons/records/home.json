@@ -1,0 +1,28 @@
+{
+  "name": "home",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "solid": "needed",
+  "figmaId": "18:1333",
+  "looks": "A house with a pitched roof and a small square door at the bottom center.",
+  "use": "Use for home, a homepage, or the main dashboard.",
+  "keywords": [
+    "house",
+    "start",
+    "dashboard"
+  ],
+  "compare": {
+    "carbon": "home",
+    "fluent": "home",
+    "heroicons": "home",
+    "lucide": "home",
+    "material": "home",
+    "octicons": "home",
+    "phosphor": "house",
+    "radix": "home",
+    "sf": "house",
+    "tabler": "home"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "diamond",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "58:21756",
+  "looks": "A single square rotated to stand on its corner.",
+  "use": "Use for a diamond shape, a gem, or a rhombus.",
+  "compare": {
+    "carbon": "diamond-solid",
+    "fluent": "diamond",
+    "lucide": "diamond",
+    "material": "diamond",
+    "octicons": "diamond",
+    "phosphor": "diamond",
+    "sf": "diamond",
+    "tabler": "diamond"
+  }
+}

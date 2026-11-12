@@ -1,0 +1,29 @@
+{
+ "name": "battery-charging",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3 5H11.5C11.765 5 12.02 5.105 12.207 5.293C12.395 5.48 12.5 5.735 12.5 6V10C12.5 10.265 12.395 10.52 12.207 10.707C12.02 10.895 11.765 11 11.5 11H3C2.735 11 2.48 10.895 2.293 10.707C2.105 10.52 2 10.265 2 10V6C2 5.735 2.105 5.48 2.293 5.293C2.48 5.105 2.735 5 3 5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 7V9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.75 6L6 8H8.5L6.75 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2\" y=\"5\" width=\"10.5\" height=\"6\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M14 7V9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.75 6L6 8H8.5L6.75 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T01:11:30.580Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M14 7V9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.684 5.5H3C2.724 5.5 2.5 5.724 2.5 6V10C2.5 10.276 2.724 10.5 3 10.5H5.939L5.543 11.196C5.487 11.294 5.448 11.396 5.421 11.5H3C2.172 11.5 1.5 10.828 1.5 10V6C1.5 5.172 2.172 4.5 3 4.5H6.253L5.684 5.5ZM11.5 4.5C12.328 4.5 13 5.172 13 6V10C13 10.828 12.328 11.5 11.5 11.5H8.247L8.816 10.5H11.5C11.776 10.5 12 10.276 12 10V6C12 5.724 11.776 5.5 11.5 5.5H8.56L8.957 4.803C9.012 4.705 9.052 4.603 9.079 4.5H11.5Z\" fill=\"currentColor\"/><path d=\"M7.871 4.185L5.698 8H8.802L6.629 11.815\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-12T08:05:01.032Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M14 7V9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.421 5H11.5C11.765 5 12.02 5.105 12.207 5.293C12.395 5.48 12.5 5.735 12.5 6V10C12.5 10.265 12.395 10.52 12.207 10.707C12.02 10.895 11.765 11 11.5 11H9.107M5.079 11H3C2.735 11 2.48 10.895 2.293 10.707C2.105 10.52 2 10.265 2 10V6C2 5.735 2.105 5.48 2.293 5.293C2.48 5.105 2.735 5 3 5H5.393\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.871 4.185L5.698 8H8.802L6.629 11.815\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

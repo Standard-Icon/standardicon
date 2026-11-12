@@ -1,0 +1,11 @@
+{
+ "name": "ornament",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M12.5 9.5C12.5 11.985 10.485 14 8 14C5.515 14 3.5 11.985 3.5 9.5C3.5 7.015 5.515 5 8 5C10.485 5 12.5 7.015 12.5 9.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 5.25V4C6.5 3.72 6.72 3.5 7 3.5H9C9.28 3.5 9.5 3.72 9.5 4V5.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 3.5V1.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.6 10.5L5.2 9L6.6 10.5L8 9L9.4 10.5L10.8 9L12.4 10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "name": "fold-vertical",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 2.5V6M10 4L8 6L6 4M8 13.5V10M10 12L8 10L6 12M2.5 8H3.75M5.75 8H7M9 8H10.25M12.25 8H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

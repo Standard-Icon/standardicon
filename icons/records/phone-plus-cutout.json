@@ -1,0 +1,13 @@
+{
+  "name": "phone-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28137",
+  "looks": "A telephone handset with a small plus sign cut into the lower right.",
+  "use": "Use for adding a phone number or adding someone to a call.",
+  "compare": {
+    "phosphor": "phone-plus",
+    "sf": "phone.badge.plus",
+    "tabler": "phone-plus"
+  }
+}

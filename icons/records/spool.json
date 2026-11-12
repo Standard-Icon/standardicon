@@ -1,0 +1,13 @@
+{
+  "name": "spool",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21525",
+  "looks": "A thread spool with flat caps at the top and bottom and diagonal wraps between.",
+  "use": "Use for thread, sewing, or a spool.",
+  "compare": {
+    "lucide": "spool"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "load-balancer",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:3122",
+  "looks": "One circle at the top with a line that branches down to three circles in a row.",
+  "use": "Use for load balancing, traffic routing, or distribution.",
+  "compare": {
+    "carbon": "load-balancer-vpc",
+    "material": false,
+    "tabler": "load-balancer"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "delete",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "58:21411",
+  "looks": "A rectangle with a pointed left end and an x inside, like a backspace key.",
+  "use": "Use for the Delete or Backspace key, or erasing text.",
+  "compare": {
+    "carbon": "delete",
+    "fluent": "delete",
+    "lucide": "delete",
+    "material": "delete",
+    "octicons": false,
+    "sf": "delete.left",
+    "tabler": false
+  }
+}

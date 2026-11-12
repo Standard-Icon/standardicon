@@ -1,0 +1,25 @@
+{
+  "name": "clipboard-pen",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24349",
+  "looks": "A clipboard with a clip at the top and a pen drawn into its body.",
+  "use": "Use for editing a form, writing notes, or signing.",
+  "approved": {
+    "at": "2026-11-10T22:31:39.058Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "clipboard-pen",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

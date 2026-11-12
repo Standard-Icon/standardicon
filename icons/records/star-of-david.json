@@ -1,0 +1,21 @@
+{
+  "name": "star-of-david",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:29558",
+  "looks": "A six-pointed star made of two overlapping triangles.",
+  "use": "Use for Judaism, Jewish holidays, or faith.",
+  "keywords": [
+    "jewish",
+    "judaism",
+    "hanukkah",
+    "magen",
+    "david",
+    "religion"
+  ],
+  "compare": {
+    "phosphor": "star-of-david",
+    "sf": false
+  }
+}

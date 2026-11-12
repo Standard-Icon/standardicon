@@ -1,0 +1,13 @@
+{
+  "name": "copy-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27525",
+  "looks": "Two overlapping rounded squares with a short dash cut into the lower right corner.",
+  "use": "Use for removing a copy or a duplicate.",
+  "compare": {
+    "lucide": "copy-minus",
+    "sf": false,
+    "tabler": "copy-minus"
+  }
+}

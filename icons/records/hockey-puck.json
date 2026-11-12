@@ -1,0 +1,16 @@
+{
+  "name": "hockey-puck",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21701",
+  "looks": "A flat cylinder disk with an oval top, seen from a slight angle.",
+  "use": "Use for hockey or sports.",
+  "compare": {
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "sf": "hockey.puck"
+  }
+}

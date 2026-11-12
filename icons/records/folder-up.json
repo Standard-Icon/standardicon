@@ -1,0 +1,21 @@
+{
+  "name": "folder-up",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25865",
+  "looks": "A folder with an upward arrow inside.",
+  "use": "Use for uploading to a folder or going up a directory.",
+  "compare": {
+    "carbon": false,
+    "fluent": "folder-arrow-up",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "folder-up",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "arrow.up.folder",
+    "tabler": "folder-up"
+  }
+}

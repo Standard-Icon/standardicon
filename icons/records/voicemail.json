@@ -1,0 +1,18 @@
+{
+  "name": "voicemail",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:4176",
+  "looks": "Two circles side by side joined by a straight line along their bottoms.",
+  "use": "Use for voicemail or recorded messages.",
+  "compare": {
+    "carbon": "voicemail",
+    "fluent": "voicemail",
+    "lucide": "voicemail",
+    "material": "voicemail",
+    "phosphor": "voicemail",
+    "sf": false
+  }
+}

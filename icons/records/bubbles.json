@@ -1,0 +1,12 @@
+{
+  "name": "bubbles",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26271",
+  "compare": {
+    "fluent": false,
+    "lucide": "bubbles",
+    "material": "bubbles",
+    "sf": "bubbles.and.sparkles"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "connect",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Data and infrastructure",
+  "figmaId": "12:1261",
+  "looks": "A plug with two prongs on top and a curved cable trailing from the bottom.",
+  "use": "Use for connecting, integrations, or power.",
+  "keywords": [
+    "plug",
+    "integration",
+    "link"
+  ],
+  "compare": {
+    "carbon": "connect",
+    "lucide": "plug",
+    "material": "nest-connect",
+    "octicons": "plug",
+    "phosphor": "plug",
+    "tabler": "plug"
+  }
+}

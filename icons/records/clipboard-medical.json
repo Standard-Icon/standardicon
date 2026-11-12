@@ -1,0 +1,23 @@
+{
+  "name": "clipboard-medical",
+  "status": "active",
+  "canonical": "clipboard",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27071",
+  "looks": "A clipboard with a clip at the top and a plus sign on the board.",
+  "use": "Use for medical records, health forms, or patient charts.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

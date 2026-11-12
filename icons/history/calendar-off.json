@@ -1,0 +1,11 @@
+{
+ "name": "calendar-off",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.5 11.025V4.059C2.5 3.506 2.948 3.059 3.5 3.059H10.467M13.5 4.975V12.889C13.5 13.441 13.052 13.889 12.5 13.889H4.586\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 5.738H7.787M12.737 5.738H13.5M5.5 2.111V3.877M10.5 2.111V3.025\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13L13 3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

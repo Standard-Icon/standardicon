@@ -1,0 +1,25 @@
+{
+  "name": "font-size-decrease",
+  "status": "active",
+  "canonical": "letter-a",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:32129",
+  "looks": "A capital A with a down arrow on its right.",
+  "use": "Use for decreasing font size or smaller text.",
+  "compare": {
+    "fluent": false,
+    "lucide": "a-arrow-down",
+    "material": false,
+    "radix": false,
+    "sf": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "text"
+    }
+  ]
+}

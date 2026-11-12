@@ -1,0 +1,8 @@
+{
+  "name": "remove-formatting",
+  "status": "covered",
+  "coveredBy": "clear-format",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Covered by an existing icon"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "blood-drop",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27010",
+  "looks": "A single empty drop with a pointed top and a round base.",
+  "use": "Use for blood, donations, or fluid levels.",
+  "compare": {
+    "carbon": false,
+    "fluent": "drop",
+    "lucide": "droplet",
+    "material": "bloodtype",
+    "phosphor": "drop",
+    "sf": "drop",
+    "tabler": "droplet"
+  }
+}

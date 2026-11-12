@@ -1,0 +1,23 @@
+{
+  "name": "branch-line",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "61:22079",
+  "looks": "A horizontal line at the lower left that curves up into a raised line on the right, with a gap below.",
+  "use": "Use for a branch timeline or divergent paths.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

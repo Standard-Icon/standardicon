@@ -1,0 +1,13 @@
+{
+  "name": "saw",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24215",
+  "looks": "A handsaw angled with the handle at the lower left and a toothed blade to the upper right.",
+  "use": "Use for cutting, carpentry, or tools.",
+  "compare": {
+    "tabler": false
+  }
+}

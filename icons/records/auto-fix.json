@@ -1,0 +1,22 @@
+{
+  "name": "auto-fix",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:54083",
+  "keywords": [
+    "ai",
+    "magic wand",
+    "repair"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "wand",
+    "lucide": "wand",
+    "material": false,
+    "phosphor": "magic-wand",
+    "radix": "magic-wand",
+    "tabler": "wand"
+  }
+}

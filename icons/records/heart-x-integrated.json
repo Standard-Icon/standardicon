@@ -1,0 +1,22 @@
+{
+  "name": "heart-x-integrated",
+  "status": "active",
+  "parent": "heart",
+  "canonical": "heart",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:19290",
+  "looks": "A heart with a small x drawn in the middle.",
+  "use": "Use for removing a favorite or clearing likes.",
+  "formerNames": [
+    "heart-x"
+  ],
+  "compare": {
+    "heroicons": false,
+    "lucide": "heart-x",
+    "radix": false,
+    "sf": false,
+    "tabler": "heart-x"
+  }
+}

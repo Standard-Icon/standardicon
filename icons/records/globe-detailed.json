@@ -1,0 +1,25 @@
+{
+  "name": "globe-detailed",
+  "status": "active",
+  "source": "later",
+  "figmaId": "340:43668",
+  "looks": "A heavier globe with curved meridians and horizontal parallels across it.",
+  "use": "Use for world, web, or language and region.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.149Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "globe",
+    "fluent": "globe",
+    "heroicons": "globe-alt",
+    "lucide": "globe",
+    "material": "globe",
+    "octicons": "globe",
+    "phosphor": "globe",
+    "radix": "globe",
+    "sf": "globe",
+    "tabler": "globe"
+  }
+}

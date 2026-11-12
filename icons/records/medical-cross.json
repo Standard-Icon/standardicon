@@ -1,0 +1,22 @@
+{
+  "name": "medical-cross",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:26961",
+  "looks": "A thick plus-shaped cross with squared ends.",
+  "use": "Use for medical, health care, or first aid.",
+  "compare": {
+    "carbon": "health-cross",
+    "fluent": false,
+    "iconic": false,
+    "lucide": "cross",
+    "material": "health-cross",
+    "octicons": false,
+    "phosphor": "cross",
+    "radix": false,
+    "sf": false,
+    "tabler": "medical-cross"
+  }
+}

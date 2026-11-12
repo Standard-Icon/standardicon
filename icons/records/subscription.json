@@ -1,0 +1,16 @@
+{
+  "name": "subscription",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7660",
+  "keywords": [
+    "recurring",
+    "plan",
+    "billing"
+  ],
+  "compare": {
+    "lucide": false
+  }
+}

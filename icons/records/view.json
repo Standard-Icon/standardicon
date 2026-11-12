@@ -1,0 +1,23 @@
+{
+  "name": "view",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "58:21286",
+  "looks": "An eye inside four corner brackets.",
+  "use": "Use for viewing, preview, or visibility.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": "view",
+    "fluent": "content-view",
+    "heroicons": false,
+    "lucide": "view",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

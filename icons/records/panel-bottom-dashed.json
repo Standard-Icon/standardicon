@@ -1,0 +1,14 @@
+{
+  "name": "panel-bottom-dashed",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27511",
+  "looks": "A rounded rectangle with a dashed line near the bottom edge.",
+  "use": "Use for a bottom panel or drawer.",
+  "compare": {
+    "carbon": "bottom-panel-open",
+    "lucide": "panel-bottom-dashed",
+    "material": "bottom-panel-open",
+    "radix": "panel-bottom"
+  }
+}

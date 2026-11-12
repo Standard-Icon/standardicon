@@ -1,0 +1,14 @@
+{
+  "name": "candy",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19319",
+  "looks": "A wrapped sweet with a round center and twisted wrapper ends on both sides.",
+  "use": "Use for candy, sweets, or treats.",
+  "compare": {
+    "lucide": "candy",
+    "tabler": "candy"
+  }
+}

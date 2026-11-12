@@ -1,0 +1,27 @@
+{
+  "name": "clipboard",
+  "status": "active",
+  "canonical": "clipboard",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Files and folders",
+  "figmaId": "23:2478",
+  "looks": "A plain clipboard with a clip at the top center.",
+  "use": "Use for the clipboard, copy and paste, or notes.",
+  "keywords": [
+    "paste",
+    "notes"
+  ],
+  "compare": {
+    "carbon": "paste",
+    "fluent": "clipboard",
+    "heroicons": "clipboard",
+    "lucide": "clipboard",
+    "material": "content-paste",
+    "octicons": "paste",
+    "phosphor": "clipboard",
+    "radix": "clipboard",
+    "sf": "clipboard",
+    "tabler": "clipboard"
+  }
+}

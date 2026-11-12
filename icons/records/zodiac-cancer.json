@@ -1,0 +1,14 @@
+{
+  "name": "zodiac-cancer",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22748",
+  "looks": "Two curved arcs facing opposite ways, each ending in a small circle.",
+  "use": "Use for Cancer, astrology, or horoscopes.",
+  "compare": {
+    "lucide": "zodiac-cancer",
+    "tabler": "zodiac-cancer"
+  }
+}

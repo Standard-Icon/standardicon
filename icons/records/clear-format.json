@@ -1,0 +1,19 @@
+{
+  "name": "clear-format",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6401",
+  "keywords": [
+    "remove formatting"
+  ],
+  "compare": {
+    "carbon": "text-clear-format",
+    "fluent": "clear-formatting",
+    "lucide": "remove-formatting",
+    "material": "format-clear",
+    "sf": false,
+    "tabler": "clear-formatting"
+  }
+}

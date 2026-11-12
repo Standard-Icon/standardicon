@@ -1,0 +1,21 @@
+{
+  "name": "dashboard",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6427",
+  "keywords": [
+    "overview",
+    "analytics",
+    "panel"
+  ],
+  "compare": {
+    "carbon": "dashboard",
+    "lucide": "gauge",
+    "material": "dashboard",
+    "octicons": "dashboard",
+    "radix": "dashboard",
+    "tabler": "dashboard"
+  }
+}

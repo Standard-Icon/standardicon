@@ -1,0 +1,16 @@
+{
+  "name": "hand-helping",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26497",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "hand-helping",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

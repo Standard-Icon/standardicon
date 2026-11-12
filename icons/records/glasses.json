@@ -1,0 +1,21 @@
+{
+  "name": "glasses",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9313",
+  "looks": "A pair of round eyeglasses joined by a bridge, with arms rising from the outer edges.",
+  "use": "Use for glasses, reading, or vision.",
+  "keywords": [
+    "vision",
+    "eyewear",
+    "read"
+  ],
+  "compare": {
+    "carbon": "reading-glasses",
+    "fluent": "glasses",
+    "lucide": "glasses",
+    "tabler": false
+  }
+}

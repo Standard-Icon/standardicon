@@ -1,0 +1,23 @@
+{
+  "name": "power",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Settings and controls",
+  "figmaId": "23:2062",
+  "looks": "A circle with a gap at the top and a vertical line through the gap.",
+  "use": "Use for power, turning on, or shutting down.",
+  "keywords": [
+    "on off",
+    "shutdown"
+  ],
+  "compare": {
+    "carbon": "power",
+    "heroicons": "power",
+    "lucide": "power",
+    "material": "power",
+    "phosphor": "power",
+    "sf": "power",
+    "tabler": "power"
+  }
+}

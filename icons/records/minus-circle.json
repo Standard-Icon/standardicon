@@ -1,0 +1,31 @@
+{
+  "name": "minus-circle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "solid": "needed",
+  "figmaId": "13:1022",
+  "looks": "A short horizontal line inside a circle.",
+  "use": "Use for remove, decrease, or blocked.",
+  "formerNames": [
+    "dash-circle"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:23:22.266Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "subtract-alt",
+    "fluent": "subtract-circle",
+    "heroicons": "minus-circle",
+    "lucide": "minus-circle",
+    "material": "remove",
+    "octicons": false,
+    "phosphor": "minus-circle",
+    "radix": "minus-circled",
+    "sf": "minus.circle",
+    "tabler": "circle-minus"
+  }
+}

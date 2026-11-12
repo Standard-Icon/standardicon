@@ -1,0 +1,18 @@
+{
+  "name": "inspection-panel",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21769",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": "inspection-panel",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

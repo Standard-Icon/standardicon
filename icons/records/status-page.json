@@ -1,0 +1,17 @@
+{
+  "name": "status-page",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:3366",
+  "looks": "A window with a header bar and a pulse line running across the body.",
+  "use": "Use for status pages, system health, or monitoring.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "material": false,
+    "sf": false,
+    "tabler": false
+  }
+}

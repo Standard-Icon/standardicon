@@ -1,0 +1,27 @@
+{
+  "name": "bell-off",
+  "status": "active",
+  "parent": "bell",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Communication",
+  "figmaId": "23:2041",
+  "looks": "A bell with a diagonal slash from lower left to upper right.",
+  "use": "Use for muted notifications or do not disturb.",
+  "keywords": [
+    "mute",
+    "silent"
+  ],
+  "compare": {
+    "carbon": "notification-off",
+    "fluent": "alert-off",
+    "heroicons": "bell-slash",
+    "lucide": "bell-off",
+    "material": "notifications-off",
+    "octicons": "bell-slash",
+    "phosphor": "bell-slash",
+    "radix": false,
+    "sf": "bell.slash",
+    "tabler": "bell-off"
+  }
+}

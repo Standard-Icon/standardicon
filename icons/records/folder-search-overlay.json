@@ -1,0 +1,30 @@
+{
+  "name": "folder-search-overlay",
+  "status": "active",
+  "parent": "folder",
+  "canonical": "folder",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:20713",
+  "looks": "A closed folder with a small rounded square holding a magnifying glass at the lower right.",
+  "use": "Use for searching folders or browsing files.",
+  "formerNames": [
+    "folder-search"
+  ],
+  "compare": {
+    "fluent": "folder-search",
+    "heroicons": false,
+    "lucide": "folder-search",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "folder-search"
+  },
+  "compareAlso": {
+    "lucide": [
+      "folder-search-2"
+    ]
+  }
+}

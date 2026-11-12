@@ -1,0 +1,15 @@
+{
+  "name": "projector",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8425",
+  "looks": "A wide box with a large round lens at the top right, a slot on the left, and two short feet.",
+  "use": "Use for projectors, presentations, or screening.",
+  "compare": {
+    "lucide": "projector",
+    "phosphor": false,
+    "tabler": "device-projector"
+  }
+}

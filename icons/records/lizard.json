@@ -1,0 +1,11 @@
+{
+  "name": "lizard",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:19908",
+  "compare": {
+    "sf": "lizard"
+  }
+}

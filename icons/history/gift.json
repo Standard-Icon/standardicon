@@ -1,0 +1,17 @@
+{
+ "name": "gift",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3 5.5H13C13.133 5.5 13.26 5.553 13.354 5.646C13.447 5.74 13.5 5.867 13.5 6V7.5C13.5 7.633 13.447 7.76 13.354 7.854C13.26 7.947 13.133 8 13 8H3C2.867 8 2.74 7.947 2.646 7.854C2.553 7.76 2.5 7.633 2.5 7.5V6C2.5 5.867 2.553 5.74 2.646 5.646C2.74 5.553 2.867 5.5 3 5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 8V12.5C3.5 12.765 3.605 13.02 3.793 13.207C3.98 13.395 4.235 13.5 4.5 13.5H11.5C11.765 13.5 12.02 13.395 12.207 13.207C12.395 13.02 12.5 12.765 12.5 12.5V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.5C8 3.5 6.75 2.5 5.75 2.5C4.5 2.5 4.25 4 5 4.75C5.5 5.25 6.5 5.5 8 5.5ZM8 5.5C9.5 5.5 10.5 5.25 11 4.75C11.75 4 11.5 2.5 10.25 2.5C9.25 2.5 8 3.5 8 5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"5.5\" width=\"11\" height=\"2.5\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.5 8V12.5C3.5 12.765 3.605 13.02 3.793 13.207C3.98 13.395 4.235 13.5 4.5 13.5H11.5C11.765 13.5 12.02 13.395 12.207 13.207C12.395 13.02 12.5 12.765 12.5 12.5V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.5C8 3.5 6.75 2.5 5.75 2.5C4.5 2.5 4.25 4 5 4.75C5.5 5.25 6.5 5.5 8 5.5ZM8 5.5C9.5 5.5 10.5 5.25 11 4.75C11.75 4 11.5 2.5 10.25 2.5C9.25 2.5 8 3.5 8 5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

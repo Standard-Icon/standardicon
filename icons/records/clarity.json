@@ -1,0 +1,17 @@
+{
+  "name": "clarity",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "184:31860",
+  "looks": "A triangle with a vertical line down the center.",
+  "use": "Use for clarity, prisms, or a split view.",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "photo"
+    }
+  ]
+}

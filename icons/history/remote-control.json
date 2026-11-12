@@ -1,0 +1,11 @@
+{
+ "name": "remote-control",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"4.5\" y=\"1.5\" width=\"7\" height=\"13\" rx=\"2\" stroke=\"currentColor\"/><circle cx=\"8\" cy=\"3.5\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"8\" cy=\"7\" r=\"1.5\" stroke=\"currentColor\"/><circle cx=\"6.5\" cy=\"11\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"9.5\" cy=\"11\" r=\"0.6\" fill=\"currentColor\"/>"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "name": "permissions",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4.8 6.5H11.2C11.465 6.5 11.72 6.605 11.907 6.793C12.095 6.98 12.2 7.235 12.2 7.5V12C12.2 12.265 12.095 12.52 11.907 12.707C11.72 12.895 11.465 13 11.2 13H4.8C4.535 13 4.28 12.895 4.093 12.707C3.905 12.52 3.8 12.265 3.8 12V7.5C3.8 7.235 3.905 6.98 4.093 6.793C4.28 6.605 4.535 6.5 4.8 6.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.2 6.5V5.3C5.2 4.557 5.495 3.845 6.02 3.32C6.545 2.795 7.257 2.5 8 2.5C8.743 2.5 9.455 2.795 9.98 3.32C10.505 3.845 10.8 4.557 10.8 5.3V6.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 9.75L7.5 11L10 8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"3.158\" y=\"6.809\" width=\"9.68386\" height=\"7.49347\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.772 6.809V5.425C4.772 4.569 5.113 3.748 5.718 3.143C6.323 2.538 7.144 2.198 8 2.198C8.857 2.198 9.678 2.538 10.283 3.143C10.888 3.748 11.228 4.569 11.228 5.425V6.809\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 10.25L7.5 11.5L10 9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

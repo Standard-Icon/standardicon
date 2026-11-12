@@ -1,0 +1,11 @@
+{
+ "name": "iso",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M1.973 12H13.943C14.495 12 14.943 11.55 14.943 11V5C14.943 4.45 14.495 4 13.943 4H1.973C1.42 4 0.973 4.45 0.973 5V11C0.973 11.55 1.42 12 1.973 12Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.473 6V10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.373 6.6C7.173 6.2 6.773 6 6.323 6C5.723 6 5.273 6.35 5.273 6.9C5.273 8.1 7.573 7.7 7.573 9C7.573 9.6 7.073 10 6.423 10C5.923 10 5.473 9.75 5.273 9.35\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.798 8C12.798 8.54 12.585 9.05 12.205 9.43C11.826 9.81 11.311 10.02 10.774 10.02C10.237 10.02 9.722 9.81 9.343 9.43C8.963 9.05 8.75 8.54 8.75 8C8.75 7.46 8.963 6.95 9.343 6.57C9.722 6.19 10.237 5.98 10.774 5.98C11.311 5.98 11.826 6.19 12.205 6.57C12.585 6.95 12.798 7.46 12.798 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

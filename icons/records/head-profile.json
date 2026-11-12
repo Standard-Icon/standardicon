@@ -1,0 +1,16 @@
+{
+  "name": "head-profile",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "People",
+  "figmaId": "273:22859",
+  "compare": {
+    "carbon": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

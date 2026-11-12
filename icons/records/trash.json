@@ -1,0 +1,29 @@
+{
+  "name": "trash",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "12:670",
+  "looks": "A trash can with a lid and handle on top and two vertical lines on its body.",
+  "use": "Use for delete, remove, or trash.",
+  "keywords": [
+    "delete",
+    "remove",
+    "bin",
+    "garbage"
+  ],
+  "compare": {
+    "carbon": "trash-can",
+    "fluent": "delete",
+    "heroicons": "trash",
+    "iconic": "trash",
+    "lucide": "trash",
+    "material": "delete",
+    "octicons": "trash",
+    "phosphor": "trash",
+    "radix": "trash",
+    "sf": "trash",
+    "tabler": "trash"
+  }
+}

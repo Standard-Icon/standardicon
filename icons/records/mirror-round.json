@@ -1,0 +1,15 @@
+{
+  "name": "mirror-round",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27100",
+  "compare": {
+    "carbon": false,
+    "lucide": "mirror-round",
+    "material": false,
+    "octicons": "mirror",
+    "phosphor": false,
+    "sf": "mirror.side.left",
+    "tabler": false
+  }
+}

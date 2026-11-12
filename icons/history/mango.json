@@ -1,0 +1,11 @@
+{
+ "name": "mango",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M4.499 5.25C6.249 3.75 9.249 4 11.249 6C13.149 7.9 13.749 11 12.499 12.5C11.249 13.9 7.949 13.9 5.249 12C2.499 10.1 2.499 6.9 4.499 5.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 3.6C7.25 2.4 9.25 2 10.75 2.5C10.25 3.9 8.75 4.4 7.25 3.9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

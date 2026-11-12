@@ -1,0 +1,21 @@
+{
+  "name": "bookmark-plus-integrated",
+  "status": "active",
+  "parent": "bookmark",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:18874",
+  "looks": "A bookmark ribbon with a small plus drawn near the top inside it.",
+  "use": "Use for adding a bookmark or saving for later.",
+  "formerNames": [
+    "bookmark-plus"
+  ],
+  "compare": {
+    "carbon": "bookmark-add",
+    "lucide": "bookmark-plus",
+    "material": "bookmark-add",
+    "sf": false,
+    "tabler": "bookmark-plus"
+  }
+}

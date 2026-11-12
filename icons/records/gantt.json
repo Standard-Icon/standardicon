@@ -1,0 +1,18 @@
+{
+  "name": "gantt",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7455",
+  "looks": "A vertical line on the left with three offset horizontal bars stepping down to the right.",
+  "use": "Use for Gantt charts, project timelines, or schedules.",
+  "keywords": [
+    "project plan",
+    "schedule"
+  ],
+  "compare": {
+    "fluent": "gantt-chart",
+    "lucide": "chart-gantt"
+  }
+}

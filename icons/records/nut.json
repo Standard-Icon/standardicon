@@ -1,0 +1,15 @@
+{
+  "name": "nut",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19769",
+  "looks": "An acorn with a cap on top, a small stem, and a pointed body.",
+  "use": "Use for nuts, allergens, or autumn.",
+  "compare": {
+    "lucide": "nut",
+    "phosphor": "nut",
+    "tabler": "nut"
+  }
+}

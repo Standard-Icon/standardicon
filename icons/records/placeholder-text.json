@@ -1,0 +1,19 @@
+{
+  "name": "placeholder-text",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24289",
+  "compare": {
+    "carbon": "text-bold",
+    "fluent": "text",
+    "heroicons": "document-text",
+    "lucide": "text",
+    "material": "text-ad",
+    "phosphor": false,
+    "radix": "text",
+    "sf": "text.page",
+    "tabler": false
+  }
+}

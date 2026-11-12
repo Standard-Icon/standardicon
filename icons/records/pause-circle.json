@@ -1,0 +1,28 @@
+{
+  "name": "pause-circle",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "media",
+  "figmaId": "75:23761",
+  "looks": "Two short vertical lines inside a circle.",
+  "use": "Use for pausing playback or a paused state.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.371Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "pause-outline",
+    "fluent": "pause-circle",
+    "heroicons": "pause-circle",
+    "iconic": false,
+    "lucide": "pause-circle",
+    "material": "pause-circle",
+    "octicons": false,
+    "phosphor": "pause-circle",
+    "radix": false,
+    "sf": "pause.circle",
+    "tabler": "circle-pause"
+  }
+}

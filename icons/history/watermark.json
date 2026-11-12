@@ -1,0 +1,11 @@
+{
+ "name": "watermark",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3\" width=\"11\" height=\"10\" rx=\"1.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M8 5.5C9 6.8 10 7.5 10 8.75C10 9.855 9.105 10.75 8 10.75C6.895 10.75 6 9.855 6 8.75C6 7.5 7 6.8 8 5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

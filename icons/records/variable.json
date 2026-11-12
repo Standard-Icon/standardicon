@@ -1,0 +1,16 @@
+{
+  "name": "variable",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4710",
+  "compare": {
+    "carbon": "value-variable",
+    "heroicons": "variable",
+    "lucide": "variable",
+    "material": false,
+    "sf": false,
+    "tabler": "variable"
+  }
+}

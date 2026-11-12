@@ -1,0 +1,24 @@
+{
+  "name": "square-alert",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:23935",
+  "looks": "A rounded square with an exclamation mark inside.",
+  "use": "Use for a warning or an important notice.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "exclamationmark.square",
+    "tabler": "alert-square"
+  }
+}

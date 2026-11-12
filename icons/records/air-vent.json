@@ -1,0 +1,16 @@
+{
+  "name": "air-vent",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21552",
+  "looks": "A wide rounded vent box on top with three curved lines blowing down from it.",
+  "use": "Use for air conditioning, ventilation, or airflow.",
+  "compare": {
+    "lucide": "air-vent",
+    "material": "air",
+    "sf": "air.purifier",
+    "tabler": "air-conditioning"
+  }
+}

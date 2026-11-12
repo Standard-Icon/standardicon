@@ -1,0 +1,33 @@
+{
+  "name": "paragraph-left",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:32029",
+  "looks": "A pilcrow paragraph mark above an arrow pointing left.",
+  "use": "Use for right-to-left text direction.",
+  "formerNames": [
+    "text-direction-rtl"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "text-paragraph-direction-left",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "pilcrow-left",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "text"
+    }
+  ]
+}

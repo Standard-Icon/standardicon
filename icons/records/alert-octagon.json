@@ -1,0 +1,33 @@
+{
+  "name": "alert-octagon",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "figmaId": "23:1778",
+  "looks": "An eight-sided stop shape with an exclamation mark inside.",
+  "use": "Use for critical errors, stop warnings, or blocked actions.",
+  "keywords": [
+    "error",
+    "stop",
+    "danger"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "alert-octagon",
+    "material": "report",
+    "octicons": false,
+    "phosphor": "warning-octagon",
+    "sf": "exclamationmark.octagon",
+    "tabler": "alert-octagon"
+  },
+  "compareAlso": {
+    "lucide": [
+      "octagon-exclamation-point"
+    ]
+  }
+}

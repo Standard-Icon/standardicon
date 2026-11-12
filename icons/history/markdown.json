@@ -1,0 +1,17 @@
+{
+ "name": "markdown",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M2.5 4H13.5C13.765 4 14.02 4.105 14.207 4.293C14.395 4.48 14.5 4.735 14.5 5V11C14.5 11.265 14.395 11.52 14.207 11.707C14.02 11.895 13.765 12 13.5 12H2.5C2.235 12 1.98 11.895 1.793 11.707C1.605 11.52 1.5 11.265 1.5 11V5C1.5 4.735 1.605 4.48 1.793 4.293C1.98 4.105 2.235 4 2.5 4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 10V6L5.75 8L7.5 6V10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11 6.326V9.603M9.5 8.353L11 9.853L12.5 8.353\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"1.5\" y=\"4\" width=\"13\" height=\"8\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4 10V6L5.75 8L7.5 6V10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11 6.326V9.603M9.5 8.353L11 9.853L12.5 8.353\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

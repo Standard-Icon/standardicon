@@ -1,0 +1,23 @@
+{
+  "name": "square-arrow-out-down-left",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:23798",
+  "looks": "A rounded square open at the lower left, with a diagonal arrow pointing out of that corner.",
+  "use": "Use for expanding toward the lower left or moving out.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "square-arrow-out-down-left",
+    "material": false,
+    "octicons": false,
+    "phosphor": "arrow-square-down-left",
+    "radix": false,
+    "sf": "arrow.down.left.square",
+    "tabler": false
+  }
+}

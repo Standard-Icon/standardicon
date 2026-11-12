@@ -1,0 +1,11 @@
+{
+ "name": "shamrock",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 8C7.4 7.3 5.25 6 5.25 4.25C5.25 3.1 6.1 2.5 6.85 2.5C7.4 2.5 7.8 2.8 8 3.25C8.2 2.8 8.6 2.5 9.15 2.5C9.9 2.5 10.75 3.1 10.75 4.25C10.75 6 8.6 7.3 8 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 8C8.86 7.84 10.95 6.69 12.39 7.52C13.34 8.07 13.43 9.05 13.07 9.67C12.81 10.12 12.37 10.31 11.91 10.26C12.18 10.63 12.24 11.11 11.98 11.56C11.62 12.18 10.73 12.59 9.78 12.04C8.34 11.21 8.29 8.83 8 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.999 8C7.709 8.83 7.659 11.21 6.219 12.04C5.269 12.59 4.379 12.18 4.019 11.56C3.759 11.11 3.819 10.63 4.089 10.26C3.629 10.31 3.189 10.12 2.929 9.67C2.569 9.05 2.659 8.07 3.609 7.52C5.049 6.69 7.139 7.84 7.999 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 8C8 10 8.5 12.25 9.5 13.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

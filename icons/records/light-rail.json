@@ -1,0 +1,12 @@
+{
+  "name": "light-rail",
+  "status": "dropped",
+  "coveredBy": "tram",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "Not drawn: tram already does this."
+    }
+  ]
+}

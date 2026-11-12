@@ -1,0 +1,30 @@
+{
+  "name": "hourglass",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7326",
+  "looks": "An hourglass with flat bars at the top and bottom and two triangles meeting in the middle.",
+  "use": "Use for waiting, loading, or time running out.",
+  "keywords": [
+    "waiting",
+    "pending",
+    "sand"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.031Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "hourglass",
+    "fluent": "hourglass",
+    "lucide": "hourglass",
+    "material": "hourglass",
+    "octicons": "hourglass",
+    "phosphor": "hourglass",
+    "sf": "hourglass",
+    "tabler": "hourglass"
+  }
+}

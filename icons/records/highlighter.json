@@ -1,0 +1,16 @@
+{
+  "name": "highlighter",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "58:21631",
+  "looks": "A highlighter marker angled to the lower left with its chisel tip on a baseline.",
+  "use": "Use for highlighting, marking up, or annotations.",
+  "compare": {
+    "lucide": "highlighter",
+    "material": "ink-highlighter",
+    "phosphor": "highlighter",
+    "sf": "highlighter"
+  }
+}

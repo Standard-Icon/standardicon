@@ -1,0 +1,40 @@
+{
+  "name": "check-circle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "solid": "needed",
+  "figmaId": "13:982",
+  "looks": "A check mark inside a circle.",
+  "use": "Use for success, completed, or verified.",
+  "keywords": [
+    "success",
+    "done",
+    "complete",
+    "verified"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:23:21.393Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "checkmark-outline",
+    "fluent": "checkmark-circle",
+    "heroicons": "check-circle",
+    "lucide": "check-circle",
+    "material": "check-circle",
+    "octicons": "check-circle",
+    "phosphor": "check-circle",
+    "radix": "check-circled",
+    "sf": "checkmark.circle",
+    "tabler": "circle-check"
+  },
+  "compareAlso": {
+    "lucide": [
+      "circle-check",
+      "circle-check-big"
+    ]
+  }
+}

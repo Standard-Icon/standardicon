@@ -1,0 +1,17 @@
+{
+ "name": "shower",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M3 13.5V4C3 3.602 3.158 3.221 3.439 2.939C3.721 2.658 4.102 2.5 4.5 2.5H6.5C6.898 2.5 7.279 2.658 7.561 2.939C7.842 3.221 8 3.602 8 4V4.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.25 7H10.75C10.75 6.271 10.46 5.571 9.945 5.055C9.429 4.54 8.729 4.25 8 4.25C7.271 4.25 6.571 4.54 6.055 5.055C5.54 5.571 5.25 6.271 5.25 7Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.25 9V9.75M8 9V9.75M9.75 9V9.75M7.1 11.25V12M8.9 11.25V12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M4 13.5V4C4 3.602 4.16 3.221 4.44 2.939C4.72 2.658 5.1 2.5 5.5 2.5H7.5C7.9 2.5 8.28 2.658 8.56 2.939C8.84 3.221 9 3.602 9 4V4.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.25 7H11.75C11.75 6.271 11.46 5.571 10.94 5.055C10.43 4.54 9.73 4.25 9 4.25C8.27 4.25 7.57 4.54 7.06 5.055C6.54 5.571 6.25 6.271 6.25 7Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.25 9V9.75M9 9V9.75M10.75 9V9.75M8.1 11.25V12M9.9 11.25V12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

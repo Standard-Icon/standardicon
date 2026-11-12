@@ -1,0 +1,22 @@
+{
+  "name": "mouse",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8347",
+  "looks": "A tall rounded mouse with a short scroll line at the top center.",
+  "use": "Use for a computer mouse, clicking, or pointer input.",
+  "keywords": [
+    "pointer",
+    "computer"
+  ],
+  "compare": {
+    "fluent": false,
+    "lucide": "mouse",
+    "material": "mouse",
+    "phosphor": "mouse",
+    "sf": "computermouse",
+    "tabler": "mouse"
+  }
+}

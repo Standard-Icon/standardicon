@@ -1,0 +1,14 @@
+{
+  "name": "zodiac-leo",
+  "status": "active",
+  "source": "later",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22769",
+  "looks": "A small circle at the lower left with a loop rising and curling down into a tail at the right.",
+  "use": "Use for Leo, astrology, or horoscopes.",
+  "compare": {
+    "lucide": "zodiac-leo",
+    "tabler": "zodiac-leo"
+  }
+}

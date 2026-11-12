@@ -1,0 +1,28 @@
+{
+  "name": "chevron-circle-right",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Chevrons and carets",
+  "figmaId": "27:3651",
+  "looks": "A right chevron inside a circle.",
+  "use": "Use for next, forward, or scroll right.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.438Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "chevron-circle-right",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle-chevron-right",
+    "material": "expand-circle-right",
+    "octicons": false,
+    "phosphor": "caret-circle-right",
+    "radix": false,
+    "sf": "chevron.right.circle",
+    "tabler": "circle-chevron-right"
+  }
+}

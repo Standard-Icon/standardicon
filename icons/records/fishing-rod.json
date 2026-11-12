@@ -1,0 +1,12 @@
+{
+  "name": "fishing-rod",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21166",
+  "compare": {
+    "lucide": "fishing-rod",
+    "sf": false
+  }
+}

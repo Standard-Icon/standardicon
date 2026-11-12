@@ -1,0 +1,11 @@
+{
+ "name": "chevrons-up-down",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M5.728 5.476L8 4L10.272 5.476\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M5.728 10.524L8 12L10.272 10.524\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

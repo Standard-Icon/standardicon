@@ -1,0 +1,11 @@
+{
+ "name": "hurricane",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"3\" stroke=\"currentColor\"/><path d=\"M5 8C5 4.75 8 2.5 12.5 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11 8C11 11.25 8 13.5 3.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"8\" r=\"0.75\" fill=\"currentColor\"/>"
+  }
+ ]
+}

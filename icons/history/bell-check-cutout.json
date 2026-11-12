@@ -1,0 +1,11 @@
+{
+ "name": "bell-check-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M7.44 11.368H2.4L4.08 8.569V6.569C4.08 4.217 5.54 2.426 8 2.426C10.46 2.426 11.92 4.217 11.92 6.569V7.494\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.82 13.423C6.91 13.367 6.19 12.609 6.19 11.683\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 11.609L11.19 13.297L14 10.203\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

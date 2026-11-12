@@ -1,0 +1,23 @@
+{
+  "name": "hiking-stick",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21118",
+  "looks": "A diagonal walking pole with an oval grip at the top right and a cross tip at the lower left.",
+  "use": "Use for hiking, trekking, or outdoor walks.",
+  "flags": [
+    "weak-read"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.008Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "lucide": "hiking-stick",
+    "material": false,
+    "sf": false
+  }
+}

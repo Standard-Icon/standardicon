@@ -1,0 +1,21 @@
+{
+  "name": "forward",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1843",
+  "looks": "A line rising from the lower left that curves into an arrow pointing right.",
+  "use": "Use for forward, pass along, or share.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "forward",
+    "iconic": false,
+    "lucide": "forward",
+    "material": "forward",
+    "phosphor": false,
+    "sf": "forward",
+    "tabler": false
+  }
+}

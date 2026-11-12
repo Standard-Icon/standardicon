@@ -1,0 +1,20 @@
+{
+  "name": "globe-complex",
+  "status": "active",
+  "source": "later",
+  "figmaId": "376:30505",
+  "looks": "A globe with several curved longitude and latitude lines.",
+  "use": "Use for the world, internet, or international.",
+  "compare": {
+    "carbon": "globe",
+    "fluent": "globe",
+    "heroicons": "globe-alt",
+    "lucide": "globe",
+    "material": "globe",
+    "octicons": "globe",
+    "phosphor": "globe",
+    "radix": "globe",
+    "sf": "globe",
+    "tabler": "globe"
+  }
+}

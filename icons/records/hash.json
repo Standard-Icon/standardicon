@@ -1,0 +1,22 @@
+{
+  "name": "hash",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:3993",
+  "looks": "A hash sign made of two slanted vertical lines crossed by two horizontal lines.",
+  "use": "Use for hashtags, channels, or numbers.",
+  "keywords": [
+    "channel",
+    "number",
+    "pound"
+  ],
+  "compare": {
+    "lucide": "hash",
+    "octicons": "hash",
+    "phosphor": "hash",
+    "sf": "number",
+    "tabler": "hash"
+  }
+}

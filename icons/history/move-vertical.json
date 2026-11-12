@@ -1,0 +1,29 @@
+{
+ "name": "move-vertical",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M8 12.92L8 3.08M10 10.92L8 12.92L6 10.92M10 5.08L8 3.08L6 5.08\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<path d=\"M9 14.54L9 3.46M11.25 12.29L9 14.54L6.75 12.29M11.25 5.71L9 3.46L6.75 5.71\" stroke=\"currentColor\" stroke-width=\"1.125\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<path d=\"M10 16.16L10 3.84M12.5 13.66L10 16.16L7.5 13.66M12.5 6.34L10 3.84L7.5 6.34\" stroke=\"currentColor\" stroke-width=\"1.25\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<path d=\"M11 17.77L11 4.23M13.75 15.02L11 17.77L8.25 15.02M13.75 6.98L11 4.23L8.25 6.98\" stroke=\"currentColor\" stroke-width=\"1.375\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<path d=\"M12 19.39L12 4.61M15 16.39L12 19.39L9 16.39M15 7.61L12 4.61L9 7.61\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-07T19:08:10-08:00",
+   "source": "git 5279fa2",
+   "released": true,
+   "body": "<path d=\"M8 12.92L8 3.08M10 10.92L8 12.92L6 10.92M10 5.08L8 3.08L6 5.08\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M8 12.92V3.08M10 10.92L8 12.92L6 10.92M10 5.08L8 3.08L6 5.08\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

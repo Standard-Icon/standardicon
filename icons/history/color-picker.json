@@ -1,0 +1,17 @@
+{
+ "name": "color-picker",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M9.5 5L4 10.5V12.5H6L11.5 7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 4L11.75 2.75C11.991 2.569 12.288 2.482 12.589 2.503C12.889 2.525 13.171 2.653 13.384 2.866C13.597 3.079 13.726 3.361 13.747 3.661C13.768 3.962 13.681 4.259 13.5 4.5L12.25 5.75M8.75 3.75L12.5 7.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8.5 5.5L3 11V13H5L10.5 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 4.5L10.75 3.25C10.99 3.069 11.29 2.982 11.59 3.003C11.89 3.024 12.17 3.153 12.38 3.366C12.6 3.579 12.73 3.861 12.75 4.161C12.77 4.462 12.68 4.759 12.5 5L11.25 6.25M7.75 4.25L11.5 7.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

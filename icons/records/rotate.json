@@ -1,0 +1,23 @@
+{
+  "name": "rotate",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6219",
+  "looks": "A square at the lower left with a curved arrow arcing over its top right to point down.",
+  "use": "Use for rotating an object or turning clockwise.",
+  "keywords": [
+    "turn"
+  ],
+  "compare": {
+    "carbon": "rotate",
+    "fluent": "arrow-rotate-clockwise",
+    "lucide": "rotate-cw",
+    "material": "rotate-right",
+    "phosphor": "arrow-clockwise",
+    "radix": "rotate-counter-clockwise",
+    "sf": "rotate.3d",
+    "tabler": "rotate"
+  }
+}

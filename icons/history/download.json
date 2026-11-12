@@ -1,0 +1,17 @@
+{
+ "name": "download",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M8 2.5V9.5M11 6.5L8 9.5L5 6.5M3 10.5V12C3 12.398 3.158 12.779 3.439 13.061C3.721 13.342 4.102 13.5 4.5 13.5H11.5C11.9 13.5 12.28 13.342 12.56 13.061C12.84 12.779 13 12.398 13 12V10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M3 10.037V11.537C3 11.934 3.158 12.316 3.439 12.597C3.721 12.879 4.102 13.037 4.5 13.037H11.5C11.898 13.037 12.279 12.879 12.561 12.597C12.842 12.316 13 11.934 13 11.537V10.037\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2.963V10.349M10.783 7.568L8 10.349L5.217 7.568\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "mail-plus-overlay",
+  "status": "active",
+  "parent": "mail",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:18668",
+  "looks": "A closed envelope with a plus inside a small rounded square at the lower right.",
+  "use": "Use for new mail, compose, or add an email address.",
+  "formerNames": [
+    "mail-plus"
+  ],
+  "compare": {
+    "carbon": "email-new",
+    "fluent": "mail-add",
+    "lucide": "mail-plus",
+    "sf": "envelope.badge.plus",
+    "tabler": "mail-plus"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "flask",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:5210",
+  "looks": "A laboratory flask with a narrow neck and a wide base, liquid line across it.",
+  "use": "Use for science, experiments, or beta features.",
+  "keywords": [
+    "experiment",
+    "lab",
+    "science",
+    "beta"
+  ],
+  "compare": {
+    "lucide": "flask-conical",
+    "phosphor": "flask",
+    "sf": "flask",
+    "tabler": "flask"
+  }
+}

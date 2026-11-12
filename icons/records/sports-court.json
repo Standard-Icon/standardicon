@@ -1,0 +1,15 @@
+{
+  "name": "sports-court",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21876",
+  "looks": "A rounded rectangle with a center line, a center circle, and goal boxes at each end.",
+  "use": "Use for sports fields, courts, or matches.",
+  "compare": {
+    "material": false,
+    "phosphor": "court-basketball",
+    "sf": "sportscourt"
+  }
+}

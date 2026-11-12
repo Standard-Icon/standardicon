@@ -1,0 +1,18 @@
+{
+  "name": "cone",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "58:21814",
+  "looks": "A cone with a pointed top and an oval base.",
+  "use": "Use for 3D shapes, geometry, or cone primitives.",
+  "compare": {
+    "carbon": "traffic-cone",
+    "fluent": "cone",
+    "lucide": "cone",
+    "phosphor": "traffic-cone",
+    "sf": "cone",
+    "tabler": "cone"
+  }
+}

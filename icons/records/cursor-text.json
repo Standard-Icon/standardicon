@@ -1,0 +1,30 @@
+{
+  "name": "cursor-text",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31342",
+  "looks": "An I-beam text cursor with curved serifs at the top and bottom.",
+  "use": "Use for text selection, editing text, or typing.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "text-cursor",
+    "material": "highlight-text-cursor",
+    "octicons": false,
+    "phosphor": "cursor-text",
+    "radix": "cursor-text",
+    "sf": "character.cursor.ibeam",
+    "tabler": "cursor-text"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "people"
+    }
+  ]
+}

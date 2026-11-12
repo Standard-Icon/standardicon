@@ -1,0 +1,22 @@
+{
+  "name": "phone-call",
+  "status": "active",
+  "parent": "phone",
+  "canonical": "phone",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:4066",
+  "looks": "A telephone handset with two curved sound waves at the upper right.",
+  "use": "Use for an active or ringing call, or calling someone.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "phone-call",
+    "material": false,
+    "phosphor": "phone-call",
+    "sf": false,
+    "tabler": "phone-call"
+  }
+}

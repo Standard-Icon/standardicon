@@ -1,0 +1,23 @@
+{
+  "name": "select",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3677",
+  "looks": "A dashed rounded square with nothing inside.",
+  "use": "Use for select, a selection area, or marquee tool.",
+  "keywords": [
+    "marquee",
+    "cursor"
+  ],
+  "compare": {
+    "carbon": "select-01",
+    "fluent": "select-object",
+    "lucide": "lasso-select",
+    "material": "select",
+    "octicons": false,
+    "sf": false,
+    "tabler": "select"
+  }
+}

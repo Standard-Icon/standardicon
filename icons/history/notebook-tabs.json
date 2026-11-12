@@ -1,0 +1,11 @@
+{
+ "name": "notebook-tabs",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"4\" y=\"2.5\" width=\"9\" height=\"11\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M6.5 2.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 5H5M3 8H5M3 11H5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 2.5V13.5M10.5 6.5H13M10.5 9.5H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

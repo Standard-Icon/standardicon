@@ -1,0 +1,17 @@
+{
+  "name": "backup",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:3319",
+  "keywords": [
+    "restore",
+    "snapshot"
+  ],
+  "compare": {
+    "carbon": "data-backup",
+    "lucide": "cloud-backup",
+    "material": "backup"
+  }
+}

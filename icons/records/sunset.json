@@ -1,0 +1,14 @@
+{
+  "name": "sunset",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:8061",
+  "compare": {
+    "carbon": "sunset",
+    "lucide": "sunset",
+    "sf": "sunset",
+    "tabler": "sunset"
+  }
+}

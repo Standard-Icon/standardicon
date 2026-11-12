@@ -1,0 +1,23 @@
+{
+ "name": "tire",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"5.5\" stroke=\"currentColor\"/><circle cx=\"8\" cy=\"8\" r=\"2.75\" stroke=\"currentColor\"/><path d=\"M12.157 9.722L13.081 10.105M9.722 12.157L10.105 13.081M6.278 12.157L5.895 13.081M3.843 9.722L2.919 10.105M3.843 6.278L2.919 5.895M6.278 3.843L5.895 2.919M9.722 3.843L10.105 2.919M12.157 6.278L13.081 5.895\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T07:22:14.556Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><circle cx=\"8\" cy=\"8\" r=\"3.085\" stroke=\"currentColor\"/><path d=\"M12.663 9.932L13.7 10.361M9.932 12.663L10.361 13.7M6.068 12.663L5.639 13.7M3.337 9.932L2.3 10.361M3.337 6.068L2.3 5.638M6.068 3.336L5.639 2.3M9.932 3.336L10.361 2.3M12.663 6.068L13.7 5.638\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><circle cx=\"8\" cy=\"8\" r=\"3.085\" stroke=\"currentColor\"/><path d=\"M12.66 9.932L13.7 10.361M9.93 12.663L10.36 13.7M6.07 12.663L5.64 13.7M3.34 9.932L2.3 10.361M3.34 6.068L2.3 5.638M6.07 3.336L5.64 2.3M9.93 3.336L10.36 2.3M12.66 6.068L13.7 5.638\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

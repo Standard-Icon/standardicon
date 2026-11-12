@@ -1,0 +1,11 @@
+{
+ "name": "wallet-cards",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"5.5\" width=\"11\" height=\"7.5\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4 5.5V4C4 3.735 4.105 3.48 4.293 3.293C4.48 3.105 4.735 3 5 3H11C11.265 3 11.52 3.105 11.707 3.293C11.895 3.48 12 3.735 12 4V5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.5 8H10.75C10.418 8 10.101 8.132 9.866 8.366C9.632 8.601 9.5 8.918 9.5 9.25C9.5 9.582 9.632 9.899 9.866 10.134C10.101 10.368 10.418 10.5 10.75 10.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

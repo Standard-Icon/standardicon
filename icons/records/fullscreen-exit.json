@@ -1,0 +1,23 @@
+{
+  "name": "fullscreen-exit",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "21:1755",
+  "looks": "Four corner brackets turned inward toward the center.",
+  "use": "Use for leaving full screen.",
+  "keywords": [
+    "minimize"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "fullscreen-exit",
+    "radix": false,
+    "sf": "arrow.down.right.and.arrow.up.left",
+    "tabler": false
+  }
+}

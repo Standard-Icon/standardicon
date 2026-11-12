@@ -1,0 +1,11 @@
+{
+ "name": "blocks",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"8.5\" width=\"6.44302\" height=\"5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"10.863\" y=\"8.5\" width=\"2.63678\" height=\"5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"2.5\" y=\"2.5\" width=\"4.52282\" height=\"4.18701\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"9.029\" y=\"2.5\" width=\"4.471\" height=\"4.21533\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

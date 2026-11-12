@@ -1,0 +1,22 @@
+{
+  "name": "robot-vacuum",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22428",
+  "looks": "A round disc with a circle in the middle and a curved arc above it.",
+  "use": "Use for a robot vacuum or automated cleaning.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.539Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": "robot-vacuum",
+    "material": false,
+    "phosphor": false,
+    "sf": "robotic.vacuum",
+    "tabler": false
+  }
+}

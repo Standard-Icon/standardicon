@@ -1,0 +1,25 @@
+{
+  "name": "phone-off",
+  "status": "active",
+  "parent": "phone",
+  "canonical": "phone",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:4150",
+  "looks": "A telephone handset crossed by a diagonal slash from lower left to upper right.",
+  "use": "Use for ending a call, no phone service, or calls turned off.",
+  "compare": {
+    "carbon": "phone-off",
+    "fluent": "call-prohibited",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "phone-off",
+    "material": "phone-disabled",
+    "octicons": false,
+    "phosphor": "phone-slash",
+    "radix": false,
+    "sf": false,
+    "tabler": "phone-off"
+  }
+}

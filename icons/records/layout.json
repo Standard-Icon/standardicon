@@ -1,0 +1,19 @@
+{
+  "name": "layout",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "12:415",
+  "looks": "A rounded square with a header band across the top and a narrow left column below it.",
+  "use": "Use for page layouts, templates, or a dashboard structure.",
+  "compare": {
+    "fluent": "layout-infographic",
+    "lucide": "layout",
+    "material": false,
+    "phosphor": "layout",
+    "radix": "layout",
+    "sf": false,
+    "tabler": "layout"
+  }
+}

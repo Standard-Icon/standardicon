@@ -1,0 +1,21 @@
+{
+  "name": "layers-arrow-up-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28684",
+  "looks": "A stack of a diamond and two layers with a small up arrow cut into the lower right.",
+  "use": "Use for moving a layer up or bringing forward.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "layers-arrow-up",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

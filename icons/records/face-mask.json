@@ -1,0 +1,19 @@
+{
+  "name": "face-mask",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27132",
+  "compare": {
+    "carbon": "face-mask",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "scan-face",
+    "material": "medical-mask",
+    "phosphor": "face-mask",
+    "radix": false,
+    "sf": "facemask",
+    "tabler": "face-mask"
+  }
+}

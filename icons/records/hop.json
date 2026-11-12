@@ -1,0 +1,12 @@
+{
+  "name": "hop",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26661",
+  "flags": [
+    "needs-revision"
+  ],
+  "compare": {
+    "lucide": "hop"
+  }
+}

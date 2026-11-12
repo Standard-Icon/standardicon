@@ -1,0 +1,12 @@
+{
+  "name": "take-out-bag",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:20072",
+  "compare": {
+    "iconic": false,
+    "lucide": false
+  }
+}

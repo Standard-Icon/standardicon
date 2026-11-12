@@ -1,0 +1,11 @@
+{
+ "name": "nfc",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"3\" y=\"2.5\" width=\"10\" height=\"11\" rx=\"2\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6 6C6.266 6.261 6.477 6.572 6.622 6.915C6.766 7.259 6.84 7.627 6.84 8C6.84 8.373 6.766 8.741 6.622 9.085C6.477 9.428 6.266 9.739 6 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.25 4.5C9.166 5.435 9.679 6.691 9.679 8C9.679 9.309 9.166 10.565 8.25 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

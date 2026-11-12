@@ -1,0 +1,18 @@
+{
+  "name": "option",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "settings",
+  "figmaId": "58:22158",
+  "looks": "The option key symbol: a line that steps down diagonally, with a short separate bar at the top right.",
+  "use": "Use for the Option or Alt key.",
+  "compare": {
+    "carbon": "mac-option",
+    "lucide": "option",
+    "material": "keyboard-option-key",
+    "phosphor": "option",
+    "sf": "option",
+    "tabler": "option"
+  }
+}

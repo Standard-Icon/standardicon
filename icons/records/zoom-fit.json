@@ -1,0 +1,24 @@
+{
+  "name": "zoom-fit",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3866",
+  "looks": "Four corner brackets around a small rounded square in the center.",
+  "use": "Use for zoom to fit or fit content to the screen.",
+  "keywords": [
+    "fit to screen"
+  ],
+  "compare": {
+    "carbon": "zoom-fit",
+    "fluent": "zoom-fit",
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "radix": false,
+    "sf": "square.arrowtriangle.4.outward",
+    "tabler": false
+  }
+}

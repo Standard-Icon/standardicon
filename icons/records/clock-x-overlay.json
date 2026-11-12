@@ -1,0 +1,20 @@
+{
+  "name": "clock-x-overlay",
+  "status": "active",
+  "parent": "clock",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "56:21181",
+  "looks": "A clock with an x in a rounded square at the lower right.",
+  "use": "Use for expired, timed out, or a canceled reminder.",
+  "formerNames": [
+    "clock-x"
+  ],
+  "compare": {
+    "heroicons": false,
+    "radix": false,
+    "sf": "clock.badge.xmark",
+    "tabler": "clock-x"
+  }
+}

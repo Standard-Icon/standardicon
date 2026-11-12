@@ -1,0 +1,27 @@
+{
+  "name": "italic",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1224",
+  "looks": "A slanted capital I with short serifs at top and bottom.",
+  "use": "Use for italic text formatting.",
+  "keywords": [
+    "text",
+    "format",
+    "emphasis"
+  ],
+  "compare": {
+    "carbon": "text-italic",
+    "fluent": "text-italic",
+    "heroicons": "italic",
+    "lucide": "italic",
+    "material": "format-italic",
+    "octicons": "italic",
+    "phosphor": "text-italic",
+    "radix": "font-italic",
+    "sf": "italic",
+    "tabler": "italic"
+  }
+}

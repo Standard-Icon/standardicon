@@ -1,0 +1,14 @@
+{
+  "name": "file-exclamation-point",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25485",
+  "looks": "A file with a folded top right corner and a tall exclamation mark inside.",
+  "use": "Use for a file with an error, warning, or important notice.",
+  "fillApproved": true,
+  "compare": {
+    "lucide": "file-exclamation-point",
+    "sf": false,
+    "tabler": "file-alert"
+  }
+}

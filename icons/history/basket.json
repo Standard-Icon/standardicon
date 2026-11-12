@@ -1,0 +1,17 @@
+{
+ "name": "basket",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2.5 7.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 7.5C4.5 4.5 6 2.5 8 2.5C10 2.5 11.5 4.5 11.5 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 7.5L4.5 13.5H11.5L12.5 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 9.5V11.5M9.5 9.5V11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T23:46:29.485Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.554 6.751H13.446\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.297 6.751C4.297 4.441 5.884 2.9 8 2.9C10.116 2.9 11.703 4.441 11.703 6.751\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.238 6.751L4.157 12.264C4.237 12.746 4.655 13.1 5.143 13.1H10.856C11.344 13.1 11.762 12.746 11.842 12.264L12.761 6.751\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.887 8.867L9.491 10.983\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.114 8.867L6.51 10.983\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

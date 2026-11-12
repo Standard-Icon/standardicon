@@ -1,0 +1,20 @@
+{
+  "name": "star-check-overlay",
+  "status": "active",
+  "parent": "star",
+  "canonical": "star",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "56:19098",
+  "looks": "A five-pointed star with a small rounded square holding a check overlapping its lower right.",
+  "use": "Use for a saved favorite or an approved rating.",
+  "formerNames": [
+    "star-check"
+  ],
+  "compare": {
+    "fluent": "star-checkmark",
+    "lucide": "star-check",
+    "sf": false
+  }
+}

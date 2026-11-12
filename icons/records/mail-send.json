@@ -1,0 +1,20 @@
+{
+  "name": "mail-send",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:3925",
+  "looks": "A closed envelope with a small arrow pointing right at the lower right corner.",
+  "use": "Use for sending email, outgoing mail, or forwarding.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "sf": false,
+    "tabler": false
+  }
+}

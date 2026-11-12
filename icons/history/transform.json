@@ -1,0 +1,11 @@
+{
+ "name": "transform",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"4.5\" y=\"4.5\" width=\"7\" height=\"7\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"2.5\" y=\"2.5\" width=\"2\" height=\"2\" rx=\"0.4\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"11.5\" y=\"2.5\" width=\"2\" height=\"2\" rx=\"0.4\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"2.5\" y=\"11.5\" width=\"2\" height=\"2\" rx=\"0.4\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"11.5\" y=\"11.5\" width=\"2\" height=\"2\" rx=\"0.4\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

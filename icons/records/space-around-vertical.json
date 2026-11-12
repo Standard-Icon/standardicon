@@ -1,0 +1,17 @@
+{
+  "name": "space-around-vertical",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23263",
+  "flags": [
+    "possible-duplicate"
+  ],
+  "compare": {
+    "lucide": "align-vertical-space-around",
+    "material": "align-space-around",
+    "radix": "space-evenly-vertically",
+    "sf": false
+  }
+}

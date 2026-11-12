@@ -1,0 +1,27 @@
+{
+  "name": "ball",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9043",
+  "looks": "A circle with curved seam lines crossing it, like a basketball.",
+  "use": "Use for sports, a ball, or games.",
+  "keywords": [
+    "sports",
+    "game"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:23:21.323Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "cigarette",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21579",
+  "looks": "A horizontal cigarette with a filter band and a wisp of smoke rising from the right end.",
+  "use": "Use for smoking or smoking areas.",
+  "compare": {
+    "lucide": "cigarette",
+    "phosphor": "cigarette",
+    "tabler": "smoking"
+  }
+}

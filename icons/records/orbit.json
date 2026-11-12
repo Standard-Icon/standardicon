@@ -1,0 +1,19 @@
+{
+  "name": "orbit",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27384",
+  "looks": "A ring around a small circle, with a small dot on the ring at the upper right.",
+  "use": "Use for orbits, satellites, or planets.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.360Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": "orbit",
+    "material": "orbit",
+    "tabler": "orbit"
+  }
+}

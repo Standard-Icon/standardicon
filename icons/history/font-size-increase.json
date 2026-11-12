@@ -1,0 +1,11 @@
+{
+ "name": "font-size-increase",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M1.383 12L5.501 3.5L9.619 12M2.88 9.268H8.122\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.117 12V5.5M14.617 7L13.117 5.5L11.617 7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "door-open",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:5762",
+  "looks": "A door swung partly open inside its frame, with a knob and a floor line.",
+  "use": "Use for an open door, enter, or leave.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": "door",
+    "heroicons": false,
+    "lucide": "door-open",
+    "material": "door-open",
+    "phosphor": "door-open",
+    "radix": false,
+    "sf": "door.french.open",
+    "tabler": "door"
+  }
+}

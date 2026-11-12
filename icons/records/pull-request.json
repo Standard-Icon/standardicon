@@ -1,0 +1,24 @@
+{
+  "name": "pull-request",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4949",
+  "looks": "Two circles joined by a vertical line on the left, and a right circle whose line bends up into a left arrow.",
+  "use": "Use for pull requests, code review, or proposed changes.",
+  "keywords": [
+    "git",
+    "merge request",
+    "pr"
+  ],
+  "compare": {
+    "carbon": "pull-request",
+    "fluent": "branch-request",
+    "lucide": "git-pull-request-arrow",
+    "material": "pull-request",
+    "octicons": "git-pull-request",
+    "phosphor": "git-pull-request",
+    "tabler": "git-pull-request"
+  }
+}

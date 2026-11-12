@@ -1,0 +1,11 @@
+{
+ "name": "radiation",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M6.8 6.292L5.25 3.607C6.086 3.124 7.035 2.87 8 2.87C8.965 2.87 9.914 3.124 10.75 3.607L9.2 6.292C8.835 6.081 8.421 5.97 8 5.97C7.579 5.97 7.165 6.081 6.8 6.292Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.4 8.37H13.5C13.5 9.336 13.246 10.284 12.763 11.12C12.281 11.956 11.586 12.65 10.75 13.133L9.2 10.448C9.565 10.238 9.868 9.935 10.079 9.57C10.289 9.205 10.4 8.791 10.4 8.37Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.8 10.448L5.25 13.133C4.414 12.65 3.72 11.956 3.237 11.12C2.754 10.284 2.5 9.336 2.5 8.37H5.6C5.6 8.791 5.711 9.205 5.922 9.57C6.132 9.935 6.435 10.238 6.8 10.448Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"8.37\" r=\"0.75\" fill=\"currentColor\"/>"
+  }
+ ]
+}

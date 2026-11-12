@@ -1,0 +1,12 @@
+{
+  "name": "align-start-horizontal",
+  "status": "covered",
+  "coveredBy": "align-object-top",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:22770",
+  "flags": [
+    "possible-duplicate"
+  ]
+}

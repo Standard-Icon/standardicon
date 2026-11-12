@@ -1,0 +1,12 @@
+{
+  "name": "eyebrow",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "People",
+  "figmaId": "273:22761",
+  "compare": {
+    "material": "eyebrow",
+    "sf": "eyebrow"
+  }
+}

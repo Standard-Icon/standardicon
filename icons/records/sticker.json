@@ -1,0 +1,23 @@
+{
+  "name": "sticker",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "59:21536",
+  "looks": "A circle with its upper right edge peeled back into a folded flap.",
+  "use": "Use for stickers, labels, or decals.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.604Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "fluent": "sticker",
+    "iconic": "sticker",
+    "lucide": "sticker",
+    "material": "sticker",
+    "phosphor": "sticker",
+    "tabler": "sticker"
+  }
+}

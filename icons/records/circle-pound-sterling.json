@@ -1,0 +1,17 @@
+{
+  "name": "circle-pound-sterling",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24232",
+  "looks": "A circle with a pound sterling sign inside.",
+  "use": "Use for British pounds, UK pricing, or sterling payments.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.750Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": "circle-pound-sterling",
+    "sf": false
+  }
+}

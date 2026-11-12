@@ -1,0 +1,11 @@
+{
+ "name": "person-search-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M10.25 5.75C10.25 6.993 9.243 8 8 8C6.757 8 5.75 6.993 5.75 5.75C5.75 4.507 6.757 3.5 8 3.5C9.243 3.5 10.25 4.507 10.25 5.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.625 12.5C4.995 10.648 6.243 9.894 7.936 9.875\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.379 11.44C13.379 11.954 13.175 12.448 12.811 12.811C12.448 13.175 11.954 13.379 11.44 13.379C10.925 13.379 10.432 13.175 10.068 12.811C9.704 12.448 9.5 11.954 9.5 11.44C9.5 10.925 9.704 10.432 10.068 10.068C10.432 9.704 10.925 9.5 11.44 9.5C11.954 9.5 12.448 9.704 12.811 10.068C13.175 10.432 13.379 10.925 13.379 11.44Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.836 12.836L14 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "tag-minus-overlay",
+  "status": "active",
+  "parent": "tag",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:20797",
+  "looks": "A tilted price tag with a dash inside a small rounded square at the lower right.",
+  "use": "Use for removing a tag or label.",
+  "formerNames": [
+    "tag-minus"
+  ],
+  "compare": {
+    "sf": false,
+    "tabler": "tag-minus"
+  }
+}

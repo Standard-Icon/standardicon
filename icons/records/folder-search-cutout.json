@@ -1,0 +1,18 @@
+{
+  "name": "folder-search-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28355",
+  "looks": "A closed folder with a small magnifying glass cut into the lower right corner.",
+  "use": "Use for searching folders or browsing files.",
+  "compare": {
+    "fluent": "folder-search",
+    "heroicons": false,
+    "lucide": "folder-search",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "folder-search"
+  }
+}

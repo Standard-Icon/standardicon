@@ -1,0 +1,11 @@
+{
+ "name": "person-lock-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M10.25 5.75C10.25 6.993 9.243 8 8 8C6.757 8 5.75 6.993 5.75 5.75C5.75 4.507 6.757 3.5 8 3.5C9.243 3.5 10.25 4.507 10.25 5.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.625 12.5C4.995 10.648 6.243 9.894 7.936 9.875\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.632\" y=\"11.353\" width=\"4.23529\" height=\"2.64706\" rx=\"0.305882\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M10.691 11.353V10.559C10.691 10.278 10.803 10.009 11.002 9.81C11.2 9.612 11.469 9.5 11.75 9.5C12.031 9.5 12.3 9.612 12.499 9.81C12.698 10.009 12.809 10.278 12.809 10.559V11.353\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

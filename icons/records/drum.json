@@ -1,0 +1,11 @@
+{
+  "name": "drum",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25176",
+  "looks": "A drum with a banded body and two crossed drumsticks above it.",
+  "use": "Use for drums, music, or percussion.",
+  "compare": {
+    "lucide": "drum"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "waves",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2 6C3 5 4 5 5 6C6 7 7 7 8 6C9 5 10 5 11 6C12 7 13 7 14 6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2 10C3 9 4 9 5 10C6 11 7 11 8 10C9 9 10 9 11 10C12 11 13 11 14 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "skip-back-30",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "media",
+  "figmaId": "111:31492",
+  "looks": "A circular arrow turning counterclockwise with the number 30 inside.",
+  "use": "Use for jumping back 30 seconds.",
+  "approved": {
+    "at": "2026-11-11T19:15:36.559Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "rewind-30",
+    "iconic": false,
+    "lucide": false,
+    "material": "replay-30",
+    "phosphor": false,
+    "tabler": "rewind-backward-30"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "podcast, no solid"
+    }
+  ]
+}

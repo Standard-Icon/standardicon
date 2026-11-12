@@ -1,0 +1,19 @@
+{
+  "name": "save-plus-overlay",
+  "status": "active",
+  "parent": "save",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3598",
+  "looks": "A floppy disk with a plus inside a small rounded square at the lower right.",
+  "use": "Use for save as new or save a copy.",
+  "formerNames": [
+    "save-as",
+    "save-plus"
+  ],
+  "compare": {
+    "lucide": "save-plus",
+    "sf": false
+  }
+}

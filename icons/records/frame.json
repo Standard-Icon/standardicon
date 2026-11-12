@@ -1,0 +1,24 @@
+{
+  "name": "frame",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6287",
+  "looks": "Two vertical and two horizontal lines crossing to form a square, ends sticking out like a hash.",
+  "use": "Use for frames, artboards, or layout containers.",
+  "keywords": [
+    "artboard",
+    "container"
+  ],
+  "compare": {
+    "fluent": "frame",
+    "iconic": "frame",
+    "lucide": "frame",
+    "material": false,
+    "phosphor": "frame-corners",
+    "radix": "frame",
+    "sf": false,
+    "tabler": "frame"
+  }
+}

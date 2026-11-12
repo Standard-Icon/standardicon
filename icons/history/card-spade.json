@@ -1,0 +1,11 @@
+{
+ "name": "card-spade",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 2.5C10 4.5 13.5 6.75 13.5 9.25C13.5 10.75 12.4 11.5 11.25 11.5C10.25 11.5 9.5 11 9 9.75C9 11.25 9.25 12.75 10 13.5H6C6.75 12.75 7 11.25 7 9.75C6.5 11 5.75 11.5 4.75 11.5C3.6 11.5 2.5 10.75 2.5 9.25C2.5 6.75 6 4.5 8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

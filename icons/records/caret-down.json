@@ -1,0 +1,14 @@
+{
+  "name": "caret-down",
+  "status": "dropped",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Chevrons and carets",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "removed from the site and package, still in Figma outside the frames"
+    }
+  ]
+}

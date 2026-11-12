@@ -1,0 +1,27 @@
+{
+  "name": "pin",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "solid": "needed",
+  "figmaId": "22:1880",
+  "looks": "A push pin with a flat head and a thin needle pointing down.",
+  "use": "Use for pinning, keeping an item fixed, or saved items.",
+  "keywords": [
+    "thumbtack",
+    "keep"
+  ],
+  "compare": {
+    "carbon": "pin",
+    "fluent": "pin",
+    "heroicons": false,
+    "lucide": "pin",
+    "material": "pin",
+    "octicons": "pin",
+    "phosphor": "push-pin",
+    "radix": "drawing-pin",
+    "sf": "pin",
+    "tabler": "pin"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "banana",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19205",
+  "looks": "A single curved banana with a stem at the top.",
+  "use": "Use for fruit, food, or a banana.",
+  "compare": {
+    "lucide": "banana",
+    "tabler": "banana"
+  }
+}

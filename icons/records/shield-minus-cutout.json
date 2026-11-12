@@ -1,0 +1,13 @@
+{
+  "name": "shield-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28297",
+  "looks": "A shield with a small minus sign cut into the lower right.",
+  "use": "Use for reduced protection or removing a security rule.",
+  "compare": {
+    "lucide": "shield-minus",
+    "sf": false,
+    "tabler": "shield-minus"
+  }
+}

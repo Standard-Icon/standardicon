@@ -1,0 +1,15 @@
+{
+  "name": "waves",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24491",
+  "compare": {
+    "lucide": "waves",
+    "material": "waves",
+    "phosphor": "waves",
+    "sf": "water.waves",
+    "tabler": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "game-controller",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8456",
+  "keywords": [
+    "gamepad",
+    "gaming",
+    "console"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "xbox-controller",
+    "lucide": "gamepad-2",
+    "material": false,
+    "phosphor": "game-controller",
+    "tabler": "device-gamepad"
+  }
+}

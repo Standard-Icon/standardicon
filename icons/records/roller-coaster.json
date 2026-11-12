@@ -1,0 +1,15 @@
+{
+  "name": "roller-coaster",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:20932",
+  "compare": {
+    "lucide": "roller-coaster",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

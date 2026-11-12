@@ -1,0 +1,15 @@
+{
+  "name": "smoke-detector",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22515",
+  "compare": {
+    "carbon": false,
+    "lucide": "alarm-smoke",
+    "material": "detector-smoke",
+    "sf": false,
+    "tabler": "alarm-smoke"
+  }
+}

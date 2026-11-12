@@ -1,0 +1,19 @@
+{
+  "name": "new",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Status and feedback",
+  "figmaId": "30:3992",
+  "looks": "A capital N inside a starburst seal with wavy points.",
+  "use": "Use for new items, fresh features, or releases.",
+  "compare": {
+    "carbon": false,
+    "fluent": "new",
+    "lucide": false,
+    "material": "fiber-new",
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

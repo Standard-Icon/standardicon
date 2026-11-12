@@ -1,0 +1,19 @@
+{
+  "name": "leaderboard",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6516",
+  "looks": "A podium of three blocks with the tallest in the middle, shorter ones at left and right.",
+  "use": "Use for leaderboards, rankings, or winners.",
+  "keywords": [
+    "ranking",
+    "podium"
+  ],
+  "compare": {
+    "lucide": "podium",
+    "material": "leaderboard",
+    "tabler": "podium"
+  }
+}

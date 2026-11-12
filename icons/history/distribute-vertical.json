@@ -1,0 +1,17 @@
+{
+ "name": "distribute-vertical",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2.5 2.5H13.5M2.5 13.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 6H11C11.133 6 11.26 6.053 11.354 6.146C11.447 6.24 11.5 6.367 11.5 6.5V9.5C11.5 9.633 11.447 9.76 11.354 9.854C11.26 9.947 11.133 10 11 10H5C4.867 10 4.74 9.947 4.646 9.854C4.553 9.76 4.5 9.633 4.5 9.5V6.5C4.5 6.367 4.553 6.24 4.646 6.146C4.74 6.053 4.867 6 5 6Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T19:08:10-08:00",
+   "source": "git 5279fa2",
+   "released": true,
+   "body": "<path d=\"M2.5 2.5H13.5M2.5 13.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"4.5\" y=\"6\" width=\"7\" height=\"4\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

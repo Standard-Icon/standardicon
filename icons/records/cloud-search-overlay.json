@@ -1,0 +1,22 @@
+{
+  "name": "cloud-search-overlay",
+  "status": "active",
+  "parent": "cloud",
+  "canonical": "cloud",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "data",
+  "figmaId": "56:21921",
+  "looks": "A cloud with a magnifying glass in a rounded square at the lower right.",
+  "use": "Use for searching cloud files or storage.",
+  "formerNames": [
+    "cloud-search"
+  ],
+  "compare": {
+    "heroicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "cloud-search"
+  }
+}

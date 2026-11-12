@@ -1,0 +1,24 @@
+{
+  "name": "weight-tilde",
+  "status": "active",
+  "parent": "weight",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:24407",
+  "looks": "A weight with a ring handle on top and a small wavy line on its body.",
+  "use": "Use for approximate weight or a scale reading.",
+  "approved": {
+    "at": "2026-11-12T02:40:23.526Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "lucide": "weight-tilde",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

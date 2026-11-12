@@ -1,0 +1,21 @@
+{
+  "name": "outdent",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6208",
+  "looks": "Four horizontal lines with a left-pointing chevron beside the two middle lines on the left.",
+  "use": "Use for outdenting text or decreasing list level.",
+  "keywords": [
+    "text"
+  ],
+  "compare": {
+    "carbon": "text-indent-less",
+    "fluent": "text-indent-decrease",
+    "lucide": "outdent",
+    "material": "format-indent-decrease",
+    "phosphor": "text-outdent",
+    "tabler": "indent-decrease"
+  }
+}

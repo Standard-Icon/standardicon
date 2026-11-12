@@ -1,0 +1,9 @@
+{
+  "name": "circle-stop",
+  "status": "covered",
+  "coveredBy": "stop-circle",
+  "source": "lucide",
+  "compare": {
+    "lucide": "circle-stop"
+  }
+}

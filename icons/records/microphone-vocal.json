@@ -1,0 +1,22 @@
+{
+  "name": "microphone-vocal",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27018",
+  "aliases": [
+    "mic-vocal"
+  ],
+  "formerNames": [
+    "mic-vocal"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "microphone",
+    "fluent": false,
+    "heroicons": "microphone",
+    "lucide": "mic-vocal",
+    "phosphor": "microphone",
+    "sf": "microphone",
+    "tabler": "microphone"
+  }
+}

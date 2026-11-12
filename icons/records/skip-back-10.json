@@ -1,0 +1,30 @@
+{
+  "name": "skip-back-10",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "media",
+  "figmaId": "111:31380",
+  "looks": "A circular arrow turning counterclockwise with the number 10 inside.",
+  "use": "Use for jumping back 10 seconds.",
+  "approved": {
+    "at": "2026-11-11T19:15:36.528Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "rewind-10",
+    "iconic": false,
+    "lucide": false,
+    "material": "replay-10",
+    "phosphor": false,
+    "tabler": "rewind-backward-10"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "podcast, no solid"
+    }
+  ]
+}

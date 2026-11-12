@@ -1,0 +1,25 @@
+{
+  "name": "code-brackets",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4632",
+  "keywords": [
+    "developer",
+    "html",
+    "angle brackets"
+  ],
+  "compare": {
+    "carbon": "code",
+    "fluent": "code",
+    "heroicons": "code-bracket",
+    "lucide": "code",
+    "material": "code",
+    "octicons": "code",
+    "phosphor": "code",
+    "radix": "code",
+    "sf": "chevron.left.forwardslash.chevron.right",
+    "tabler": "code"
+  }
+}

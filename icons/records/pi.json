@@ -1,0 +1,14 @@
+{
+  "name": "pi",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Math",
+  "figmaId": "275:22593",
+  "compare": {
+    "lucide": "pi",
+    "phosphor": "pi",
+    "sf": "pi",
+    "tabler": "math-pi"
+  }
+}

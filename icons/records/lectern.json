@@ -1,0 +1,15 @@
+{
+  "name": "lectern",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:20960",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "lucide": "lectern",
+    "phosphor": "lectern"
+  }
+}

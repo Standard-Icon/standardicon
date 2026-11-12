@@ -1,0 +1,13 @@
+{
+  "name": "earbuds",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "devices",
+  "figmaId": "59:22200",
+  "compare": {
+    "lucide": "earbuds",
+    "material": "earbuds",
+    "sf": "earbuds"
+  }
+}

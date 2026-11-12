@@ -1,0 +1,27 @@
+{
+  "name": "calendar-x-integrated",
+  "status": "active",
+  "parent": "calendar",
+  "canonical": "calendar",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7139",
+  "looks": "A calendar page with two rings at the top and an x in the middle of the body.",
+  "use": "Use for a canceled event or an unavailable date.",
+  "formerNames": [
+    "calendar-x"
+  ],
+  "keywords": [
+    "cancelled event"
+  ],
+  "compare": {
+    "heroicons": false,
+    "lucide": "calendar-x",
+    "material": false,
+    "phosphor": "calendar-x",
+    "radix": false,
+    "sf": false,
+    "tabler": "calendar-x"
+  }
+}

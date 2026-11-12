@@ -1,0 +1,27 @@
+{
+  "name": "file-zip",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:4872",
+  "looks": "A page with a folded top right corner and a zipper running down its left side.",
+  "use": "Use for ZIP files, archives, or compressed downloads.",
+  "keywords": [
+    "archive",
+    "compressed"
+  ],
+  "compare": {
+    "carbon": "zip",
+    "fluent": false,
+    "lucide": "file-archive",
+    "material": false,
+    "octicons": "file-zip",
+    "phosphor": "file-zip",
+    "radix": false,
+    "sf": "zipper.page",
+    "tabler": "file-zip"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "swatch-book",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "58:21662",
+  "looks": "A tall swatch card with a dot at its base, with two more cards fanning out to the right.",
+  "use": "Use for color swatches, palettes, or themes.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "swatch",
+    "iconic": false,
+    "lucide": "swatch-book",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

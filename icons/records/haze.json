@@ -1,0 +1,14 @@
+{
+  "name": "haze",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24470",
+  "compare": {
+    "carbon": "haze",
+    "lucide": "haze",
+    "sf": "sun.haze",
+    "tabler": "haze"
+  }
+}

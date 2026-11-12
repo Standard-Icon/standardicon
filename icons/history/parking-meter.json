@@ -1,0 +1,29 @@
+{
+ "name": "parking-meter",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"3.5\" y=\"2.5\" width=\"9\" height=\"7\" rx=\"3\" stroke=\"currentColor\"/><path d=\"M5.5 7C5.5 5.62 6.62 4.5 8 4.5C9.38 4.5 10.5 5.62 10.5 7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 7L8.75 6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 9.5V13.5H6M8 13.5H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T23:46:29.485Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"4.609\" y=\"1.032\" width=\"6.78149\" height=\"8.46777\" rx=\"2\" stroke=\"currentColor\"/><path d=\"M6.054 4.865C6.054 3.791 6.926 2.919 8 2.919C9.074 2.919 9.946 3.791 9.946 4.865\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 4.864L8.429 4.292\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.743 7.226H11.329\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M8 9.5V13.145H6M8 13.145H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<rect x=\"5.185\" y=\"1.161\" width=\"7.62918\" height=\"9.52625\" rx=\"2.25\" stroke=\"currentColor\"/><path d=\"M6.811 5.473C6.811 4.265 7.792 3.284 9 3.284C10.208 3.284 11.189 4.265 11.189 5.473\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9 5.472L9.483 4.828\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.335 8.129H12.745\" stroke=\"currentColor\" stroke-width=\"1.125\" stroke-linecap=\"round\"/><path d=\"M9 10.688V14.789H6.75M9 14.789H11.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<rect x=\"5.761\" y=\"1.29\" width=\"8.47687\" height=\"10.5847\" rx=\"2.5\" stroke=\"currentColor\"/><path d=\"M7.568 6.081C7.568 4.739 8.658 3.649 10 3.649C11.342 3.649 12.432 4.739 12.432 6.081\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 6.08L10.536 5.365\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.928 9.032H14.161\" stroke=\"currentColor\" stroke-width=\"1.25\" stroke-linecap=\"round\"/><path d=\"M10 11.875V16.432H7.5M10 16.432H12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<rect x=\"6.338\" y=\"1.419\" width=\"9.32455\" height=\"11.6432\" rx=\"2.75\" stroke=\"currentColor\"/><path d=\"M8.325 6.689C8.325 5.212 9.523 4.014 11 4.014C12.477 4.014 13.675 5.212 13.675 6.689\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11 6.688L11.59 5.901\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.521 9.936H15.577\" stroke=\"currentColor\" stroke-width=\"1.375\" stroke-linecap=\"round\"/><path d=\"M11 13.062V18.075H8.25M11 18.075H13.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<rect x=\"6.914\" y=\"1.549\" width=\"10.1722\" height=\"12.7017\" rx=\"3\" stroke=\"currentColor\"/><path d=\"M9.082 7.297C9.082 5.686 10.389 4.379 12 4.379C13.611 4.379 14.918 5.686 14.918 7.297\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12 7.296L12.644 6.438\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.114 10.838H16.993\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\"/><path d=\"M12 14.25V19.718H9M12 19.718H15\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-11T04:22:24.748Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"4.609\" y=\"1.032\" width=\"6.78149\" height=\"8.46777\" rx=\"2\" stroke=\"currentColor\"/><path d=\"M6.054 4.865C6.054 3.791 6.926 2.919 8 2.919C9.074 2.919 9.946 3.791 9.946 4.865\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 4.864L8.429 4.292\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.743 7.226H11.329\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M8 9.5V13.145H6M8 13.145H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

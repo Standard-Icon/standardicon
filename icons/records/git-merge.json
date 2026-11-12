@@ -1,0 +1,18 @@
+{
+  "name": "git-merge",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26286",
+  "looks": "Two nodes at the left joined by a curve to a node at the right.",
+  "use": "Use for merging branches.",
+  "compare": {
+    "carbon": "merge",
+    "fluent": "merge",
+    "iconic": "git-merge",
+    "lucide": "git-merge",
+    "material": "merge",
+    "octicons": "git-merge",
+    "phosphor": "git-merge",
+    "tabler": "git-merge"
+  }
+}

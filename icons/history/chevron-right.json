@@ -1,0 +1,11 @@
+{
+ "name": "chevron-right",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M6.701 12L9.299 8L6.701 4\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

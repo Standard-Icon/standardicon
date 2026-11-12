@@ -1,0 +1,24 @@
+{
+  "name": "bank",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7383",
+  "looks": "A classical building with a triangular roof, four columns, and a stepped base.",
+  "use": "Use for banks, finance, or institutions.",
+  "keywords": [
+    "finance",
+    "institution",
+    "money"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "building-bank",
+    "lucide": "landmark",
+    "material": "account-balance",
+    "phosphor": "bank",
+    "sf": "building.columns",
+    "tabler": "building-bank"
+  }
+}

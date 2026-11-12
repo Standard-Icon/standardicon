@@ -1,0 +1,15 @@
+{
+  "name": "mailbox",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "communication",
+  "figmaId": "59:22080",
+  "compare": {
+    "fluent": "mailbox",
+    "lucide": "mailbox",
+    "material": "markunread-mailbox",
+    "phosphor": "mailbox",
+    "tabler": "mailbox"
+  }
+}

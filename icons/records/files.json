@@ -1,0 +1,23 @@
+{
+  "name": "files",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:5110",
+  "looks": "Two pages with folded corners, one stacked in front of the other toward the lower left.",
+  "use": "Use for multiple files, copies, or documents.",
+  "keywords": [
+    "documents",
+    "multiple"
+  ],
+  "compare": {
+    "carbon": false,
+    "lucide": "files",
+    "material": "files",
+    "octicons": false,
+    "phosphor": "files",
+    "sf": "document.on.document",
+    "tabler": "files"
+  }
+}

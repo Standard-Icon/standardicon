@@ -1,0 +1,17 @@
+{
+ "name": "passport",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4.5 2.5H11.5C11.765 2.5 12.02 2.605 12.207 2.793C12.395 2.98 12.5 3.235 12.5 3.5V12.5C12.5 12.765 12.395 13.02 12.207 13.207C12.02 13.395 11.765 13.5 11.5 13.5H4.5C4.235 13.5 3.98 13.395 3.793 13.207C3.605 13.02 3.5 12.765 3.5 12.5V3.5C3.5 3.235 3.605 2.98 3.793 2.793C3.98 2.605 4.235 2.5 4.5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.25 7C10.25 7.597 10.013 8.169 9.591 8.591C9.169 9.013 8.597 9.25 8 9.25C7.403 9.25 6.831 9.013 6.409 8.591C5.987 8.169 5.75 7.597 5.75 7C5.75 6.403 5.987 5.831 6.409 5.409C6.831 4.987 7.403 4.75 8 4.75C8.597 4.75 9.169 4.987 9.591 5.409C10.013 5.831 10.25 6.403 10.25 7Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 11H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"3.5\" y=\"2.5\" width=\"9\" height=\"11\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M10.25 7C10.25 7.597 10.013 8.169 9.591 8.591C9.169 9.013 8.597 9.25 8 9.25C7.403 9.25 6.831 9.013 6.409 8.591C5.987 8.169 5.75 7.597 5.75 7C5.75 6.403 5.987 5.831 6.409 5.409C6.831 4.987 7.403 4.75 8 4.75C8.597 4.75 9.169 4.987 9.591 5.409C10.013 5.831 10.25 6.403 10.25 7Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 11H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ear",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27555",
+  "looks": "An ear seen from the side, with a curl inside.",
+  "use": "Use for hearing, listening, or audio.",
+  "compare": {
+    "carbon": "hearing",
+    "lucide": "ear",
+    "material": "hearing",
+    "phosphor": "ear",
+    "sf": "ear",
+    "tabler": "ear"
+  }
+}

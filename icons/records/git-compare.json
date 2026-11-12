@@ -1,0 +1,17 @@
+{
+  "name": "git-compare",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26331",
+  "looks": "Two nodes with curved arrows running between them in opposite directions.",
+  "use": "Use for comparing branches, diffs, or swapping.",
+  "compare": {
+    "carbon": "compare",
+    "fluent": "branch-compare",
+    "lucide": "git-compare",
+    "material": "compare",
+    "octicons": "git-compare",
+    "phosphor": "git-diff",
+    "tabler": "git-compare"
+  }
+}

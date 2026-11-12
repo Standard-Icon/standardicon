@@ -1,0 +1,13 @@
+{
+  "name": "message-oval-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27943",
+  "looks": "An oval speech bubble with a small plus sign cut into the lower right.",
+  "use": "Use for adding a message, comment, or reply.",
+  "compare": {
+    "lucide": "message-circle-plus",
+    "sf": "plus.bubble",
+    "tabler": "message-plus"
+  }
+}

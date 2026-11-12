@@ -1,0 +1,16 @@
+{
+  "name": "spray-can",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21340",
+  "compare": {
+    "carbon": "spray-paint",
+    "fluent": "spray-can",
+    "iconic": false,
+    "lucide": "spray-can",
+    "phosphor": false,
+    "tabler": "spray"
+  }
+}

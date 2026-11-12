@@ -1,0 +1,16 @@
+{
+  "name": "message-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27871",
+  "looks": "A rectangular speech bubble with a small plus sign cut into the lower right corner.",
+  "use": "Use for adding a message, comment, or reply.",
+  "compare": {
+    "carbon": "add-comment",
+    "fluent": "chat-add",
+    "lucide": false,
+    "octicons": "chat-add",
+    "sf": "plus.message",
+    "tabler": "message-plus"
+  }
+}

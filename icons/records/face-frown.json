@@ -1,0 +1,22 @@
+{
+  "name": "face-frown",
+  "status": "active",
+  "canonical": "face",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "People",
+  "figmaId": "273:23039",
+  "compare": {
+    "carbon": "face-dissatisfied",
+    "fluent": "emoji-sad",
+    "heroicons": "face-frown",
+    "iconic": "emoji-sad",
+    "lucide": "face-slightly-frowning",
+    "material": false,
+    "octicons": "smiley-frown",
+    "phosphor": "smiley-sad",
+    "radix": false,
+    "sf": false,
+    "tabler": "mood-sad"
+  }
+}

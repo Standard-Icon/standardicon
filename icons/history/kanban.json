@@ -1,0 +1,23 @@
+{
+ "name": "kanban",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M2.974 2.5H4.868C4.994 2.5 5.114 2.553 5.203 2.646C5.292 2.74 5.342 2.867 5.342 3V10C5.342 10.133 5.292 10.26 5.203 10.354C5.114 10.447 4.994 10.5 4.868 10.5H2.974C2.848 10.5 2.728 10.447 2.639 10.354C2.55 10.26 2.5 10.133 2.5 10V3C2.5 2.867 2.55 2.74 2.639 2.646C2.728 2.553 2.848 2.5 2.974 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.45 2.5H9.344C9.47 2.5 9.59 2.553 9.679 2.646C9.768 2.74 9.818 2.867 9.818 3V13C9.818 13.133 9.768 13.26 9.679 13.354C9.59 13.447 9.47 13.5 9.344 13.5H7.45C7.324 13.5 7.204 13.447 7.115 13.354C7.026 13.26 6.976 13.133 6.976 13V3C6.976 2.867 7.026 2.74 7.115 2.646C7.204 2.553 7.324 2.5 7.45 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.926 2.5H13.82C13.946 2.5 14.066 2.553 14.155 2.646C14.244 2.74 14.294 2.867 14.294 3V8C14.294 8.133 14.244 8.26 14.155 8.354C14.066 8.447 13.946 8.5 13.82 8.5H11.926C11.8 8.5 11.68 8.447 11.591 8.354C11.502 8.26 11.452 8.133 11.452 8V3C11.452 2.867 11.502 2.74 11.591 2.646C11.68 2.553 11.8 2.5 11.926 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2\" y=\"2.5\" width=\"2.84172\" height=\"8\" rx=\"0.4736\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"6.476\" y=\"2.5\" width=\"2.84172\" height=\"11\" rx=\"0.4736\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"10.952\" y=\"2.5\" width=\"2.84172\" height=\"6\" rx=\"0.4736\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T19:59:33.379Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"1.683\" y=\"2.5\" width=\"2.84172\" height=\"8\" rx=\"0.4736\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"6.58\" y=\"2.5\" width=\"2.84172\" height=\"11\" rx=\"0.4736\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"11.477\" y=\"2.5\" width=\"2.84172\" height=\"6\" rx=\"0.4736\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

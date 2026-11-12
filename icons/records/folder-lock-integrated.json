@@ -1,0 +1,22 @@
+{
+  "name": "folder-lock-integrated",
+  "status": "active",
+  "parent": "folder",
+  "canonical": "folder",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:5058",
+  "looks": "A closed folder with a small padlock in the middle.",
+  "use": "Use for private, locked, or protected folders.",
+  "formerNames": [
+    "folder-lock"
+  ],
+  "compare": {
+    "lucide": "folder-lock",
+    "octicons": false,
+    "phosphor": "folder-lock",
+    "sf": false,
+    "tabler": "folder-lock"
+  }
+}

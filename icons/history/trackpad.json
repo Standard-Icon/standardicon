@@ -1,0 +1,17 @@
+{
+ "name": "trackpad",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.5 3H12.5C12.765 3 13.02 3.105 13.207 3.293C13.395 3.48 13.5 3.735 13.5 4V12C13.5 12.265 13.395 12.52 13.207 12.707C13.02 12.895 12.765 13 12.5 13H3.5C3.235 13 2.98 12.895 2.793 12.707C2.605 12.52 2.5 12.265 2.5 12V4C2.5 3.735 2.605 3.48 2.793 3.293C2.98 3.105 3.235 3 3.5 3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 10H13.5M8 10V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3\" width=\"11\" height=\"10\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.5 10H13.5M8 10V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

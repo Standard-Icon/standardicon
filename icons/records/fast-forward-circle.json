@@ -1,0 +1,23 @@
+{
+  "name": "fast-forward-circle",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "media",
+  "figmaId": "111:31352",
+  "looks": "Two right-pointing triangles side by side inside a circle.",
+  "use": "Use for fast forward or speeding up playback.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.125Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": "fast-forward-circle",
+    "sf": "forward.circle"
+  }
+}

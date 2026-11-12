@@ -1,0 +1,23 @@
+{
+  "name": "dropdown",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31502",
+  "looks": "A wide rounded rectangle with a small chevron pointing down at the right end.",
+  "use": "Use for dropdown menus, select fields, or pickers.",
+  "compare": {
+    "carbon": "list-dropdown",
+    "lucide": false,
+    "material": "dropdown",
+    "radix": "dropdown-menu"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "status"
+    }
+  ]
+}

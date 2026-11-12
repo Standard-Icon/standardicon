@@ -1,0 +1,26 @@
+{
+  "name": "activity",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6490",
+  "looks": "A pulse line with one sharp spike up and one down.",
+  "use": "Use for activity, health, or live status.",
+  "keywords": [
+    "pulse",
+    "heartbeat",
+    "monitor"
+  ],
+  "compare": {
+    "carbon": "activity",
+    "fluent": false,
+    "lucide": "activity",
+    "material": "ecg",
+    "octicons": "pulse",
+    "phosphor": "pulse",
+    "radix": "activity-log",
+    "sf": "waveform.path.ecg",
+    "tabler": "activity"
+  }
+}

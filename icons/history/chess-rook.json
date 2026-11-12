@@ -1,0 +1,11 @@
+{
+ "name": "chess-rook",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M11.25 11.5L10.75 9.75V6.75L12 5.5V2.5H10.75V4.25H8.75V2.5H7.25V4.25H5.25V2.5H4V5.5L5.25 6.75V9.75L4.75 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"4\" y=\"11.5\" width=\"8\" height=\"2\" rx=\"0.5\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

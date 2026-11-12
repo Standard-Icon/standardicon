@@ -1,0 +1,27 @@
+{
+  "name": "hotel",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7332",
+  "keywords": [
+    "lodging",
+    "stay",
+    "bed"
+  ],
+  "compare": {
+    "carbon": "hotel",
+    "lucide": "hotel",
+    "material": "hotel",
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-09",
+      "by": "morgan",
+      "text": "This reads as a hospital not a hotel.",
+      "issue": "this-reads-as-a-hospital-not-a-hotel"
+    }
+  ]
+}

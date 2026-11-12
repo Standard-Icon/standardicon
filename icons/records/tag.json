@@ -1,0 +1,27 @@
+{
+  "name": "tag",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1949",
+  "looks": "A price tag tilted diagonally with its point at the lower right and a hole at the upper left.",
+  "use": "Use for tags, labels, or prices.",
+  "keywords": [
+    "label",
+    "price"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "tag",
+    "fluent": "tag",
+    "heroicons": "tag",
+    "iconic": "tag",
+    "lucide": "tag",
+    "material": "tag",
+    "octicons": "tag",
+    "phosphor": "tag",
+    "sf": "tag",
+    "tabler": "tag"
+  }
+}

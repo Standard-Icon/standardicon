@@ -1,0 +1,13 @@
+{
+  "name": "snail",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:19824",
+  "compare": {
+    "lucide": "snail",
+    "material": "snail",
+    "tabler": "snail"
+  }
+}

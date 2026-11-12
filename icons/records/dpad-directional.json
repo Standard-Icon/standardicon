@@ -1,0 +1,17 @@
+{
+  "name": "dpad-directional",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26111",
+  "looks": "A four-way directional pad made of four small arrow-shaped buttons around an empty center.",
+  "use": "Use for game controller directions or d-pad input.",
+  "approved": {
+    "at": "2026-11-11T00:22:17.412Z",
+    "by": "morgan",
+    "version": "2026-11-10T23:46:29.485Z"
+  },
+  "compare": {
+    "lucide": "gamepad-directional",
+    "sf": "dpad"
+  }
+}

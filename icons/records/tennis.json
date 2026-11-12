@@ -1,0 +1,22 @@
+{
+  "name": "tennis",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21602",
+  "looks": "A circle with two curved lines crossing it, like the seams of a tennis ball.",
+  "use": "Use for tennis or sports.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.637Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "tennis",
+    "material": "sports-tennis",
+    "phosphor": "tennis-ball",
+    "sf": "tennis.racket",
+    "tabler": "ball-tennis"
+  }
+}

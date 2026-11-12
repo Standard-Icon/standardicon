@@ -1,0 +1,11 @@
+{
+ "name": "dash-circle",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M5.6 8H10.4\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 13.6C11.093 13.6 13.6 11.093 13.6 8C13.6 4.907 11.093 2.4 8 2.4C4.907 2.4 2.4 4.907 2.4 8C2.4 11.093 4.907 13.6 8 13.6Z\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

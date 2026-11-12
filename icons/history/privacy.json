@@ -1,0 +1,12 @@
+{
+ "name": "privacy",
+ "versions": [
+  {
+   "at": "2026-11-07T17:52:24-08:00",
+   "source": "git 723f40b",
+   "released": true,
+   "body": "<path d=\"M8 2.5L12.5 4V8C12.5 10.8 10.6 12.7 8 13.5C5.4 12.7 3.5 10.8 3.5 8V4L8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.896 8C6.401 7.1 7.158 6.6 8 6.6C8.842 6.6 9.599 7.1 10.104 8C9.599 8.9 8.842 9.4 8 9.4C7.158 9.4 6.401 8.9 5.896 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.6 8C8.6 8.16 8.537 8.312 8.424 8.425C8.312 8.537 8.159 8.6 8 8.6C7.841 8.6 7.688 8.537 7.576 8.425C7.463 8.312 7.4 8.16 7.4 8C7.4 7.841 7.463 7.689 7.576 7.576C7.688 7.464 7.841 7.4 8 7.4C8.159 7.4 8.312 7.464 8.424 7.576C8.537 7.689 8.6 7.841 8.6 8Z\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

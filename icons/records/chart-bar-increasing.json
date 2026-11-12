@@ -1,0 +1,18 @@
+{
+  "name": "chart-bar-increasing",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "charts",
+  "figmaId": "58:21971",
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "lucide": "chart-bar-increasing",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

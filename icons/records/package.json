@@ -1,0 +1,27 @@
+{
+  "name": "package",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4856",
+  "looks": "A box with a slanted lid, a center seam on the lid, and a short line on its front.",
+  "use": "Use for packages, shipping, or archives.",
+  "keywords": [
+    "box",
+    "npm",
+    "module"
+  ],
+  "compare": {
+    "carbon": "package",
+    "fluent": "box",
+    "iconic": "box",
+    "lucide": "package",
+    "material": "package",
+    "octicons": "package",
+    "phosphor": "package",
+    "radix": "box",
+    "sf": "shippingbox",
+    "tabler": "package"
+  }
+}

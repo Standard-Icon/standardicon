@@ -1,0 +1,33 @@
+{
+  "name": "stop",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Media",
+  "solid": "needed",
+  "figmaId": "12:781",
+  "looks": "A rounded square.",
+  "use": "Use for stopping playback or a recording.",
+  "keywords": [
+    "halt",
+    "square"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.704Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "stop",
+    "fluent": "stop",
+    "heroicons": "stop",
+    "iconic": "stop",
+    "lucide": "square-stop",
+    "material": "stop",
+    "octicons": "stop",
+    "phosphor": "stop",
+    "radix": "stop",
+    "sf": "stop",
+    "tabler": "player-stop"
+  }
+}

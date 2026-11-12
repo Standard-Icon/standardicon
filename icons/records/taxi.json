@@ -1,0 +1,14 @@
+{
+  "name": "taxi",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20665",
+  "compare": {
+    "carbon": "taxi",
+    "lucide": "car-taxi-front",
+    "material": "local-taxi",
+    "phosphor": "taxi"
+  }
+}

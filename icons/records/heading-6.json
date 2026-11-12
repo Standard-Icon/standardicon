@@ -1,0 +1,20 @@
+{
+  "name": "heading-6",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6102",
+  "looks": "A capital H with a small number 6 at its upper right.",
+  "use": "Use for a level 6 heading.",
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": "heading-6",
+    "material": false,
+    "octicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "h-6"
+  }
+}

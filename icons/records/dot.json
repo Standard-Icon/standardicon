@@ -1,0 +1,26 @@
+{
+  "name": "dot",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "figmaId": "23:1894",
+  "looks": "A single solid dot in the center.",
+  "use": "Use for a bullet, a status indicator, or a marker.",
+  "keywords": [
+    "status",
+    "bullet"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "dot-mark",
+    "fluent": false,
+    "lucide": "dot",
+    "material": "square-dot",
+    "octicons": "dot",
+    "phosphor": "dot",
+    "radix": "dot",
+    "sf": false,
+    "tabler": false
+  }
+}

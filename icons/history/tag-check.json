@@ -1,0 +1,12 @@
+{
+ "name": "tag-check",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M12.211 9.75L13.6 8.362C13.8 8.167 13.8 7.85 13.6 7.655L8.27 2.326C8.16 2.217 8.01 2.165 7.86 2.184L3.48 2.731C3.25 2.76 3.07 2.938 3.04 3.165L2.5 7.544C2.48 7.697 2.53 7.85 2.64 7.959L7.97 13.288C8.16 13.483 8.48 13.483 8.67 13.288L9.75 12.209\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"5.4\" cy=\"5.088\" r=\"0.879771\" fill=\"currentColor\"/><rect x=\"9.75\" y=\"9.75\" width=\"5\" height=\"5\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11 12.172L11.938 13.109L13.5 11.391\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

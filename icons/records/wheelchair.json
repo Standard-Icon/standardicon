@@ -1,0 +1,16 @@
+{
+  "name": "wheelchair",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27263",
+  "compare": {
+    "fluent": "wheelchair-access",
+    "lucide": false,
+    "material": false,
+    "phosphor": "wheelchair",
+    "sf": "wheelchair",
+    "tabler": "wheelchair"
+  }
+}

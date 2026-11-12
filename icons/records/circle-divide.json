@@ -1,0 +1,29 @@
+{
+  "name": "circle-divide",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24101",
+  "looks": "A circle with a division sign inside.",
+  "use": "Use for division or the divide operator.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-12T02:32:25.789Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle-divide",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "divide.circle",
+    "tabler": false
+  }
+}

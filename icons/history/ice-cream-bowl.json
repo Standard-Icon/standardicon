@@ -1,0 +1,11 @@
+{
+ "name": "ice-cream-bowl",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M3.5 8.5C3.2 5 4.5 2.5 6.75 2.5C8.2 2.5 9.2 3.4 9.6 4.5C10.9 4.5 12.75 5.75 12.5 8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.6 4.5C9 4.9 8.6 5.6 8.5 6.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 8.5H13.5C13.5 10.25 12 11.5 10.5 11.5H5.5C4 11.5 2.5 10.25 2.5 8.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 13.5H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

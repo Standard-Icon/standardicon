@@ -1,0 +1,11 @@
+{
+ "name": "spool",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"3.5\" y=\"2.5\" width=\"9\" height=\"2\" rx=\"0.75\" stroke=\"currentColor\"/><rect x=\"3.5\" y=\"11.5\" width=\"9\" height=\"2\" rx=\"0.75\" stroke=\"currentColor\"/><path d=\"M5.5 4.5V11.5M10.5 4.5V11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 7.5L10.5 6.5M5.5 9.5L10.5 8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

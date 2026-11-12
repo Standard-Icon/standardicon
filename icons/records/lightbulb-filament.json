@@ -1,0 +1,8 @@
+{
+  "name": "lightbulb-filament",
+  "status": "planned",
+  "source": "later",
+  "compare": {
+    "phosphor": "lightbulb-filament"
+  }
+}

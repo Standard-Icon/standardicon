@@ -1,0 +1,20 @@
+{
+  "name": "log",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:5226",
+  "keywords": [
+    "logs",
+    "lines"
+  ],
+  "compare": {
+    "iconic": false,
+    "lucide": "scroll",
+    "material": false,
+    "octicons": "log",
+    "phosphor": "log",
+    "radix": "activity-log"
+  }
+}

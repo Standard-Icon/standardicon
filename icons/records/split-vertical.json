@@ -1,0 +1,23 @@
+{
+  "name": "split-vertical",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Navigation and layout",
+  "figmaId": "30:3275",
+  "looks": "A wide rounded rectangle split into left and right halves by a vertical line.",
+  "use": "Use for splitting a view into side-by-side panes.",
+  "compare": {
+    "carbon": false,
+    "fluent": "split-vertical",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "split-square-vertical",
+    "material": "vertical-split",
+    "octicons": false,
+    "phosphor": "split-vertical",
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

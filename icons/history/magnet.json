@@ -1,0 +1,11 @@
+{
+ "name": "magnet",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3 3H6V8C6 8.53 6.211 9.039 6.586 9.414C6.961 9.789 7.47 10 8 10C8.53 10 9.039 9.789 9.414 9.414C9.789 9.039 10 8.53 10 8V3H13V8C13 9.326 12.473 10.598 11.536 11.536C10.598 12.473 9.326 13 8 13C6.674 13 5.402 12.473 4.464 11.536C3.527 10.598 3 9.326 3 8V3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 5.5H6M10 5.5H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "cut",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1670",
+  "looks": "A pair of scissors with two crossing blades and two round handles.",
+  "use": "Use for cut, trim, or scissors.",
+  "keywords": [
+    "scissors"
+  ],
+  "compare": {
+    "carbon": "cut",
+    "fluent": "cut",
+    "heroicons": "scissors",
+    "lucide": "scissors",
+    "material": "content-cut",
+    "phosphor": "scissors",
+    "radix": "scissors",
+    "sf": "scissors",
+    "tabler": "cut"
+  }
+}

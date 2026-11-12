@@ -1,0 +1,20 @@
+{
+  "name": "invoice",
+  "status": "active",
+  "canonical": "page",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:5214",
+  "looks": "A page with a folded top right corner and three short lines aligned to the right.",
+  "use": "Use for invoices, bills, or statements.",
+  "keywords": [
+    "bill",
+    "billing"
+  ],
+  "compare": {
+    "lucide": false,
+    "phosphor": "invoice",
+    "tabler": "invoice"
+  }
+}

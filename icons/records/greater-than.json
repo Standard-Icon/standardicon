@@ -1,0 +1,19 @@
+{
+  "name": "greater-than",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Math",
+  "figmaId": "275:22529",
+  "looks": "A single right-pointing angle bracket.",
+  "use": "Use for greater than comparisons, next, or a prompt.",
+  "approved": {
+    "at": "2026-11-12T01:54:11.199Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "phosphor": "greater-than",
+    "tabler": "math-greater"
+  }
+}

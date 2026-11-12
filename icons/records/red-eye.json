@@ -1,0 +1,19 @@
+{
+  "name": "red-eye",
+  "status": "planned",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "photo"
+    },
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "in Figma, outside the frames"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "calendar-off",
+  "status": "active",
+  "parent": "calendar",
+  "canonical": "calendar",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:21055",
+  "looks": "A calendar page with two rings, crossed by a diagonal line.",
+  "use": "Use for disabling a calendar or no events.",
+  "compare": {
+    "carbon": false,
+    "fluent": "calendar-cancel",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "calendar-off",
+    "material": "event-busy",
+    "octicons": false,
+    "phosphor": "calendar-x",
+    "radix": false,
+    "sf": false,
+    "tabler": "calendar-off"
+  }
+}

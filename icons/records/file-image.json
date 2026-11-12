@@ -1,0 +1,24 @@
+{
+  "name": "file-image",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:4753",
+  "looks": "A page with a folded top right corner, a small sun circle, and a mountain line at the bottom.",
+  "use": "Use for image files, photos, or pictures.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "file-image",
+    "material": false,
+    "octicons": false,
+    "phosphor": "file-image",
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

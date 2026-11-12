@@ -1,0 +1,12 @@
+{
+ "name": "cauldron",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"5.5\" width=\"11\" height=\"2\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.751 7.5C2.501 9 2.501 11 3.501 12.25C4.251 13.1 5.251 13.5 6.501 13.5H9.501C10.751 13.5 11.751 13.1 12.501 12.25C13.501 11 13.501 9 12.251 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.75 2.25C7.75 2.94 7.19 3.5 6.5 3.5C5.81 3.5 5.25 2.94 5.25 2.25C5.25 1.56 5.81 1 6.5 1C7.19 1 7.75 1.56 7.75 2.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 3.6C10.332 3.6 10.6 3.332 10.6 3C10.6 2.669 10.332 2.4 10 2.4C9.669 2.4 9.4 2.669 9.4 3C9.4 3.332 9.669 3.6 10 3.6Z\" fill=\"currentColor\"/><path d=\"M5 13.5V14.5M11 13.5V14.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

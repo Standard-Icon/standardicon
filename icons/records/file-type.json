@@ -1,0 +1,19 @@
+{
+  "name": "file-type",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25282",
+  "looks": "A file with a folded top right corner and a capital T inside.",
+  "use": "Use for text files, font files, or typography.",
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": "file-type",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "bell-x-overlay",
+  "status": "active",
+  "parent": "bell",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "56:20186",
+  "looks": "A bell with a small rounded square holding an x overlapping its lower right.",
+  "use": "Use for dismissing or deleting a notification.",
+  "formerNames": [
+    "bell-x"
+  ],
+  "compare": {
+    "heroicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "bell-x"
+  }
+}

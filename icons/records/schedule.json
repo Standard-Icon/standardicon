@@ -1,0 +1,20 @@
+{
+  "name": "schedule",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7357",
+  "looks": "A calendar page with two rings at the top and a small clock at its lower right.",
+  "use": "Use for scheduling or setting a date and time.",
+  "keywords": [
+    "planner",
+    "agenda",
+    "time"
+  ],
+  "compare": {
+    "carbon": "event-schedule",
+    "lucide": "clock",
+    "material": "schedule"
+  }
+}

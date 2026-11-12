@@ -1,0 +1,17 @@
+{
+ "name": "alert-octagon",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M5.6 2.4H10.4L13.6 5.6V10.4L10.4 13.6H5.6L2.4 10.4V5.6L5.6 2.4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5V8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.6 10.9C8.6 11.059 8.537 11.212 8.424 11.324C8.312 11.437 8.159 11.5 8 11.5C7.841 11.5 7.688 11.437 7.576 11.324C7.463 11.212 7.4 11.059 7.4 10.9C7.4 10.741 7.463 10.588 7.576 10.476C7.688 10.363 7.841 10.3 8 10.3C8.159 10.3 8.312 10.363 8.424 10.476C8.537 10.588 8.6 10.741 8.6 10.9Z\" fill=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M5.6 2.4H10.4L13.6 5.6V10.4L10.4 13.6H5.6L2.4 10.4V5.6L5.6 2.4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6.123L8 8.207\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.562 9.815C8.562 10.126 8.31 10.377 8 10.377C7.69 10.377 7.438 10.126 7.438 9.815C7.438 9.505 7.69 9.253 8 9.253C8.31 9.253 8.562 9.505 8.562 9.815Z\" fill=\"currentColor\"/>"
+  }
+ ]
+}

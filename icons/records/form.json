@@ -1,0 +1,14 @@
+{
+  "name": "form",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "files",
+  "figmaId": "59:21468",
+  "looks": "A rounded rectangle with three horizontal lines, the last one shorter.",
+  "use": "Use for forms, text fields, or entries.",
+  "compare": {
+    "lucide": "form",
+    "material": "dynamic-form"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "ship-wheel",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"4.25\" stroke=\"currentColor\"/><circle cx=\"8\" cy=\"8\" r=\"1.25\" stroke=\"currentColor\"/><path d=\"M9.083 8.625L12.98 10.875M8 9.25V13.75M6.917 8.625L3.02 10.875M6.917 7.375L3.02 5.125M8 6.75V2.25M9.083 7.375L12.98 5.125\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

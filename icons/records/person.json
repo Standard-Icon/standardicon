@@ -1,0 +1,34 @@
+{
+  "name": "person",
+  "status": "active",
+  "canonical": "person",
+  "source": "plan",
+  "wave": "W1",
+  "group": "People and identity",
+  "figmaId": "12:943",
+  "looks": "A circle head above a curved shoulder arc.",
+  "use": "Use for a user, profile, or account.",
+  "keywords": [
+    "user",
+    "account",
+    "profile",
+    "avatar"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.181Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "person",
+    "fluent": "person",
+    "heroicons": "user",
+    "lucide": "user",
+    "material": "person",
+    "octicons": "person",
+    "phosphor": "person",
+    "radix": "person",
+    "sf": "person",
+    "tabler": "user"
+  }
+}

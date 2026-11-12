@@ -1,0 +1,11 @@
+{
+ "name": "print",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4.5 5.5V2.5H11.5V5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 11H3.5C3.235 11 2.98 10.895 2.793 10.707C2.605 10.52 2.5 10.265 2.5 10V6.5C2.5 6.235 2.605 5.98 2.793 5.793C2.98 5.605 3.235 5.5 3.5 5.5H12.5C12.765 5.5 13.02 5.605 13.207 5.793C13.395 5.98 13.5 6.235 13.5 6.5V10C13.5 10.265 13.395 10.52 13.207 10.707C13.02 10.895 12.765 11 12.5 11H11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 9H11.5V13.5H4.5V9Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

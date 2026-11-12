@@ -1,0 +1,31 @@
+{
+  "name": "file-js",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "255:19311",
+  "looks": "A page with a folded top right corner and the letters JS at the bottom.",
+  "use": "Use for JavaScript files.",
+  "compare": {
+    "carbon": false,
+    "fluent": "document-js",
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": "file-js",
+    "radix": false,
+    "sf": false,
+    "tabler": "file-type-js"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "file type, label in Polymath Display Bold"
+    }
+  ]
+}

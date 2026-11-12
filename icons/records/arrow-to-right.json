@@ -1,0 +1,23 @@
+{
+  "name": "arrow-to-right",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Arrows",
+  "figmaId": "27:3419",
+  "looks": "An arrow pointing right into a vertical line on its right.",
+  "use": "Use for jump to the end, last page, or align right.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "arrow-right-to-line",
+    "material": false,
+    "octicons": "move-to-end",
+    "phosphor": "arrow-line-right",
+    "radix": false,
+    "sf": "arrow.right.to.line",
+    "tabler": "arrow-bar-to-right"
+  }
+}

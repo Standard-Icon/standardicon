@@ -1,0 +1,17 @@
+{
+ "name": "shield-off",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M8 2.5L12.5 4V8C12.5 10.8 10.6 12.7 8 13.5C5.4 12.7 3.5 10.8 3.5 8V4L8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13L13 3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M3.775 9.75C3.596 9.21 3.5 8.63 3.5 8V4L8 2.5L10.269 3.26M12.5 5.97V8C12.5 10.8 10.6 12.7 8 13.5C7.246 13.27 6.551 12.94 5.944 12.53\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 13L13 3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "blood-drop-plus-integrated",
+  "status": "active",
+  "parent": "blood-drop",
+  "source": "later",
+  "figmaId": "330:26787",
+  "looks": "A single drop with a plus drawn into its body.",
+  "use": "Use for blood donation, blood tests, or medical fluids.",
+  "formerNames": [
+    "blood-drop-plus"
+  ],
+  "keywords": [
+    "donate",
+    "donation",
+    "transfusion",
+    "blood-plus"
+  ],
+  "compare": {
+    "sf": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "credit-card",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7331",
+  "looks": "A card with a stripe across the top and a short line near the lower left.",
+  "use": "Use for credit cards, payment methods, or billing.",
+  "keywords": [
+    "payment",
+    "billing",
+    "debit"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "wallet-credit-card",
+    "heroicons": "credit-card",
+    "lucide": "credit-card",
+    "material": "credit-card",
+    "octicons": "credit-card",
+    "phosphor": "credit-card",
+    "radix": false,
+    "sf": "creditcard",
+    "tabler": "credit-card"
+  }
+}

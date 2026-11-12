@@ -1,0 +1,17 @@
+{
+  "name": "letterbox",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "183:32116",
+  "looks": "A rounded rectangle with two horizontal bars across its top and bottom edges.",
+  "use": "Use for letterboxing, widescreen, or aspect bars.",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "video"
+    }
+  ]
+}

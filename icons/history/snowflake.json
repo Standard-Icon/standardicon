@@ -1,0 +1,29 @@
+{
+ "name": "snowflake",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M8 2V14M2.8 5L13.2 11M2.8 11L13.2 5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 3L8 4.5L9.5 3M6.5 13L8 11.5L9.5 13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M8 2V14M2.8 5L13.2 11M2.8 11L13.2 5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 3L8 4.5L9.5 3M6.5 13L8 11.5L9.5 13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.92 6.799L4.969 6.25L4.42 4.201M11.58 11.799L11.031 9.75L13.08 9.201\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.42 11.799L4.969 9.75L2.92 9.201M13.08 6.799L11.031 6.25L11.58 4.201\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<path d=\"M9 2.25V15.75M3.15 5.625L14.85 12.375M3.15 12.375L14.85 5.625\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.312 3.375L9 5.062L10.688 3.375M7.312 14.625L9 12.938L10.688 14.625\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.285 7.648L5.59 7.031L4.972 4.726M13.028 13.273L12.41 10.968L14.715 10.351\" stroke=\"currentColor\" stroke-width=\"1.125\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.972 13.273L5.59 10.968L3.285 10.351M14.715 7.648L12.41 7.031L13.027 4.726\" stroke=\"currentColor\" stroke-width=\"1.125\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<path d=\"M10 2.5V17.5M3.5 6.25L16.5 13.75M3.5 13.75L16.5 6.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.125 3.75L10 5.625L11.875 3.75M8.125 16.25L10 14.375L11.875 16.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.65 8.499L6.211 7.813L5.525 5.251M14.475 14.749L13.789 12.188L16.35 11.501\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.525 14.748L6.211 12.187L3.65 11.5M16.35 8.498L13.789 7.812L14.475 5.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<path d=\"M11 2.75V19.25M3.85 6.875L18.15 15.125M3.85 15.125L18.15 6.875\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.938 4.125L11 6.188L13.062 4.125M8.938 17.875L11 15.812L13.062 17.875\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.015 9.349L6.832 8.594L6.077 5.776M15.923 16.224L15.168 13.406L17.985 12.651\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.077 16.224L6.832 13.406L4.015 12.651M17.985 9.349L15.168 8.594L15.922 5.776\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<path d=\"M12 3V21M4.2 7.5L19.8 16.5M4.2 16.5L19.8 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.75 4.5L12 6.75L14.25 4.5M9.75 19.5L12 17.25L14.25 19.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.38 10.198L7.453 9.375L6.63 6.301M17.37 17.698L16.547 14.625L19.62 13.801\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.63 17.698L7.453 14.625L4.38 13.801M19.62 10.198L16.546 9.375L17.37 6.301\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-08T12:57:03-08:00",
+   "source": "git 08259f8",
+   "released": true,
+   "body": "<path d=\"M8.001 2V14M2.801 5L13.201 11M2.801 11L13.201 5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 3L8 4.5L9.5 3M6.5 13L8 11.5L9.5 13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.92 6.799L4.969 6.25L4.42 4.201M11.58 11.799L11.031 9.75L13.08 9.201\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.42 11.799L4.969 9.75L2.92 9.201M13.08 6.799L11.031 6.25L11.58 4.201\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

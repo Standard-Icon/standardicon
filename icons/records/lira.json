@@ -1,0 +1,16 @@
+{
+  "name": "lira",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:26587",
+  "looks": "A currency symbol like an L with a curved tail and two slanted bars across it.",
+  "use": "Use for the Turkish lira or lira currency.",
+  "compare": {
+    "carbon": "currency-lira",
+    "lucide": "turkish-lira",
+    "material": "currency-lira",
+    "tabler": "currency-lira"
+  }
+}

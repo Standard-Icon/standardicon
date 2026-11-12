@@ -1,0 +1,16 @@
+{
+  "name": "paint-roller",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27473",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "paint-roller",
+    "material": "format-paint",
+    "phosphor": "paint-roller",
+    "sf": false,
+    "tabler": "paint"
+  }
+}

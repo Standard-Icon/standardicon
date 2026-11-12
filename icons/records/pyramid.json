@@ -1,0 +1,15 @@
+{
+  "name": "pyramid",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "58:21835",
+  "looks": "A pyramid seen from the front, with a center edge running from the apex down to the base.",
+  "use": "Use for 3D shapes, geometry, or pyramid primitives.",
+  "compare": {
+    "lucide": "pyramid",
+    "sf": "pyramid",
+    "tabler": "pyramid"
+  }
+}

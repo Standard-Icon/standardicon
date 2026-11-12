@@ -1,0 +1,20 @@
+{
+  "name": "storage",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:2900",
+  "looks": "Two stacked rounded rectangles, each with a short dash centered inside.",
+  "use": "Use for storage, drawers, or archives.",
+  "keywords": [
+    "disk",
+    "drive"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "storage",
+    "lucide": "hard-drive",
+    "material": "storage"
+  }
+}

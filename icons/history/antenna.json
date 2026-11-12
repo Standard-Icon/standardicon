@@ -1,0 +1,11 @@
+{
+ "name": "antenna",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 5.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 13.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.25 2C4.682 2.709 4.372 3.591 4.372 4.5C4.372 5.409 4.682 6.291 5.25 7M10.75 2C11.318 2.709 11.627 3.591 11.627 4.5C11.627 5.409 11.318 6.291 10.75 7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9 4.5C9 4.765 8.895 5.02 8.707 5.207C8.52 5.395 8.265 5.5 8 5.5C7.735 5.5 7.48 5.395 7.293 5.207C7.105 5.02 7 4.765 7 4.5C7 4.235 7.105 3.98 7.293 3.793C7.48 3.605 7.735 3.5 8 3.5C8.265 3.5 8.52 3.605 8.707 3.793C8.895 3.98 9 4.235 9 4.5Z\" fill=\"currentColor\"/>"
+  }
+ ]
+}

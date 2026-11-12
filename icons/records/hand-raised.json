@@ -1,0 +1,18 @@
+{
+  "name": "hand-raised",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:5185",
+  "compare": {
+    "fluent": false,
+    "heroicons": "hand-raised",
+    "lucide": "hand",
+    "material": false,
+    "phosphor": "hand",
+    "radix": "hand",
+    "sf": "hand.raised",
+    "tabler": "hand-stop"
+  }
+}

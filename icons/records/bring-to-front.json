@@ -1,0 +1,15 @@
+{
+  "name": "bring-to-front",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "58:21338",
+  "looks": "A solid square in front of a larger outlined square, overlapping at the corners.",
+  "use": "Use for bringing an item to the front in layer order.",
+  "compare": {
+    "carbon": "bring-to-front",
+    "lucide": "bring-to-front",
+    "material": "flip-to-front"
+  }
+}

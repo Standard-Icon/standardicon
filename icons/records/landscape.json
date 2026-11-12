@@ -1,0 +1,16 @@
+{
+  "name": "landscape",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26210",
+  "compare": {
+    "carbon": "mobile-landscape",
+    "fluent": "rectangle-landscape",
+    "lucide": false,
+    "material": "landscape",
+    "sf": "ipad.landscape",
+    "tabler": "crop-landscape"
+  }
+}

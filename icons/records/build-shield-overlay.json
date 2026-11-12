@@ -1,0 +1,14 @@
+{
+  "name": "build-shield-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "322:23975",
+  "looks": "A brick wall with a small rounded square holding a shield overlapping its lower right.",
+  "use": "Use for firewalls, security, or protected builds.",
+  "formerNames": [
+    "build-shield"
+  ],
+  "compare": {
+    "lucide": "brick-wall-shield"
+  }
+}

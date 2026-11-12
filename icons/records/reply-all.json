@@ -1,0 +1,21 @@
+{
+  "name": "reply-all",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3619",
+  "looks": "Two left-pointing chevrons followed by a curved arrow turning right.",
+  "use": "Use for reply all in email.",
+  "compare": {
+    "carbon": "reply-all",
+    "fluent": "arrow-reply-all",
+    "lucide": "reply-all",
+    "material": "reply-all",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "arrowshape.turn.up.left.2",
+    "tabler": false
+  }
+}

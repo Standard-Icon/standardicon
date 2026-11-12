@@ -1,0 +1,11 @@
+{
+ "name": "shirt",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M5.5 2.5L2 4.5L3.25 7.5L4.75 6.75V13.5H11.25V6.75L12.75 7.5L14 4.5L10.5 2.5C10 3.75 9 4.25 8 4.25C7 4.25 6 3.75 5.5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

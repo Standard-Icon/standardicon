@@ -1,0 +1,14 @@
+{
+  "name": "party-popper",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "59:22564",
+  "compare": {
+    "carbon": "party-popper",
+    "lucide": "party-popper",
+    "material": "party-mode",
+    "sf": "party.popper"
+  }
+}

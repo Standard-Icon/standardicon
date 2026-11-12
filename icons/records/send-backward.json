@@ -1,0 +1,27 @@
+{
+  "name": "send-backward",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31646",
+  "looks": "Two overlapping rounded squares, the upper left one drawn whole in front of the lower right one.",
+  "use": "Use for send backward or move a layer down.",
+  "compare": {
+    "carbon": "send-backward",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "actions"
+    }
+  ]
+}

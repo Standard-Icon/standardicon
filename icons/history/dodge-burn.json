@@ -1,0 +1,12 @@
+{
+ "name": "dodge-burn",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M8 2.5C7.2 2.5 6.44 2.816 5.88 3.379C5.32 3.941 5 4.704 5 5.5C5 6.296 5.32 7.059 5.88 7.621C6.44 8.184 7.2 8.5 8 8.5V2.5Z\" fill=\"currentColor\"/><path d=\"M11 5.5C11 6.296 10.68 7.059 10.12 7.621C9.56 8.184 8.8 8.5 8 8.5C7.2 8.5 6.44 8.184 5.88 7.621C5.32 7.059 5 6.296 5 5.5C5 4.704 5.32 3.941 5.88 3.379C6.44 2.816 7.2 2.5 8 2.5C8.8 2.5 9.56 2.816 10.12 3.379C10.68 3.941 11 4.704 11 5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 8.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "smoke",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20434",
+  "compare": {
+    "carbon": "smoke",
+    "lucide": false,
+    "material": false,
+    "sf": "smoke",
+    "tabler": false
+  }
+}

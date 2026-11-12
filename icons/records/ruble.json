@@ -1,0 +1,16 @@
+{
+  "name": "ruble",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:26565",
+  "looks": "The Russian ruble currency sign, a P with a short horizontal bar across its stem.",
+  "use": "Use for rubles or Russian currency.",
+  "compare": {
+    "carbon": "currency-ruble",
+    "lucide": "russian-ruble",
+    "material": "currency-ruble",
+    "tabler": "currency-ruble"
+  }
+}

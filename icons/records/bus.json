@@ -1,0 +1,29 @@
+{
+  "name": "bus",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7119",
+  "looks": "A boxy bus front with a windshield across the top, two headlight dots, and two short legs.",
+  "use": "Use for buses, public transit, or commuting.",
+  "keywords": [
+    "transit",
+    "transport"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "bus",
+    "fluent": "vehicle-bus",
+    "lucide": "bus",
+    "material": "directions-bus",
+    "phosphor": "bus",
+    "sf": "bus",
+    "tabler": "bus"
+  },
+  "compareAlso": {
+    "lucide": [
+      "bus-front"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "person-settings-overlay",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M10.25 5.75C10.25 6.993 9.243 8 8 8C6.757 8 5.75 6.993 5.75 5.75C5.75 4.507 6.757 3.5 8 3.5C9.243 3.5 10.25 4.507 10.25 5.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.625 12.5C5 10.625 6.275 9.875 8 9.875C8.604 9.875 9.152 9.967 9.626 10.167\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M12.79 12.25C12.79 12.394 12.73 12.532 12.63 12.633C12.53 12.735 12.39 12.792 12.25 12.792C12.11 12.792 11.97 12.735 11.87 12.633C11.77 12.532 11.71 12.394 11.71 12.25C11.71 12.106 11.77 11.969 11.87 11.867C11.97 11.766 12.11 11.708 12.25 11.708C12.39 11.708 12.53 11.766 12.63 11.867C12.73 11.969 12.79 12.106 12.79 12.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.25 10.95V11.275M12.25 13.225V13.55M10.95 12.25H11.28M13.23 12.25H13.55M11.33 11.329L11.56 11.562M12.94 12.938L13.17 13.171M13.17 11.329L12.94 11.562M11.56 12.938L11.33 13.171\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T20:25:52.393Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M10.75 5.25C10.75 6.769 9.519 8 8 8C6.481 8 5.25 6.769 5.25 5.25C5.25 3.731 6.481 2.5 8 2.5C9.519 2.5 10.75 3.731 10.75 5.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.875 13.5C4.333 11.208 5.892 10.292 8 10.292C8.559 10.292 9.08 10.356 9.552 10.494\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M12.792 12.25C12.792 12.394 12.735 12.532 12.633 12.633C12.532 12.735 12.394 12.792 12.25 12.792C12.106 12.792 11.969 12.735 11.867 12.633C11.766 12.532 11.709 12.394 11.709 12.25C11.709 12.106 11.766 11.969 11.867 11.867C11.969 11.766 12.106 11.708 12.25 11.708C12.394 11.708 12.532 11.766 12.633 11.867C12.735 11.969 12.792 12.106 12.792 12.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.25 10.95V11.275M12.25 13.225V13.55M10.95 12.25H11.275M13.225 12.25H13.55M11.329 11.329L11.562 11.562M12.938 12.938L13.171 13.171M13.171 11.329L12.938 11.562M11.562 12.938L11.329 13.171\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

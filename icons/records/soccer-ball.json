@@ -1,0 +1,24 @@
+{
+  "name": "soccer-ball",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21471",
+  "looks": "A circle with a central pentagon connected by lines to the edge, like a football.",
+  "use": "Use for soccer, football, or sports.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.582Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "soccer",
+    "fluent": "sport-soccer",
+    "lucide": "ball-wave",
+    "material": "sports-soccer",
+    "phosphor": "soccer-ball",
+    "sf": "soccerball",
+    "tabler": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "phone-plus-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M7.955 9.773C6.883 9.011 6.007 7.946 5.5 6.75L7 5.5L6 2.5H4.5C3.97 2.5 3.461 2.711 3.086 3.086C2.711 3.461 2.5 3.97 2.5 4.5C2.71 8 4.586 10.863 7.408 12.369\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 11.75H14M11.75 9.5V14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

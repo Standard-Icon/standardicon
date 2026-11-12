@@ -1,0 +1,26 @@
+{
+  "name": "paper-lantern",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:29697",
+  "keywords": [
+    "lunar",
+    "new",
+    "year",
+    "chinese",
+    "festival",
+    "diwali",
+    "mid-autumn",
+    "holiday"
+  ],
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "lucide": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "distribute-start-vertical",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23003",
+  "compare": {
+    "carbon": "distribute-vertical-top",
+    "lucide": "align-vertical-distribute-start",
+    "material": "vertical-distribute",
+    "sf": "distribute.vertical",
+    "tabler": "layout-distribute-vertical"
+  }
+}

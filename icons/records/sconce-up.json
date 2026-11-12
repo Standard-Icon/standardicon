@@ -1,0 +1,26 @@
+{
+  "name": "sconce-up",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26354",
+  "looks": "A wall bracket on the left with an open cup-shaped shade that is wider at the top.",
+  "use": "Use for a wall light shining up.",
+  "approved": {
+    "at": "2026-11-11T19:15:36.468Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "lamp-wall-up",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

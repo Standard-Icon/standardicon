@@ -1,0 +1,28 @@
+{
+  "name": "heart-crack",
+  "status": "active",
+  "parent": "heart",
+  "canonical": "heart",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:24331",
+  "looks": "A heart with a zigzag crack running down its middle.",
+  "use": "Use for heartbreak, a dislike, or a lost favorite.",
+  "keywords": [
+    "heart broken"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "heart-crack",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

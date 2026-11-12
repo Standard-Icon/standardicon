@@ -1,0 +1,17 @@
+{
+ "name": "armchair",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M3.5 8V5C3.5 4.47 3.711 3.961 4.086 3.586C4.461 3.211 4.97 3 5.5 3H10.5C11.03 3 11.539 3.211 11.914 3.586C12.289 3.961 12.5 4.47 12.5 5V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 8.5C2.5 8.235 2.605 7.98 2.793 7.793C2.98 7.605 3.235 7.5 3.5 7.5C3.765 7.5 4.02 7.605 4.207 7.793C4.395 7.98 4.5 8.235 4.5 8.5V10H11.5V8.5C11.5 8.235 11.605 7.98 11.793 7.793C11.98 7.605 12.235 7.5 12.5 7.5C12.765 7.5 13.02 7.605 13.207 7.793C13.395 7.98 13.5 8.235 13.5 8.5V12.5H2.5V8.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 12.5V13.5M12 12.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M3.5 7.5V4.5C3.5 3.97 3.711 3.461 4.086 3.086C4.461 2.711 4.97 2.5 5.5 2.5H10.5C11.03 2.5 11.539 2.711 11.914 3.086C12.289 3.461 12.5 3.97 12.5 4.5V7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 8C2.5 7.735 2.605 7.48 2.793 7.293C2.98 7.105 3.235 7 3.5 7C3.765 7 4.02 7.105 4.207 7.293C4.395 7.48 4.5 7.735 4.5 8V9.5H11.5V8C11.5 7.735 11.605 7.48 11.793 7.293C11.98 7.105 12.235 7 12.5 7C12.765 7 13.02 7.105 13.207 7.293C13.395 7.48 13.5 7.735 13.5 8V12H2.5V8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 12V13M12 12V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

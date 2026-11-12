@@ -1,0 +1,15 @@
+{
+  "name": "hdmi-port",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "devices",
+  "figmaId": "59:22340",
+  "looks": "A wide port shape with angled lower corners and a horizontal slot inside.",
+  "use": "Use for HDMI, video output, or display ports.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": "hdmi-port"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "laurel-wreath",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20605",
+  "looks": "Two curved laurel branches meeting at the bottom to form an open wreath.",
+  "use": "Use for honors, winners, or top achievements.",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "sf": "laurel.leading",
+    "tabler": "laurel-wreath"
+  }
+}

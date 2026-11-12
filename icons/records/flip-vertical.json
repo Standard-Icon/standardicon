@@ -1,0 +1,21 @@
+{
+  "name": "flip-vertical",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6271",
+  "looks": "Two triangles above and below a horizontal line, mirroring each other.",
+  "use": "Use for flipping vertically or mirroring top to bottom.",
+  "compare": {
+    "carbon": false,
+    "fluent": "flip-vertical",
+    "heroicons": false,
+    "lucide": "flip-vertical",
+    "material": false,
+    "phosphor": "flip-vertical",
+    "radix": false,
+    "sf": false,
+    "tabler": "flip-vertical"
+  }
+}

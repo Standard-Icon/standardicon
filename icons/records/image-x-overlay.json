@@ -1,0 +1,24 @@
+{
+  "name": "image-x-overlay",
+  "status": "active",
+  "parent": "image",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:19463",
+  "looks": "A picture frame with mountains and a sun, and a small rounded square holding an x overlapping its lower right.",
+  "use": "Use for removing an image or a failed image.",
+  "formerNames": [
+    "image-x"
+  ],
+  "approved": {
+    "at": "2026-11-12T01:53:23.297Z",
+    "by": "morgan",
+    "version": "2026-11-11T09:46:49.583Z"
+  },
+  "compare": {
+    "heroicons": false,
+    "radix": false,
+    "sf": false
+  }
+}

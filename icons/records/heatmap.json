@@ -1,0 +1,11 @@
+{
+  "name": "heatmap",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6552",
+  "looks": "A rounded square with four small filled squares scattered across it in a checker pattern.",
+  "use": "Use for heatmaps, density, or activity grids.",
+  "fillApproved": true
+}

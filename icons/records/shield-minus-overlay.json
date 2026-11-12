@@ -1,0 +1,19 @@
+{
+  "name": "shield-minus-overlay",
+  "status": "active",
+  "parent": "shield",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:21557",
+  "looks": "A shield with a small rounded square holding a minus sign at the lower right.",
+  "use": "Use for reduced protection or removing a security rule.",
+  "formerNames": [
+    "shield-minus"
+  ],
+  "compare": {
+    "lucide": "shield-minus",
+    "sf": false,
+    "tabler": "shield-minus"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "panel-left-dashed",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27529",
+  "looks": "A rounded rectangle with a vertical dashed line near the left edge.",
+  "use": "Use for a left sidebar or panel.",
+  "compare": {
+    "carbon": "open-panel-left",
+    "fluent": "panel-left",
+    "lucide": "panel-left-dashed",
+    "material": "left-panel-open",
+    "radix": "panel-left",
+    "sf": false,
+    "tabler": false
+  }
+}

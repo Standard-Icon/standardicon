@@ -1,0 +1,11 @@
+{
+ "name": "database-zap-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M13.499 4.207C13.499 5.045 10.932 5.914 7.999 5.914C5.066 5.914 2.499 5.045 2.499 4.207C2.499 3.369 5.066 2.5 7.999 2.5C10.932 2.5 13.499 3.369 13.499 4.207Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.999 9.707C5.066 9.707 2.499 8.838 2.499 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.499 4.207V7.81M7.78 13.498C4.939 13.457 2.499 12.61 2.499 11.793V4.207\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.38 9.5L10.22 12.02H13.28L11.12 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

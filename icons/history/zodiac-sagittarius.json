@@ -1,0 +1,11 @@
+{
+ "name": "zodiac-sagittarius",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M3 13L13 3M4 8L8 12M13 7.5V3H8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

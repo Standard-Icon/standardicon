@@ -1,0 +1,17 @@
+{
+ "name": "chevrons-down",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4 4.6L8 7.2L12 4.6M4 8.8L8 11.4L12 8.8\" stroke=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-07T19:08:10-08:00",
+   "source": "git 5279fa2",
+   "released": true,
+   "body": "<path d=\"M4 4.6L8 7.2L12 4.6M4 8.8L8 11.4L12 8.8\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

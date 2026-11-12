@@ -1,0 +1,13 @@
+{
+  "name": "save-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27685",
+  "looks": "A floppy disk with a small x cut into its lower right corner.",
+  "use": "Use for a failed save or discard changes.",
+  "compare": {
+    "heroicons": false,
+    "radix": false,
+    "sf": false
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "police-badge",
+  "status": "active",
+  "canonical": "star",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Legal",
+  "figmaId": "82:28328",
+  "looks": "A shield-shaped badge with a star in the middle.",
+  "use": "Use for police, law enforcement, or security.",
+  "compare": {
+    "carbon": "police",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "badge",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

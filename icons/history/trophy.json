@@ -1,0 +1,11 @@
+{
+ "name": "trophy",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M5 2.5H11V7C11 7.796 10.684 8.559 10.121 9.121C9.559 9.684 8.796 10 8 10C7.204 10 6.441 9.684 5.879 9.121C5.316 8.559 5 7.796 5 7V2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 3.5H2.75V5C2.75 5.597 2.987 6.169 3.409 6.591C3.831 7.013 4.403 7.25 5 7.25M11 3.5H13.25V5C13.25 5.597 13.013 6.169 12.591 6.591C12.169 7.013 11.597 7.25 11 7.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 10V13M5.5 13.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

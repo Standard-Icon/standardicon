@@ -1,0 +1,11 @@
+{
+ "name": "star-check-overlay",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M9.55 12.658L8 11.922L4.205 13.724L4.745 9.558L1.859 6.505L5.989 5.731L8 2.043L10.012 5.731L14.141 6.505L11.263 9.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11 12.172L11.938 13.109L13.5 11.391\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "calendar-check-integrated",
+  "status": "active",
+  "parent": "calendar",
+  "canonical": "calendar",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7113",
+  "looks": "A calendar page with two rings at the top and a checkmark in the middle of the body.",
+  "use": "Use for a confirmed event, a completed day, or attendance.",
+  "formerNames": [
+    "calendar-check"
+  ],
+  "keywords": [
+    "booked",
+    "confirmed"
+  ],
+  "compare": {
+    "fluent": "calendar-checkmark",
+    "lucide": "calendar-check",
+    "material": "calendar-check",
+    "phosphor": "calendar-check",
+    "sf": "calendar.badge.checkmark",
+    "tabler": "calendar-check"
+  }
+}

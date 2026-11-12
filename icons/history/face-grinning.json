@@ -1,0 +1,11 @@
+{
+ "name": "face-grinning",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"5.6\" stroke=\"currentColor\"/><circle cx=\"6\" cy=\"6.74\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"10\" cy=\"6.74\" r=\"0.6\" fill=\"currentColor\"/><path d=\"M5 9.5H11C11 10.75 9.66 11.5 8 11.5C6.34 11.5 5 10.75 5 9.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

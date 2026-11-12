@@ -1,0 +1,22 @@
+{
+  "name": "battery-medium",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "settings",
+  "figmaId": "58:22106",
+  "looks": "A horizontal battery outline filled partway from the left, with a small terminal on the right.",
+  "use": "Use for a medium battery level.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": "battery-half",
+    "fluent": false,
+    "heroicons": "battery-50",
+    "lucide": "battery-medium",
+    "material": "battery-3-bar",
+    "octicons": false,
+    "phosphor": "battery-medium",
+    "sf": "battery.50percent",
+    "tabler": "battery-2"
+  }
+}

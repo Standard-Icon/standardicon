@@ -1,0 +1,12 @@
+{
+  "name": "lighthouse",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26607",
+  "compare": {
+    "fluent": "building-lighthouse",
+    "lucide": "lighthouse",
+    "phosphor": "lighthouse",
+    "tabler": "building-lighthouse"
+  }
+}

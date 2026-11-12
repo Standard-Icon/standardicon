@@ -1,0 +1,12 @@
+{
+  "name": "kayak",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20515",
+  "compare": {
+    "lucide": "kayak",
+    "tabler": "kayak"
+  }
+}

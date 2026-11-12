@@ -1,0 +1,18 @@
+{
+  "name": "git-pull-request-closed",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26246",
+  "looks": "Two vertical lines with circles at each end and an x above the right line.",
+  "use": "Use for closed pull requests or rejected changes.",
+  "compare": {
+    "carbon": false,
+    "fluent": "branch-request-closed",
+    "iconic": false,
+    "lucide": "git-pull-request-closed",
+    "material": false,
+    "octicons": "git-pull-request-closed",
+    "phosphor": false,
+    "tabler": "git-pull-request-closed"
+  }
+}

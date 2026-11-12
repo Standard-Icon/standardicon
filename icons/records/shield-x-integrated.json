@@ -1,0 +1,23 @@
+{
+  "name": "shield-x-integrated",
+  "status": "active",
+  "parent": "shield",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:21589",
+  "looks": "A shield with a small x inside it.",
+  "use": "Use for blocked, unprotected, or failed security checks.",
+  "formerNames": [
+    "shield-x"
+  ],
+  "compare": {
+    "fluent": "shield-dismiss",
+    "heroicons": false,
+    "lucide": "shield-x",
+    "octicons": "shield-x",
+    "radix": false,
+    "sf": "xmark.shield",
+    "tabler": "shield-x"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "refresh-settings",
+  "status": "planned",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Settings and controls",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "in Figma, outside the frames"
+    }
+  ]
+}

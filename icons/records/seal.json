@@ -1,0 +1,15 @@
+{
+  "name": "seal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Legal",
+  "figmaId": "82:28233",
+  "looks": "A scalloped circle with an inner circle, like a stamped badge.",
+  "use": "Use for an official seal, certification, or approval.",
+  "compare": {
+    "lucide": false,
+    "phosphor": "seal",
+    "sf": "seal"
+  }
+}

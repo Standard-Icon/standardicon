@@ -1,0 +1,12 @@
+{
+  "name": "jacket",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21998",
+  "compare": {
+    "sf": "jacket",
+    "tabler": "jacket"
+  }
+}

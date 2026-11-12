@@ -1,0 +1,20 @@
+{
+  "name": "transgender",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:23232",
+  "looks": "A circle with a cross below and two arrows at the upper left and upper right, the left one crossed by a short bar.",
+  "use": "Use for transgender identity or gender options.",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "carbon": "transgender",
+    "lucide": "transgender",
+    "material": "transgender",
+    "phosphor": "gender-transgender",
+    "tabler": "gender-transgender"
+  }
+}

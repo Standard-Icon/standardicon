@@ -1,0 +1,14 @@
+{
+  "name": "coat",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21970",
+  "looks": "A long coat with a raised collar, a center opening, and sleeves at the sides.",
+  "use": "Use for coats, outerwear, or a coat check.",
+  "compare": {
+    "phosphor": false,
+    "sf": "coat"
+  }
+}

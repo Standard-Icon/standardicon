@@ -1,0 +1,17 @@
+{
+  "name": "callout",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:32204",
+  "looks": "A rounded rectangle with a vertical bar on the left and two short lines of text beside it.",
+  "use": "Use for callouts, notes, or highlighted blocks.",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "text"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "calendar-plus-integrated",
+  "status": "active",
+  "parent": "calendar",
+  "canonical": "calendar",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7087",
+  "looks": "A calendar page with two rings at the top and a plus sign in the middle of the body.",
+  "use": "Use for adding an event or scheduling something.",
+  "formerNames": [
+    "calendar-plus"
+  ],
+  "keywords": [
+    "new event",
+    "add date"
+  ],
+  "compare": {
+    "carbon": "calendar-add",
+    "fluent": "calendar-add",
+    "lucide": "calendar-plus",
+    "material": "calendar-add-on",
+    "phosphor": "calendar-plus",
+    "sf": "calendar.badge.plus",
+    "tabler": "calendar-plus"
+  },
+  "compareAlso": {
+    "lucide": [
+      "calendar-plus-2"
+    ]
+  }
+}

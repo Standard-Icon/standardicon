@@ -1,0 +1,13 @@
+{
+  "name": "inhaler",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:22393",
+  "looks": "An L shaped inhaler with a mouthpiece at the bottom and a canister at the top.",
+  "use": "Use for asthma, inhalers, or respiratory medicine.",
+  "compare": {
+    "sf": "inhaler"
+  }
+}

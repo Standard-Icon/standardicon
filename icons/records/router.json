@@ -1,0 +1,15 @@
+{
+  "name": "router",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:3086",
+  "compare": {
+    "carbon": "router",
+    "lucide": "router",
+    "material": "router",
+    "sf": "wifi.router",
+    "tabler": "router"
+  }
+}

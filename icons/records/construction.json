@@ -1,0 +1,15 @@
+{
+  "name": "construction",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "life",
+  "figmaId": "59:22647",
+  "looks": "A road barrier with diagonal stripes across the top board, standing on two legs with feet.",
+  "use": "Use for under construction, roadwork, or work in progress.",
+  "compare": {
+    "carbon": "construction",
+    "lucide": "construction",
+    "material": "construction"
+  }
+}

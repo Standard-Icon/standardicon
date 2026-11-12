@@ -1,0 +1,8 @@
+{
+  "name": "swap-horizontal",
+  "status": "covered",
+  "coveredBy": "switch",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows"
+}

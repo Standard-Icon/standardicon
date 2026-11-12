@@ -1,0 +1,17 @@
+{
+ "name": "megaphone",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3 6.5V9.5H5L12.5 12.5V3.5L5 6.5H3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 9.75L6.5 13H8L7.25 10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.5 6.5C12.898 6.5 13.279 6.658 13.561 6.939C13.842 7.221 14 7.602 14 8C14 8.398 13.842 8.779 13.561 9.061C13.279 9.342 12.898 9.5 12.5 9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M6.04 9.023C4.929 9.023 4.186 9.023 3.689 9.023C3.137 9.023 2.689 8.575 2.689 8.023V5.665C2.689 5.113 3.132 4.665 3.684 4.665C4.182 4.665 4.927 4.665 6.04 4.665C8.157 4.665 10.323 3.873 11.734 3.229C12.443 2.905 13.313 3.413 13.313 4.193V9.568C13.313 10.332 12.482 10.834 11.785 10.523C10.315 9.869 8.031 9.023 6.04 9.023Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.677 9.025C3.677 9.025 5.457 9.85 6.218 10.788C6.757 11.451 7.139 12.606 7.312 13.203C7.376 13.425 7.578 13.584 7.809 13.584H8.559C8.848 13.584 9.076 13.34 9.049 13.052C9.004 12.557 8.923 11.83 8.806 11.378C8.615 10.643 8.068 9.412 8.068 9.412\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.113 4.766V8.822\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "opacity",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6575",
+  "looks": "A circle split along a diagonal, one half solid and the other half empty.",
+  "use": "Use for opacity, transparency, or contrast.",
+  "keywords": [
+    "transparency",
+    "alpha"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.345Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "opacity",
+    "lucide": "opacity",
+    "material": "opacity",
+    "radix": "opacity",
+    "tabler": "opacity"
+  }
+}

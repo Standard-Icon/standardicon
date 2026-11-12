@@ -1,0 +1,17 @@
+{
+ "name": "bezier",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.5 11C4 7 7 4 11 3.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 11H4.5C4.633 11 4.76 11.053 4.854 11.146C4.947 11.24 5 11.367 5 11.5V13.5C5 13.633 4.947 13.76 4.854 13.854C4.76 13.947 4.633 14 4.5 14H2.5C2.367 14 2.24 13.947 2.146 13.854C2.053 13.76 2 13.633 2 13.5V11.5C2 11.367 2.053 11.24 2.146 11.146C2.24 11.053 2.367 11 2.5 11Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.5 2H13.5C13.633 2 13.76 2.053 13.854 2.146C13.947 2.24 14 2.367 14 2.5V4.5C14 4.633 13.947 4.76 13.854 4.854C13.76 4.947 13.633 5 13.5 5H11.5C11.367 5 11.24 4.947 11.146 4.854C11.053 4.76 11 4.633 11 4.5V2.5C11 2.367 11.053 2.24 11.146 2.146C11.24 2.053 11.367 2 11.5 2Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T19:08:10-08:00",
+   "source": "git 5279fa2",
+   "released": true,
+   "body": "<path d=\"M3.5 11C4 7 7 4 11 3.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"2\" y=\"11\" width=\"3\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"11\" y=\"2\" width=\"3\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

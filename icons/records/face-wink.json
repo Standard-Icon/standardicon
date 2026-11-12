@@ -1,0 +1,31 @@
+{
+  "name": "face-wink",
+  "status": "active",
+  "canonical": "face",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:5148",
+  "looks": "A circle face with one dot eye, one short line eye, and a smile.",
+  "use": "Use for playful, joking, or friendly reactions.",
+  "keywords": [
+    "emoji"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.103Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "face-wink",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "scan-face",
+    "material": false,
+    "phosphor": "smiley-wink",
+    "radix": false,
+    "sf": false,
+    "tabler": "mood-wink"
+  }
+}

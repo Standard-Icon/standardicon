@@ -1,0 +1,18 @@
+{
+  "name": "package-plus-overlay",
+  "status": "active",
+  "parent": "package",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "56:22325",
+  "looks": "A box with a slanted lid and a small rounded square holding a plus at its lower right.",
+  "use": "Use for adding a package or installing.",
+  "formerNames": [
+    "package-plus"
+  ],
+  "compare": {
+    "lucide": "package-plus",
+    "sf": false
+  }
+}

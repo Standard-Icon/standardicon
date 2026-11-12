@@ -1,0 +1,16 @@
+{
+  "name": "panel-top-open",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27601",
+  "looks": "A rounded rectangle with a line near the top and a small downward chevron below it.",
+  "use": "Use for expanding or opening a top panel.",
+  "compare": {
+    "carbon": "open-panel-top",
+    "fluent": false,
+    "lucide": "panel-top-open",
+    "material": "top-panel-open",
+    "sf": false,
+    "tabler": "layout-navbar-expand"
+  }
+}

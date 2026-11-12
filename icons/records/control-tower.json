@@ -1,0 +1,23 @@
+{
+  "name": "control-tower",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20719",
+  "looks": "An airport tower with a wide, tapered cab on top of a narrow shaft with a base.",
+  "use": "Use for air traffic control, airports, or monitoring.",
+  "approved": {
+    "at": "2026-11-12T02:32:54.808Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "scis-control-tower",
+    "lucide": "tower-control",
+    "material": false,
+    "phosphor": "air-traffic-control",
+    "sf": false,
+    "tabler": "air-traffic-control"
+  }
+}

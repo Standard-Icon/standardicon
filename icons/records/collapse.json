@@ -1,0 +1,22 @@
+{
+  "name": "collapse",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "21:1723",
+  "looks": "Two diagonal arrows pointing in toward the center, one from the top right and one from the bottom left.",
+  "use": "Use for shrink, collapse, or exit a larger view.",
+  "keywords": [
+    "minimize",
+    "shrink"
+  ],
+  "compare": {
+    "carbon": "collapse-all",
+    "fluent": "text-collapse",
+    "lucide": "shrink",
+    "material": "collapse-all",
+    "octicons": false,
+    "tabler": false
+  }
+}

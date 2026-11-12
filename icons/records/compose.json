@@ -1,0 +1,21 @@
+{
+  "name": "compose",
+  "status": "active",
+  "canonical": "pencil",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "12:613",
+  "looks": "A rounded square open at the top right, with a pencil writing out of that corner.",
+  "use": "Use for compose, a new message, or write a post.",
+  "keywords": [
+    "write",
+    "new message"
+  ],
+  "compare": {
+    "fluent": "compose",
+    "lucide": "pen-square",
+    "octicons": "compose",
+    "sf": "square.and.pencil"
+  }
+}

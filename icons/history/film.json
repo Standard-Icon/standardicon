@@ -1,0 +1,29 @@
+{
+ "name": "film",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.5 2.5H12.5C12.765 2.5 13.02 2.605 13.207 2.793C13.395 2.98 13.5 3.235 13.5 3.5V12.5C13.5 12.765 13.395 13.02 13.207 13.207C13.02 13.395 12.765 13.5 12.5 13.5H3.5C3.235 13.5 2.98 13.395 2.793 13.207C2.605 13.02 2.5 12.765 2.5 12.5V3.5C2.5 3.235 2.605 2.98 2.793 2.793C2.98 2.605 3.235 2.5 3.5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 2.5V13.5M10.5 2.5V13.5M2.5 5.5H5.5M2.5 8H13.5M2.5 10.5H5.5M10.5 5.5H13.5M10.5 10.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5.5 2.5V13.5M10.5 2.5V13.5M2.5 5.5H5.5M2.5 8H13.5M2.5 10.5H5.5M10.5 5.5H13.5M10.5 10.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"11\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5.5 2.5V13.5M5.5 5.5H2.5M2.5 8H10.5V2.5M5.5 10.5H2.5M10.5 5.5H13.5M13.5 8H10.5V13.5M10.5 10.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:57:03-08:00",
+   "source": "git 08259f8",
+   "released": true,
+   "body": "<rect x=\"1.848\" y=\"2.625\" width=\"12.3047\" height=\"10.75\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.5 2.625V13.156\" stroke=\"currentColor\"/><path d=\"M11.5 2.625V13.156\" stroke=\"currentColor\"/><path d=\"M2.084 5.396H4.25\" stroke=\"currentColor\"/><path d=\"M11.678 5.396H13.844\" stroke=\"currentColor\"/><path d=\"M2.084 8.052H4.25\" stroke=\"currentColor\"/><path d=\"M11.678 8.052H13.844\" stroke=\"currentColor\"/><path d=\"M2.084 10.708H4.25\" stroke=\"currentColor\"/><path d=\"M11.678 10.708H13.844\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "volume",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "media",
+  "figmaId": "75:23875",
+  "looks": "A speaker pointing right with no sound waves beside it.",
+  "use": "Use for volume, audio, or sound settings.",
+  "compare": {
+    "carbon": "volume-up",
+    "lucide": "volume-2",
+    "material": "volume-up",
+    "sf": "speaker",
+    "tabler": "volume"
+  }
+}

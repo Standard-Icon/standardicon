@@ -1,0 +1,14 @@
+{
+  "name": "book-open-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28416",
+  "looks": "An open book with a small checkmark cut into the lower right.",
+  "use": "Use for finished reading or completed lessons.",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "book-open-check",
+    "phosphor": false
+  }
+}

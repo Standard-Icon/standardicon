@@ -1,0 +1,12 @@
+{
+  "name": "package-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28961",
+  "looks": "A box with a slanted lid and a small minus sign cut into its lower right.",
+  "use": "Use for removing a package or uninstalling.",
+  "compare": {
+    "lucide": "package-minus",
+    "sf": false
+  }
+}

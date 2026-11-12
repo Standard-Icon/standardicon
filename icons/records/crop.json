@@ -1,0 +1,24 @@
+{
+  "name": "crop",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6188",
+  "looks": "Two L-shaped corners overlapping to form a square, with their ends extending past it.",
+  "use": "Use for cropping an image or a frame.",
+  "keywords": [
+    "trim",
+    "resize"
+  ],
+  "compare": {
+    "carbon": "crop",
+    "fluent": "crop",
+    "lucide": "crop",
+    "material": "crop",
+    "phosphor": "crop",
+    "radix": "crop",
+    "sf": "crop",
+    "tabler": "crop"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "chevron-circle-down",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Chevrons and carets",
+  "figmaId": "27:3609",
+  "looks": "A down chevron inside a circle.",
+  "use": "Use for expand, show more, or a dropdown.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.417Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "chevron-circle-down",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle-chevron-down",
+    "material": "expand-circle-down",
+    "octicons": false,
+    "phosphor": "caret-circle-down",
+    "radix": false,
+    "sf": "chevron.down.circle",
+    "tabler": "circle-chevron-down"
+  }
+}

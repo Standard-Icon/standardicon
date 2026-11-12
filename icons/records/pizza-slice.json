@@ -1,0 +1,16 @@
+{
+  "name": "pizza-slice",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19956",
+  "looks": "A single slice pointing down with a crust along the top and three round toppings.",
+  "use": "Use for pizza, fast food, or a slice of something.",
+  "compare": {
+    "lucide": "pizza",
+    "material": "local-pizza",
+    "phosphor": "pizza",
+    "tabler": "pizza"
+  }
+}

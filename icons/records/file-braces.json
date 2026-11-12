@@ -1,0 +1,20 @@
+{
+  "name": "file-braces",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25709",
+  "looks": "A file with a folded top right corner and a pair of curly braces inside.",
+  "use": "Use for JSON, code or data files, or structured data.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "file-braces",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

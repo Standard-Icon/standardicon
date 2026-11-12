@@ -1,0 +1,19 @@
+{
+  "name": "audio-track",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26767",
+  "looks": "A rounded rectangle with a row of short vertical bars like a waveform inside.",
+  "use": "Use for an audio track, clip, or waveform.",
+  "compare": {
+    "carbon": false,
+    "lucide": "audio-waveform",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "track"
+  }
+}

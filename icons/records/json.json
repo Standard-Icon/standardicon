@@ -1,0 +1,16 @@
+{
+  "name": "json",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:5247",
+  "looks": "A pair of curly braces facing each other.",
+  "use": "Use for JSON, data objects, or code.",
+  "compare": {
+    "carbon": "json",
+    "lucide": "braces",
+    "material": "file-json",
+    "tabler": "json"
+  }
+}

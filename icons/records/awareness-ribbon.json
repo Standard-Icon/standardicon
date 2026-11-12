@@ -1,0 +1,16 @@
+{
+  "name": "awareness-ribbon",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "pick": "A",
+  "figmaId": "80:27364",
+  "compare": {
+    "fluent": "ribbon",
+    "lucide": "ribbon",
+    "material": false,
+    "sf": false,
+    "tabler": "ribbon-health"
+  }
+}

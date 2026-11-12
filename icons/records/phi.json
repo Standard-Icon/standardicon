@@ -1,0 +1,11 @@
+{
+  "name": "phi",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27366",
+  "looks": "The Greek letter phi, an oval crossed by a vertical line that extends above and below.",
+  "use": "Use for the golden ratio, phi, or angles.",
+  "compare": {
+    "lucide": "phi"
+  }
+}

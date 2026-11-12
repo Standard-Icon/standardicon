@@ -1,0 +1,22 @@
+{
+  "name": "witch-hat",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:29470",
+  "keywords": [
+    "halloween",
+    "magic",
+    "wizard",
+    "costume",
+    "spooky"
+  ],
+  "compare": {
+    "fluent": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

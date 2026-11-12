@@ -1,0 +1,17 @@
+{
+ "name": "nut",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M3.75 7.5C3.3 7.5 3 7.2 3 6.75C3 4.75 5.25 3.75 8 3.75C10.75 3.75 13 4.75 13 6.75C13 7.2 12.7 7.5 12.25 7.5H3.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 3.75V2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.25 7.5C4.25 10.25 4.858 13.5 8 13.5C11.142 13.5 11.75 10.25 11.75 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T07:31:59.776Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M3.75 8.125C3.3 8.125 3 7.825 3 7.375C3 5.375 3.75 3.75 8 3.75C12.25 3.75 13 5.375 13 7.375C13 7.825 12.7 8.125 12.25 8.125H3.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.999 3.75C7.999 3.75 7.726 1.462 9.374 1.462\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.814 8.451C3.814 14.707 6.987 14.253 8.001 15C9.09 14.168 12.187 14.433 12.187 8.451\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

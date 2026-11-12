@@ -1,0 +1,17 @@
+{
+  "name": "pedal",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:21337",
+  "looks": "A rounded pad with three horizontal grip lines on a short post over a flat base.",
+  "use": "Use for car pedals, accelerating, or braking.",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "material": false,
+    "sf": "pedal.brake"
+  }
+}

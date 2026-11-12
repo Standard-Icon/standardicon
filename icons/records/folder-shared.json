@@ -1,0 +1,28 @@
+{
+  "name": "folder-shared",
+  "status": "active",
+  "parent": "folder",
+  "canonical": "folder",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:5084",
+  "looks": "A closed folder with a person's head and shoulders in the middle.",
+  "use": "Use for shared folders, team files, or user directories.",
+  "keywords": [
+    "team",
+    "shared drive"
+  ],
+  "compare": {
+    "carbon": "folder-shared",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "folder-shared",
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

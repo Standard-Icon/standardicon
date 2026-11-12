@@ -1,0 +1,14 @@
+{
+  "name": "message-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27907",
+  "looks": "A rectangular speech bubble with a small checkmark cut into the lower right corner.",
+  "use": "Use for a read or delivered message, or a resolved comment.",
+  "compare": {
+    "fluent": "chat-checkmark",
+    "lucide": false,
+    "sf": "checkmark.message",
+    "tabler": "message-check"
+  }
+}

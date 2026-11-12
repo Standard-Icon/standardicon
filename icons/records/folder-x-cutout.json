@@ -1,0 +1,17 @@
+{
+  "name": "folder-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28335",
+  "looks": "A closed folder with a small x cut into the lower right corner.",
+  "use": "Use for deleting a folder or a missing directory.",
+  "compare": {
+    "fluent": "folder-dismiss",
+    "heroicons": false,
+    "lucide": "folder-x",
+    "octicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "folder-x"
+  }
+}

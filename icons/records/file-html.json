@@ -1,0 +1,30 @@
+{
+  "name": "file-html",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "255:19257",
+  "looks": "A page with a folded top right corner and the letters HTML at the bottom.",
+  "use": "Use for HTML files or web pages.",
+  "compare": {
+    "carbon": "html",
+    "iconic": false,
+    "lucide": false,
+    "material": "html",
+    "octicons": false,
+    "phosphor": "file-html",
+    "radix": false,
+    "sf": false,
+    "tabler": "file-type-html"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "file type, label in Polymath Display Bold"
+    }
+  ]
+}

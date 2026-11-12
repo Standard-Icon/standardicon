@@ -1,0 +1,14 @@
+{
+  "name": "helicopter",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20193",
+  "compare": {
+    "carbon": "helicopter",
+    "lucide": "helicopter",
+    "material": "helicopter",
+    "tabler": "helicopter"
+  }
+}

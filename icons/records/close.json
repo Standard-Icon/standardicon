@@ -1,0 +1,28 @@
+{
+  "name": "close",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "12:587",
+  "looks": "A single x made of two crossing diagonal lines.",
+  "use": "Use for close, dismiss, or cancel.",
+  "keywords": [
+    "x",
+    "cancel",
+    "dismiss",
+    "exit"
+  ],
+  "compare": {
+    "carbon": "close",
+    "fluent": "dismiss",
+    "heroicons": "x-mark",
+    "lucide": "x",
+    "material": "close",
+    "octicons": "x",
+    "phosphor": "x",
+    "radix": "cross-2",
+    "sf": "xmark",
+    "tabler": "x"
+  }
+}

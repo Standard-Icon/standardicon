@@ -1,0 +1,29 @@
+{
+  "name": "list-filter",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31604",
+  "looks": "Three centered horizontal lines, each shorter than the one above.",
+  "use": "Use for filtering a list or narrowing results.",
+  "compare": {
+    "carbon": "list",
+    "fluent": "list",
+    "heroicons": "queue-list",
+    "lucide": "list-filter",
+    "material": "filter-list",
+    "octicons": "filter",
+    "phosphor": "list",
+    "radix": "filter",
+    "sf": "line.3.horizontal.decrease",
+    "tabler": "list"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "actions"
+    }
+  ]
+}

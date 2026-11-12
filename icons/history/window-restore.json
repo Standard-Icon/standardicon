@@ -1,0 +1,11 @@
+{
+ "name": "window-restore",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M5.5 5.5V3.5C5.5 2.948 5.948 2.5 6.5 2.5H12.5C13.052 2.5 13.5 2.948 13.5 3.5V9.5C13.5 10.052 13.052 10.5 12.5 10.5H11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 4.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"2.5\" y=\"6.5\" width=\"7.5\" height=\"7\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.5 8.5H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

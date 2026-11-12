@@ -1,0 +1,21 @@
+{
+  "name": "move-up-right",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23369",
+  "looks": "A diagonal arrow pointing to the upper right, with a short bar across its tail at the lower left.",
+  "use": "Use for moving something toward the top right.",
+  "compare": {
+    "carbon": "arrow-up-right",
+    "fluent": false,
+    "heroicons": "arrow-up-right",
+    "lucide": "move-up-right",
+    "material": false,
+    "octicons": "arrow-up-right",
+    "phosphor": "arrow-up-right",
+    "sf": "arrow.up.right",
+    "tabler": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "face-grinning",
+  "status": "active",
+  "canonical": "face",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "People",
+  "figmaId": "273:23008",
+  "compare": {
+    "carbon": false,
+    "fluent": "emoji-laugh",
+    "heroicons": false,
+    "iconic": "emoji-happy",
+    "lucide": "face-grinning",
+    "material": false,
+    "octicons": "smiley-grin",
+    "phosphor": "smiley",
+    "radix": false,
+    "sf": false,
+    "tabler": "mood-happy"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "tornado",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24444",
+  "compare": {
+    "carbon": "tornado",
+    "lucide": "tornado",
+    "material": "tornado",
+    "phosphor": "tornado",
+    "sf": "tornado",
+    "tabler": "tornado"
+  }
+}

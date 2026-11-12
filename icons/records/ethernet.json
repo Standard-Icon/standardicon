@@ -1,0 +1,19 @@
+{
+  "name": "ethernet",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8544",
+  "looks": "A square with a stepped ethernet jack shape inside.",
+  "use": "Use for ethernet, wired networks, or LAN ports.",
+  "keywords": [
+    "lan",
+    "cable",
+    "network"
+  ],
+  "compare": {
+    "lucide": "ethernet-port",
+    "material": "settings-ethernet"
+  }
+}

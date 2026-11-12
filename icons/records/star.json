@@ -1,0 +1,28 @@
+{
+  "name": "star",
+  "status": "active",
+  "canonical": "star",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "solid": "needed",
+  "figmaId": "12:1559",
+  "looks": "A five-pointed star with rounded corners.",
+  "use": "Use for favorites, ratings, or bookmarks.",
+  "keywords": [
+    "favorite",
+    "rating"
+  ],
+  "compare": {
+    "carbon": "star",
+    "fluent": "star",
+    "heroicons": "star",
+    "lucide": "star",
+    "material": "star",
+    "octicons": "star",
+    "phosphor": "star",
+    "radix": "star",
+    "sf": "star",
+    "tabler": "star"
+  }
+}

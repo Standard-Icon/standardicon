@@ -1,0 +1,27 @@
+{
+  "name": "link",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "2:1246",
+  "looks": "Two rounded chain links joined horizontally with a short bar through the middle.",
+  "use": "Use for links, URLs, or attaching references.",
+  "keywords": [
+    "url",
+    "hyperlink",
+    "chain"
+  ],
+  "compare": {
+    "carbon": "link",
+    "fluent": "link",
+    "heroicons": "link",
+    "lucide": "link",
+    "material": "link",
+    "octicons": "link",
+    "phosphor": "link",
+    "radix": "link-1",
+    "sf": "link",
+    "tabler": "link"
+  }
+}

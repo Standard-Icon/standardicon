@@ -1,0 +1,23 @@
+{
+  "name": "first-aid",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8944",
+  "looks": "A case with a handle on top and a cross on the front.",
+  "use": "Use for first aid, medical kits, or emergencies.",
+  "keywords": [
+    "medical",
+    "emergency",
+    "kit"
+  ],
+  "compare": {
+    "carbon": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": "first-aid",
+    "sf": false,
+    "tabler": "first-aid-kit"
+  }
+}

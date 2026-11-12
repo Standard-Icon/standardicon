@@ -1,0 +1,20 @@
+{
+  "name": "wallet-minimal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21904",
+  "looks": "A plain rounded wallet with only a clasp tab on the right side.",
+  "use": "Use for a wallet or balance in compact spaces.",
+  "compare": {
+    "carbon": "wallet",
+    "fluent": "wallet",
+    "heroicons": "wallet",
+    "lucide": "wallet-minimal",
+    "material": "wallet",
+    "phosphor": "wallet",
+    "sf": "wallet.pass",
+    "tabler": "wallet"
+  }
+}

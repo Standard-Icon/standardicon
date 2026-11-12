@@ -1,0 +1,23 @@
+{
+  "name": "sidebar-left",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Navigation and layout",
+  "figmaId": "21:1618",
+  "looks": "A wide rounded rectangle with a narrow column divided off on the left.",
+  "use": "Use for a left sidebar or navigation panel.",
+  "compare": {
+    "carbon": false,
+    "fluent": "panel-left",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "panel-left",
+    "material": "view-sidebar",
+    "octicons": "sidebar-expand",
+    "phosphor": "sidebar",
+    "radix": "panel-left",
+    "sf": "sidebar.left",
+    "tabler": "layout-sidebar-left-expand"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "phi",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<ellipse rx=\"3.75\" ry=\"3\" cx=\"8\" cy=\"8\" stroke=\"currentColor\"/><path d=\"M8 2.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

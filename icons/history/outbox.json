@@ -1,0 +1,11 @@
+{
+ "name": "outbox",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M2.5 9.5H5.5L6.5 11.5H9.5L10.5 9.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 9.5V12C2.5 12.265 2.605 12.52 2.793 12.707C2.98 12.895 3.235 13 3.5 13H12.5C12.765 13 13.02 12.895 13.207 12.707C13.395 12.52 13.5 12.265 13.5 12V9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 8V2.5M10.25 4.75L8 2.5L5.75 4.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

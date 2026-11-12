@@ -1,0 +1,20 @@
+{
+  "name": "hard-drive-download-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26589",
+  "looks": "A hard drive with a small rounded square holding a down arrow overlapping its lower right.",
+  "use": "Use for downloading to a drive.",
+  "formerNames": [
+    "hard-drive-download"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "fluent": false,
+    "iconic": false,
+    "lucide": "hard-drive-download",
+    "material": false,
+    "phosphor": false,
+    "sf": false
+  }
+}

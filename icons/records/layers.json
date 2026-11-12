@@ -1,0 +1,31 @@
+{
+  "name": "layers",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6167",
+  "looks": "A diamond on top of two stacked chevron layers below it.",
+  "use": "Use for layers, stacking, or levels.",
+  "keywords": [
+    "stack",
+    "levels"
+  ],
+  "compare": {
+    "carbon": "layers",
+    "fluent": "stack",
+    "heroicons": "square-3-stack-3d",
+    "lucide": "layers",
+    "material": "layers",
+    "octicons": "stack",
+    "phosphor": "stack",
+    "radix": "layers",
+    "sf": "square.3.layers.3d",
+    "tabler": "stack"
+  },
+  "compareAlso": {
+    "lucide": [
+      "layers-2"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "window-minimize",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31391",
+  "looks": "A wide rounded rectangle with a top bar and a short dash in the middle of the body.",
+  "use": "Use for minimizing a window.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "window-minimize"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "navigation"
+    }
+  ]
+}

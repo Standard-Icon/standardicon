@@ -1,0 +1,17 @@
+{
+ "name": "bitcoin",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M5 3H9.25C9.847 3 10.419 3.237 10.841 3.659C11.263 4.081 11.5 4.653 11.5 5.25C11.5 5.847 11.263 6.419 10.841 6.841C10.419 7.263 9.847 7.5 9.25 7.5H5H10C10.729 7.5 11.429 7.79 11.945 8.305C12.46 8.821 12.75 9.521 12.75 10.25C12.75 10.979 12.46 11.679 11.945 12.195C11.429 12.71 10.729 13 10 13H5V3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 2V3M9 2V3M7 13V14M9 13V14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M8.25 7.5C8.847 7.5 9.419 7.263 9.841 6.841C10.263 6.419 10.5 5.847 10.5 5.25C10.5 4.653 10.263 4.081 9.841 3.659C9.419 3.237 8.847 3 8.25 3H4V7.5H9C9.729 7.5 10.429 7.79 10.945 8.305C11.46 8.821 11.75 9.521 11.75 10.25C11.75 10.979 11.46 11.679 10.945 12.195C10.429 12.71 9.729 13 9 13H4V7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 2V3M8 2V3M6 13V14M8 13V14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

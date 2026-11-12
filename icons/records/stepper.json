@@ -1,0 +1,22 @@
+{
+  "name": "stepper",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:32312",
+  "looks": "A filled dot joined by a line to two empty circles in a row.",
+  "use": "Use for multi-step progress or a stepper.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "sf": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "ui"
+    }
+  ]
+}

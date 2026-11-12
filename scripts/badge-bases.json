@@ -1,0 +1,3 @@
+{
+  "_note": "Base outlines for badge icons whose parent isn't an icon in the set, keyed by badge, then size. Read from the Body vectors in Figma. Remove an entry once its parent icon exists."
+}

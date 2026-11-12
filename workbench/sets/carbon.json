@@ -1,0 +1,28 @@
+{
+  "id": "carbon",
+  "title": "Carbon",
+  "kind": "svg",
+  "dir": ".workbench/sets/carbon",
+  "order": 4,
+  "off": true,
+  "color": "#ff832b",
+  "grid": 32,
+  "matchLine": false,
+  "license": "Apache-2.0",
+  "usage": "For comparing only. Downloaded into .workbench/sets/ with `npm run workbench:sets`, which git ignores. No set's geometry is ever traced.",
+  "words": {
+    "close": "close",
+    "x": "close",
+    "settings": "settings",
+    "trash": "trash-can",
+    "edit": "edit",
+    "person": "user",
+    "people": "user-multiple",
+    "bell": "notification",
+    "plus": "add",
+    "minus": "subtract",
+    "check": "checkmark",
+    "more": "overflow-menu-horizontal",
+    "heart": "favorite"
+  }
+}

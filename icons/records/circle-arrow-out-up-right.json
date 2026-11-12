@@ -1,0 +1,27 @@
+{
+  "name": "circle-arrow-out-up-right",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24026",
+  "looks": "A circle open at the upper right with a diagonal arrow pointing out toward that corner.",
+  "use": "Use for an external link, sharing, or sending out.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.525Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "arrow-circle-up-right",
+    "heroicons": false,
+    "lucide": "circle-arrow-out-up-right",
+    "material": false,
+    "octicons": false,
+    "phosphor": "arrow-circle-up-right",
+    "radix": false,
+    "sf": "arrow.up.right.circle",
+    "tabler": "arrow-up-right-circle"
+  }
+}

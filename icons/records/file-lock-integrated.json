@@ -1,0 +1,21 @@
+{
+  "name": "file-lock-integrated",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:4696",
+  "looks": "A page with a folded top right corner and a padlock in the middle.",
+  "use": "Use for locked, private, or confidential documents.",
+  "formerNames": [
+    "file-lock"
+  ],
+  "compare": {
+    "lucide": "file-lock",
+    "phosphor": "file-lock",
+    "sf": "lock.document",
+    "tabler": "file-lock"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "flip-horizontal",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6245",
+  "looks": "Two triangles facing each other on either side of a vertical line, like a mirror.",
+  "use": "Use for flipping horizontally or mirroring left to right.",
+  "compare": {
+    "carbon": false,
+    "fluent": "flip-horizontal",
+    "heroicons": false,
+    "iconic": "flip-horizontally",
+    "lucide": "flip-horizontal",
+    "material": "flip",
+    "octicons": false,
+    "phosphor": "flip-horizontal",
+    "radix": false,
+    "sf": false,
+    "tabler": "flip-horizontal"
+  }
+}

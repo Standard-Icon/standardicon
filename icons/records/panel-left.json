@@ -1,0 +1,9 @@
+{
+  "name": "panel-left",
+  "status": "covered",
+  "coveredBy": "sidebar-left",
+  "source": "lucide",
+  "compare": {
+    "lucide": "panel-left"
+  }
+}

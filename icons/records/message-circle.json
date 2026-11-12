@@ -1,0 +1,14 @@
+{
+  "name": "message-circle",
+  "status": "dropped",
+  "coveredBy": "message-oval",
+  "source": "later",
+  "wave": "W5",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "removed: the oval (`message-oval`) is the round bubble"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "zodiac-sagittarius",
+  "status": "active",
+  "source": "later",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22833",
+  "looks": "A diagonal arrow pointing up and to the right with a short crossbar near its tail.",
+  "use": "Use for Sagittarius, astrology, or horoscopes.",
+  "compare": {
+    "lucide": "zodiac-sagittarius",
+    "tabler": "zodiac-sagittarius"
+  }
+}

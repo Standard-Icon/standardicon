@@ -1,0 +1,15 @@
+{
+  "name": "fishing-hook",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21139",
+  "looks": "A fishing hook with a small eye at the top and a barbed curve at the bottom.",
+  "use": "Use for fishing, hooks, or catching.",
+  "compare": {
+    "lucide": "fishing-hook",
+    "sf": false,
+    "tabler": "fish-hook"
+  }
+}

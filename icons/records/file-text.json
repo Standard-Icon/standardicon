@@ -1,0 +1,24 @@
+{
+  "name": "file-text",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Files and folders",
+  "figmaId": "23:2436",
+  "looks": "A page with a folded top right corner and two horizontal lines of text in the middle.",
+  "use": "Use for text documents, notes, or articles.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "document-text",
+    "lucide": "file-text",
+    "material": false,
+    "octicons": false,
+    "phosphor": "file-text",
+    "radix": "file-text",
+    "sf": "text.document",
+    "tabler": "file-text"
+  }
+}

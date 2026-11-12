@@ -1,0 +1,17 @@
+{
+ "name": "wallet",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.5 4.5H12.5C12.765 4.5 13.02 4.605 13.207 4.793C13.395 4.98 13.5 5.235 13.5 5.5V12.5C13.5 12.765 13.395 13.02 13.207 13.207C13.02 13.395 12.765 13.5 12.5 13.5H3.5C3.235 13.5 2.98 13.395 2.793 13.207C2.605 13.02 2.5 12.765 2.5 12.5V5.5C2.5 5.235 2.605 4.98 2.793 4.793C2.98 4.605 3.235 4.5 3.5 4.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 4.5L10.5 2.75C10.65 2.711 10.808 2.708 10.96 2.74C11.112 2.773 11.254 2.84 11.375 2.937C11.497 3.034 11.594 3.158 11.659 3.299C11.724 3.441 11.755 3.595 11.75 3.75V4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.5 7.5H10.75C10.352 7.5 9.971 7.658 9.689 7.939C9.408 8.221 9.25 8.602 9.25 9C9.25 9.398 9.408 9.779 9.689 10.061C9.971 10.342 10.352 10.5 10.75 10.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"4.5\" width=\"11\" height=\"9\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.149 4.556L9.649 2.806C9.8 2.767 9.957 2.764 10.109 2.797C10.261 2.829 10.403 2.896 10.525 2.994C10.646 3.091 10.743 3.215 10.808 3.356C10.873 3.497 10.904 3.651 10.899 3.806V4.322\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.5 7.5H10.75C10.352 7.5 9.971 7.658 9.689 7.939C9.408 8.221 9.25 8.602 9.25 9C9.25 9.398 9.408 9.779 9.689 10.061C9.971 10.342 10.352 10.5 10.75 10.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

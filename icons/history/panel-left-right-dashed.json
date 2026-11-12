@@ -1,0 +1,11 @@
+{
+ "name": "panel-left-right-dashed",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3.5\" width=\"11\" height=\"9\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6 4.5V5.5M6 7.5V8.5M6 10.5V11.5M10 4.5V5.5M10 7.5V8.5M10 10.5V11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

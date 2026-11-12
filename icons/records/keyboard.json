@@ -1,0 +1,24 @@
+{
+  "name": "keyboard",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Settings and controls",
+  "figmaId": "23:2609",
+  "looks": "A wide rectangle with a row of short key dashes and a long space bar below.",
+  "use": "Use for keyboards, typing, or keyboard shortcuts.",
+  "keywords": [
+    "type",
+    "shortcut"
+  ],
+  "compare": {
+    "carbon": "keyboard",
+    "fluent": "keyboard",
+    "lucide": "keyboard",
+    "material": "keyboard",
+    "phosphor": "keyboard",
+    "radix": "keyboard",
+    "sf": "keyboard",
+    "tabler": "keyboard"
+  }
+}

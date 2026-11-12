@@ -1,0 +1,11 @@
+{
+ "name": "american-football",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M12.243 2.276C5.655 1.396 1.393 5.658 2.273 12.246C2.375 13.015 2.981 13.621 3.75 13.724C10.338 14.603 14.6 10.341 13.721 3.753C13.618 2.984 13.012 2.378 12.243 2.276Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.064 12.934L12.957 3.042\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.9 8.7L7.3 10.1M7.3 7.3L8.7 8.7M8.7 5.9L10.1 7.3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

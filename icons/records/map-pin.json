@@ -1,0 +1,31 @@
+{
+  "name": "map-pin",
+  "status": "active",
+  "canonical": "map-pin",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:6958",
+  "looks": "A teardrop location pin with a small circle inside.",
+  "use": "Use for a location, a place, or an address.",
+  "keywords": [
+    "location",
+    "place",
+    "marker",
+    "address",
+    "gps"
+  ],
+  "compare": {
+    "carbon": "location",
+    "fluent": "location",
+    "heroicons": "map-pin",
+    "iconic": "pin",
+    "lucide": "map-pin",
+    "material": "location-on",
+    "octicons": "pin",
+    "phosphor": "map-pin",
+    "radix": false,
+    "sf": "mappin",
+    "tabler": "map-pin"
+  }
+}

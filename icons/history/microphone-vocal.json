@@ -1,0 +1,23 @@
+{
+ "name": "microphone-vocal",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"10.25\" cy=\"5.75\" r=\"3.25\" stroke=\"currentColor\"/><path d=\"M7.75 7.25L2.75 12L4 13.25L8.75 8.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T01:06:15.657Z",
+   "source": "figma (before redraw, not importable)",
+   "released": false,
+   "body": "<circle cx=\"10.4141\" cy=\"5.58376\" r=\"3.00556\" transform=\"rotate(45 10.4141 5.58376)\" stroke=\"currentColor\"/><rect x=\"8.64453\" y=\"2.81934\" width=\"6.41187\" height=\"1.522\" rx=\"0.5\" transform=\"rotate(45 8.64453 2.81934)\" fill=\"white\" stroke=\"currentColor\"/><path d=\"M7.35352 5.85986L2.96666 11.4236C2.80976 11.6226 2.82655 11.9076 3.00575 12.0868L3.91143 12.9925C4.09063 13.1716 4.37556 13.1884 4.57457 13.0315L10.1383 8.64468\" stroke=\"currentColor\"/><circle cx=\"6.92383\" cy=\"9.07522\" r=\"0.331648\" transform=\"rotate(45 6.92383 9.07522)\" fill=\"black\"/>"
+  },
+  {
+   "at": "2026-11-11T01:08:13.918Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8.846 3.02C9.303 2.74 9.84 2.578 10.415 2.578C12.075 2.578 13.421 3.924 13.421 5.584C13.421 6.159 13.259 6.696 12.979 7.153\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.88 8.208C11.446 8.451 10.946 8.589 10.413 8.589C8.753 8.589 7.408 7.244 7.408 5.584C7.408 5.051 7.546 4.551 7.789 4.117\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.999 3.173L12.825 6.999C13.021 7.195 13.02 7.511 12.825 7.706L12.456 8.075C12.261 8.271 11.944 8.271 11.749 8.075L7.922 4.249C7.727 4.053 7.727 3.737 7.922 3.542L8.292 3.173C8.487 2.978 8.803 2.977 8.999 3.173Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.354 5.86L2.967 11.424C2.81 11.623 2.827 11.908 3.006 12.087L3.912 12.992C4.091 13.172 4.376 13.188 4.575 13.032L10.138 8.645\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"6.923\" cy=\"9.075\" r=\"0.331648\" fill=\"currentColor\"/>"
+  }
+ ]
+}

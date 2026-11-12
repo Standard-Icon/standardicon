@@ -1,0 +1,21 @@
+{
+  "name": "wallet-cards",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "figmaId": "81:27551",
+  "looks": "A wallet with a clasp tab on the right and a card peeking out of the top.",
+  "use": "Use for saved cards, payment methods, or a wallet.",
+  "compare": {
+    "carbon": false,
+    "fluent": "wallet-credit-card",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "wallet-cards",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

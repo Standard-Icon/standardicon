@@ -1,0 +1,19 @@
+{
+  "name": "bell-minus-overlay",
+  "status": "active",
+  "parent": "bell",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "56:20102",
+  "looks": "A bell with a small rounded square holding a minus overlapping its lower right.",
+  "use": "Use for unsubscribing or removing a reminder.",
+  "formerNames": [
+    "bell-minus"
+  ],
+  "compare": {
+    "lucide": "bell-minus",
+    "sf": false,
+    "tabler": "bell-minus"
+  }
+}

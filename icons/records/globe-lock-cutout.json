@@ -1,0 +1,12 @@
+{
+  "name": "globe-lock-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28860",
+  "looks": "A globe with a small padlock cut into its lower right edge.",
+  "use": "Use for a secure connection, HTTPS, or private sites.",
+  "compare": {
+    "lucide": "globe-lock",
+    "sf": false
+  }
+}

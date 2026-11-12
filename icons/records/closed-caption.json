@@ -1,0 +1,25 @@
+{
+  "name": "closed-caption",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24748",
+  "looks": "A rounded rectangle with the letters CC inside.",
+  "use": "Use for captions, subtitles, or accessibility text on video.",
+  "approved": {
+    "at": "2026-11-10T22:31:33.676Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "closed-caption",
+    "fluent": "closed-caption",
+    "heroicons": false,
+    "lucide": "closed-caption",
+    "material": "closed-caption",
+    "octicons": false,
+    "phosphor": "closed-captioning",
+    "radix": false,
+    "sf": "captions.bubble",
+    "tabler": "badge-cc"
+  }
+}

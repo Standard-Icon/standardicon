@@ -1,0 +1,22 @@
+{
+  "name": "panel-top",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Navigation and layout",
+  "figmaId": "30:3191",
+  "looks": "A wide rounded rectangle with an empty band across the top.",
+  "use": "Use for a top panel, a header, or a toolbar area.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "panel-top",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "layout-navbar"
+  }
+}

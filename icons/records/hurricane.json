@@ -1,0 +1,14 @@
+{
+  "name": "hurricane",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20347",
+  "compare": {
+    "carbon": "hurricane",
+    "lucide": false,
+    "phosphor": "hurricane",
+    "sf": "hurricane"
+  }
+}

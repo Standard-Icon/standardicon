@@ -1,0 +1,19 @@
+{
+  "name": "fuel",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7259",
+  "looks": "A gas pump with a window near the top and a hose curving down its right side.",
+  "use": "Use for fuel, gas stations, or refueling.",
+  "keywords": [
+    "gas",
+    "petrol"
+  ],
+  "compare": {
+    "carbon": false,
+    "lucide": "fuel",
+    "sf": false
+  }
+}

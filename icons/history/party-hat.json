@@ -1,0 +1,17 @@
+{
+ "name": "party-hat",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M7.6 4L3.25 13C3.1 13.3 3.3 13.5 3.6 13.5H12.4C12.7 13.5 12.9 13.3 12.75 13L8.4 4\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9 3C9 3.552 8.552 4 8 4C7.448 4 7 3.552 7 3C7 2.448 7.448 2 8 2C8.552 2 9 2.448 9 3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.15 7L10.85 9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.699 10L12.299 12.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T07:22:14.556Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M7.6 4L3.25 13C3.1 13.3 3.3 13.5 3.6 13.5C3.6 13.5 5.907 14.108 8 14.108C10.094 14.108 12.4 13.5 12.4 13.5C12.7 13.5 12.9 13.3 12.75 13L8.4 4\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9 3C9 3.552 8.552 4 8 4C7.448 4 7 3.552 7 3C7 2.448 7.448 2 8 2C8.552 2 9 2.448 9 3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.15 7L10.85 9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.699 10L12.299 12.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

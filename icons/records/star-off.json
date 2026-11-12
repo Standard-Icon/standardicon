@@ -1,0 +1,25 @@
+{
+  "name": "star-off",
+  "status": "active",
+  "parent": "star",
+  "canonical": "star",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "56:19162",
+  "looks": "A five-pointed star with a diagonal slash from lower left to upper right.",
+  "use": "Use for unfavorite, no rating, or favorites off.",
+  "compare": {
+    "carbon": false,
+    "fluent": "star-off",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "star-off",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "star.slash",
+    "tabler": "star-off"
+  }
+}

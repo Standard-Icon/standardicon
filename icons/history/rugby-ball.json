@@ -1,0 +1,11 @@
+{
+ "name": "rugby-ball",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M3.4 12.6C1.85 11.04 2.63 7.72 5.17 5.17C7.72 2.63 11.04 1.85 12.6 3.4C14.15 4.96 13.37 8.28 10.83 10.83C8.28 13.37 4.96 14.15 3.4 12.6Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.11 10.47C5.35 8.18 8.18 5.35 10.47 4.11M5.53 11.89C7.82 10.65 10.65 7.82 11.89 5.53\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

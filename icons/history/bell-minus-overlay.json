@@ -1,0 +1,11 @@
+{
+ "name": "bell-minus-overlay",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M12.511 9.55L12.03 8.747C11.96 8.63 11.92 8.497 11.92 8.361L11.92 6.569C11.92 4.217 10.46 2.426 8 2.426C5.54 2.426 4.08 4.217 4.08 6.569L4.08 8.361C4.08 8.497 4.04 8.63 3.97 8.747L3.08 10.232C2.78 10.732 3.14 11.368 3.73 11.368L9.55 11.368\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.55 12.32C9.296 12.967 8.666 13.426 7.93 13.426C6.97 13.426 6.19 12.645 6.19 11.683\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"9.55\" y=\"9.55\" width=\"5.40063\" height=\"5.40063\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M11.125 12.25H13.375\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

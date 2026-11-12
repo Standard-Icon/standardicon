@@ -1,0 +1,19 @@
+{
+  "name": "barometer",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:22286",
+  "looks": "A round gauge with tick marks around the top, a needle pointing up, and a short line below.",
+  "use": "Use for air pressure, gauges, or weather readings.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:21.334Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "sf": "barometer"
+  }
+}

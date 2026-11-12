@@ -1,0 +1,32 @@
+{
+  "name": "record",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "183:31562",
+  "looks": "A circle with a solid filled dot at its center.",
+  "use": "Use for recording or starting a capture.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.505Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "recording",
+    "fluent": "record",
+    "lucide": "circle-dot",
+    "material": "fiber-manual-record",
+    "phosphor": "record",
+    "sf": "record.circle",
+    "tabler": "player-record"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "audio"
+    }
+  ]
+}

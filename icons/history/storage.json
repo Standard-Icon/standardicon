@@ -1,0 +1,29 @@
+{
+ "name": "storage",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3.5 3H12.5C12.765 3 13.02 3.105 13.207 3.293C13.395 3.48 13.5 3.735 13.5 4V6.5C13.5 6.765 13.395 7.02 13.207 7.207C13.02 7.395 12.765 7.5 12.5 7.5H3.5C3.235 7.5 2.98 7.395 2.793 7.207C2.605 7.02 2.5 6.765 2.5 6.5V4C2.5 3.735 2.605 3.48 2.793 3.293C2.98 3.105 3.235 3 3.5 3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 8.5H12.5C12.765 8.5 13.02 8.605 13.207 8.793C13.395 8.98 13.5 9.235 13.5 9.5V12C13.5 12.265 13.395 12.52 13.207 12.707C13.02 12.895 12.765 13 12.5 13H3.5C3.235 13 2.98 12.895 2.793 12.707C2.605 12.52 2.5 12.265 2.5 12V9.5C2.5 9.235 2.605 8.98 2.793 8.793C2.98 8.605 3.235 8.5 3.5 8.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 5.25H9.5M6.5 10.75H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.486\" width=\"11\" height=\"4.5\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"2.5\" y=\"9.014\" width=\"11\" height=\"4.5\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.5 11.264H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 4.736H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<rect x=\"2.812\" y=\"2.797\" width=\"12.375\" height=\"5.0625\" rx=\"1.125\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"2.812\" y=\"10.141\" width=\"12.375\" height=\"5.0625\" rx=\"1.125\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M7.312 12.672H10.688\" stroke=\"currentColor\" stroke-width=\"1.125\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.312 5.328H10.688\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<rect x=\"3.125\" y=\"3.107\" width=\"13.75\" height=\"5.625\" rx=\"1.25\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"3.125\" y=\"11.268\" width=\"13.75\" height=\"5.625\" rx=\"1.25\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M8.125 14.08H11.875\" stroke=\"currentColor\" stroke-width=\"1.25\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.125 5.92H11.875\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<rect x=\"3.438\" y=\"3.418\" width=\"15.125\" height=\"6.1875\" rx=\"1.375\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"3.438\" y=\"12.395\" width=\"15.125\" height=\"6.1875\" rx=\"1.375\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M8.938 15.488H13.062\" stroke=\"currentColor\" stroke-width=\"1.375\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.938 6.512H13.062\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<rect x=\"3.75\" y=\"3.729\" width=\"16.5\" height=\"6.75\" rx=\"1.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"3.75\" y=\"13.521\" width=\"16.5\" height=\"6.75\" rx=\"1.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M9.75 16.896H14.25\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.75 7.104H14.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-08T12:57:03-08:00",
+   "source": "git 08259f8",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.486\" width=\"11\" height=\"4.5\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"2.5\" y=\"9.014\" width=\"11\" height=\"4.5\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M6.5 11.264H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 4.736H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "mail-search-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28095",
+  "looks": "A closed envelope with a small magnifying glass cut into its lower right corner.",
+  "use": "Use for searching mail or finding a message.",
+  "compare": {
+    "heroicons": false,
+    "lucide": "mail-search",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "mail-search"
+  }
+}

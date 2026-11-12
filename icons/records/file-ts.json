@@ -1,0 +1,31 @@
+{
+  "name": "file-ts",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "255:19338",
+  "looks": "A page with a folded top right corner and the letters TS on it.",
+  "use": "Use for TypeScript files.",
+  "compare": {
+    "carbon": false,
+    "fluent": "document-ts",
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": "file-ts",
+    "radix": false,
+    "sf": false,
+    "tabler": "file-type-ts"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "file type, label in Polymath Display Bold"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "toggle-on",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "figmaId": "23:1915",
+  "looks": "A pill-shaped switch with a solid filled knob at the right end.",
+  "use": "Use for a switch turned on or an enabled setting.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": "toggle-on",
+    "fluent": "toggle-right",
+    "iconic": "toggle-right",
+    "lucide": "toggle-right",
+    "material": "toggle-on",
+    "octicons": false,
+    "phosphor": "toggle-right",
+    "radix": false,
+    "sf": false,
+    "tabler": "toggle-right"
+  }
+}

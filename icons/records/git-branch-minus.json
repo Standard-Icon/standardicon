@@ -1,0 +1,16 @@
+{
+  "name": "git-branch-minus",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26394",
+  "looks": "A git branch of two nodes with a curved line and a minus at the upper right.",
+  "use": "Use for removing a branch.",
+  "compare": {
+    "iconic": false,
+    "lucide": "git-branch-minus",
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

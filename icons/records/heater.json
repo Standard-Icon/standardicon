@@ -1,0 +1,15 @@
+{
+  "name": "heater",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24647",
+  "looks": "A radiator with vertical fins and two short feet.",
+  "use": "Use for heating, a radiator, or temperature.",
+  "compare": {
+    "lucide": "heater",
+    "material": false,
+    "sf": "heater.vertical"
+  }
+}

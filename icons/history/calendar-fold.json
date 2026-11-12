@@ -1,0 +1,11 @@
+{
+ "name": "calendar-fold",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M4.21 3.69H11.78C12.33 3.69 12.78 4.14 12.78 4.69V9.75L9.5 13.11H4.21C3.66 13.11 3.21 12.66 3.21 12.11V4.69C3.21 4.14 3.66 3.69 4.21 3.69Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.21 6.03H12.78M5.82 2.94V4.48M10.17 2.94V4.48\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 13.11V10.75C9.5 10.2 9.95 9.75 10.5 9.75H12.78\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

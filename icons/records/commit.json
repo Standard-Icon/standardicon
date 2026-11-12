@@ -1,0 +1,22 @@
+{
+  "name": "commit",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:4913",
+  "looks": "A circle on a horizontal line passing through it.",
+  "use": "Use for git commits or points in history.",
+  "keywords": [
+    "git"
+  ],
+  "compare": {
+    "carbon": "commit",
+    "lucide": "git-commit-horizontal",
+    "material": "commit",
+    "octicons": "git-commit",
+    "phosphor": "git-commit",
+    "radix": "commit",
+    "tabler": "git-commit"
+  }
+}

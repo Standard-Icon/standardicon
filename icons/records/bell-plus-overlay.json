@@ -1,0 +1,19 @@
+{
+  "name": "bell-plus-overlay",
+  "status": "active",
+  "parent": "bell",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "56:20060",
+  "looks": "A bell with a small rounded square holding a plus overlapping its lower right.",
+  "use": "Use for adding a reminder or subscribing to alerts.",
+  "formerNames": [
+    "bell-plus"
+  ],
+  "compare": {
+    "lucide": "bell-plus",
+    "sf": false,
+    "tabler": "bell-plus"
+  }
+}

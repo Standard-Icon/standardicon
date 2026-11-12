@@ -1,0 +1,27 @@
+{
+  "name": "trending-down",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "21:1491",
+  "looks": "A zigzag line falling to the lower right and ending in an arrowhead.",
+  "use": "Use for a decline, losses, or a downward trend.",
+  "keywords": [
+    "decline",
+    "decrease"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "arrow-trending-down",
+    "heroicons": "arrow-trending-down",
+    "iconic": "trending-down",
+    "lucide": "trending-down",
+    "material": "trending-down",
+    "octicons": false,
+    "phosphor": "trend-down",
+    "radix": false,
+    "sf": false,
+    "tabler": "trending-down"
+  }
+}

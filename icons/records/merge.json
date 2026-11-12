@@ -1,0 +1,24 @@
+{
+  "name": "merge",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3782",
+  "looks": "Two lines rising from the lower left and lower right that join into one with an arrow pointing up.",
+  "use": "Use for merge, combine, or join branches.",
+  "keywords": [
+    "combine",
+    "join"
+  ],
+  "compare": {
+    "carbon": "merge",
+    "fluent": "merge",
+    "lucide": "merge",
+    "material": "merge",
+    "octicons": "git-merge",
+    "phosphor": "git-merge",
+    "sf": "arrow.trianglehead.merge",
+    "tabler": "git-merge"
+  }
+}

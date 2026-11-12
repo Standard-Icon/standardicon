@@ -1,0 +1,25 @@
+{
+  "name": "logout",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Security and access",
+  "figmaId": "12:911",
+  "looks": "A door frame open on the right, with an arrow pointing right out through the opening.",
+  "use": "Use for log out, sign out, or exit.",
+  "keywords": [
+    "sign out",
+    "exit"
+  ],
+  "compare": {
+    "carbon": "logout",
+    "heroicons": "arrow-left-start-on-rectangle",
+    "lucide": "log-out",
+    "material": "logout",
+    "octicons": "sign-out",
+    "phosphor": "sign-out",
+    "radix": "exit",
+    "sf": "rectangle.portrait.and.arrow.right",
+    "tabler": "logout"
+  }
+}

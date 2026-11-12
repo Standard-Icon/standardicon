@@ -1,0 +1,22 @@
+{
+  "name": "santa-hat",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:29212",
+  "keywords": [
+    "christmas",
+    "xmas",
+    "santa",
+    "claus",
+    "holiday"
+  ],
+  "compare": {
+    "fluent": "hat-graduation",
+    "lucide": "chef-hat",
+    "material": "chef-hat",
+    "phosphor": "chef-hat",
+    "sf": "graduationcap",
+    "tabler": "chef-hat"
+  }
+}

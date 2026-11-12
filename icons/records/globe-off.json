@@ -1,0 +1,29 @@
+{
+  "name": "globe-off",
+  "status": "active",
+  "parent": "globe-simple",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:19751",
+  "looks": "A globe crossed out by a diagonal line.",
+  "use": "Use for being offline, no internet, or disabled region.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.160Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "globe-off",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "globe-off",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "globe-off"
+  }
+}

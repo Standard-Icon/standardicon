@@ -1,0 +1,11 @@
+{
+ "name": "love-letter",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M6.16 5.97H3.5C2.948 5.97 2.5 6.417 2.5 6.97V11.97C2.5 12.522 2.948 12.97 3.5 12.97H12.5C13.052 12.97 13.5 12.522 13.5 11.97V6.97C13.5 6.417 13.052 5.97 12.5 5.97H9.988\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.801 6.67L8.001 10.47L13.201 6.67\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.999 7.531C7.999 7.531 5.529 6.091 5.529 4.421C5.529 3.611 6.159 3.031 6.879 3.031C7.369 3.031 7.779 3.301 7.999 3.701C8.219 3.301 8.629 3.031 9.119 3.031C9.849 3.031 10.469 3.611 10.469 4.421C10.469 6.091 7.999 7.531 7.999 7.531Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

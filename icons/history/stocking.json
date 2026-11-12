@@ -1,0 +1,11 @@
+{
+ "name": "stocking",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"6\" y=\"2\" width=\"6.5\" height=\"2.5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M7 4.5V8L4.5 10C3.5 10.8 3.3 12.1 4 13C4.7 13.9 6 14.05 7 13.3L10.6 10.6C11.15 10.2 11.5 9.5 11.5 8.8V4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

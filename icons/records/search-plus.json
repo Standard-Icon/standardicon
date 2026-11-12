@@ -1,0 +1,28 @@
+{
+  "name": "search-plus",
+  "status": "active",
+  "parent": "search",
+  "canonical": "search",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3468",
+  "looks": "A magnifying glass with a plus inside the lens and its handle at the lower right.",
+  "use": "Use for zoom in or make larger.",
+  "keywords": [
+    "zoom in"
+  ],
+  "compare": {
+    "carbon": "zoom-in",
+    "fluent": "zoom-in",
+    "heroicons": "magnifying-glass-plus",
+    "iconic": "zoom-in",
+    "lucide": "zoom-in",
+    "material": "zoom-in",
+    "octicons": "zoom-in",
+    "phosphor": "magnifying-glass-plus",
+    "radix": "zoom-in",
+    "sf": "plus.magnifyingglass",
+    "tabler": "zoom-in"
+  }
+}

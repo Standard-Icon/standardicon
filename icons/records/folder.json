@@ -1,0 +1,25 @@
+{
+  "name": "folder",
+  "status": "active",
+  "canonical": "folder",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Files and folders",
+  "figmaId": "12:1013",
+  "looks": "A closed folder with a tab on the top left.",
+  "use": "Use for folders, directories, or collections.",
+  "keywords": [
+    "directory"
+  ],
+  "compare": {
+    "carbon": "folder",
+    "fluent": "folder",
+    "heroicons": "folder",
+    "lucide": "folder",
+    "material": "folder",
+    "octicons": "file-directory",
+    "phosphor": "folder",
+    "sf": "folder",
+    "tabler": "folder"
+  }
+}

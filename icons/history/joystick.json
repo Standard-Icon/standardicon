@@ -1,0 +1,12 @@
+{
+ "name": "joystick",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"3.5\" y=\"10.128\" width=\"9\" height=\"3\" rx=\"1\" stroke=\"currentColor\"/><path d=\"M8 6.977L8 10.128\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"4.872\" r=\"2\" stroke=\"currentColor\"/><circle cx=\"10.5\" cy=\"11.628\" r=\"0.5\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

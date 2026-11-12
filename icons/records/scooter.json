@@ -1,0 +1,16 @@
+{
+  "name": "scooter",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20295",
+  "compare": {
+    "carbon": "scooter",
+    "lucide": "scooter",
+    "material": "scooter",
+    "phosphor": "scooter",
+    "sf": "scooter",
+    "tabler": "scooter"
+  }
+}

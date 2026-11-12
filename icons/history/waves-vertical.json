@@ -1,0 +1,11 @@
+{
+ "name": "waves-vertical",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M4 2.5C2.67 3.462 2.67 4.287 4 5.25C5.33 6.213 5.33 7.037 4 8C2.67 8.963 2.67 9.787 4 10.75C5.33 11.713 5.33 12.537 4 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2.5C6.67 3.462 6.67 4.287 8 5.25C9.33 6.213 9.33 7.037 8 8C6.67 8.963 6.67 9.787 8 10.75C9.33 11.713 9.33 12.537 8 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12 2.5C10.67 3.462 10.67 4.287 12 5.25C13.33 6.213 13.33 7.037 12 8C10.67 8.963 10.67 9.787 12 10.75C13.33 11.713 13.33 12.537 12 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

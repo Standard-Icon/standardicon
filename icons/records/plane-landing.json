@@ -1,0 +1,19 @@
+{
+  "name": "plane-landing",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20111",
+  "looks": "An airplane angled downward over a flat ground line.",
+  "use": "Use for arrivals or landing.",
+  "compare": {
+    "carbon": false,
+    "fluent": "airplane-landing",
+    "lucide": "plane-landing",
+    "material": "flight-land",
+    "phosphor": "airplane-landing",
+    "radix": false,
+    "tabler": "plane-arrival"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "notebook",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:5188",
+  "looks": "A notebook with a line down the left side and three binding tabs sticking out on the left.",
+  "use": "Use for notebooks, notes, or journals.",
+  "keywords": [
+    "journal",
+    "notes"
+  ],
+  "compare": {
+    "carbon": "notebook",
+    "fluent": "notebook",
+    "lucide": "notebook",
+    "phosphor": "notebook",
+    "tabler": "notebook"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "goal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "59:22517",
+  "looks": "A target of two circles, one inside the other, with a flag planted at the center.",
+  "use": "Use for goals, targets, or milestones.",
+  "compare": {
+    "lucide": "goal",
+    "octicons": "goal"
+  }
+}

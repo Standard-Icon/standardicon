@@ -1,0 +1,20 @@
+{
+  "name": "cable-car",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20548",
+  "looks": "A hanging gondola cabin with a window line, suspended from a slanted cable above.",
+  "use": "Use for cable cars, gondolas, or mountain transit.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "cable-car",
+    "material": "cable-car",
+    "phosphor": "cable-car",
+    "sf": false,
+    "tabler": false
+  }
+}

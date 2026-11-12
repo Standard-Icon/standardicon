@@ -1,0 +1,12 @@
+{
+ "name": "snowman",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M10 5.5C10 6.605 9.105 7.5 8 7.5C6.895 7.5 6 6.605 6 5.5C6 4.395 6.895 3.5 8 3.5C9.105 3.5 10 4.395 10 5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.25 10.75C11.25 12.545 9.795 14 8 14C6.205 14 4.75 12.545 4.75 10.75C4.75 8.955 6.205 7.5 8 7.5C9.795 7.5 11.25 8.955 11.25 10.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 3.5H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.5 3.5V2C6.5 1.72 6.72 1.5 7 1.5H9C9.28 1.5 9.5 1.72 9.5 2V3.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 9.5L2.5 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11 9.5L13.5 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 10.25C8.276 10.25 8.5 10.026 8.5 9.75C8.5 9.474 8.276 9.25 8 9.25C7.724 9.25 7.5 9.474 7.5 9.75C7.5 10.026 7.724 10.25 8 10.25Z\" fill=\"currentColor\"/><path d=\"M8 12.5C8.276 12.5 8.5 12.276 8.5 12C8.5 11.724 8.276 11.5 8 11.5C7.724 11.5 7.5 11.724 7.5 12C7.5 12.276 7.724 12.5 8 12.5Z\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

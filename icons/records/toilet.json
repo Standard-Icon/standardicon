@@ -1,0 +1,23 @@
+{
+  "name": "toilet",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24746",
+  "compare": {
+    "fluent": "toilet",
+    "lucide": "toilet",
+    "phosphor": "toilet",
+    "sf": "toilet",
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-09",
+      "by": "morgan",
+      "text": "needs to be better",
+      "issue": "needs-to-be-better"
+    }
+  ]
+}

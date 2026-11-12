@@ -1,0 +1,17 @@
+{
+  "name": "database-search-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29255",
+  "looks": "A database cylinder with a magnifying glass cut into the lower right.",
+  "use": "Use for querying or searching data.",
+  "compare": {
+    "heroicons": false,
+    "lucide": "database-search",
+    "material": "database-search",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "database-search"
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "license-plate",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"1.5\" y=\"3.5\" width=\"13\" height=\"9\" rx=\"1.5\" stroke=\"currentColor\"/><circle cx=\"5\" cy=\"5.5\" r=\"0.5\" fill=\"currentColor\"/><circle cx=\"11\" cy=\"5.5\" r=\"0.5\" fill=\"currentColor\"/><path d=\"M4.5 7.5V10.5M6.5 7.5V10.5M9.5 7.5V10.5M11.5 7.5V10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T04:22:24.748Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"1.5\" y=\"3.5\" width=\"13\" height=\"9\" rx=\"1.5\" stroke=\"currentColor\"/><circle cx=\"3.5\" cy=\"5.5\" r=\"0.5\" fill=\"currentColor\"/><circle cx=\"3.5\" cy=\"10.551\" r=\"0.5\" fill=\"currentColor\"/><circle cx=\"12.649\" cy=\"5.5\" r=\"0.5\" fill=\"currentColor\"/><circle cx=\"12.649\" cy=\"10.551\" r=\"0.5\" fill=\"currentColor\"/><path d=\"M4.5 7.158V8.842M6.5 7.158V8.842M9.5 7.158V8.842M11.5 7.158V8.842\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

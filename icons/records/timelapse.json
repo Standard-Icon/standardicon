@@ -1,0 +1,12 @@
+{
+  "name": "timelapse",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Media and camera",
+  "figmaId": "276:24694",
+  "compare": {
+    "material": "timelapse",
+    "sf": "timelapse"
+  }
+}

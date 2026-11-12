@@ -1,0 +1,16 @@
+{
+  "name": "diameter",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25302",
+  "looks": "A circle with a diagonal double-headed arrow through its center.",
+  "use": "Use for diameter, width measurements, or resizing.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.038Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": "diameter"
+  }
+}

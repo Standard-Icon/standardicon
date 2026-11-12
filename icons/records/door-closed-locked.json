@@ -1,0 +1,10 @@
+{
+  "name": "door-closed-locked",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:25462",
+  "compare": {
+    "lucide": "door-closed-locked",
+    "sf": "door.garage.closed"
+  }
+}

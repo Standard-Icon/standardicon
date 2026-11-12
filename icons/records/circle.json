@@ -1,0 +1,29 @@
+{
+  "name": "circle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "solid": "needed",
+  "figmaId": "23:1878",
+  "looks": "A plain empty circle.",
+  "use": "Use for a radio option, a placeholder, or a basic shape.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.491Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "circle-outline",
+    "fluent": "circle",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle",
+    "material": "circle",
+    "octicons": "circle",
+    "phosphor": "circle",
+    "radix": "circle",
+    "sf": "circle",
+    "tabler": "circle"
+  }
+}

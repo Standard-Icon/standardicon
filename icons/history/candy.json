@@ -1,0 +1,17 @@
+{
+ "name": "candy",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"3.25\" stroke=\"currentColor\"/><path d=\"M5.25 6.25L2 4.75V11.25L5.25 9.75M10.75 6.25L14 4.75V11.25L10.75 9.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T23:46:29.485Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"3.25\" stroke=\"currentColor\"/><path d=\"M4.768 5.994L2.986 5.171C2.215 4.816 1.38 5.521 1.601 6.34L1.979 7.739C2.025 7.91 2.025 8.09 1.979 8.261L1.601 9.66C1.38 10.479 2.215 11.184 2.986 10.829L4.768 10.006\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.23 5.994L13.012 5.171C13.783 4.816 14.618 5.521 14.397 6.34L14.019 7.739C13.973 7.91 13.973 8.09 14.019 8.261L14.397 9.66C14.618 10.479 13.783 11.184 13.012 10.829L11.23 10.006\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

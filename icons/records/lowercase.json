@@ -1,0 +1,25 @@
+{
+  "name": "lowercase",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:32085",
+  "looks": "The lowercase letters ab.",
+  "use": "Use for lowercase text or changing case.",
+  "compare": {
+    "fluent": "text-case-lowercase",
+    "lucide": "case-sensitive",
+    "material": "lowercase",
+    "radix": "letter-case-lowercase",
+    "sf": "characters.lowercase",
+    "tabler": "letter-case-lower"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "text"
+    }
+  ]
+}

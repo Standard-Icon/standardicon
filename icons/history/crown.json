@@ -1,0 +1,23 @@
+{
+ "name": "crown",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M2.5 5L5 8L8 3.5L11 8L13.5 5L12.5 12H3.5L2.5 5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 13.5H12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M12.5 10.134L13.5 4.779L10.75 6.781L8 3.279L5.25 6.781L2.5 4.779L3.5 10.134V12.124C3.5 12.124 5.801 12.721 8 12.721C10.199 12.721 12.5 12.124 12.5 12.124V10.134C12.5 10.134 10 10.731 8 10.731C6 10.731 3.5 10.134 3.5 10.134\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.368 5.236L4.878 3.613L3.839 5.696\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.564 5.236L11.055 3.613L12.094 5.696\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse rx=\"0.948191\" ry=\"1.28662\" cx=\"8.124\" cy=\"7.78\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M12.5 10.134L13.5 4.779L10.75 6.781L8 3.279L5.25 6.781L2.5 4.779L3.5 10.134V12.125C3.5 12.125 5.8 12.722 8 12.722C10.199 12.722 12.5 12.125 12.5 12.125V10.134C12.5 10.134 10 10.731 8 10.731C5.999 10.731 3.5 10.134 3.5 10.134\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

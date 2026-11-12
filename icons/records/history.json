@@ -1,0 +1,24 @@
+{
+  "name": "history",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1618",
+  "looks": "A circular arrow turning counterclockwise from the top left around two clock hands in a V shape.",
+  "use": "Use for history, recent activity, or past versions.",
+  "keywords": [
+    "recent",
+    "past",
+    "clock"
+  ],
+  "compare": {
+    "carbon": "history",
+    "fluent": "history",
+    "lucide": "history",
+    "material": "history",
+    "octicons": "history",
+    "sf": false,
+    "tabler": "history"
+  }
+}

@@ -1,0 +1,18 @@
+{
+ "name": "shield-alert",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M8 2.5L12.5 4V8C12.5 10.8 10.6 12.7 8 13.5C5.4 12.7 3.5 10.8 3.5 8V4L8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.5V8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.6 10.5C8.6 10.659 8.537 10.812 8.424 10.924C8.312 11.037 8.159 11.1 8 11.1C7.841 11.1 7.688 11.037 7.576 10.924C7.463 10.812 7.4 10.659 7.4 10.5C7.4 10.341 7.463 10.188 7.576 10.076C7.688 9.963 7.841 9.9 8 9.9C8.159 9.9 8.312 9.963 8.424 10.076C8.537 10.188 8.6 10.341 8.6 10.5Z\" fill=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M8 2.5L12.5 4V8C12.5 10.8 10.6 12.7 8 13.5C5.4 12.7 3.5 10.8 3.5 8V4L8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.975 5.375V8.375\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.575 10.149C8.575 10.308 8.512 10.461 8.399 10.573C8.287 10.686 8.134 10.749 7.975 10.749C7.816 10.749 7.663 10.686 7.551 10.573C7.438 10.461 7.375 10.308 7.375 10.149C7.375 9.99 7.438 9.837 7.551 9.725C7.663 9.612 7.816 9.549 7.975 9.549C8.134 9.549 8.287 9.612 8.399 9.725C8.512 9.837 8.575 9.99 8.575 10.149Z\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

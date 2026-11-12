@@ -1,0 +1,12 @@
+{
+ "name": "compare-split",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3.5\" width=\"11\" height=\"9\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M8 2V14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 3.5H12.5C12.765 3.5 13.02 3.61 13.207 3.79C13.395 3.98 13.5 4.23 13.5 4.5V11.5C13.5 11.77 13.395 12.02 13.207 12.21C13.02 12.39 12.765 12.5 12.5 12.5H8V3.5Z\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

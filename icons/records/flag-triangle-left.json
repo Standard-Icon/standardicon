@@ -1,0 +1,16 @@
+{
+  "name": "flag-triangle-left",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25795",
+  "looks": "A flag pole with a triangular pennant pointing left.",
+  "use": "Use for flagging, marking a spot, or a left-facing banner.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": "flag-triangle-left",
+    "octicons": false,
+    "radix": false,
+    "sf": false
+  }
+}

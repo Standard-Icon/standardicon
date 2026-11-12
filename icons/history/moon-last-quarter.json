@@ -1,0 +1,23 @@
+{
+ "name": "moon-last-quarter",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"5.5\" stroke=\"currentColor\"/><path d=\"M8 2.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.992 10.867C5.057 10.212 4.5 9.142 4.5 8C4.5 6.858 5.057 5.788 5.992 5.133\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T07:22:14.556Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><path d=\"M8 1.83V14.17\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5.748 11.217C4.699 10.482 4.074 9.282 4.074 8C4.074 6.719 4.699 5.519 5.748 4.784\" stroke=\"currentColor\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.17\" stroke=\"currentColor\"/><path d=\"M8 1.83V14.17\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.748 11.217C4.699 10.482 4.074 9.282 4.074 8C4.074 6.719 4.699 5.519 5.748 4.784\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

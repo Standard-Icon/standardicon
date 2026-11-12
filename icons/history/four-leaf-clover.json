@@ -1,0 +1,11 @@
+{
+ "name": "four-leaf-clover",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 6.75C8.07 5.78 7.52 3.74 8.59 2.67C9.3 1.96 10.23 2.07 10.71 2.56C11.08 2.93 11.08 3.45 10.67 4.08C11.3 3.67 11.82 3.67 12.19 4.04C12.68 4.52 12.79 5.45 12.08 6.16C11.01 7.23 8.97 6.68 8 6.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6.75C8.97 6.82 11.01 6.27 12.08 7.34C12.79 8.05 12.68 8.98 12.19 9.46C11.82 9.83 11.3 9.83 10.67 9.42C11.08 10.05 11.08 10.57 10.71 10.94C10.23 11.43 9.3 11.54 8.59 10.83C7.52 9.76 8.07 7.72 8 6.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.999 6.75C7.929 7.72 8.479 9.76 7.409 10.83C6.699 11.54 5.769 11.43 5.289 10.94C4.919 10.57 4.919 10.05 5.329 9.42C4.699 9.83 4.179 9.83 3.809 9.46C3.319 8.98 3.209 8.05 3.919 7.34C4.989 6.27 7.029 6.82 7.999 6.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.999 6.75C7.029 6.68 4.989 7.23 3.919 6.16C3.209 5.45 3.319 4.52 3.809 4.04C4.179 3.67 4.699 3.67 5.329 4.08C4.919 3.45 4.919 2.93 5.289 2.56C5.769 2.07 6.699 1.96 7.409 2.67C8.479 3.74 7.929 5.78 7.999 6.75Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6.75C8 9.5 8.5 12.25 9.75 14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

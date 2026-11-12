@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Icon workbench</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#5e7660">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="/compare"><i class="logo" aria-hidden="true"></i>Workbench</a>
+  <nav class="tabs" id="tabs" aria-label="Workbench">
+    <a href="/compare" data-view="compare">Compare</a>
+    <a href="/records" data-view="records">Records</a>
+    <a href="/issues" data-view="issues" id="issues-tab">Issues</a>
+    <a href="/weights" data-view="weights">Weights</a>
+    <a href="/sizes" data-view="sizes">Sizes</a>
+    <a href="/tools" data-view="tools">Tools</a>
+    <a href="/launch">Launch</a>
+  </nav>
+  <span class="count" id="count"></span>
+</header>
+
+<section class="view" id="view-compare">
+  <div class="filters">
+    <input id="q" type="search" placeholder="Search names and keywords  ( / )" autocomplete="off" spellcheck="false">
+    <select id="f-status" aria-label="Stage"></select>
+    <select id="f-category" aria-label="Category"></select>
+    <select id="f-match" aria-label="Matches"></select>
+    <select id="f-flag" aria-label="Flag"></select>
+    <select id="f-dupes" aria-label="Duplicates"></select>
+    <select id="f-line-stacks" aria-label="Line stacks"></select>
+    <label class="field">Size <select id="size"></select></label>
+    <label class="field">Weight <select id="weight"></select></label>
+    <label class="field">SF weight <select id="sf-weight"></select></label>
+    <label class="field"><input type="checkbox" id="match-line"> Match line widths to my weight</label>
+    <label class="field"><input type="checkbox" id="key-grid"> Icon grid</label>
+  </div>
+  <div class="split">
+    <div class="list" id="list">
+      <div class="row head" id="row-head"></div>
+      <div id="rows"></div>
+    </div>
+    <div class="back-bar"><button class="btn" type="button" data-back>Back to the list</button></div>
+    <aside class="stage-panel" id="stage-panel"></aside>
+  </div>
+</section>
+
+<section class="view" id="view-records" hidden>
+  <div class="filters">
+    <input id="r-q" type="search" placeholder="Does this icon exist? Names, old names, aliases, keywords" autocomplete="off" spellcheck="false">
+    <select id="r-stage" aria-label="Figma stage"></select>
+    <select id="r-status" aria-label="In the set"></select>
+    <select id="r-flag" aria-label="Flag"></select>
+    <select id="r-source" aria-label="Source"></select>
+    <select id="r-wave" aria-label="Wave"></select>
+    <select id="r-section" aria-label="Section"></select>
+    <span class="count" id="r-count"></span>
+  </div>
+  <div class="checklist" id="records"></div>
+</section>
+
+<section class="view" id="view-issues" hidden>
+  <div class="filters">
+    <input id="i-q" type="search" placeholder="Search issues, icons, and comments" autocomplete="off" spellcheck="false">
+    <select id="i-status" aria-label="Status">
+      <option value="open">Open</option>
+      <option value="decided">Decided</option>
+      <option value="done">Done</option>
+      <option value="">Every status</option>
+    </select>
+    <select id="i-owner" aria-label="Owner"></select>
+    <button class="btn" id="new-issue">New issue</button>
+    <a class="btn" href="/issues" id="show-activity">Activity</a>
+    <span class="count" id="i-count"></span>
+  </div>
+  <div class="split">
+    <div class="list issue-list" id="issue-list"></div>
+    <div class="back-bar"><button class="btn" type="button" data-back>Back to issues</button></div>
+    <aside class="stage-panel" id="issue-panel"></aside>
+  </div>
+</section>
+
+<section class="view" id="view-weights" hidden>
+  <div id="weights" class="weights"></div>
+</section>
+
+<section class="view" id="view-sizes" hidden>
+  <div id="sizes" class="sizes"></div>
+</section>
+
+<section class="view" id="view-tools" hidden>
+  <div class="tools" id="tools"></div>
+</section>
+
+<script type="module" src="/app.js"></script>
+</body>
+</html>

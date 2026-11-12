@@ -1,0 +1,26 @@
+{
+  "name": "bold",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1222",
+  "looks": "A capital letter B.",
+  "use": "Use for bold text formatting.",
+  "keywords": [
+    "text",
+    "format",
+    "strong"
+  ],
+  "compare": {
+    "carbon": "text-bold",
+    "fluent": "text-bold",
+    "heroicons": "bold",
+    "lucide": "bold",
+    "material": "format-bold",
+    "octicons": "bold",
+    "radix": "font-bold",
+    "sf": "bold",
+    "tabler": "bold"
+  }
+}

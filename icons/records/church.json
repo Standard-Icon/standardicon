@@ -1,0 +1,16 @@
+{
+  "name": "church",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:20717",
+  "looks": "A small peaked building with a cross on the roof and an arched door.",
+  "use": "Use for churches, worship, or places of faith.",
+  "compare": {
+    "lucide": "church",
+    "material": "church",
+    "phosphor": "church",
+    "tabler": "building-church"
+  }
+}

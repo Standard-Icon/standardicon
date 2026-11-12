@@ -1,0 +1,23 @@
+{
+  "name": "chevrons-left-right-ellipsis",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24102",
+  "looks": "A left chevron and a right chevron with three dots between them.",
+  "use": "Use for code with more content, an expandable range, or placeholder tags.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-10T19:50:25.922Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "chevrons-left-right-ellipsis",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

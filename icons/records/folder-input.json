@@ -1,0 +1,21 @@
+{
+  "name": "folder-input",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25975",
+  "looks": "A folder with an arrow pointing right into it.",
+  "use": "Use for moving or importing something into a folder.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "folder-input",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

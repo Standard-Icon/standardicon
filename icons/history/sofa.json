@@ -1,0 +1,23 @@
+{
+ "name": "sofa",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.5 7V5C3.5 4.602 3.658 4.221 3.939 3.939C4.221 3.658 4.602 3.5 5 3.5H11C11.398 3.5 11.779 3.658 12.061 3.939C12.342 4.221 12.5 4.602 12.5 5V7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1.5 8.25C1.5 7.918 1.632 7.601 1.866 7.366C2.101 7.132 2.418 7 2.75 7C3.082 7 3.399 7.132 3.634 7.366C3.868 7.601 4 7.918 4 8.25V9.5H12V8.25C12 7.918 12.132 7.601 12.366 7.366C12.601 7.132 12.918 7 13.25 7C13.582 7 13.899 7.132 14.134 7.366C14.368 7.601 14.5 7.918 14.5 8.25V12H1.5V8.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 12V13.5M12.5 12V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M3.5 7L3.5 5.58C3.5 5.182 3.658 4.801 3.939 4.519C4.221 4.238 4.602 4.08 5 4.08H11C11.398 4.08 11.779 4.238 12.061 4.519C12.342 4.801 12.5 5.182 12.5 5.58L12.5 7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1.5 8.25C1.5 7.918 1.632 7.601 1.866 7.366C2.101 7.132 2.418 7 2.75 7C3.082 7 3.399 7.132 3.634 7.366C3.868 7.601 4 7.918 4 8.25V9.5H12V8.25C12 7.918 12.132 7.601 12.366 7.366C12.601 7.132 12.918 7 13.25 7C13.582 7 13.899 7.132 14.134 7.366C14.368 7.601 14.5 7.918 14.5 8.25V12H1.5V8.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 12V13.5M12.5 12V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M3.5 6L3.5 4.58C3.5 4.182 3.66 3.801 3.94 3.519C4.22 3.238 4.6 3.08 5 3.08H11C11.4 3.08 11.78 3.238 12.06 3.519C12.34 3.801 12.5 4.182 12.5 4.58L12.5 6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1.5 7.25C1.5 6.918 1.63 6.601 1.87 6.366C2.1 6.132 2.42 6 2.75 6C3.08 6 3.4 6.132 3.63 6.366C3.87 6.601 4 6.918 4 7.25V8.5H12V7.25C12 6.918 12.13 6.601 12.37 6.366C12.6 6.132 12.92 6 13.25 6C13.58 6 13.9 6.132 14.13 6.366C14.37 6.601 14.5 6.918 14.5 7.25V11H1.5V7.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 11V12.5M12.5 11V12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

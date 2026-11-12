@@ -1,0 +1,27 @@
+{
+  "name": "switch-camera",
+  "status": "active",
+  "parent": "camera",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:24359",
+  "looks": "A camera body with two curved arrows forming a circle in the middle.",
+  "use": "Use for flipping between front and back cameras.",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "switch-camera",
+    "material": "switch-camera",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "bookmark-x-integrated",
+  "status": "active",
+  "parent": "bookmark",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:18970",
+  "looks": "A bookmark ribbon with a small x drawn near the top inside it.",
+  "use": "Use for deleting or clearing a bookmark.",
+  "formerNames": [
+    "bookmark-x"
+  ],
+  "compare": {
+    "heroicons": false,
+    "lucide": "bookmark-x",
+    "radix": false,
+    "sf": false
+  }
+}

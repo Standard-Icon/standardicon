@@ -1,0 +1,19 @@
+{
+  "name": "restart",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5960",
+  "looks": "A circular arrow open at the top right with a small play triangle in the center.",
+  "use": "Use for restarting or replaying from the beginning.",
+  "keywords": [
+    "reboot"
+  ],
+  "compare": {
+    "carbon": "restart",
+    "lucide": "rotate-cw",
+    "material": "restart-alt",
+    "sf": "restart"
+  }
+}

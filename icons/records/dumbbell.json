@@ -1,0 +1,24 @@
+{
+  "name": "dumbbell",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8975",
+  "looks": "A horizontal dumbbell with two rounded plates on each end of a short bar.",
+  "use": "Use for workouts, the gym, or strength training.",
+  "keywords": [
+    "fitness",
+    "gym",
+    "workout",
+    "weights"
+  ],
+  "compare": {
+    "fluent": "dumbbell",
+    "lucide": "dumbbell",
+    "material": "fitness-center",
+    "phosphor": "barbell",
+    "sf": "dumbbell",
+    "tabler": "dumbbell"
+  }
+}

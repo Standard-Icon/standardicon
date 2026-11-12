@@ -1,0 +1,19 @@
+{
+  "name": "mask",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:25959",
+  "looks": "A rounded square with a large filled circle in the middle.",
+  "use": "Use for layer masks, clipping, or cutouts.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "lucide": "venetian-mask",
+    "material": "comedy-mask",
+    "phosphor": "mask-sad",
+    "radix": false,
+    "tabler": "mask"
+  }
+}

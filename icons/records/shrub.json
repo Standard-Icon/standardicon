@@ -1,0 +1,14 @@
+{
+  "name": "shrub",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:19930",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "lucide": "shrub"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cloud-drizzle",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24304",
+  "looks": "A cloud with several small dots falling beneath it.",
+  "use": "Use for light rain, drizzle, or mist.",
+  "approved": {
+    "at": "2026-11-12T02:32:33.621Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "cloud-drizzle",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": "cloud.drizzle",
+    "tabler": false
+  }
+}

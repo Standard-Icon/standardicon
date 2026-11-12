@@ -1,0 +1,19 @@
+{
+  "name": "captions",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5724",
+  "looks": "A rounded rectangle with the letters CC inside.",
+  "use": "Use for captions, subtitles, or closed captioning.",
+  "keywords": [
+    "subtitles",
+    "cc",
+    "closed captions"
+  ],
+  "compare": {
+    "lucide": "captions",
+    "sf": "captions.bubble"
+  }
+}

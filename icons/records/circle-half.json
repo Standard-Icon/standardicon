@@ -1,0 +1,30 @@
+{
+  "name": "circle-half",
+  "status": "active",
+  "parent": "circle",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Status and feedback",
+  "figmaId": "30:4092",
+  "looks": "A circle with its left half filled solid and the right half empty.",
+  "use": "Use for contrast, dark mode, or half complete.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:21.721Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "contrast",
+    "fluent": "circle-half-fill",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "contrast",
+    "material": "contrast",
+    "octicons": false,
+    "phosphor": "circle-half",
+    "radix": "half-1",
+    "sf": "circle.lefthalf.filled",
+    "tabler": "circle-half"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "margin-bottom",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26876",
+  "looks": "A small square above a horizontal line at the bottom.",
+  "use": "Use for bottom margin.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "margin-bottom",
+    "material": "margin",
+    "phosphor": false,
+    "radix": "margin",
+    "tabler": "box-margin"
+  }
+}

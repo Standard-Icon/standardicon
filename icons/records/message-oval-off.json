@@ -1,0 +1,31 @@
+{
+  "name": "message-oval-off",
+  "status": "active",
+  "parent": "message-oval",
+  "canonical": "message-oval",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "226:32961",
+  "looks": "An oval speech bubble crossed out by a diagonal line.",
+  "use": "Use for muted conversations or disabled chat.",
+  "approved": {
+    "at": "2026-11-12T01:52:05.355Z",
+    "by": "morgan",
+    "version": "2026-11-11T18:29:17.376Z"
+  },
+  "compare": {
+    "iconic": false,
+    "lucide": "message-circle-off",
+    "phosphor": "chat-circle-slash",
+    "sf": false,
+    "tabler": "message-off"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "oval or square message family"
+    }
+  ]
+}

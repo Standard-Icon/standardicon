@@ -1,0 +1,19 @@
+{
+  "name": "markdown",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:5273",
+  "looks": "A rounded rectangle with a capital M and a down arrow inside.",
+  "use": "Use for Markdown files or formatting.",
+  "compare": {
+    "carbon": "markdown",
+    "fluent": "markdown",
+    "lucide": false,
+    "material": "markdown",
+    "octicons": "markdown",
+    "phosphor": "markdown-logo",
+    "tabler": "markdown"
+  }
+}

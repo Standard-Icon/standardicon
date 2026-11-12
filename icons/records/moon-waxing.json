@@ -1,0 +1,27 @@
+{
+  "name": "moon-waxing",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20470",
+  "looks": "A circle with a curved line inside, leaving a crescent on the left.",
+  "use": "Use for the waxing moon phase.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.334Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "moon",
+    "fluent": "weather-moon",
+    "heroicons": "moon",
+    "lucide": "moon",
+    "material": false,
+    "octicons": "moon",
+    "phosphor": "moon",
+    "radix": "moon",
+    "sf": "moon",
+    "tabler": "moon"
+  }
+}

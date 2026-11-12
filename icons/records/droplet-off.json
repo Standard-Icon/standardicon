@@ -1,0 +1,17 @@
+{
+  "name": "droplet-off",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25065",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "droplet-off",
+    "material": false,
+    "octicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "droplet-off"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "folder-tree",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"8.5\" y=\"2.5\" width=\"5\" height=\"3.5\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"8.5\" y=\"10\" width=\"5\" height=\"3.5\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3 2.5V10.75C3 11.3 3.45 11.75 4 11.75H8.5M3 4.25H8.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "file-xls",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "255:18879",
+  "looks": "A page with a folded top right corner and the letters XLS on it.",
+  "use": "Use for Excel files or spreadsheets.",
+  "compare": {
+    "carbon": "xls",
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": "file-xls",
+    "radix": false,
+    "sf": false,
+    "tabler": "file-type-xls"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "file type, label in Polymath Display Bold"
+    }
+  ]
+}

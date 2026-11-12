@@ -1,0 +1,11 @@
+{
+ "name": "chevron-up",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M12 9.299L8 6.701L4 9.299\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

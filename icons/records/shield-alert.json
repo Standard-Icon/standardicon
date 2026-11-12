@@ -1,0 +1,23 @@
+{
+  "name": "shield-alert",
+  "status": "active",
+  "parent": "shield",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Status and feedback",
+  "figmaId": "30:3955",
+  "looks": "A shield with an exclamation mark inside it.",
+  "use": "Use for security warnings, threats, or risks.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": "shield-alert",
+    "fluent": "shield-error",
+    "heroicons": "shield-check",
+    "lucide": "shield-alert",
+    "material": "gpp-maybe",
+    "octicons": false,
+    "phosphor": "shield-warning",
+    "sf": "exclamationmark.shield",
+    "tabler": "shield-exclamation"
+  }
+}

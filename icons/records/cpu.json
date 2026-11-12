@@ -1,0 +1,24 @@
+{
+  "name": "cpu",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:2957",
+  "looks": "A square chip with a smaller square in the middle and two pins on each side.",
+  "use": "Use for processors, computing, or hardware.",
+  "keywords": [
+    "processor",
+    "chip"
+  ],
+  "compare": {
+    "carbon": "chip",
+    "heroicons": "cpu-chip",
+    "lucide": "cpu",
+    "material": "memory",
+    "octicons": "cpu",
+    "phosphor": "cpu",
+    "sf": "cpu",
+    "tabler": "cpu"
+  }
+}

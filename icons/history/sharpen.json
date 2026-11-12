@@ -1,0 +1,11 @@
+{
+ "name": "sharpen",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M2.05 13H13.951C14.146 13 14.266 12.787 14.165 12.62L8.214 2.851C8.117 2.691 7.885 2.691 7.787 2.851L1.837 12.62C1.735 12.787 1.855 13 2.05 13Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.001 6.325L10.908 11.081H5.094L8.001 6.325Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

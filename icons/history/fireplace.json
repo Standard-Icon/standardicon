@@ -1,0 +1,11 @@
+{
+ "name": "fireplace",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2 2.5H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"3.5\" y=\"2.5\" width=\"9\" height=\"11\" rx=\"0.5\" stroke=\"currentColor\"/><path d=\"M8 5.5C8 5.5 10.25 7.25 10.25 9.25C10.25 10.6 9.25 11.5 8 11.5C6.75 11.5 5.75 10.6 5.75 9.25C5.75 7.25 8 5.5 8 5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "microwave",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24699",
+  "looks": "A microwave oven with a large window on the left and a few control dots on the right.",
+  "use": "Use for microwaves, heating food, or kitchen appliances.",
+  "compare": {
+    "fluent": "microwave",
+    "lucide": "microwave",
+    "material": "microwave",
+    "sf": "microwave",
+    "tabler": "microwave"
+  }
+}

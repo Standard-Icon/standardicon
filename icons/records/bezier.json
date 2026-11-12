@@ -1,0 +1,19 @@
+{
+  "name": "bezier",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6480",
+  "looks": "A curved path rising from a small square at the lower left to a small square at the upper right.",
+  "use": "Use for vector paths, the pen tool, or curves.",
+  "keywords": [
+    "curve",
+    "vector",
+    "path"
+  ],
+  "compare": {
+    "phosphor": "bezier-curve",
+    "tabler": "vector-bezier"
+  }
+}

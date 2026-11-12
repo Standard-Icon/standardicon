@@ -1,0 +1,11 @@
+{
+ "name": "hospital-bed",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2 13.5V4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2 11.5H14V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11.5V9C14 8.602 13.842 8.221 13.561 7.939C13.279 7.658 12.898 7.5 12.5 7.5H7V11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.75 9C5.75 9.332 5.618 9.649 5.384 9.884C5.149 10.118 4.832 10.25 4.5 10.25C4.168 10.25 3.851 10.118 3.616 9.884C3.382 9.649 3.25 9.332 3.25 9C3.25 8.668 3.382 8.351 3.616 8.116C3.851 7.882 4.168 7.75 4.5 7.75C4.832 7.75 5.149 7.882 5.384 8.116C5.618 8.351 5.75 8.668 5.75 9Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 2.5V5.5M8.5 4H11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

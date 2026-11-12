@@ -1,0 +1,21 @@
+{
+  "name": "chess-king",
+  "status": "active",
+  "source": "later",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22930",
+  "looks": "A chess king with a cross on top of a crown-shaped body and a wide base.",
+  "use": "Use for the king piece, chess, or leaders.",
+  "approved": {
+    "at": "2026-11-12T02:32:22.709Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "fluent": false,
+    "lucide": "chess-king",
+    "material": "chess-king",
+    "tabler": "chess-king"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "font",
+  "status": "active",
+  "canonical": "letter-a",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6018",
+  "looks": "A single capital letter A.",
+  "use": "Use for fonts, typography, or text styles.",
+  "keywords": [
+    "typeface",
+    "typography",
+    "text"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:35.936Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "text-font",
+    "fluent": "text-font",
+    "lucide": false,
+    "material": false,
+    "octicons": "typography",
+    "radix": false,
+    "tabler": "typography"
+  }
+}

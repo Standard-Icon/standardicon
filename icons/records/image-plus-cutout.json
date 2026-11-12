@@ -1,0 +1,12 @@
+{
+  "name": "image-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28706",
+  "looks": "A picture of a sun and mountains with a small plus sign cut into its lower right.",
+  "use": "Use for adding or uploading an image.",
+  "compare": {
+    "lucide": "image-plus",
+    "sf": "photo.badge.plus"
+  }
+}

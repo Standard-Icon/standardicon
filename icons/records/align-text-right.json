@@ -1,0 +1,27 @@
+{
+  "name": "align-text-right",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6150",
+  "looks": "Three horizontal lines lined up on the right, the middle one shortest.",
+  "use": "Use for right-aligned text.",
+  "formerNames": [
+    "align-right"
+  ],
+  "keywords": [
+    "text",
+    "format"
+  ],
+  "compare": {
+    "carbon": "text-align-right",
+    "fluent": "text-align-right",
+    "lucide": "align-right",
+    "material": "format-align-right",
+    "phosphor": "text-align-right",
+    "radix": "text-align-right",
+    "sf": "text.alignright",
+    "tabler": "align-right"
+  }
+}

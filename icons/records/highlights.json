@@ -1,0 +1,21 @@
+{
+  "name": "highlights",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "184:31838",
+  "looks": "A circle filled with a few horizontal bands across its upper part, like a shine.",
+  "use": "Use for highlights, glare, or light effects in photo editing.",
+  "compare": {
+    "lucide": false,
+    "sf": "circle.lefthalf.striped.horizontal"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "photo"
+    }
+  ]
+}

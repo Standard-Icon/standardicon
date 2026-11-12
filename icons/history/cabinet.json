@@ -1,0 +1,17 @@
+{
+ "name": "cabinet",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M4.5 2.5H11.5C11.765 2.5 12.02 2.605 12.207 2.793C12.395 2.98 12.5 3.235 12.5 3.5V12.5C12.5 12.765 12.395 13.02 12.207 13.207C12.02 13.395 11.765 13.5 11.5 13.5H4.5C4.235 13.5 3.98 13.395 3.793 13.207C3.605 13.02 3.5 12.765 3.5 12.5V3.5C3.5 3.235 3.605 2.98 3.793 2.793C3.98 2.605 4.235 2.5 4.5 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 8H12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.75 5.25H9.25M6.75 10.75H9.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"3.5\" y=\"2.5\" width=\"9\" height=\"11\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.5 8H12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.75 5.25H9.25M6.75 10.75H9.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

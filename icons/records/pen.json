@@ -1,0 +1,22 @@
+{
+  "name": "pen",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6006",
+  "looks": "An upright pen nib with a pointed top, a center dot, and a flat base.",
+  "use": "Use for the pen tool, vector drawing, or paths.",
+  "keywords": [
+    "draw",
+    "vector",
+    "write"
+  ],
+  "compare": {
+    "carbon": "pen",
+    "fluent": "pen",
+    "lucide": "pen",
+    "material": "ink-pen",
+    "phosphor": "pen"
+  }
+}

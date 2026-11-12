@@ -1,0 +1,25 @@
+{
+  "name": "clock-8",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24503",
+  "looks": "A round clock face with hands pointing to eight o'clock.",
+  "use": "Use for 8 o'clock or a specific time.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.927Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "clock",
+    "heroicons": "clock",
+    "lucide": "clock-8",
+    "material": "schedule",
+    "octicons": "clock",
+    "phosphor": "clock",
+    "radix": "clock",
+    "sf": "clock",
+    "tabler": "clock-hour-8"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "chart-candlestick",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Charts and analytics",
+  "figmaId": "34:6370",
+  "looks": "Two candlesticks: boxes on vertical lines at different heights.",
+  "use": "Use for stock prices, trading, or market data.",
+  "keywords": [
+    "stocks",
+    "trading",
+    "finance"
+  ],
+  "compare": {
+    "carbon": "chart-candlestick",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "chart-candlestick",
+    "material": "candlestick-chart",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "chart-candle"
+  }
+}

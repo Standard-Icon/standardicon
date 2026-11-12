@@ -1,0 +1,16 @@
+{
+  "name": "surfboard",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21811",
+  "looks": "A diagonal surfboard with a pointed nose and a center stripe.",
+  "use": "Use for surfing, beaches, or water sports.",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "sf": "surfboard"
+  }
+}

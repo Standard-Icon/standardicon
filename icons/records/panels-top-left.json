@@ -1,0 +1,17 @@
+{
+  "name": "panels-top-left",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27619",
+  "looks": "A rounded rectangle with a header bar across the top and a narrow sidebar on the left below it.",
+  "use": "Use for app layouts with a header and a sidebar.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": "panels-top-left",
+    "material": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

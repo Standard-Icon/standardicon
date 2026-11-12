@@ -1,0 +1,29 @@
+{
+  "name": "id-badge",
+  "status": "active",
+  "canonical": "person",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:4847",
+  "looks": "A rounded badge with a clip at the top and a person bust inside.",
+  "use": "Use for ID badges, staff identity, or credentials.",
+  "approved": {
+    "at": "2026-11-12T01:53:13.781Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "id-card-lanyard",
+    "material": "badge",
+    "octicons": "id-badge",
+    "phosphor": "identification-badge",
+    "radix": false,
+    "sf": false,
+    "tabler": "id-badge"
+  }
+}

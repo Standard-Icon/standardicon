@@ -1,0 +1,9 @@
+{
+  "name": "mic-off",
+  "status": "covered",
+  "coveredBy": "microphone-off",
+  "source": "lucide",
+  "compare": {
+    "lucide": "mic-off"
+  }
+}

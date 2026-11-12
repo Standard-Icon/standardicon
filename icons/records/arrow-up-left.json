@@ -1,0 +1,22 @@
+{
+  "name": "arrow-up-left",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Arrows",
+  "figmaId": "21:1342",
+  "looks": "A diagonal arrow pointing to the upper left, with a square corner for its head.",
+  "use": "Use for go back up, move up and left, or return.",
+  "compare": {
+    "carbon": "arrow-up-left",
+    "fluent": "arrow-up-left",
+    "heroicons": "arrow-up-left",
+    "lucide": "arrow-up-left",
+    "material": "north-west",
+    "octicons": "arrow-up-left",
+    "phosphor": "arrow-up-left",
+    "radix": "arrow-top-left",
+    "sf": "arrow.up.left",
+    "tabler": "arrow-up-left"
+  }
+}

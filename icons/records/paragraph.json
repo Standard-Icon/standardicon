@@ -1,0 +1,21 @@
+{
+  "name": "paragraph",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1230",
+  "looks": "A capital letter P.",
+  "use": "Use for paragraph text or body style.",
+  "keywords": [
+    "text",
+    "pilcrow"
+  ],
+  "compare": {
+    "carbon": "paragraph",
+    "fluent": "text-paragraph",
+    "lucide": "pilcrow",
+    "material": "format-paragraph",
+    "phosphor": "paragraph"
+  }
+}

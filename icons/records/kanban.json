@@ -1,0 +1,22 @@
+{
+  "name": "kanban",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Time and planning",
+  "figmaId": "34:7481",
+  "looks": "Three vertical cards of different heights in a row.",
+  "use": "Use for kanban boards, task columns, or project boards.",
+  "keywords": [
+    "board",
+    "columns",
+    "tasks"
+  ],
+  "compare": {
+    "fluent": "grid-kanban",
+    "lucide": "kanban",
+    "material": "view-kanban",
+    "phosphor": "kanban",
+    "tabler": "layout-kanban"
+  }
+}

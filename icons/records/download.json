@@ -1,0 +1,25 @@
+{
+  "name": "download",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "18:1254",
+  "looks": "An arrow pointing down into an open tray.",
+  "use": "Use for download or save to device.",
+  "keywords": [
+    "save"
+  ],
+  "compare": {
+    "carbon": "download",
+    "fluent": "arrow-download",
+    "heroicons": "arrow-down-tray",
+    "lucide": "download",
+    "material": "download",
+    "octicons": "download",
+    "phosphor": "download",
+    "radix": "download",
+    "sf": "arrow.down.to.line",
+    "tabler": "download"
+  }
+}

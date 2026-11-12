@@ -1,0 +1,22 @@
+{
+  "name": "audio-jack",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22675",
+  "looks": "A vertical headphone plug with a banded tip, a wider body and a short cable at the bottom.",
+  "use": "Use for headphone jacks, audio connectors, or wired audio.",
+  "approved": {
+    "at": "2026-11-12T02:31:05.299Z",
+    "by": "morgan",
+    "version": "2026-11-10T19:59:33.379Z"
+  },
+  "compare": {
+    "carbon": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "sf": "audio.jack.mono"
+  }
+}

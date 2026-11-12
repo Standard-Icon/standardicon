@@ -1,0 +1,12 @@
+{
+  "name": "dishwasher",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22228",
+  "compare": {
+    "material": "dishwasher",
+    "sf": "dishwasher"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "rename",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Core actions",
+  "figmaId": "30:3515",
+  "looks": "A text cursor I-beam standing over a rounded rectangle that is broken around it.",
+  "use": "Use for rename, edit a name, or a text field.",
+  "keywords": [
+    "label",
+    "text"
+  ],
+  "compare": {
+    "fluent": "rename",
+    "lucide": "pen",
+    "material": "drive-file-rename",
+    "sf": "pencil"
+  }
+}

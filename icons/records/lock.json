@@ -1,0 +1,27 @@
+{
+  "name": "lock",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "12:1540",
+  "looks": "A closed padlock with a rounded shackle on a rounded body.",
+  "use": "Use for locked items, security, or privacy.",
+  "keywords": [
+    "secure",
+    "private",
+    "password"
+  ],
+  "compare": {
+    "carbon": "locked",
+    "fluent": "lock-closed",
+    "heroicons": "lock-closed",
+    "lucide": "lock",
+    "material": "lock",
+    "octicons": "lock",
+    "phosphor": "lock",
+    "radix": "lock-closed",
+    "sf": "lock",
+    "tabler": "lock"
+  }
+}

@@ -1,0 +1,19 @@
+{
+ "name": "tire-pressure",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M3 2.5C4.25 3 4.75 3.75 4.25 4.75C3.25 6 2.5 7 2.5 8.5C2.5 10 3.1 11.25 4 12.5H12C12.9 11.25 13.5 10 13.5 8.5C13.5 7 12.75 6 11.75 4.75C11.25 3.75 11.75 3 13 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 12.5V13.5M8 12.5V13.5M10.5 12.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"10\" r=\"0.56\" fill=\"currentColor\"/>",
+   "solidParts": true
+  },
+  {
+   "at": "2026-11-11T04:22:24.748Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M4 2.5C5 3 4.533 3.75 4 4.75C3.104 6.157 2.5 7 2.5 8.5C2.5 10 3.1 11.25 4 12.5H12C12.9 11.25 13.5 10 13.5 8.5C13.5 7 12.912 6.19 12 4.75C11.467 3.75 11 3 12 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 12.5V13.5M8 12.5V13.5M10.5 12.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5V8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"10\" r=\"0.56\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

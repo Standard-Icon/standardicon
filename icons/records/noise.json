@@ -1,0 +1,13 @@
+{
+  "name": "noise",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26302",
+  "compare": {
+    "lucide": false,
+    "material": "noise-aware",
+    "tabler": "noise-reduction"
+  }
+}

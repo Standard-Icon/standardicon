@@ -1,0 +1,14 @@
+{
+  "name": "calendars",
+  "status": "active",
+  "canonical": "calendar",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:23749",
+  "looks": "Two overlapping calendar pages, one behind and up to the right of the other.",
+  "use": "Use for multiple calendars or shared schedules.",
+  "compare": {
+    "lucide": "calendars"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "power-sleep",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24394",
+  "looks": "A circle containing a crescent moon.",
+  "use": "Use for sleep mode or standby.",
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

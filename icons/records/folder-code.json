@@ -1,0 +1,25 @@
+{
+  "name": "folder-code",
+  "status": "active",
+  "parent": "folder",
+  "canonical": "folder",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:23777",
+  "looks": "A folder with an angle bracket pair inside.",
+  "use": "Use for code folders, projects, or repositories.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "folder-code",
+    "material": "folder-code",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "folder-code"
+  }
+}

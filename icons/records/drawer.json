@@ -1,0 +1,18 @@
+{
+  "name": "drawer",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Navigation and layout",
+  "figmaId": "30:3374",
+  "looks": "A wide rounded rectangle with a narrow section on the right holding two short lines.",
+  "use": "Use for a side drawer, a slide-out panel, or extra details.",
+  "keywords": [
+    "sheet",
+    "side panel"
+  ],
+  "compare": {
+    "lucide": "rows-2",
+    "material": "bottom-drawer"
+  }
+}

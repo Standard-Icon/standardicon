@@ -1,0 +1,17 @@
+{
+ "name": "briefcase",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.5 5H12.5C12.765 5 13.02 5.105 13.207 5.293C13.395 5.48 13.5 5.735 13.5 6V12C13.5 12.265 13.395 12.52 13.207 12.707C13.02 12.895 12.765 13 12.5 13H3.5C3.235 13 2.98 12.895 2.793 12.707C2.605 12.52 2.5 12.265 2.5 12V6C2.5 5.735 2.605 5.48 2.793 5.293C2.98 5.105 3.235 5 3.5 5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 5V3.5C5.5 3.235 5.605 2.98 5.793 2.793C5.98 2.605 6.235 2.5 6.5 2.5H9.5C9.765 2.5 10.02 2.605 10.207 2.793C10.395 2.98 10.5 3.235 10.5 3.5V5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 9H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"5\" width=\"11\" height=\"8\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5.5 5V3.5C5.5 3.235 5.605 2.98 5.793 2.793C5.98 2.605 6.235 2.5 6.5 2.5H9.5C9.765 2.5 10.02 2.605 10.207 2.793C10.395 2.98 10.5 3.235 10.5 3.5V5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 9H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

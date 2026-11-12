@@ -1,0 +1,23 @@
+{
+ "name": "baseball",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"5.5\" stroke=\"currentColor\"/><path d=\"M4.11 4.11C7 6.5 7 9.5 4.11 11.89M11.89 4.11C9 6.5 9 9.5 11.89 11.89\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.9 5.5H6.05M5.53 8H7.03M4.9 10.5H6.05M11.1 5.5H9.95M10.47 8H8.97M11.1 10.5H9.95\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T07:22:14.556Z",
+   "source": "figma",
+   "released": false,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.16855\" stroke=\"currentColor\"/><path d=\"M3.637 3.637C6.878 6.318 6.878 9.682 3.637 12.363M12.362 3.637C9.121 6.318 9.121 9.682 12.362 12.363\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.523 5.196H5.813M5.23 8H6.912M4.523 10.804H5.813M11.477 5.196H10.187M10.77 8H9.088M11.477 10.804H10.187\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"6.16855\" stroke=\"currentColor\"/><path d=\"M3.637 3.637C6.878 6.318 6.878 9.682 3.637 12.363M12.362 3.637C9.121 6.318 9.121 9.682 12.362 12.363\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.523 5.196H5.813M5.23 8H6.912M4.523 10.804H5.813M11.477 5.196H10.187M10.77 8H9.088M11.477 10.804H10.187\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

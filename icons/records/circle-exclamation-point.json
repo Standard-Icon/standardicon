@@ -1,0 +1,12 @@
+{
+  "name": "circle-exclamation-point",
+  "status": "dropped",
+  "coveredBy": "alert-circle",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "Not drawn: alert-circle already does this."
+    }
+  ]
+}

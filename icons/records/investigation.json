@@ -1,0 +1,16 @@
+{
+  "name": "investigation",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:54120",
+  "notes": [
+    {
+      "at": "2026-11-09",
+      "by": "morgan",
+      "text": "Is this search icon different than the canonical search icon? The stem doesn't look rounded. Are other search icons like this? Are they not all using the canonical search icon?",
+      "issue": "is-this-search-icon-different-than-the-canonical"
+    }
+  ]
+}

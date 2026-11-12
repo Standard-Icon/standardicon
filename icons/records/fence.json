@@ -1,0 +1,15 @@
+{
+  "name": "fence",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:20994",
+  "looks": "Three pointed pickets joined by two crossbars.",
+  "use": "Use for a fence, a yard, or a boundary.",
+  "compare": {
+    "lucide": "fence",
+    "material": "fence",
+    "tabler": "fence"
+  }
+}

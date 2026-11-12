@@ -1,0 +1,11 @@
+{
+ "name": "motorbike",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"3.5\" cy=\"11\" r=\"2\" stroke=\"currentColor\"/><circle cx=\"12.5\" cy=\"11\" r=\"2\" stroke=\"currentColor\"/><path d=\"M8.5 2.5H10.5L12.5 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 6.5H5.5M5.5 6.5H6.25C6.75 5.4 7.6 5 8.5 5H11.09L11.91 8.5L8.5 11H7.25L5.5 6.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.39 8.8L3.5 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

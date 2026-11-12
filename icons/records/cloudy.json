@@ -1,0 +1,21 @@
+{
+  "name": "cloudy",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:7858",
+  "looks": "Two overlapping clouds, one behind the other.",
+  "use": "Use for cloudy weather or overcast skies.",
+  "approved": {
+    "at": "2026-11-12T02:32:44.044Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "cloudy",
+    "fluent": false,
+    "lucide": "cloudy",
+    "material": false
+  }
+}

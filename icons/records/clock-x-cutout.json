@@ -1,0 +1,14 @@
+{
+  "name": "clock-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28578",
+  "looks": "A clock with an x cut into the lower right edge.",
+  "use": "Use for expired, timed out, or a canceled reminder.",
+  "compare": {
+    "heroicons": false,
+    "radix": false,
+    "sf": "clock.badge.xmark",
+    "tabler": "clock-x"
+  }
+}

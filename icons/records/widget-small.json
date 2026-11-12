@@ -1,0 +1,25 @@
+{
+  "name": "widget-small",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24122",
+  "looks": "A rounded square with a short horizontal line in the middle.",
+  "use": "Use for a small widget.",
+  "approved": {
+    "at": "2026-11-11T19:15:36.748Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "widget-small",
+    "octicons": false,
+    "sf": "widget.small",
+    "tabler": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "anvil",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21251",
+  "looks": "An anvil with a pointed horn on the left, a flat top, and a block base.",
+  "use": "Use for forging, building, or heavy work.",
+  "compare": {
+    "lucide": "anvil"
+  }
+}

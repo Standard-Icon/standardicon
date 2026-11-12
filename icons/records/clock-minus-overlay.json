@@ -1,0 +1,16 @@
+{
+  "name": "clock-minus-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23673",
+  "looks": "A clock with a small rounded square holding a minus overlapping its lower right.",
+  "use": "Use for subtracting time or removing a time entry.",
+  "formerNames": [
+    "clock-minus"
+  ],
+  "compare": {
+    "lucide": "alarm-clock-minus",
+    "sf": false,
+    "tabler": "clock-minus"
+  }
+}

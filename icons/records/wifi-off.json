@@ -1,0 +1,29 @@
+{
+  "name": "wifi-off",
+  "status": "active",
+  "parent": "wifi",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Settings and controls",
+  "figmaId": "33:5781",
+  "looks": "A wifi fan of curved arcs and a dot, crossed by a diagonal slash.",
+  "use": "Use for no wifi or being offline.",
+  "keywords": [
+    "offline",
+    "disconnected"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "wifi-off",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": "wifi-no-connection",
+    "lucide": "wifi-off",
+    "material": "wifi-off",
+    "octicons": false,
+    "phosphor": "wifi-slash",
+    "radix": false,
+    "sf": "wifi.slash",
+    "tabler": "wifi-off"
+  }
+}

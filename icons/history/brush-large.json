@@ -1,0 +1,11 @@
+{
+ "name": "brush-large",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"6.5\" y=\"2.5\" width=\"3\" height=\"5\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"4.5\" y=\"7.5\" width=\"7\" height=\"2\" rx=\"0.25\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.5 9.5V12.5L6 13.5L8 12.5L10 13.5L11.5 12.5V9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "name": "guitar-electric",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M3.25 12.751C4.52 14.021 6.15 14.091 7.21 13.031C7.99 12.261 7.95 11.284 8.52 10.561C8.89 10.113 9.12 10.281 9.68 9.711C10.32 9.071 10.18 8.081 9.68 7.591L8.41 6.321C7.92 5.821 6.93 5.681 6.29 6.321C5.72 6.881 5.88 7.107 5.44 7.474C4.71 8.048 3.74 8.011 2.97 8.791C1.91 9.851 1.98 11.481 3.25 12.751Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.37 8.628L11.56 4.441\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.46 3.527L12.72 4.263C12.44 4.532 12.01 4.531 11.74 4.261C11.47 3.991 11.47 3.554 11.74 3.283L12.47 2.542L13.46 3.527Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.37 10.733L5.27 11.633\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"6.39\" cy=\"9.607\" r=\"1\" stroke=\"currentColor\"/><path d=\"M12.75 8.5L11.75 10H13.25L12.25 11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

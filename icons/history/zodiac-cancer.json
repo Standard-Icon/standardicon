@@ -1,0 +1,11 @@
+{
+ "name": "zodiac-cancer",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<circle cx=\"5\" cy=\"6\" r=\"1.75\" stroke=\"currentColor\"/><circle cx=\"11\" cy=\"10\" r=\"1.75\" stroke=\"currentColor\"/><path d=\"M5 4.25C7.5 3 10.5 3 13 5M11 11.75C8.5 13 5.5 13 3 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

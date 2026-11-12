@@ -1,0 +1,23 @@
+{
+  "name": "apple",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8720",
+  "looks": "An apple with a short stem curving up from the top.",
+  "use": "Use for fruit, healthy food, or school.",
+  "keywords": [
+    "fruit",
+    "food",
+    "health"
+  ],
+  "compare": {
+    "carbon": "apple",
+    "iconic": false,
+    "lucide": "apple",
+    "phosphor": "apple-logo",
+    "sf": "apple.logo",
+    "tabler": "apple"
+  }
+}

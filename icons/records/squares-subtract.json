@@ -1,0 +1,19 @@
+{
+  "name": "squares-subtract",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "58:21605",
+  "looks": "Two overlapping rounded squares with the overlap area cut out of the front shape.",
+  "use": "Use for the subtract shapes boolean operation.",
+  "compare": {
+    "carbon": false,
+    "fluent": "shape-subtract",
+    "heroicons": false,
+    "lucide": "squares-subtract",
+    "phosphor": "subtract",
+    "sf": false,
+    "tabler": "layers-subtract"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "octagon-x-integrated",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27223",
+  "looks": "An eight-sided outline with an x drawn inside it.",
+  "use": "Use for an error, a stop, or a failed state.",
+  "formerNames": [
+    "octagon-x"
+  ],
+  "compare": {
+    "heroicons": false,
+    "lucide": "octagon-x",
+    "radix": false,
+    "sf": "xmark.octagon"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "nfc",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "communication",
+  "figmaId": "59:22117",
+  "looks": "A rounded square holding two curved signal waves on the left side.",
+  "use": "Use for NFC, tap to pay, or contactless.",
+  "compare": {
+    "lucide": "nfc",
+    "material": "nfc",
+    "tabler": "nfc"
+  }
+}

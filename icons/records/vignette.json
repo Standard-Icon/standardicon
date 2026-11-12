@@ -1,0 +1,16 @@
+{
+  "name": "vignette",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:25705",
+  "looks": "A rounded rectangle with a rounded oval inset inside it.",
+  "use": "Use for vignette effects or darkened edges.",
+  "compare": {
+    "material": "vignette",
+    "phosphor": "vignette",
+    "sf": "circle.dotted.circle",
+    "tabler": "vignette"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "circle-star",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24266",
+  "looks": "A circle with a small star in the middle.",
+  "use": "Use for favorites, featured items, or ratings.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.785Z",
+    "by": "Morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "circle-star"
+  }
+}

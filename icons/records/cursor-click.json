@@ -1,0 +1,28 @@
+{
+  "name": "cursor-click",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31326",
+  "looks": "A pointer aimed up-left with short rays bursting from its tip.",
+  "use": "Use for clicking, tapping, or calls to action.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": "mouse-pointer-click",
+    "material": "ads-click",
+    "octicons": false,
+    "phosphor": "cursor-click",
+    "radix": false,
+    "sf": "pointer.arrow.click",
+    "tabler": "click"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "people"
+    }
+  ]
+}

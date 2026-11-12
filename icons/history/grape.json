@@ -1,0 +1,29 @@
+{
+ "name": "grape",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"11.23\" cy=\"10.389\" r=\"1.4\" stroke=\"currentColor\"/><circle cx=\"8.435\" cy=\"9.793\" r=\"1.4\" stroke=\"currentColor\"/><circle cx=\"10.404\" cy=\"7.642\" r=\"1.4\" stroke=\"currentColor\"/><circle cx=\"5.458\" cy=\"9.384\" r=\"1.4\" stroke=\"currentColor\"/><circle cx=\"7.22\" cy=\"7.147\" r=\"1.4\" stroke=\"currentColor\"/><circle cx=\"9.171\" cy=\"5.013\" r=\"1.4\" stroke=\"currentColor\"/><path d=\"M6.232 6.157L5.066 4.99L4.182 4.106M5.066 4.99C5.066 3.576 5.596 2.692 6.303 1.985\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<circle cx=\"12.634\" cy=\"11.688\" r=\"1.575\" stroke=\"currentColor\"/><circle cx=\"9.489\" cy=\"11.018\" r=\"1.575\" stroke=\"currentColor\"/><circle cx=\"11.704\" cy=\"8.598\" r=\"1.575\" stroke=\"currentColor\"/><circle cx=\"6.139\" cy=\"10.557\" r=\"1.575\" stroke=\"currentColor\"/><circle cx=\"8.124\" cy=\"8.041\" r=\"1.575\" stroke=\"currentColor\"/><circle cx=\"10.317\" cy=\"5.639\" r=\"1.575\" stroke=\"currentColor\"/><path d=\"M7.01 6.927L4.703 4.62M5.697 5.614C5.697 4.023 6.294 3.029 7.09 2.234\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<circle cx=\"14.037\" cy=\"12.986\" r=\"1.75\" stroke=\"currentColor\"/><circle cx=\"10.543\" cy=\"12.242\" r=\"1.75\" stroke=\"currentColor\"/><circle cx=\"13.004\" cy=\"9.553\" r=\"1.75\" stroke=\"currentColor\"/><circle cx=\"6.823\" cy=\"11.729\" r=\"1.75\" stroke=\"currentColor\"/><circle cx=\"9.026\" cy=\"8.934\" r=\"1.75\" stroke=\"currentColor\"/><circle cx=\"11.465\" cy=\"6.266\" r=\"1.75\" stroke=\"currentColor\"/><path d=\"M7.79 7.697L6.331 6.238L5.227 5.133M6.331 6.238C6.331 4.47 6.994 3.366 7.878 2.482\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<circle cx=\"15.441\" cy=\"14.285\" r=\"1.925\" stroke=\"currentColor\"/><circle cx=\"11.597\" cy=\"13.466\" r=\"1.925\" stroke=\"currentColor\"/><circle cx=\"14.304\" cy=\"10.508\" r=\"1.925\" stroke=\"currentColor\"/><circle cx=\"7.504\" cy=\"12.903\" r=\"1.925\" stroke=\"currentColor\"/><circle cx=\"9.929\" cy=\"9.828\" r=\"1.925\" stroke=\"currentColor\"/><circle cx=\"12.611\" cy=\"6.893\" r=\"1.925\" stroke=\"currentColor\"/><path d=\"M8.568 8.466L6.963 6.862L5.748 5.646M6.963 6.862C6.963 4.917 7.693 3.702 8.665 2.73\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<circle cx=\"16.845\" cy=\"15.583\" r=\"2.1\" stroke=\"currentColor\"/><circle cx=\"12.651\" cy=\"14.69\" r=\"2.1\" stroke=\"currentColor\"/><circle cx=\"15.605\" cy=\"11.463\" r=\"2.1\" stroke=\"currentColor\"/><circle cx=\"8.187\" cy=\"14.076\" r=\"2.1\" stroke=\"currentColor\"/><circle cx=\"10.831\" cy=\"10.721\" r=\"2.1\" stroke=\"currentColor\"/><circle cx=\"13.757\" cy=\"7.519\" r=\"2.1\" stroke=\"currentColor\"/><path d=\"M9.347 9.236L6.271 6.16M7.597 7.486C7.597 5.365 8.393 4.039 9.453 2.978\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-11T09:46:49.583Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"11.23\" cy=\"10.389\" r=\"1.4\" stroke=\"currentColor\"/><circle cx=\"8.435\" cy=\"9.793\" r=\"1.4\" stroke=\"currentColor\"/><circle cx=\"10.404\" cy=\"7.642\" r=\"1.4\" stroke=\"currentColor\"/><circle cx=\"5.458\" cy=\"9.384\" r=\"1.4\" stroke=\"currentColor\"/><circle cx=\"7.22\" cy=\"7.147\" r=\"1.4\" stroke=\"currentColor\"/><circle cx=\"9.171\" cy=\"5.013\" r=\"1.4\" stroke=\"currentColor\"/><path d=\"M6.232 6.157L5.066 4.99L4.182 4.106M5.066 4.99C5.066 3.576 5.596 2.692 6.303 1.985\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"11.583\" cy=\"11.929\" r=\"1.57091\" stroke=\"currentColor\"/><circle cx=\"8.446\" cy=\"11.261\" r=\"1.57091\" stroke=\"currentColor\"/><circle cx=\"10.655\" cy=\"8.848\" r=\"1.57091\" stroke=\"currentColor\"/><circle cx=\"5.104\" cy=\"10.802\" r=\"1.57091\" stroke=\"currentColor\"/><circle cx=\"7.085\" cy=\"8.293\" r=\"1.57091\" stroke=\"currentColor\"/><circle cx=\"9.272\" cy=\"5.897\" r=\"1.57091\" stroke=\"currentColor\"/><path d=\"M5.973 7.181L3.672 4.88M4.664 5.872C4.664 4.285 5.259 3.294 6.052 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

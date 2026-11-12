@@ -1,0 +1,15 @@
+{
+  "name": "cash-register",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Money and banking",
+  "pick": "A",
+  "figmaId": "81:26765",
+  "looks": "A register with a small display on top and a wide drawer with a handle line below.",
+  "use": "Use for point of sale, checkout, or retail.",
+  "compare": {
+    "phosphor": "cash-register",
+    "tabler": "cash-register"
+  }
+}

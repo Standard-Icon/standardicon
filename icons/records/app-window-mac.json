@@ -1,0 +1,20 @@
+{
+  "name": "app-window-mac",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23810",
+  "looks": "A rounded window with three small dots and a line below them near the top, the body left empty.",
+  "use": "Use for an app window, desktop application, or browser window.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-10T19:47:26.468Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "app-window-mac",
+    "phosphor": "app-window",
+    "sf": false,
+    "tabler": "app-window"
+  }
+}

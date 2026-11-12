@@ -1,0 +1,11 @@
+{
+ "name": "layout-template",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"4\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"2.5\" y=\"8.5\" width=\"5.5\" height=\"5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"10\" y=\"8.5\" width=\"3.5\" height=\"5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

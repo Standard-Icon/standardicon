@@ -1,0 +1,18 @@
+{
+  "name": "school",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9131",
+  "keywords": [
+    "education",
+    "building"
+  ],
+  "compare": {
+    "lucide": "school",
+    "material": "school",
+    "sf": "graduationcap",
+    "tabler": "school"
+  }
+}

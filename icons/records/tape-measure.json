@@ -1,0 +1,15 @@
+{
+  "name": "tape-measure",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24241",
+  "compare": {
+    "lucide": false,
+    "material": "measuring-tape",
+    "phosphor": false,
+    "sf": false,
+    "tabler": "ruler-measure"
+  }
+}

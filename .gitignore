@@ -1,0 +1,13 @@
+.claude/settings.local.json
+out/
+.next/
+/public/
+next-env.d.ts
+*.tsbuildinfo
+.pack/
+node_modules/
+.DS_Store
+.addy/
+brand-directions/
+.sync/
+.workbench/

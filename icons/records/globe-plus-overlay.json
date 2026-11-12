@@ -1,0 +1,18 @@
+{
+  "name": "globe-plus-overlay",
+  "status": "active",
+  "parent": "globe-simple",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:19557",
+  "looks": "A globe with a small rounded square holding a plus overlapping its lower right.",
+  "use": "Use for adding a domain, site, or region.",
+  "formerNames": [
+    "globe-plus"
+  ],
+  "compare": {
+    "lucide": "globe-plus",
+    "sf": false
+  }
+}

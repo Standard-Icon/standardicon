@@ -1,0 +1,29 @@
+{
+  "name": "bed",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9183",
+  "looks": "A side view of a bed with a headboard on the left, a pillow, and a long mattress with legs.",
+  "use": "Use for sleep, lodging, or hotel rooms.",
+  "keywords": [
+    "sleep",
+    "hotel",
+    "rest"
+  ],
+  "approved": {
+    "at": "2026-11-10T19:49:07.043Z",
+    "by": "morgan",
+    "version": "2026-11-10T18:59:40.607Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": "bed",
+    "lucide": "bed",
+    "material": "bed",
+    "phosphor": "bed",
+    "sf": "bed.double",
+    "tabler": "bed"
+  }
+}

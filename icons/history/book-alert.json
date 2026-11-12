@@ -1,0 +1,12 @@
+{
+ "name": "book-alert",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M13 11.2H4.29C3.58 11.2 3 11.78 3 12.5V3.2C3 2.93 3.1 2.68 3.29 2.49C3.48 2.3 3.73 2.2 4 2.2H4.5V11.2M4.5 2.2H13V11.2C13 11.2 12.62 11.47 12.62 12.5C12.62 13.52 13 13.79 13 13.79H4.29C3.58 13.79 3 13.21 3 12.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.501 4.59V6.92\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8.502\" cy=\"8.41\" r=\"0.520238\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

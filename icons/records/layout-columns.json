@@ -1,0 +1,21 @@
+{
+  "name": "layout-columns",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Navigation and layout",
+  "figmaId": "30:3233",
+  "looks": "A wide rounded rectangle split into three equal columns.",
+  "use": "Use for column layouts or a board view.",
+  "compare": {
+    "fluent": false,
+    "heroicons": "view-columns",
+    "lucide": "columns-3",
+    "material": false,
+    "octicons": "columns",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "layout-columns"
+  }
+}

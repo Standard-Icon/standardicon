@@ -1,0 +1,18 @@
+{
+  "name": "person-search-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28155",
+  "looks": "A person's head and shoulders with a small magnifying glass at the lower right.",
+  "use": "Use for finding people or searching users.",
+  "compare": {
+    "fluent": "person-search",
+    "heroicons": false,
+    "lucide": "user-search",
+    "material": "person-search",
+    "phosphor": false,
+    "radix": false,
+    "sf": "person.crop.badge.magnifyingglass",
+    "tabler": "user-search"
+  }
+}

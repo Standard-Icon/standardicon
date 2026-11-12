@@ -1,0 +1,26 @@
+{
+  "name": "share",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "13:966",
+  "looks": "An arrow pointing up out of an open-topped rounded box.",
+  "use": "Use for share or send to another app.",
+  "keywords": [
+    "send",
+    "export"
+  ],
+  "compare": {
+    "carbon": "share",
+    "fluent": "share",
+    "heroicons": "share",
+    "lucide": "share",
+    "material": "share",
+    "octicons": "share",
+    "phosphor": "share",
+    "radix": "share-1",
+    "sf": "square.and.arrow.up",
+    "tabler": "share"
+  }
+}

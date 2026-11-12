@@ -1,0 +1,15 @@
+{
+  "name": "multiply",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Math",
+  "figmaId": "275:22513",
+  "flags": [
+    "possible-duplicate"
+  ],
+  "compare": {
+    "lucide": "x",
+    "sf": "multiply"
+  }
+}

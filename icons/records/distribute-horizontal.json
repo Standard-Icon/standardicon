@@ -1,0 +1,23 @@
+{
+  "name": "distribute-horizontal",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6433",
+  "looks": "A small rounded rectangle centered between two vertical lines at left and right.",
+  "use": "Use for distributing objects evenly across.",
+  "compare": {
+    "carbon": "distribute-horizontal-left",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "align-horizontal-distribute-center",
+    "material": "horizontal-distribute",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "distribute.horizontal",
+    "tabler": "layout-distribute-horizontal"
+  }
+}

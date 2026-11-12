@@ -1,0 +1,27 @@
+{
+  "name": "app-window",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Navigation and layout",
+  "figmaId": "30:3327",
+  "looks": "A wide rounded rectangle with a top bar and a small dot at the top left.",
+  "use": "Use for an app window, a browser, or a desktop app.",
+  "formerNames": [
+    "window"
+  ],
+  "keywords": [
+    "browser"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "app",
+    "fluent": "window",
+    "heroicons": "window",
+    "lucide": "app-window",
+    "material": "window",
+    "phosphor": "app-window",
+    "sf": "app",
+    "tabler": "app-window"
+  }
+}

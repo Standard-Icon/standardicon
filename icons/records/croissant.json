@@ -1,0 +1,19 @@
+{
+  "name": "croissant",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19449",
+  "compare": {
+    "lucide": "croissant"
+  },
+  "notes": [
+    {
+      "at": "2026-11-09",
+      "by": "morgan",
+      "text": "lucides is better",
+      "issue": "lucides-is-better"
+    }
+  ]
+}

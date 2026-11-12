@@ -1,0 +1,12 @@
+{
+  "name": "levels",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:25530",
+  "compare": {
+    "carbon": "service-levels",
+    "lucide": false
+  }
+}

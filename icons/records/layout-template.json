@@ -1,0 +1,18 @@
+{
+  "name": "layout-template",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26515",
+  "looks": "A wide panel on top with a wide box and a narrow box side by side below.",
+  "use": "Use for page templates or layout presets.",
+  "compare": {
+    "carbon": "template",
+    "fluent": false,
+    "lucide": "layout-template",
+    "material": false,
+    "octicons": "repo-template",
+    "phosphor": false,
+    "radix": false,
+    "tabler": "layout"
+  }
+}

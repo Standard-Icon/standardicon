@@ -1,0 +1,17 @@
+{
+ "name": "banknote-stack",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<rect x=\"2\" y=\"6\" width=\"12\" height=\"7\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.5 4H12.5M5 2.5H11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.75 9.5C9.75 9.964 9.566 10.409 9.237 10.737C8.909 11.066 8.464 11.25 8 11.25C7.536 11.25 7.091 11.066 6.763 10.737C6.434 10.409 6.25 9.964 6.25 9.5C6.25 9.036 6.434 8.591 6.763 8.263C7.091 7.934 7.536 7.75 8 7.75C8.464 7.75 8.909 7.934 9.237 8.263C9.566 8.591 9.75 9.036 9.75 9.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<rect x=\"2\" y=\"6\" width=\"12\" height=\"7\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M3.5 5.832V5C3.5 4.448 3.948 4 4.5 4H11.5C12.052 4 12.5 4.448 12.5 5V5.832M5 3.782V3.5C5 2.948 5.448 2.5 6 2.5H10C10.552 2.5 11 2.948 11 3.5V3.68\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.75 9.5C9.75 9.964 9.566 10.409 9.237 10.737C8.909 11.066 8.464 11.25 8 11.25C7.536 11.25 7.091 11.066 6.763 10.737C6.434 10.409 6.25 9.964 6.25 9.5C6.25 9.036 6.434 8.591 6.763 8.263C7.091 7.934 7.536 7.75 8 7.75C8.464 7.75 8.909 7.934 9.237 8.263C9.566 8.591 9.75 9.036 9.75 9.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

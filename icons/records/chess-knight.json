@@ -1,0 +1,22 @@
+{
+  "name": "chess-knight",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:23016",
+  "looks": "A chess knight shaped like a horse head facing left, on a wide base.",
+  "use": "Use for the knight piece, chess, or strategy.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-12T02:32:23.192Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "fluent": false,
+    "lucide": "chess-knight",
+    "material": "chess-knight",
+    "tabler": "chess-knight"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "prohibit",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "figmaId": "12:1487",
+  "looks": "A circle with a diagonal slash running edge to edge from upper right to lower left.",
+  "use": "Use for blocked, not allowed, or banned.",
+  "keywords": [
+    "ban",
+    "block",
+    "forbidden",
+    "not allowed"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:23:22.458Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "heroicons": "no-symbol",
+    "lucide": "ban",
+    "material": "block",
+    "octicons": "blocked",
+    "phosphor": "prohibit",
+    "radix": "circle-backslash",
+    "sf": "nosign",
+    "tabler": "ban"
+  }
+}

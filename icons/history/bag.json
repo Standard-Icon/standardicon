@@ -1,0 +1,17 @@
+{
+ "name": "bag",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.5 5.5H12.5L13.25 12.5C13.25 12.765 13.145 13.02 12.957 13.207C12.77 13.395 12.515 13.5 12.25 13.5H3.75C3.485 13.5 3.23 13.395 3.043 13.207C2.855 13.02 2.75 12.765 2.75 12.5L3.5 5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 7V4.5C5.5 3.837 5.763 3.201 6.232 2.732C6.701 2.263 7.337 2 8 2C8.663 2 9.299 2.263 9.768 2.732C10.237 3.201 10.5 3.837 10.5 4.5V7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M3.5 5.5H12.5L13.25 12.5C13.25 12.765 13.145 13.02 12.957 13.207C12.77 13.395 12.515 13.5 12.25 13.5H3.75C3.485 13.5 3.23 13.395 3.043 13.207C2.855 13.02 2.75 12.765 2.75 12.5L3.5 5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 6.743V4.592C5.5 4.021 5.763 3.474 6.232 3.071C6.701 2.667 7.337 2.44 8 2.44C8.663 2.44 9.299 2.667 9.768 3.071C10.237 3.474 10.5 4.021 10.5 4.592V6.743\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

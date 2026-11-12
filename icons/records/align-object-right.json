@@ -1,0 +1,20 @@
+{
+  "name": "align-object-right",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "design",
+  "figmaId": "58:21740",
+  "looks": "Two horizontal bars, long above short, lined up against a vertical line on the right.",
+  "use": "Use for aligning objects to the right edge.",
+  "compare": {
+    "carbon": "align-horizontal-right",
+    "fluent": "align-right",
+    "lucide": "align-end-vertical",
+    "material": "align-horizontal-right",
+    "phosphor": "align-right",
+    "radix": "align-right",
+    "sf": "align.horizontal.right",
+    "tabler": "align-right"
+  }
+}

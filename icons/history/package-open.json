@@ -1,0 +1,11 @@
+{
+ "name": "package-open",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 13.5L13 11V6L8 8.5L3 6V11L8 13.5ZM8 8.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 6L2 3.5L7 2.5L8 4.5L9 2.5L14 3.5L13 6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

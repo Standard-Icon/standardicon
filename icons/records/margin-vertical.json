@@ -1,0 +1,20 @@
+{
+  "name": "margin-vertical",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26948",
+  "looks": "A small square between two horizontal lines at the top and bottom.",
+  "use": "Use for top and bottom margins or vertical spacing.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "margin-vertical",
+    "material": "margin",
+    "phosphor": false,
+    "radix": "margin",
+    "sf": false,
+    "tabler": "box-margin"
+  }
+}

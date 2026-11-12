@@ -1,0 +1,12 @@
+{
+  "name": "globe-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28794",
+  "looks": "A globe with a small plus sign cut into its lower right edge.",
+  "use": "Use for adding a domain, site, or region.",
+  "compare": {
+    "lucide": "globe-plus",
+    "sf": false
+  }
+}

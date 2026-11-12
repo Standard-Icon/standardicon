@@ -1,0 +1,19 @@
+{
+  "name": "factory",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7795",
+  "keywords": [
+    "manufacturing",
+    "industry"
+  ],
+  "compare": {
+    "fluent": "building-factory",
+    "lucide": "factory",
+    "material": "factory",
+    "phosphor": "factory",
+    "tabler": "building-factory"
+  }
+}

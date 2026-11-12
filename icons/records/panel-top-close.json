@@ -1,0 +1,18 @@
+{
+  "name": "panel-top-close",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27583",
+  "looks": "A rounded rectangle with a line near the top and a small upward chevron below it.",
+  "use": "Use for collapsing or closing a top panel.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "panel-top-close",
+    "material": "top-panel-close",
+    "radix": false,
+    "sf": false,
+    "tabler": "layout-navbar-collapse"
+  }
+}

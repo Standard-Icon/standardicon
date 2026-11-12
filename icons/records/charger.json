@@ -1,0 +1,17 @@
+{
+  "name": "charger",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8575",
+  "keywords": [
+    "power adapter",
+    "plug"
+  ],
+  "compare": {
+    "lucide": false,
+    "material": "charger",
+    "sf": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "plane-takeoff",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M12.699 3.763C12.984 4.257 12.639 4.895 12.146 5.18L10.5 6.13L10.138 10.727L9.109 11.321L8.444 7.317L6.592 8.386L6.158 10.008L5.335 10.483L4.76 8.347L3.198 6.781L4.02 6.306L5.642 6.741L7.494 5.672L4.359 3.093L5.388 2.5L9.55 4.484L11.196 3.534C11.689 3.249 12.414 3.27 12.699 3.763Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 13.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

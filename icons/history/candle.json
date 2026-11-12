@@ -1,0 +1,17 @@
+{
+ "name": "candle",
+ "versions": [
+  {
+   "at": "2026-11-07T17:52:24-08:00",
+   "source": "git 723f40b",
+   "released": true,
+   "body": "<rect x=\"5.5\" y=\"7\" width=\"5\" height=\"6.5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M8 2C8.75 3 9.25 3.75 9.25 4.5C9.25 4.832 9.118 5.149 8.884 5.384C8.649 5.618 8.332 5.75 8 5.75C7.668 5.75 7.351 5.618 7.116 5.384C6.882 5.149 6.75 4.832 6.75 4.5C6.75 3.75 7.25 3 8 2Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.75V7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T20:25:52.393Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"5.5\" y=\"7\" width=\"5\" height=\"6.5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M8 2C8.6 2.8 9 3.4 9 4C9 4.265 8.89 4.52 8.71 4.707C8.52 4.895 8.27 5 8 5C7.73 5 7.48 4.895 7.29 4.707C7.11 4.52 7 4.265 7 4C7 3.4 7.4 2.8 8 2Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 5.22L8 7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

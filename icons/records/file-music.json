@@ -1,0 +1,20 @@
+{
+  "name": "file-music",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25437",
+  "looks": "A file with a folded top right corner and a music note inside.",
+  "use": "Use for music or audio files.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": "file-music",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "file-music"
+  }
+}

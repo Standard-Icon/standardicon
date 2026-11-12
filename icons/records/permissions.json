@@ -1,0 +1,17 @@
+{
+  "name": "permissions",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:6016",
+  "looks": "A closed padlock with a checkmark on its body.",
+  "use": "Use for permissions, granted access, or allowed actions.",
+  "keywords": [
+    "roles",
+    "access"
+  ],
+  "compare": {
+    "lucide": "user-key"
+  }
+}

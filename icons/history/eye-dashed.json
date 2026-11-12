@@ -1,0 +1,11 @@
+{
+ "name": "eye-dashed",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M2.3 8C2.6 7.45 2.95 6.95 3.3 6.5M4.7 5.2C5.25 4.8 5.85 4.55 6.5 4.35M9.5 4.35C10.15 4.55 10.75 4.8 11.3 5.2M12.7 6.5C13.05 6.95 13.4 7.45 13.7 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.3 8C2.6 8.55 2.95 9.05 3.3 9.5M4.7 10.8C5.25 11.2 5.85 11.45 6.5 11.65M9.5 11.65C10.15 11.45 10.75 11.2 11.3 10.8M12.7 9.5C13.05 9.05 13.4 8.55 13.7 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"8\" r=\"2\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

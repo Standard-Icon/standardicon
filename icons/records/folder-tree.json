@@ -1,0 +1,20 @@
+{
+  "name": "folder-tree",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25846",
+  "looks": "Two stacked rectangles joined to a vertical line on the left by branches.",
+  "use": "Use for folder trees, file hierarchies, or nested structure.",
+  "compare": {
+    "carbon": "folder-tree",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "folder-tree",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

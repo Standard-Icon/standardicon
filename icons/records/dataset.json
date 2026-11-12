@@ -1,0 +1,12 @@
+{
+  "name": "dataset",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:54028",
+  "compare": {
+    "lucide": "database",
+    "material": "dataset"
+  }
+}

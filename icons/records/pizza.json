@@ -1,0 +1,26 @@
+{
+  "name": "pizza",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8699",
+  "looks": "A whole round pizza with a crust ring, cut into eight slices.",
+  "use": "Use for pizza, food, or a restaurant.",
+  "keywords": [
+    "food",
+    "slice"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-12T18:43:44.676Z",
+    "by": "Morgan",
+    "version": "2026-11-12T18:43:39.589Z"
+  },
+  "compare": {
+    "lucide": "pizza",
+    "material": "local-pizza",
+    "phosphor": "pizza",
+    "tabler": "pizza"
+  }
+}

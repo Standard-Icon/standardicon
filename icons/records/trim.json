@@ -1,0 +1,13 @@
+{
+  "name": "trim",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26456",
+  "looks": "A rounded rectangle with a small rounded handle on its left and right edges.",
+  "use": "Use for trimming a clip or adjusting its length.",
+  "compare": {
+    "sf": false
+  }
+}

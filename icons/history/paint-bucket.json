@@ -1,0 +1,17 @@
+{
+ "name": "paint-bucket",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M7.5 3.5L13 8L8 13L3 8L7.5 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.25 2.5L7.5 4.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 8H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13.5 10.5C12.75 11.5 12.5 12 12.5 12.5C12.5 12.765 12.605 13.02 12.793 13.207C12.98 13.395 13.235 13.5 13.5 13.5C13.765 13.5 14.02 13.395 14.207 13.207C14.395 13.02 14.5 12.765 14.5 12.5C14.5 12 14.25 11.5 13.5 10.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M6.5 3.5L12 8L7 13L2 8L6.5 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.25 2.5L6.5 4.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2 8H12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.5 10.5C11.75 11.5 11.5 12 11.5 12.5C11.5 12.765 11.605 13.02 11.793 13.207C11.98 13.395 12.235 13.5 12.5 13.5C12.765 13.5 13.02 13.395 13.207 13.207C13.395 13.02 13.5 12.765 13.5 12.5C13.5 12 13.25 11.5 12.5 10.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "message-oval-dots",
+  "status": "active",
+  "parent": "message-oval",
+  "canonical": "message-oval",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "communication",
+  "figmaId": "60:22093",
+  "looks": "An oval speech bubble with three dots in a row inside it.",
+  "use": "Use for typing indicators, pending replies, or chat.",
+  "formerNames": [
+    "comment-dots"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "heroicons": "chat-bubble-oval-left-ellipsis",
+    "iconic": false,
+    "lucide": "message-circle-more",
+    "phosphor": "chat-circle-dots",
+    "sf": false,
+    "tabler": "message-dots"
+  }
+}

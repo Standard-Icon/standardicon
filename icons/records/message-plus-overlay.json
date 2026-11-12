@@ -1,0 +1,23 @@
+{
+  "name": "message-plus-overlay",
+  "status": "active",
+  "parent": "message",
+  "canonical": "message",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:20453",
+  "looks": "A rectangular speech bubble with a small rounded square holding a plus sign at the lower right.",
+  "use": "Use for adding a message, comment, or reply.",
+  "formerNames": [
+    "message-plus"
+  ],
+  "compare": {
+    "carbon": "add-comment",
+    "fluent": "chat-add",
+    "lucide": false,
+    "octicons": "chat-add",
+    "sf": "plus.message",
+    "tabler": "message-plus"
+  }
+}

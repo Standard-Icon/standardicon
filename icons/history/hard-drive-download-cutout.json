@@ -1,0 +1,11 @@
+{
+ "name": "hard-drive-download-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M13.5 7.825V4.5C13.5 3.948 13.052 3.5 12.5 3.5H3.5C2.948 3.5 2.5 3.948 2.5 4.5V11.5C2.5 12.052 2.948 12.5 3.5 12.5H7.55\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 9H8.412\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 10.75H7.606\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.75 9.5V14M13.82 11.93L11.75 14L9.68 11.93\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

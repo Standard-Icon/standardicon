@@ -1,0 +1,23 @@
+{
+  "name": "snowflake",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:7926",
+  "looks": "A six-armed snowflake with small branches near the end of each arm.",
+  "use": "Use for snow, cold weather, or freezing.",
+  "keywords": [
+    "cold",
+    "winter",
+    "freeze"
+  ],
+  "compare": {
+    "carbon": "snowflake",
+    "lucide": "snowflake",
+    "material": "snowflake",
+    "phosphor": "snowflake",
+    "sf": "snowflake",
+    "tabler": "snowflake"
+  }
+}

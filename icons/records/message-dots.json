@@ -1,0 +1,32 @@
+{
+  "name": "message-dots",
+  "status": "active",
+  "parent": "message",
+  "canonical": "message",
+  "source": "later",
+  "wave": "W7",
+  "group": "Added after the plan (W7)",
+  "figmaId": "226:32991",
+  "looks": "A rectangular speech bubble with three dots in a row inside it.",
+  "use": "Use for typing indicators, pending replies, or chat.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "chat-bubble-left-ellipsis",
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": "chat-dots",
+    "radix": false,
+    "sf": false,
+    "tabler": "message-dots"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "oval or square message family"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "snowboard",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21783",
+  "compare": {
+    "phosphor": "person-simple-snowboard",
+    "sf": "snowboard"
+  }
+}

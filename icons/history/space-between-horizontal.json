@@ -1,0 +1,11 @@
+{
+ "name": "space-between-horizontal",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M1.5 2.5V13.5M14.5 2.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"3.5\" y=\"4.5\" width=\"2\" height=\"7\" rx=\"0.5\" stroke=\"currentColor\"/><rect x=\"10.5\" y=\"4.5\" width=\"2\" height=\"7\" rx=\"0.5\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

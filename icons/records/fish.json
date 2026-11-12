@@ -1,0 +1,16 @@
+{
+  "name": "fish",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:19688",
+  "compare": {
+    "carbon": "fish",
+    "fluent": false,
+    "lucide": "fish",
+    "phosphor": "fish",
+    "sf": "fish",
+    "tabler": "fish"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ice-cream-bowl",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19598",
+  "compare": {
+    "lucide": "ice-cream-bowl",
+    "phosphor": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "chroma-key",
+  "status": "active",
+  "canonical": "person",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "183:31979",
+  "looks": "A person's head and shoulders inside a dashed rounded square.",
+  "use": "Use for green screen, background removal, or keying.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "video"
+    }
+  ]
+}

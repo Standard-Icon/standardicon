@@ -1,0 +1,24 @@
+{
+  "name": "backpack",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9100",
+  "looks": "A rounded backpack with a top handle and a small clasp across the middle.",
+  "use": "Use for school, travel, or a bag of items.",
+  "keywords": [
+    "school",
+    "bag",
+    "travel"
+  ],
+  "compare": {
+    "fluent": "backpack",
+    "lucide": "backpack",
+    "material": "backpack",
+    "phosphor": "backpack",
+    "radix": "backpack",
+    "sf": "backpack",
+    "tabler": "backpack"
+  }
+}

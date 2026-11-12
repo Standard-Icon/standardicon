@@ -1,0 +1,11 @@
+{
+ "name": "medical-cross",
+ "versions": [
+  {
+   "at": "2026-11-07T17:52:24-08:00",
+   "source": "git 723f40b",
+   "released": true,
+   "body": "<path d=\"M6 2.5H10V6H13.5V10H10V13.5H6V10H2.5V6H6V2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

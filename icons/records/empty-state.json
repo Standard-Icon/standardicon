@@ -1,0 +1,24 @@
+{
+  "name": "empty-state",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:32388",
+  "looks": "A dashed rounded square with a short dash in the middle.",
+  "use": "Use for an empty state, no content yet, or a placeholder.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "material": "empty-dashboard",
+    "phosphor": "empty",
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "ui"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+ "name": "lamp",
+ "versions": [
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<path d=\"M4.761 3.158C4.904 2.763 5.28 2.5 5.7 2.5H10.3C10.72 2.5 11.096 2.763 11.239 3.158L12.512 6.658C12.749 7.31 12.266 8 11.572 8H4.428C3.734 8 3.251 7.31 3.488 6.658L4.761 3.158Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 8V13.146\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.966 13.5H10.034\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M4.428 8H11.572C12.266 8 12.749 7.31 12.512 6.658L11.239 3.158C11.096 2.763 10.72 2.5 10.3 2.5H5.7C5.28 2.5 4.904 2.763 4.761 3.158L3.488 6.658C3.251 7.31 3.734 8 4.428 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 8V13.146\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.967 13.5H10.034\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

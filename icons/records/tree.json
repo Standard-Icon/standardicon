@@ -1,0 +1,21 @@
+{
+  "name": "tree",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:8108",
+  "keywords": [
+    "nature",
+    "forest"
+  ],
+  "compare": {
+    "carbon": "tree",
+    "fluent": false,
+    "lucide": "tree-pine",
+    "material": false,
+    "phosphor": "tree",
+    "sf": "tree",
+    "tabler": "tree"
+  }
+}

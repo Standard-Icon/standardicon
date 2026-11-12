@@ -1,0 +1,24 @@
+{
+  "name": "folder-x-overlay",
+  "status": "active",
+  "parent": "folder",
+  "canonical": "folder",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:20665",
+  "looks": "A closed folder with a small rounded square holding an x at the lower right.",
+  "use": "Use for deleting a folder or a missing directory.",
+  "formerNames": [
+    "folder-x"
+  ],
+  "compare": {
+    "fluent": "folder-dismiss",
+    "heroicons": false,
+    "lucide": "folder-x",
+    "octicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "folder-x"
+  }
+}

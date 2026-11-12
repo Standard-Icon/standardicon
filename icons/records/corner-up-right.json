@@ -1,0 +1,23 @@
+{
+  "name": "corner-up-right",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Arrows",
+  "figmaId": "27:3535",
+  "looks": "A line rising from the bottom left that turns into an arrow pointing right.",
+  "use": "Use for a right turn, forward, or share.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "arrow-turn-up-right",
+    "iconic": false,
+    "lucide": "corner-up-right",
+    "material": "turn-right",
+    "octicons": false,
+    "phosphor": "arrow-bend-up-right",
+    "radix": false,
+    "sf": "arrow.turn.up.right",
+    "tabler": "corner-up-right"
+  }
+}

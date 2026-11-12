@@ -1,0 +1,19 @@
+{
+  "name": "bath",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:9235",
+  "looks": "A bathtub on two small feet with a faucet curving over its left end.",
+  "use": "Use for a bathroom, a bath, or relaxing.",
+  "keywords": [
+    "bathtub",
+    "shower"
+  ],
+  "compare": {
+    "lucide": "bath",
+    "material": "bath-soak",
+    "tabler": "bath"
+  }
+}

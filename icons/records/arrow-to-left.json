@@ -1,0 +1,23 @@
+{
+  "name": "arrow-to-left",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Arrows",
+  "figmaId": "27:3403",
+  "looks": "An arrow pointing left into a vertical line on its left.",
+  "use": "Use for jump to the start, first page, or align left.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "arrow-left-to-line",
+    "material": false,
+    "octicons": "move-to-start",
+    "phosphor": "arrow-line-left",
+    "radix": false,
+    "sf": "arrow.left.to.line",
+    "tabler": "arrow-bar-to-left"
+  }
+}

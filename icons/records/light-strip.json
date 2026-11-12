@@ -1,0 +1,17 @@
+{
+  "name": "light-strip",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22551",
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": "light.strip.2",
+    "tabler": false
+  }
+}

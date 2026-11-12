@@ -1,0 +1,14 @@
+{
+  "name": "beta",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Status and feedback",
+  "figmaId": "30:3971",
+  "looks": "A lowercase Greek letter beta.",
+  "use": "Use for beta features, previews, or testing.",
+  "compare": {
+    "carbon": "beta",
+    "tabler": "beta"
+  }
+}

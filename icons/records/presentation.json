@@ -1,0 +1,23 @@
+{
+  "name": "presentation",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7821",
+  "looks": "A board on a stand with a zigzag line chart on it and two legs splaying out below.",
+  "use": "Use for presentations, slideshows, or meetings.",
+  "keywords": [
+    "slides",
+    "meeting",
+    "board"
+  ],
+  "compare": {
+    "carbon": "presentation-file",
+    "heroicons": "presentation-chart-bar",
+    "lucide": "presentation",
+    "material": false,
+    "phosphor": "presentation",
+    "tabler": "presentation"
+  }
+}

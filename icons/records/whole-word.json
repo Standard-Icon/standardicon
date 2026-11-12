@@ -1,0 +1,24 @@
+{
+  "name": "whole-word",
+  "status": "active",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:31963",
+  "looks": "The lowercase letters ab sitting in a bracket that is open at the top.",
+  "use": "Use for matching whole words in search.",
+  "compare": {
+    "carbon": false,
+    "fluent": "text-whole-word",
+    "lucide": "whole-word",
+    "material": "match-word",
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "text"
+    }
+  ]
+}

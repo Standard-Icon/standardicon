@@ -1,0 +1,16 @@
+{
+  "name": "arrow-keys-key",
+  "status": "active",
+  "source": "later",
+  "figmaId": "355:29804",
+  "looks": "A keyboard keycap with a small four-way arrow cluster in its center.",
+  "use": "Use for the arrow keys or directional keyboard input.",
+  "approved": {
+    "at": "2026-11-12T01:08:19.940Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "sf": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "newspaper",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3.5 3H10.5C10.765 3 11.02 3.105 11.207 3.293C11.395 3.48 11.5 3.735 11.5 4V12C11.5 12.265 11.395 12.52 11.207 12.707C11.02 12.895 10.765 13 10.5 13H3.5C3.235 13 2.98 12.895 2.793 12.707C2.605 12.52 2.5 12.265 2.5 12V4C2.5 3.735 2.605 3.48 2.793 3.293C2.98 3.105 3.235 3 3.5 3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.5 5.5H12.5C12.765 5.5 13.02 5.605 13.207 5.793C13.395 5.98 13.5 6.235 13.5 6.5V11.5C13.5 11.898 13.342 12.279 13.061 12.561C12.779 12.842 12.398 13 12 13H4\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.75 5H6.75C6.816 5 6.88 5.026 6.927 5.073C6.974 5.12 7 5.184 7 5.25V7.25C7 7.316 6.974 7.38 6.927 7.427C6.88 7.474 6.816 7.5 6.75 7.5H4.75C4.684 7.5 4.62 7.474 4.573 7.427C4.526 7.38 4.5 7.316 4.5 7.25V5.25C4.5 5.184 4.526 5.12 4.573 5.073C4.62 5.026 4.684 5 4.75 5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.5 5.5H9.75M8.5 7.5H9.75M4.5 9.5H9.75M4.5 11H9.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"3\" width=\"9\" height=\"10\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M11.5 5.5H12.5C12.765 5.5 13.02 5.605 13.207 5.793C13.395 5.98 13.5 6.235 13.5 6.5V11.5C13.5 11.898 13.342 12.279 13.061 12.561C12.779 12.842 12.398 13 12 13H4\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"4.5\" y=\"5\" width=\"2.14551\" height=\"2.14551\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.5 11H9.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 9.141H9.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.325 7.141H9.575\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.325 5.109H9.575\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

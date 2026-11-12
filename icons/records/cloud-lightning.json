@@ -1,0 +1,28 @@
+{
+  "name": "cloud-lightning",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:7837",
+  "looks": "A cloud with a zigzag lightning bolt coming down from its bottom.",
+  "use": "Use for thunderstorms, severe weather, or power.",
+  "keywords": [
+    "storm",
+    "thunder",
+    "bolt"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "cloud-lightning",
+    "material": false,
+    "octicons": false,
+    "phosphor": "cloud-lightning",
+    "radix": false,
+    "sf": "cloud.bolt",
+    "tabler": "cloud-bolt"
+  }
+}

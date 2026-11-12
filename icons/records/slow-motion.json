@@ -1,0 +1,16 @@
+{
+  "name": "slow-motion",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26681",
+  "looks": "A small right-pointing triangle inside a dashed circle.",
+  "use": "Use for slow motion or reduced playback speed.",
+  "compare": {
+    "material": "slow-motion-video",
+    "phosphor": false,
+    "sf": "tortoise",
+    "tabler": false
+  }
+}

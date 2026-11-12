@@ -1,0 +1,17 @@
+{
+  "name": "remote-control",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22642",
+  "compare": {
+    "carbon": false,
+    "fluent": "remote",
+    "lucide": false,
+    "material": "tv-remote",
+    "phosphor": false,
+    "sf": false,
+    "tabler": "remote-control"
+  }
+}

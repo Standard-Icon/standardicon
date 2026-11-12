@@ -1,0 +1,20 @@
+{
+  "name": "disc",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "media",
+  "figmaId": "58:21893",
+  "looks": "A large circle with a small circle at its center.",
+  "use": "Use for CDs, vinyl, albums, or saved media.",
+  "compare": {
+    "fluent": "cd",
+    "iconic": false,
+    "lucide": "disc",
+    "material": "album",
+    "phosphor": "disc",
+    "radix": "disc",
+    "sf": false,
+    "tabler": "disc"
+  }
+}

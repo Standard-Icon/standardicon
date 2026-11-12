@@ -1,0 +1,12 @@
+{
+  "name": "record-stop",
+  "status": "dropped",
+  "coveredBy": "stop-circle",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "Not drawn: stop-circle already does this."
+    }
+  ]
+}

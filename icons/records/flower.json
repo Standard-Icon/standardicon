@@ -1,0 +1,23 @@
+{
+  "name": "flower",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:8170",
+  "keywords": [
+    "nature",
+    "bloom",
+    "spring"
+  ],
+  "compare": {
+    "lucide": "flower",
+    "phosphor": "flower",
+    "tabler": "flower"
+  },
+  "compareAlso": {
+    "lucide": [
+      "flower-2"
+    ]
+  }
+}

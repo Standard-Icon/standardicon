@@ -1,0 +1,24 @@
+{
+  "name": "track-changes",
+  "status": "active",
+  "canonical": "pencil",
+  "source": "later",
+  "wave": "W6",
+  "group": "Editing and UI gaps (W6)",
+  "figmaId": "185:32177",
+  "looks": "Three horizontal lines with a pencil writing at the lower right.",
+  "use": "Use for tracking changes, editing, or revisions.",
+  "compare": {
+    "lucide": false,
+    "material": "track-changes",
+    "radix": false,
+    "tabler": false
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "text"
+    }
+  ]
+}

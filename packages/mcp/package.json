@@ -1,0 +1,38 @@
+{
+  "name": "@standardicon/mcp",
+  "version": "0.3.0-alpha.3",
+  "description": "The Standard Icon Set as an MCP server: search icons by meaning or by what they look like, and get SVGs at any size and weight. Works offline.",
+  "mcpName": "com.standardicon/icons",
+  "type": "module",
+  "bin": {
+    "standardicon-mcp": "server.mjs"
+  },
+  "files": [
+    "server.mjs",
+    "search.mjs",
+    "icon.mjs",
+    "data.json",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "standard icon",
+    "standard icons",
+    "standard-icon",
+    "standard-icons",
+    "the standard icon set",
+    "icons",
+    "svg",
+    "mcp",
+    "model-context-protocol"
+  ],
+  "homepage": "https://standardicon.com",
+  "license": "MIT",
+  "author": "Morgan Knutson",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node build.mjs && node --test server.test.mjs"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "book-open",
+  "status": "active",
+  "canonical": "book-open",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Files and folders",
+  "figmaId": "12:1188",
+  "looks": "An open book with two pages meeting at a spine in the middle.",
+  "use": "Use for reading, documentation, or a library.",
+  "formerNames": [
+    "book"
+  ],
+  "keywords": [
+    "docs",
+    "documentation",
+    "read"
+  ],
+  "compare": {
+    "carbon": "book",
+    "fluent": "book-open",
+    "heroicons": "book-open",
+    "lucide": "book-open",
+    "material": "book",
+    "octicons": "book",
+    "phosphor": "book-open",
+    "radix": false,
+    "sf": "book",
+    "tabler": "book"
+  }
+}

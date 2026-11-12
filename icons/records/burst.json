@@ -1,0 +1,12 @@
+{
+  "name": "burst",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Media and camera",
+  "figmaId": "276:24720",
+  "compare": {
+    "material": "burst-mode",
+    "sf": "burst"
+  }
+}

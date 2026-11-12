@@ -1,0 +1,21 @@
+{
+  "name": "basket",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22607",
+  "looks": "A tapered shopping basket with a curved handle on top and two vertical lines on its body.",
+  "use": "Use for a shopping basket, cart, or purchases.",
+  "keywords": [
+    "groceries",
+    "shopping"
+  ],
+  "compare": {
+    "lucide": "shopping-basket",
+    "material": "shopping-basket",
+    "phosphor": "basket",
+    "sf": "basket",
+    "tabler": "basket"
+  }
+}

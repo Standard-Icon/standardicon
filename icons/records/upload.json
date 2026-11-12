@@ -1,0 +1,25 @@
+{
+  "name": "upload",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:1759",
+  "looks": "An arrow pointing up out of a shallow open tray.",
+  "use": "Use for upload or send a file up.",
+  "keywords": [
+    "send"
+  ],
+  "compare": {
+    "carbon": "upload",
+    "fluent": "arrow-upload",
+    "iconic": "upload",
+    "lucide": "upload",
+    "material": "upload",
+    "octicons": "upload",
+    "phosphor": "upload",
+    "radix": "upload",
+    "sf": "arrow.up.to.line",
+    "tabler": "upload"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "radio-receiver",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "media",
+  "figmaId": "75:23948",
+  "looks": "A rounded rectangle radio with two lines and a dial on the front and an antenna angled up.",
+  "use": "Use for radio, broadcasts, or live stations.",
+  "compare": {
+    "carbon": "radio",
+    "fluent": "radio-button",
+    "heroicons": "radio",
+    "lucide": "radio-receiver",
+    "material": "radio",
+    "phosphor": "radio",
+    "sf": "radio",
+    "tabler": "radio"
+  }
+}

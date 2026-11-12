@@ -1,0 +1,17 @@
+{
+  "name": "mars",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:23164",
+  "looks": "A circle with an arrow pointing up and to the right from its edge.",
+  "use": "Use for male, gender, or the planet Mars.",
+  "compare": {
+    "carbon": "gender-male",
+    "lucide": "mars",
+    "material": "male",
+    "phosphor": "gender-male",
+    "tabler": "mars"
+  }
+}

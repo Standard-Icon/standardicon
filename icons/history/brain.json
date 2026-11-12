@@ -1,0 +1,29 @@
+{
+ "name": "brain",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M8 3.5C7.2 2.5 5.3 2.6 4.8 4C3.5 4.2 2.8 5.5 3.3 6.7C2.3 7.6 2.4 9.3 3.6 9.9C3.6 11.3 5 12.2 6.2 11.7C6.8 12.7 7.7 12.8 8 12.2V3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 3.5C8.8 2.5 10.7 2.6 11.2 4C12.5 4.2 13.2 5.5 12.7 6.7C13.7 7.6 13.6 9.3 12.4 9.9C12.4 11.3 11 12.2 9.8 11.7C9.2 12.7 8.3 12.8 8 12.2\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 4C7.2 3 5.3 3.1 4.8 4.5C3.5 4.7 2.8 6 3.3 7.2C2.3 8.1 2.4 9.8 3.6 10.4C3.6 11.8 5 12.7 6.2 12.2C6.8 13.2 7.7 13.3 8 12.7V4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 4C8.8 3 10.7 3.1 11.2 4.5C12.5 4.7 13.2 6 12.7 7.2C13.7 8.1 13.6 9.8 12.4 10.4C12.4 11.8 11 12.7 9.8 12.2C9.2 13.2 8.3 13.3 8 12.7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T01:38:04.505Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 4C7.314 3 5.684 3.1 5.255 4.5C4.14 4.7 3.54 6 3.969 7.2C3.111 8.1 3.197 9.8 4.226 10.4C4.226 11.8 5.427 12.7 6.456 12.2C6.971 13.2 7.743 13.3 8 12.7V4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 4C8.686 3 10.316 3.1 10.745 4.5C11.86 4.7 12.46 6 12.031 7.2C12.889 8.1 12.803 9.8 11.774 10.4C11.774 11.8 10.573 12.7 9.544 12.2C9.029 13.2 8.257 13.3 8 12.7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.011 4.897C7.851 6.817 9.86 6.958 10.473 6.099\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M5.327 4.502C5.441 4.54 6.085 4.849 6.393 5\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M6.302 8.231C6.244 6.748 4.532 6.412 3.912 7.267\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M9.841 8.515C9.841 9.669 10.569 10.321 11.534 10.321\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M7.998 8.515C7.998 9.669 7.25 10.578 5.828 10.188\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T19:11:13.681Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 3.25C7.225 2.119 5.383 2.233 4.899 3.814C3.639 4.041 2.96 5.509 3.445 6.866C2.476 7.883 2.573 9.804 3.735 10.482C3.735 12.064 5.092 13.081 6.256 12.516C6.837 13.646 7.709 13.759 8 13.081V3.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 3.25C8.775 2.119 10.617 2.233 11.102 3.814C12.361 4.041 13.04 5.509 12.555 6.866C13.524 7.883 13.428 9.804 12.265 10.482C12.265 12.064 10.908 13.081 9.745 12.516C9.163 13.646 8.291 13.759 8 13.081\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.013 4.262C7.831 6.433 10.102 6.592 10.795 5.621\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M4.979 3.816C5.108 3.859 5.836 4.209 6.184 4.379\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M6.081 8.03C6.016 6.354 4.081 5.975 3.381 6.941\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M10.081 8.352C10.081 9.655 10.902 10.392 11.993 10.392\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M7.997 8.352C7.997 9.655 7.153 10.683 5.546 10.241\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "crown",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:4920",
+  "looks": "A crown with three points and a curved band at the base.",
+  "use": "Use for premium, top rank, or an owner role.",
+  "keywords": [
+    "admin",
+    "premium",
+    "owner"
+  ],
+  "compare": {
+    "fluent": "crown",
+    "lucide": "crown",
+    "material": "crown",
+    "phosphor": "crown",
+    "sf": "crown",
+    "tabler": "crown"
+  }
+}

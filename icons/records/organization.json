@@ -1,0 +1,23 @@
+{
+  "name": "organization",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:4754",
+  "looks": "An office building with rows of windows and a lower wing at the side.",
+  "use": "Use for a company, organization, or workspace.",
+  "keywords": [
+    "company",
+    "building",
+    "workspace"
+  ],
+  "compare": {
+    "carbon": "building",
+    "fluent": "organization",
+    "lucide": "building",
+    "octicons": "organization",
+    "phosphor": "building",
+    "tabler": "building"
+  }
+}

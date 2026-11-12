@@ -1,0 +1,15 @@
+{
+  "name": "file-clock-integrated",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25597",
+  "looks": "A file with a folded top right corner and a clock drawn into its body.",
+  "use": "Use for file history, recent files, or scheduled documents.",
+  "formerNames": [
+    "file-clock"
+  ],
+  "compare": {
+    "lucide": "file-clock",
+    "sf": "document.badge.clock"
+  }
+}

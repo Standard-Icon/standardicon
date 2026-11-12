@@ -1,0 +1,16 @@
+{
+  "name": "cellular-bars",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24646",
+  "flags": [
+    "possible-duplicate"
+  ],
+  "compare": {
+    "heroicons": false,
+    "octicons": false,
+    "sf": "cellularbars"
+  }
+}

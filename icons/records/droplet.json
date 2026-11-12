@@ -1,0 +1,23 @@
+{
+  "name": "droplet",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Weather and nature",
+  "figmaId": "36:7989",
+  "looks": "A single water drop with a pointed top and round bottom.",
+  "use": "Use for water, liquids, humidity, or color fill.",
+  "keywords": [
+    "water",
+    "rain",
+    "humidity"
+  ],
+  "compare": {
+    "fluent": "drop",
+    "lucide": "droplet",
+    "material": "water-drop",
+    "phosphor": "drop",
+    "sf": "drop",
+    "tabler": "droplet"
+  }
+}

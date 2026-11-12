@@ -1,0 +1,17 @@
+{
+ "name": "satellite",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 5.879L10.121 8L8 10.121L5.879 8L8 5.879Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.536 8.707L13.303 10.475L10.475 13.303L8.707 11.536L11.536 8.707Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.525 2.697L7.293 4.464L4.464 7.293L2.697 5.525L5.525 2.697Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.061 9.061L10.121 10.121M6.939 6.939L5.879 5.879M9.061 6.939L10.298 5.702\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.967 3.132C10.62 3.396 11.214 3.789 11.712 4.287C12.211 4.786 12.604 5.38 12.868 6.033\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T19:59:33.379Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M6.234 9.729C5.649 9.143 5.649 8.194 6.234 7.608C6.82 7.022 7.77 7.022 8.355 7.608C8.941 8.194 8.941 9.143 8.355 9.729C7.77 10.315 6.82 10.315 6.234 9.729Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.831 9.375L12.598 11.143L9.77 13.971L8.002 12.204L10.831 9.375Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.82 3.365L6.588 5.132L3.759 7.961L1.992 6.193L4.82 3.365Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8.356 9.729L9.416 10.789M6.234 7.607L5.174 6.547M8.356 7.607L9.593 6.37\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.262 3.801C9.915 4.065 10.509 4.458 11.007 4.956C11.506 5.454 11.899 6.048 12.163 6.702\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.966 2.029C10.876 2.396 11.703 2.944 12.398 3.638C13.092 4.333 13.64 5.16 14.008 6.07\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

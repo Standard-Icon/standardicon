@@ -1,0 +1,31 @@
+{
+  "name": "power-off",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24372",
+  "looks": "A plain, empty circle.",
+  "use": "Use for an off state or a powered-down device.",
+  "flags": [
+    "weak-read"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:23:22.445Z",
+    "by": "Morgan",
+    "version": "2026-11-11T07:22:14.556Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "power-off",
+    "material": "power-off",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

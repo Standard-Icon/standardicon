@@ -1,0 +1,21 @@
+{
+  "name": "fade-in",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26643",
+  "looks": "A right triangle rising from the lower left to a tall right edge.",
+  "use": "Use for a fade in or a volume ramp up.",
+  "compare": {
+    "carbon": "fade",
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "transition-fade",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "tabler": false
+  }
+}

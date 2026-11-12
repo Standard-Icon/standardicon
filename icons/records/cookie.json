@@ -1,0 +1,19 @@
+{
+  "name": "cookie",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "life",
+  "figmaId": "59:22683",
+  "looks": "A round cookie with a bite taken out of the top right and a few chocolate chip dots.",
+  "use": "Use for cookies, snacks, or browser cookie settings.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": "cookie",
+    "lucide": "cookie",
+    "material": "cookie",
+    "phosphor": "cookie",
+    "radix": "cookie",
+    "tabler": "cookie"
+  }
+}

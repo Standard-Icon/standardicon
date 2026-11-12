@@ -1,0 +1,11 @@
+{
+ "name": "balloon",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8 2C10.5 2 12 4 12 6.25C12 8.75 10 10.5 8 10.5C6 10.5 4 8.75 4 6.25C4 4 5.5 2 8 2Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.4 11.2L8 10.5L8.6 11.2H7.4Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 11.25C8 12.25 7 12.5 7.5 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

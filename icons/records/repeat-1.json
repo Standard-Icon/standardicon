@@ -1,0 +1,21 @@
+{
+  "name": "repeat-1",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "media",
+  "figmaId": "75:23838",
+  "looks": "Two arrows forming a rounded loop with a small number 1 in the middle.",
+  "use": "Use for repeat once or repeat one track.",
+  "compare": {
+    "carbon": "repeat-one",
+    "fluent": "arrow-repeat-1",
+    "iconic": false,
+    "lucide": "repeat-1",
+    "material": "repeat-one",
+    "phosphor": "repeat-once",
+    "radix": false,
+    "sf": "repeat.1",
+    "tabler": "repeat-once"
+  }
+}

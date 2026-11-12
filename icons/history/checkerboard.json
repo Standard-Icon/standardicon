@@ -1,0 +1,11 @@
+{
+ "name": "checkerboard",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"3\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\"/><rect x=\"10.5\" y=\"2.5\" width=\"3\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\"/><rect x=\"6.5\" y=\"6.5\" width=\"3\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\"/><rect x=\"2.5\" y=\"10.5\" width=\"3\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\"/><rect x=\"10.5\" y=\"10.5\" width=\"3\" height=\"3\" rx=\"0.5\" stroke=\"currentColor\"/>"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "alert-circle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "solid": "needed",
+  "figmaId": "23:1752",
+  "looks": "An exclamation mark inside a circle.",
+  "use": "Use for errors, warnings, or important notices.",
+  "keywords": [
+    "error",
+    "warning"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "warning",
+    "fluent": "error-circle",
+    "heroicons": "exclamation-circle",
+    "iconic": false,
+    "lucide": "alert-circle",
+    "material": "error",
+    "octicons": "alert",
+    "phosphor": "warning-circle",
+    "radix": false,
+    "sf": "exclamationmark.circle",
+    "tabler": "alert-circle"
+  }
+}

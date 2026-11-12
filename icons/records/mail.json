@@ -1,0 +1,27 @@
+{
+  "name": "mail",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Communication",
+  "figmaId": "18:1354",
+  "looks": "A closed envelope with a V flap at the top.",
+  "use": "Use for mail, email, or messages.",
+  "keywords": [
+    "email",
+    "envelope",
+    "letter"
+  ],
+  "compare": {
+    "carbon": "email",
+    "fluent": "mail",
+    "heroicons": "envelope",
+    "lucide": "mail",
+    "material": "mail",
+    "octicons": "mail",
+    "phosphor": "envelope",
+    "radix": "envelope-closed",
+    "sf": "envelope",
+    "tabler": "mail"
+  }
+}

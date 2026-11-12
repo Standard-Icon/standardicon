@@ -1,0 +1,24 @@
+{
+  "name": "cloud-off",
+  "status": "active",
+  "parent": "cloud",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:2853",
+  "looks": "A cloud with a diagonal slash through it from the lower left to the upper right.",
+  "use": "Use for offline, no sync, or cloud unavailable.",
+  "compare": {
+    "carbon": "cloud-offline",
+    "fluent": "cloud-off",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "cloud-off",
+    "material": "cloud-off",
+    "octicons": "cloud-offline",
+    "phosphor": "cloud-slash",
+    "radix": false,
+    "sf": false,
+    "tabler": "cloud-off"
+  }
+}

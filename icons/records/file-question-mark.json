@@ -1,0 +1,19 @@
+{
+  "name": "file-question-mark",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:25370",
+  "looks": "A file with a folded top right corner and a question mark inside.",
+  "use": "Use for unknown files, file help, or missing information.",
+  "fillApproved": true,
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "file-question-mark",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

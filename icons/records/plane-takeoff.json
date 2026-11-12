@@ -1,0 +1,18 @@
+{
+  "name": "plane-takeoff",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20089",
+  "looks": "An airplane angled upward over a flat ground line.",
+  "use": "Use for departures or takeoff.",
+  "compare": {
+    "carbon": false,
+    "lucide": "plane-takeoff",
+    "material": "flight-takeoff",
+    "phosphor": "airplane-takeoff",
+    "radix": false,
+    "tabler": "plane-departure"
+  }
+}

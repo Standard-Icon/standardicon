@@ -1,0 +1,22 @@
+{
+  "name": "list-tree",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "editor",
+  "figmaId": "58:21521",
+  "looks": "A bracket down the left branching to three horizontal lines, like a nested list.",
+  "use": "Use for tree views, nested lists, or hierarchy.",
+  "compare": {
+    "carbon": "list-tree",
+    "fluent": "list-bar-tree",
+    "heroicons": "queue-list",
+    "lucide": "list-tree",
+    "material": "list",
+    "octicons": "list-ordered",
+    "phosphor": "list",
+    "radix": "list-bullet",
+    "sf": "list.dash",
+    "tabler": "list-tree"
+  }
+}

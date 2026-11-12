@@ -1,0 +1,17 @@
+{
+  "name": "milk-off",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27036",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "milk-off",
+    "material": false,
+    "octicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "milk-off"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "align-text-left",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6118",
+  "looks": "Three horizontal lines lined up on the left, the middle one shortest.",
+  "use": "Use for left-aligned text.",
+  "formerNames": [
+    "align-left"
+  ],
+  "keywords": [
+    "text",
+    "format"
+  ],
+  "compare": {
+    "carbon": "text-align-left",
+    "fluent": "text-align-left",
+    "lucide": "align-left",
+    "material": "format-align-left",
+    "phosphor": "text-align-left",
+    "radix": "text-align-left",
+    "sf": "text.alignleft",
+    "tabler": "align-left"
+  }
+}

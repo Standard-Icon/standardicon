@@ -1,0 +1,11 @@
+{
+ "name": "caps-lock",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M8 2.5L12.543 6.63C12.881 6.937 12.664 7.5 12.207 7.5H10.253V10.5H5.747V7.5H3.793C3.336 7.5 3.119 6.937 3.457 6.63L8 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.5 13H10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

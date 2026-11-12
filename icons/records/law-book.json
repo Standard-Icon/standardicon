@@ -1,0 +1,23 @@
+{
+  "name": "law-book",
+  "status": "active",
+  "parent": "book-closed",
+  "canonical": "book-closed",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Legal",
+  "figmaId": "82:27953",
+  "looks": "A thick book with a balance scale on its cover.",
+  "use": "Use for legal documents, law, or terms.",
+  "compare": {
+    "carbon": "book",
+    "fluent": "book",
+    "heroicons": false,
+    "lucide": "book",
+    "material": "book",
+    "octicons": "law",
+    "phosphor": "book",
+    "sf": "book",
+    "tabler": "book"
+  }
+}

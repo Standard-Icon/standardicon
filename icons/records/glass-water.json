@@ -1,0 +1,21 @@
+{
+  "name": "glass-water",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27811",
+  "looks": "A tall glass narrowing toward the base with a wavy water line near the top.",
+  "use": "Use for water, drinks, or staying hydrated.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "glass-water",
+    "material": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

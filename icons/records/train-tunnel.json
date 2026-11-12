@@ -1,0 +1,24 @@
+{
+  "name": "train-tunnel",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20397",
+  "looks": "An arched tunnel opening with a front-facing train inside, with rails below.",
+  "use": "Use for trains passing through a tunnel or underground rail.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-12T01:07:58.506Z",
+    "by": "morgan",
+    "version": "2026-11-11T04:16:52.195Z"
+  },
+  "compare": {
+    "carbon": false,
+    "lucide": "train-front-tunnel",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

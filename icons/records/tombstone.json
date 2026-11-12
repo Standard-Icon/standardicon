@@ -1,0 +1,13 @@
+{
+  "name": "tombstone",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21056",
+  "looks": "An arched headstone standing on a flat ground line, with a stray dot above it at the upper left.",
+  "use": "Use for Halloween, graveyards, or something deprecated.",
+  "compare": {
+    "lucide": "tombstone"
+  }
+}

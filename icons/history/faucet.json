@@ -1,0 +1,11 @@
+{
+ "name": "faucet",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M6.5 13.5V5.5C6.5 3.84 7.84 2.5 9.5 2.5C11.16 2.5 12.5 3.84 12.5 5.5V7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.5 13.5H8.5M6.5 10.5H3.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"12.5\" cy=\"10.25\" r=\"0.6\" fill=\"currentColor\"/>"
+  }
+ ]
+}

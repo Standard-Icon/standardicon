@@ -1,0 +1,11 @@
+{
+ "name": "cash-register",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M3.49 7.495H12.51C13.063 7.495 13.512 7.943 13.512 8.497V12.505C13.512 13.059 13.063 13.507 12.51 13.507H3.49C2.937 13.507 2.488 13.059 2.488 12.505V8.497C2.488 7.943 2.937 7.495 3.49 7.495Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.488 10.501H13.512\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.998 12.004H9.002\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.506 7.494V5.49\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.003 2.484H12.009C12.286 2.484 12.51 2.708 12.51 2.985V4.989C12.51 5.266 12.286 5.49 12.009 5.49H9.003C8.726 5.49 8.502 5.266 8.502 4.989V2.985C8.502 2.708 8.726 2.484 9.003 2.484Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

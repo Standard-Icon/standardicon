@@ -1,0 +1,15 @@
+{
+  "name": "shield-plus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28279",
+  "looks": "A shield with a small plus sign cut into the lower right.",
+  "use": "Use for adding protection or a new security rule.",
+  "compare": {
+    "fluent": "shield-add",
+    "lucide": "shield-plus",
+    "phosphor": "shield-plus",
+    "sf": false,
+    "tabler": "shield-plus"
+  }
+}

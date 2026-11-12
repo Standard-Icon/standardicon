@@ -1,0 +1,14 @@
+{
+  "name": "ice-cream-cone",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19626",
+  "compare": {
+    "lucide": "ice-cream-cone",
+    "phosphor": "ice-cream",
+    "sf": false,
+    "tabler": "ice-cream"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "name": "pitch",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M2 8C3.25 4.75 4.75 4.75 6 8C7.25 11.25 8.75 11.25 10 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12.5 12V4M13.75 5.25L12.5 4L11.25 5.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

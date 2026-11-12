@@ -1,0 +1,22 @@
+{
+  "name": "badge",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Status and feedback",
+  "figmaId": "30:4055",
+  "looks": "A circle medal with two ribbon tails hanging below it.",
+  "use": "Use for awards, achievements, or certifications.",
+  "compare": {
+    "carbon": "badge",
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "badge",
+    "material": "badge",
+    "octicons": false,
+    "phosphor": "seal",
+    "radix": "badge",
+    "sf": false,
+    "tabler": "badge"
+  }
+}

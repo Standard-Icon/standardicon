@@ -1,0 +1,17 @@
+{
+ "name": "handshake",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M2 5.5L4.5 4.5L8 6L11.5 4.5L14 5.5V10.5L11.5 11L8 13.5L4.5 11L2 10.5V5.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6L5.75 8.25C6.5 9 7.5 9 8.25 8.25L9.25 7.5L11.5 10.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M1 6.5L3.5 4.5L6.125 5.469L7.158 4.376C7.536 3.976 8.062 3.75 8.611 3.75H8.808C9.256 3.75 9.692 3.901 10.044 4.177L11.25 5.125L14.562 5.969V8.812L11.625 9.375L10.25 10.75L8 12.25C7.5 12.6 6.85 12.5 6.5 12.05L3.5 9.25L1 8V6.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.312 5.344L5.5 6.25C5.1 6.7 5.4 7.4 6 7.5C6.35 7.55 6.7 7.4 6.9 7.1L8.25 5.75L11.625 9.031\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9 11.25L7.75 10M10.25 10L9 8.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

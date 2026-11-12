@@ -1,0 +1,29 @@
+{
+  "name": "health-heart",
+  "status": "active",
+  "canonical": "heart",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Life and everyday",
+  "figmaId": "36:8814",
+  "looks": "A heart with a pulse line running across its middle.",
+  "use": "Use for health, heart rate, or wellness.",
+  "keywords": [
+    "medical",
+    "wellness",
+    "heartbeat"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "heart-pulse",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

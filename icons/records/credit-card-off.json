@@ -1,0 +1,22 @@
+{
+  "name": "credit-card-off",
+  "status": "active",
+  "parent": "credit-card",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "commerce",
+  "figmaId": "56:20421",
+  "looks": "A card with a top stripe crossed by a diagonal slash from lower left to upper right.",
+  "use": "Use for a disabled card or payments turned off.",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "credit-card-off",
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": "credit-card-off"
+  }
+}

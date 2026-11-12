@@ -1,0 +1,28 @@
+{
+  "name": "file-slides",
+  "status": "active",
+  "parent": "file",
+  "canonical": "page",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Files and folders",
+  "figmaId": "33:5011",
+  "looks": "A page with a folded top right corner and a small presentation board on a stand in the middle.",
+  "use": "Use for slide decks or presentation files.",
+  "keywords": [
+    "powerpoint",
+    "presentation",
+    "deck"
+  ],
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "unplug",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "settings",
+  "figmaId": "58:22137",
+  "looks": "A power plug with prongs, crossed by a diagonal slash.",
+  "use": "Use for disconnected, unplugged, or offline.",
+  "compare": {
+    "carbon": "unplug",
+    "lucide": "unplug"
+  }
+}

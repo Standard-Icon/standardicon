@@ -1,0 +1,23 @@
+{
+  "name": "door-closed",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Security and access",
+  "figmaId": "32:5788",
+  "looks": "A closed door with a knob on the right standing on a floor line.",
+  "use": "Use for a closed door, a room, or no entry.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": "door",
+    "heroicons": false,
+    "lucide": "door-closed",
+    "material": "door-back",
+    "octicons": false,
+    "phosphor": "door",
+    "radix": false,
+    "sf": "door.french.closed",
+    "tabler": "door"
+  }
+}

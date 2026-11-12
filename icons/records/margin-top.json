@@ -1,0 +1,19 @@
+{
+  "name": "margin-top",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26858",
+  "looks": "A small square below a horizontal line at the top.",
+  "use": "Use for top margin.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "margin-top",
+    "material": "margin",
+    "phosphor": false,
+    "radix": "margin",
+    "tabler": "box-margin"
+  }
+}

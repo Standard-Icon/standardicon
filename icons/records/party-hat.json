@@ -1,0 +1,23 @@
+{
+  "name": "party-hat",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:30094",
+  "keywords": [
+    "birthday",
+    "new",
+    "year",
+    "celebration",
+    "holiday"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

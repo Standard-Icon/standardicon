@@ -1,0 +1,18 @@
+{
+  "name": "layout-dashboard",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26569",
+  "looks": "A tall rectangle on the left and a small square and a wide short rectangle stacked on the right.",
+  "use": "Use for dashboards, overview pages, or layouts.",
+  "compare": {
+    "carbon": "dashboard",
+    "fluent": false,
+    "lucide": "layout-dashboard",
+    "material": "dashboard",
+    "octicons": "dashboard",
+    "phosphor": false,
+    "radix": false,
+    "tabler": "layout-dashboard"
+  }
+}

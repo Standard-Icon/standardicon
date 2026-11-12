@@ -1,0 +1,16 @@
+{
+  "name": "lamp-ceiling",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26291",
+  "looks": "A bell shaped pendant lamp hanging from a short cord with a small bulb at the bottom.",
+  "use": "Use for ceiling lights, pendant lamps, or lighting.",
+  "compare": {
+    "carbon": false,
+    "lucide": "lamp-ceiling",
+    "material": "dine-lamp",
+    "phosphor": "lamp",
+    "sf": "lamp.ceiling",
+    "tabler": "lamp"
+  }
+}

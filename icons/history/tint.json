@@ -1,0 +1,11 @@
+{
+ "name": "tint",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M8 2.824C10 5.324 12 6.677 12 9.177C12 11.386 10.21 13.177 8 13.177C5.79 13.177 4 11.386 4 9.177C4 6.677 6 5.324 8 2.824Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.1 9.5H11.9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

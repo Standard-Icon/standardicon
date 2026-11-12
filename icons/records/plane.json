@@ -1,0 +1,18 @@
+{
+  "name": "plane",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20067",
+  "looks": "An airplane seen from above, nose up, with wings and a tail.",
+  "use": "Use for flights, air travel, or airplane mode.",
+  "compare": {
+    "carbon": "plane",
+    "lucide": "plane",
+    "material": "flight",
+    "phosphor": "airplane",
+    "radix": false,
+    "tabler": "plane"
+  }
+}

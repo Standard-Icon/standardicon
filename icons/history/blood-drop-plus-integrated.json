@@ -1,0 +1,17 @@
+{
+ "name": "blood-drop-plus-integrated",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 2.815C10 5.315 12 6.684 12 9.184C12 10.245 11.579 11.263 10.828 12.013C10.078 12.763 9.061 13.184 8 13.184C6.939 13.184 5.922 12.763 5.172 12.013C4.421 11.263 4 10.245 4 9.184C4 6.684 6 5.315 8 2.815Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.999 7.891V10.479M6.705 9.185H9.293\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T18:13:35.245Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M8 1.818C10.38 4.799 12.77 6.431 12.77 9.412C12.77 10.677 12.27 11.89 11.37 12.785C10.48 13.679 9.26 14.182 8 14.182C6.74 14.182 5.52 13.679 4.63 12.785C3.73 11.89 3.23 10.677 3.23 9.412C3.23 6.431 5.62 4.799 8 1.818Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 7.87V10.956M6.46 9.413H9.54\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

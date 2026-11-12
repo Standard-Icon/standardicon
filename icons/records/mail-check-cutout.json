@@ -1,0 +1,14 @@
+{
+  "name": "mail-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28055",
+  "looks": "A closed envelope with a small check mark cut into its lower right corner.",
+  "use": "Use for mail sent, read, or verified.",
+  "compare": {
+    "fluent": "mail-checkmark",
+    "lucide": "mail-check",
+    "sf": false,
+    "tabler": "mail-check"
+  }
+}

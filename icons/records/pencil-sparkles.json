@@ -1,0 +1,20 @@
+{
+  "name": "pencil-sparkles",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27699",
+  "looks": "A diagonal pencil with a small plus sparkle at its upper left.",
+  "use": "Use for AI-assisted writing or magic edit.",
+  "compare": {
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "pencil-sparkles",
+    "material": false,
+    "octicons": "pencil-ai",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "pencil-ai"
+  }
+}

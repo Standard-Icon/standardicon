@@ -1,0 +1,22 @@
+{
+  "name": "cloud-upload",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:2811",
+  "looks": "A cloud with an upward arrow in the middle.",
+  "use": "Use for uploading to the cloud.",
+  "compare": {
+    "carbon": "cloud-upload",
+    "fluent": "cloud-arrow-up",
+    "heroicons": "cloud-arrow-up",
+    "lucide": "cloud-upload",
+    "material": "cloud-upload",
+    "octicons": false,
+    "phosphor": "cloud-arrow-up",
+    "radix": false,
+    "sf": false,
+    "tabler": "cloud-upload"
+  }
+}

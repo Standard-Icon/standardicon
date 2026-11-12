@@ -1,0 +1,11 @@
+{
+ "name": "zodiac-libra",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M2.5 13.5H13.5M2.5 10.5H6C4.6 9.6 4 8.2 4 6.6C4 4.3 5.75 2.5 8 2.5C10.25 2.5 12 4.3 12 6.6C12 8.2 11.4 9.6 10 10.5H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

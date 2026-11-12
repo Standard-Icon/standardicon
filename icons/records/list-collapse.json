@@ -1,0 +1,22 @@
+{
+  "name": "list-collapse",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "editor",
+  "figmaId": "58:21500",
+  "looks": "Three horizontal lines with a down chevron at the top left and an up chevron at the bottom left.",
+  "use": "Use for collapsing a list or folding sections.",
+  "compare": {
+    "carbon": "list",
+    "fluent": "list",
+    "heroicons": "queue-list",
+    "lucide": "list-collapse",
+    "material": "list",
+    "octicons": "list-ordered",
+    "phosphor": "list",
+    "radix": "list-bullet",
+    "sf": "list.dash",
+    "tabler": "list"
+  }
+}

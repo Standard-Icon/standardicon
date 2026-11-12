@@ -1,0 +1,16 @@
+{
+  "name": "rugby-ball",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21575",
+  "compare": {
+    "carbon": false,
+    "lucide": "rugby-ball",
+    "material": "sports-rugby",
+    "phosphor": false,
+    "sf": false,
+    "tabler": "rugby"
+  }
+}

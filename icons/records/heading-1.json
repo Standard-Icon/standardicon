@@ -1,0 +1,21 @@
+{
+  "name": "heading-1",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "2:1232",
+  "looks": "A capital H with a small number 1 at its upper right.",
+  "use": "Use for a level 1 heading or page title.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": "heading-1",
+    "material": false,
+    "octicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "h-1"
+  }
+}

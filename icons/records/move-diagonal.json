@@ -1,0 +1,18 @@
+{
+  "name": "move-diagonal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23433",
+  "compare": {
+    "carbon": "move",
+    "fluent": false,
+    "lucide": "move-diagonal",
+    "material": "move",
+    "phosphor": false,
+    "radix": "move",
+    "sf": "move.3d",
+    "tabler": false
+  }
+}

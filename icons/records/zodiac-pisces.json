@@ -1,0 +1,14 @@
+{
+  "name": "zodiac-pisces",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22881",
+  "looks": "Two arcs curving away from each other, joined by a horizontal line through the middle.",
+  "use": "Use for Pisces, astrology, or horoscopes.",
+  "compare": {
+    "lucide": "zodiac-pisces",
+    "tabler": "zodiac-pisces"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "save-check-overlay",
+  "status": "active",
+  "parent": "save",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "actions",
+  "figmaId": "56:19924",
+  "looks": "A floppy disk with a check mark inside a small rounded square at the lower right.",
+  "use": "Use for saved or changes stored.",
+  "formerNames": [
+    "save-check"
+  ],
+  "compare": {
+    "lucide": "save-check",
+    "sf": false
+  }
+}

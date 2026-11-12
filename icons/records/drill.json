@@ -1,0 +1,14 @@
+{
+  "name": "drill",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24116",
+  "compare": {
+    "carbon": "drill-back",
+    "lucide": "drill",
+    "material": "tools-power-drill",
+    "tabler": "hammer-drill"
+  }
+}

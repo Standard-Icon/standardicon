@@ -1,0 +1,23 @@
+{
+  "name": "sim-card",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:22420",
+  "looks": "A card with a clipped top right corner and a small rounded rectangle in its center.",
+  "use": "Use for a SIM card or mobile plan.",
+  "compare": {
+    "carbon": "sim-card",
+    "fluent": "sim",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "card-sim",
+    "material": "sim-card",
+    "octicons": false,
+    "phosphor": "sim-card",
+    "radix": false,
+    "sf": false,
+    "tabler": "device-sim"
+  }
+}

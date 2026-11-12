@@ -1,0 +1,11 @@
+{
+ "name": "align-object-horizontal-distribute-center",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"3.5\" y=\"4.5\" width=\"3\" height=\"7\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"9.5\" y=\"5.5\" width=\"3\" height=\"5\" rx=\"0.5\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M5 2.5V4.5M5 11.5V13.5M11 2.5V5.5M11 10.5V13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

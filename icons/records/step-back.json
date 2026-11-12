@@ -1,0 +1,8 @@
+{
+  "name": "step-back",
+  "status": "covered",
+  "coveredBy": "skip-back",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Covered by an existing icon"
+}

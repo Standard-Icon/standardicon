@@ -1,0 +1,25 @@
+{
+  "name": "stamp",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Design and creative",
+  "figmaId": "35:6554",
+  "looks": "A rubber stamp with a round handle, a wide base, and a line beneath.",
+  "use": "Use for stamping, approval, or a notary.",
+  "keywords": [
+    "seal",
+    "approve"
+  ],
+  "approved": {
+    "at": "2026-11-11T19:15:36.683Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "stamp",
+    "lucide": "stamp",
+    "phosphor": "stamp",
+    "tabler": "rubber-stamp"
+  }
+}

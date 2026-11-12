@@ -1,0 +1,19 @@
+{
+  "name": "midi-port",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:27078",
+  "looks": "A circle with five small dots in an arc and a notch line at the bottom.",
+  "use": "Use for MIDI ports, music gear connections, or DIN connectors.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.256Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "port-input",
+    "fluent": "midi",
+    "lucide": "midi-port"
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "incognito",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M2 7.5H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 7.5L5 3.5H11L12 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 11C7 11.53 6.789 12.039 6.414 12.414C6.039 12.789 5.53 13 5 13C4.47 13 3.961 12.789 3.586 12.414C3.211 12.039 3 11.53 3 11C3 10.47 3.211 9.961 3.586 9.586C3.961 9.211 4.47 9 5 9C5.53 9 6.039 9.211 6.414 9.586C6.789 9.961 7 10.47 7 11Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13 11C13 11.53 12.789 12.039 12.414 12.414C12.039 12.789 11.53 13 11 13C10.47 13 9.961 12.789 9.586 12.414C9.211 12.039 9 11.53 9 11C9 10.47 9.211 9.961 9.586 9.586C9.961 9.211 10.47 9 11 9C11.53 9 12.039 9.211 12.414 9.586C12.789 9.961 13 10.47 13 11Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 11H9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M2 7H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 7L5 3H11L12 7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 10.5C7 11.03 6.789 11.539 6.414 11.914C6.039 12.289 5.53 12.5 5 12.5C4.47 12.5 3.961 12.289 3.586 11.914C3.211 11.539 3 11.03 3 10.5C3 9.97 3.211 9.461 3.586 9.086C3.961 8.711 4.47 8.5 5 8.5C5.53 8.5 6.039 8.711 6.414 9.086C6.789 9.461 7 9.97 7 10.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M13 10.5C13 11.03 12.789 11.539 12.414 11.914C12.039 12.289 11.53 12.5 11 12.5C10.47 12.5 9.961 12.289 9.586 11.914C9.211 11.539 9 11.03 9 10.5C9 9.97 9.211 9.461 9.586 9.086C9.961 8.711 10.47 8.5 11 8.5C11.53 8.5 12.039 8.711 12.414 9.086C12.789 9.461 13 9.97 13 10.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 10.5H9\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

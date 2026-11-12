@@ -1,0 +1,22 @@
+{
+  "name": "yen",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7540",
+  "looks": "A yen sign: a Y with two horizontal bars across its stem.",
+  "use": "Use for Japanese yen, Chinese yuan, or currency.",
+  "keywords": [
+    "money",
+    "currency",
+    "jpy"
+  ],
+  "compare": {
+    "carbon": "currency-yen",
+    "heroicons": "currency-yen",
+    "lucide": "japanese-yen",
+    "material": "currency-yen",
+    "tabler": "coin-yen"
+  }
+}

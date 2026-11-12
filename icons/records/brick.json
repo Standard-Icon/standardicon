@@ -1,0 +1,11 @@
+{
+  "name": "brick",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24882",
+  "fillApproved": true,
+  "compare": {
+    "lucide": "cuboid",
+    "material": "brick"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "trailer",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20482",
+  "compare": {
+    "fluent": "vehicle-trailer",
+    "lucide": "trailer",
+    "phosphor": "truck-trailer"
+  }
+}

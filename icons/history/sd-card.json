@@ -1,0 +1,11 @@
+{
+ "name": "sd-card",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M4 2.5H9.5L12 5V12.5C12 12.765 11.895 13.02 11.707 13.207C11.52 13.395 11.265 13.5 11 13.5H5C4.735 13.5 4.48 13.395 4.293 13.207C4.105 13.02 4 12.765 4 12.5V2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 2.5V5M8 2.5V5M10 3.5V5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

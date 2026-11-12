@@ -1,0 +1,33 @@
+{
+  "name": "face-smile-plus",
+  "status": "active",
+  "parent": "face-smile",
+  "canonical": "face",
+  "source": "later",
+  "wave": "W5",
+  "group": "UI gaps (W5)",
+  "figmaId": "174:31684",
+  "formerNames": [
+    "smile-plus"
+  ],
+  "compare": {
+    "carbon": "face-add",
+    "fluent": "emoji-add",
+    "heroicons": "face-smile",
+    "lucide": "smile-plus",
+    "sf": "face.dashed",
+    "tabler": "mood-plus"
+  },
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "people"
+    },
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "eye dots filled on purpose"
+    }
+  ]
+}

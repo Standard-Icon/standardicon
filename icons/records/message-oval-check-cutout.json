@@ -1,0 +1,14 @@
+{
+  "name": "message-oval-check-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27979",
+  "looks": "An oval speech bubble with a small checkmark cut into the lower right.",
+  "use": "Use for a read or delivered message, or a resolved comment.",
+  "compare": {
+    "iconic": false,
+    "lucide": "message-circle-check",
+    "sf": "checkmark.bubble",
+    "tabler": "message-check"
+  }
+}

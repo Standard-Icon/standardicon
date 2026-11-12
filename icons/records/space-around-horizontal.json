@@ -1,0 +1,17 @@
+{
+  "name": "space-around-horizontal",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23211",
+  "flags": [
+    "possible-duplicate"
+  ],
+  "compare": {
+    "lucide": "align-horizontal-space-around",
+    "material": "align-space-around",
+    "radix": "space-evenly-horizontally",
+    "sf": false
+  }
+}

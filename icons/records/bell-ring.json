@@ -1,0 +1,24 @@
+{
+  "name": "bell-ring",
+  "status": "active",
+  "parent": "bell",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:4019",
+  "looks": "A bell with two short curved lines at its upper left and upper right, as if ringing.",
+  "use": "Use for active alerts, ringing, or new notifications.",
+  "compare": {
+    "carbon": false,
+    "fluent": "alert",
+    "heroicons": false,
+    "iconic": "bell-ringing",
+    "lucide": "bell-ring",
+    "material": "notifications-active",
+    "octicons": false,
+    "phosphor": "bell-ringing",
+    "radix": false,
+    "sf": "bell.and.waves.left.and.right",
+    "tabler": "bell-ringing"
+  }
+}

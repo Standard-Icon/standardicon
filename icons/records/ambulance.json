@@ -1,0 +1,16 @@
+{
+  "name": "ambulance",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27235",
+  "looks": "A truck facing right with a cross on its box body and two wheels below.",
+  "use": "Use for ambulances, emergencies, or medical transport.",
+  "compare": {
+    "lucide": "ambulance",
+    "material": "ambulance",
+    "phosphor": "ambulance",
+    "tabler": "ambulance"
+  }
+}

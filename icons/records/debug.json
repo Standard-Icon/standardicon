@@ -1,0 +1,24 @@
+{
+  "name": "debug",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Development",
+  "figmaId": "26:5147",
+  "looks": "A right-pointing triangle outline with a solid dot to its right.",
+  "use": "Use for running a debugger or stepping through code.",
+  "keywords": [
+    "bug",
+    "inspect"
+  ],
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T19:15:35.829Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "carbon": "debug",
+    "lucide": "bug"
+  }
+}

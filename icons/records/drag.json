@@ -1,0 +1,21 @@
+{
+  "name": "drag",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Core actions",
+  "figmaId": "22:2017",
+  "looks": "A dashed square with a pointer at its lower right corner.",
+  "use": "Use for drag to select, marquee selection, or dragging.",
+  "keywords": [
+    "move",
+    "reorder"
+  ],
+  "compare": {
+    "carbon": "drag-vertical",
+    "lucide": "grip",
+    "material": "drag-pan",
+    "radix": "drag-handle-vertical",
+    "tabler": "drag-drop"
+  }
+}

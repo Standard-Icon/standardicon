@@ -1,0 +1,25 @@
+{
+  "name": "book-alert",
+  "status": "active",
+  "parent": "book-closed",
+  "canonical": "book-closed",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:23630",
+  "looks": "A closed book seen from the front with an exclamation mark on its cover.",
+  "use": "Use for important reading, notices, or warnings in docs.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "book-alert",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

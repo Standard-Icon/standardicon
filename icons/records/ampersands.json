@@ -1,0 +1,16 @@
+{
+  "name": "ampersands",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23773",
+  "looks": "Two ampersand characters side by side.",
+  "use": "Use for a logical AND operator or the && symbol.",
+  "approved": {
+    "at": "2026-11-10T19:46:36.525Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "ampersands"
+  }
+}

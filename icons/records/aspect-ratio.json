@@ -1,0 +1,16 @@
+{
+  "name": "aspect-ratio",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:25754",
+  "looks": "A rounded rectangle with small corner brackets at the upper left and lower right.",
+  "use": "Use for aspect ratio or resizing a frame.",
+  "compare": {
+    "lucide": "ratio",
+    "material": "aspect-ratio",
+    "radix": "aspect-ratio",
+    "tabler": "aspect-ratio"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "guardrail",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "AI and agents",
+  "figmaId": "159:54172",
+  "looks": "A signboard with two horizontal bars, the top one ending in a left-pointing arrow tip, on two short legs.",
+  "use": "Use for road barriers, guardrails, or limits and safety boundaries.",
+  "keywords": [
+    "safety",
+    "fence"
+  ]
+}

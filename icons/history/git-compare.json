@@ -1,0 +1,11 @@
+{
+ "name": "git-compare",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<circle cx=\"4.5\" cy=\"4\" r=\"1.25\" stroke=\"currentColor\"/><circle cx=\"11.5\" cy=\"12\" r=\"1.25\" stroke=\"currentColor\"/><path d=\"M5.75 4H9.5C10.6 4 11.5 4.9 11.5 6V10.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.25 12H6.5C5.4 12 4.5 11.1 4.5 10V5.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2.5L9.5 4L8 5.5M8 10.5L6.5 12L8 13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

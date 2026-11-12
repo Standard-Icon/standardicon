@@ -1,0 +1,12 @@
+{
+ "name": "menorah",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M8 6.328L8 13.499\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.5 6.5V7C2.5 9.5 5 11 8 11C11 11 13.5 9.5 13.5 7V6.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.68 6.5V7.044C4.68 8.242 6.008 8.95 8 8.95C9.992 8.95 11.32 8.242 11.32 7.044V6.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"2.5\" cy=\"4.5\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"4.729\" cy=\"4.5\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"11.307\" cy=\"4.5\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"7.991\" cy=\"4.5\" r=\"0.6\" fill=\"currentColor\"/><circle cx=\"13.5\" cy=\"4.5\" r=\"0.6\" fill=\"currentColor\"/>",
+   "solidParts": true
+  }
+ ]
+}

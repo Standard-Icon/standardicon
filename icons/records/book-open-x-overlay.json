@@ -1,0 +1,23 @@
+{
+  "name": "book-open-x-overlay",
+  "status": "active",
+  "parent": "book-open",
+  "canonical": "book-open",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:25596",
+  "looks": "An open book with a small rounded square holding an x at the lower right.",
+  "use": "Use for deleting a book or unavailable content.",
+  "formerNames": [
+    "book-open-x",
+    "book-x"
+  ],
+  "compare": {
+    "fluent": "book-dismiss",
+    "heroicons": false,
+    "lucide": "book-x",
+    "phosphor": false,
+    "radix": false
+  }
+}

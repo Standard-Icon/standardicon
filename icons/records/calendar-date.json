@@ -1,0 +1,25 @@
+{
+  "name": "calendar-date",
+  "status": "active",
+  "parent": "calendar",
+  "canonical": "calendar",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:23657",
+  "looks": "A calendar page with two rings at the top and the number 1 in the middle.",
+  "use": "Use for a specific date or a date picker.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "calendar-days",
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

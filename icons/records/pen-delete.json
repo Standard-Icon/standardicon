@@ -1,0 +1,22 @@
+{
+  "name": "pen-delete",
+  "status": "active",
+  "source": "later",
+  "figmaId": "349:43838",
+  "looks": "A pen nib tilted toward the upper left with a minus sign at the lower right.",
+  "use": "Use for deleting an anchor point from a path.",
+  "formerNames": [
+    "pen-minus"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

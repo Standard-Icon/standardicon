@@ -1,0 +1,13 @@
+{
+  "name": "mail-clock-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28116",
+  "looks": "A closed envelope with a small clock face at its lower right corner.",
+  "use": "Use for scheduled mail, send later, or snoozed.",
+  "compare": {
+    "fluent": "mail-clock",
+    "lucide": "mail-clock",
+    "sf": "envelope.open.badge.clock"
+  }
+}

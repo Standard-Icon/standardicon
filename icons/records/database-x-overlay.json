@@ -1,0 +1,26 @@
+{
+  "name": "database-x-overlay",
+  "status": "active",
+  "parent": "database",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:22015",
+  "looks": "A stacked database cylinder with a small rounded square holding an x overlapping its lower right.",
+  "use": "Use for a database error or a failed connection.",
+  "formerNames": [
+    "database-x"
+  ],
+  "approved": {
+    "at": "2026-11-12T02:33:00.057Z",
+    "by": "morgan",
+    "version": "2026-11-11T09:46:49.583Z"
+  },
+  "compare": {
+    "heroicons": false,
+    "lucide": "database-x",
+    "radix": false,
+    "sf": false,
+    "tabler": "database-x"
+  }
+}

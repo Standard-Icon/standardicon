@@ -1,0 +1,17 @@
+{
+  "name": "hospital-bed",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Health",
+  "figmaId": "80:27348",
+  "compare": {
+    "carbon": "hospital-bed",
+    "fluent": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

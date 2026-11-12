@@ -1,0 +1,23 @@
+{
+  "name": "confetti",
+  "status": "active",
+  "source": "plan",
+  "group": "Holiday",
+  "figmaId": "341:30150",
+  "looks": "Scattered circles, squares, dots, and squiggles.",
+  "use": "Use for celebrations, parties, or success.",
+  "keywords": [
+    "new",
+    "year",
+    "celebration",
+    "party",
+    "birthday",
+    "holiday"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "lucide": "party-popper",
+    "phosphor": "confetti",
+    "tabler": "confetti"
+  }
+}

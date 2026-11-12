@@ -1,0 +1,21 @@
+{
+  "name": "worm",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:19880",
+  "looks": "A wavy, curled body with a small loop at the left end.",
+  "use": "Use for worms, bugs, or crawling.",
+  "flags": [
+    "weak-read"
+  ],
+  "approved": {
+    "at": "2026-11-12T01:49:33.929Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "worm"
+  }
+}

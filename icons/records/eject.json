@@ -1,0 +1,15 @@
+{
+  "name": "eject",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "media",
+  "figmaId": "58:21872",
+  "compare": {
+    "lucide": "eject",
+    "material": "eject",
+    "phosphor": "eject",
+    "sf": "eject",
+    "tabler": "player-eject"
+  }
+}

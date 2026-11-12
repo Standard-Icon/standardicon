@@ -1,0 +1,23 @@
+{
+  "name": "moon-star",
+  "status": "active",
+  "parent": "moon",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24283",
+  "looks": "A crescent moon with a small four-point sparkle at the upper right.",
+  "use": "Use for night, dark mode, or bedtime.",
+  "compare": {
+    "carbon": "moon",
+    "fluent": false,
+    "heroicons": "moon",
+    "lucide": "moon-star",
+    "material": "moon-stars",
+    "octicons": "moon",
+    "phosphor": "moon",
+    "radix": "moon",
+    "sf": "moon",
+    "tabler": "moon"
+  }
+}

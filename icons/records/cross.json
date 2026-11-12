@@ -1,0 +1,12 @@
+{
+  "name": "cross",
+  "status": "dropped",
+  "coveredBy": "medical-cross",
+  "notes": [
+    {
+      "at": "2026-11-08",
+      "by": "checklist",
+      "text": "Not drawn: medical-cross already does this."
+    }
+  ]
+}

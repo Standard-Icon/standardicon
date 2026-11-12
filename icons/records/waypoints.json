@@ -1,0 +1,13 @@
+{
+  "name": "waypoints",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "development",
+  "figmaId": "59:21913",
+  "looks": "Four small circles in a diamond, with lines linking top to left, top to right, and left to bottom.",
+  "use": "Use for routes, stops along a path, or connected points.",
+  "compare": {
+    "lucide": "waypoints"
+  }
+}

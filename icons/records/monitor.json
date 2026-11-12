@@ -1,0 +1,8 @@
+{
+  "name": "monitor",
+  "status": "covered",
+  "coveredBy": "system",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices"
+}

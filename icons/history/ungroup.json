@@ -1,0 +1,17 @@
+{
+ "name": "ungroup",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M3.25 2.5H6.75C6.949 2.5 7.14 2.579 7.28 2.72C7.421 2.86 7.5 3.051 7.5 3.25V6.75C7.5 6.949 7.421 7.14 7.28 7.28C7.14 7.421 6.949 7.5 6.75 7.5H3.25C3.051 7.5 2.86 7.421 2.72 7.28C2.579 7.14 2.5 6.949 2.5 6.75V3.25C2.5 3.051 2.579 2.86 2.72 2.72C2.86 2.579 3.051 2.5 3.25 2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.25 8.5H12.75C12.949 8.5 13.14 8.579 13.28 8.72C13.421 8.86 13.5 9.051 13.5 9.25V12.75C13.5 12.949 13.421 13.14 13.28 13.28C13.14 13.421 12.949 13.5 12.75 13.5H9.25C9.051 13.5 8.86 13.421 8.72 13.28C8.579 13.14 8.5 12.949 8.5 12.75V9.25C8.5 9.051 8.579 8.86 8.72 8.72C8.86 8.579 9.051 8.5 9.25 8.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"5\" height=\"5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><rect x=\"8.5\" y=\"8.5\" width=\"5\" height=\"5\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cast",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5771",
+  "looks": "A screen with an open lower left corner where three curved signal waves sit.",
+  "use": "Use for casting or Chromecast to a TV.",
+  "keywords": [
+    "chromecast",
+    "stream"
+  ],
+  "fillApproved": true,
+  "compare": {
+    "carbon": "media-cast",
+    "lucide": "cast",
+    "material": "cast",
+    "tabler": "cast"
+  }
+}

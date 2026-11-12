@@ -1,0 +1,31 @@
+/* Editing anchor points on the icon canvases. See components/AnchorEditor.tsx. */
+.poster .figure, #stage-figure { position: relative; }
+[data-anchors] { cursor: crosshair; }
+[data-anchors][data-anchors-touch] { touch-action: none; }
+
+/* Anchors stay out of the way until the canvas is in use. */
+.anchor-layer { opacity: 0; transition: opacity 80ms; }
+[data-anchors]:hover .anchor-layer,
+[data-anchors]:focus-within .anchor-layer,
+[data-anchors][data-anchors-touch] .anchor-layer { opacity: 1; }
+
+.anchor-line { fill: none; stroke: var(--green-deep); stroke-width: 1px; vector-effect: non-scaling-stroke; pointer-events: none; }
+#stage-figure .anchor-line { stroke: var(--paper); }
+.anchor-dot { fill: var(--paper); stroke: var(--ink); stroke-width: 1.5px; vector-effect: non-scaling-stroke; pointer-events: none; }
+.anchor-dot.on { fill: var(--ink); stroke: var(--paper); }
+.anchor-ghost { opacity: 0.7; }
+/* The segment the next click would draw, as thick as the real stroke. */
+.anchor-preview { fill: none; stroke: currentColor; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round; opacity: 0.4; pointer-events: none; }
+/* M's mirror line, the smart guides a point is snapping to, and the Command-drag selection box. */
+.anchor-axis { stroke: var(--green-deep); stroke-width: 1px; stroke-dasharray: 3 3; opacity: 0.6; vector-effect: non-scaling-stroke; pointer-events: none; }
+.anchor-guide { stroke: var(--green-deep); stroke-width: 1px; vector-effect: non-scaling-stroke; pointer-events: none; }
+.anchor-marquee { fill: color-mix(in srgb, var(--green-deep) 8%, transparent); stroke: var(--green-deep); stroke-width: 1px; stroke-dasharray: 3 2; vector-effect: non-scaling-stroke; pointer-events: none; }
+#stage-figure :is(.anchor-axis, .anchor-guide) { stroke: var(--paper); }
+#stage-figure .anchor-marquee { fill: color-mix(in srgb, var(--paper) 10%, transparent); stroke: var(--paper); }
+.anchor-handle-line { stroke: var(--ink); stroke-width: 1px; vector-effect: non-scaling-stroke; pointer-events: none; }
+.anchor-handle { fill: var(--ink); stroke: var(--paper); stroke-width: 1px; vector-effect: non-scaling-stroke; pointer-events: none; }
+.anchor-handle-hit { fill: transparent; cursor: inherit; }
+.anchor-hit { fill: transparent; cursor: inherit; outline: none; }
+.anchor-hit:focus-visible { stroke: var(--ink); stroke-width: 2px; vector-effect: non-scaling-stroke; }
+
+.anchor-reset { position: absolute; top: 12px; right: 12px; padding: 8px 12px; font-size: 14px; }

@@ -1,0 +1,11 @@
+{
+ "name": "anvil",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M11.123 9.569C11.123 7.819 11.75 7.069 13.5 7.069V4.5H7.046V4.763H2.498C2.498 6.013 3.25 6.5 4 6.75C4.75 7 6.86 6.63 6.86 9.569H5.428V11.5H12.383V9.569H6.86\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

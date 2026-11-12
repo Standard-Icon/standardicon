@@ -1,0 +1,17 @@
+{
+  "name": "zodiac-virgo",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Symbols",
+  "figmaId": "275:22785",
+  "looks": "An m shape whose last leg curls back into a small loop at the lower right.",
+  "use": "Use for Virgo, astrology, or horoscopes.",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "lucide": "zodiac-virgo",
+    "tabler": "zodiac-virgo"
+  }
+}

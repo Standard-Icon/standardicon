@@ -1,0 +1,23 @@
+{
+  "name": "corner-up-left",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Arrows",
+  "figmaId": "27:3519",
+  "looks": "A line rising from the bottom right that turns into an arrow pointing left.",
+  "use": "Use for a left turn, reply, or go back.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "arrow-turn-up-left",
+    "iconic": false,
+    "lucide": "corner-up-left",
+    "material": "turn-left",
+    "octicons": false,
+    "phosphor": "arrow-bend-up-left",
+    "radix": false,
+    "sf": "arrow.turn.up.left",
+    "tabler": "corner-up-left"
+  }
+}

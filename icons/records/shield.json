@@ -1,0 +1,25 @@
+{
+  "name": "shield",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Security and access",
+  "figmaId": "23:2384",
+  "looks": "A plain shield with a flat top and a pointed bottom.",
+  "use": "Use for security, protection, or safety.",
+  "keywords": [
+    "security",
+    "protect"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": "shield",
+    "heroicons": false,
+    "lucide": "shield",
+    "material": "shield",
+    "octicons": "shield",
+    "phosphor": "shield",
+    "sf": "shield",
+    "tabler": "shield"
+  }
+}

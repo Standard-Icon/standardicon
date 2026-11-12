@@ -1,0 +1,21 @@
+{
+  "name": "clock-arrow-down-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28598",
+  "looks": "A clock with a downward arrow cut into the lower right edge.",
+  "use": "Use for time-based sorting, snooze, or delayed items.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "clock-arrow-down",
+    "material": "clock-arrow-down",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "clock-down"
+  }
+}

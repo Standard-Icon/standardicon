@@ -1,0 +1,11 @@
+{
+ "name": "directions",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M8 2L14 8L8 14L2 8L8 2Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6 10V8.5C6 8.235 6.105 7.98 6.293 7.793C6.48 7.605 6.735 7.5 7 7.5H10M8.5 9L10 7.5L8.5 6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

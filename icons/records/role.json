@@ -1,0 +1,13 @@
+{
+  "name": "role",
+  "status": "active",
+  "canonical": "person",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:4899",
+  "compare": {
+    "carbon": "user-role",
+    "lucide": "user-shield"
+  }
+}

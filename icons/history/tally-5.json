@@ -1,0 +1,23 @@
+{
+ "name": "tally-5",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M3.5 3V13M2 11.5L6.5 8.875V3M6.5 13V8.875L9.5 7.125V3M9.5 13V7.125L12.5 5.375V3M12.5 13V5.375L14 4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "sizes": {
+    "18": "<path d=\"M3.938 3.375V14.625M2.25 12.938L3.938 11.953L7.312 9.984V3.375M7.312 14.625V9.984L10.688 8.016V3.375M10.688 14.625V8.016L14.062 6.047V3.375M14.062 14.625V6.047L15.75 5.062\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "20": "<path d=\"M4.375 3.75V16.25M2.5 14.375L4.375 13.281L8.125 11.094V3.75M8.125 16.25V11.094L11.875 8.906V3.75M11.875 16.25V8.906L15.625 6.719V3.75M15.625 16.25V6.719L17.5 5.625\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "22": "<path d=\"M4.812 4.125V17.875M2.75 15.812L4.812 14.609L8.938 12.203V4.125M8.938 17.875V12.203L13.062 9.797V4.125M13.062 17.875V9.797L17.188 7.391V4.125M17.188 17.875V7.391L19.25 6.188\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+    "24": "<path d=\"M5.25 4.5V19.5M3 17.25L5.25 15.938L9.75 13.312V4.5M9.75 19.5V13.312L14.25 10.688V4.5M14.25 19.5V10.688L18.75 8.062V4.5M18.75 19.5V8.062L21 6.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+   }
+  },
+  {
+   "at": "2026-11-11T09:46:49.583Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M3.5 3V13M2 11.5L6.5 8.875V3M6.5 13V8.875L9.5 7.125V3M9.5 13V7.125L12.5 5.375V3M12.5 13V5.375L14 4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

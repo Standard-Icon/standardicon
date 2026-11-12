@@ -1,0 +1,14 @@
+{
+  "name": "martini",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19719",
+  "compare": {
+    "lucide": "martini",
+    "material": "local-bar",
+    "phosphor": "martini",
+    "tabler": "glass-cocktail"
+  }
+}

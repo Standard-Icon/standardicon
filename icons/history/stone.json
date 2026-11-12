@@ -1,0 +1,11 @@
+{
+ "name": "stone",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M3.91 12.75C2.66 12.75 1.91 11.75 2.16 10.5L3.16 6.75C3.51 5.5 4.41 4.75 5.66 4.25L8.66 3.35C9.81 3 10.91 3.5 11.66 4.5L13.41 7.25C14.01 8.25 14.01 9.5 13.66 10.5C13.31 11.85 12.41 12.75 11.16 12.75H3.91Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5.9 7.75L8.4 6.75M8.4 10.25L10.9 9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

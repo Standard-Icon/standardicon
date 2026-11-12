@@ -1,0 +1,20 @@
+{
+  "name": "registered",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Legal",
+  "figmaId": "82:27856",
+  "looks": "A circle with a letter R inside.",
+  "use": "Use for registered trademarks.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.516Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": false,
+    "phosphor": "trademark-registered",
+    "tabler": "registered"
+  }
+}

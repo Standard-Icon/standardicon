@@ -1,0 +1,23 @@
+{
+  "name": "screen-share",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "navigation",
+  "figmaId": "58:20961",
+  "looks": "A monitor on a stand with an arrow pointing up in the middle of the screen.",
+  "use": "Use for sharing your screen or presenting.",
+  "compare": {
+    "carbon": false,
+    "fluent": "share-screen-start",
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "screen-share",
+    "material": "screen-share",
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "screen-share"
+  }
+}

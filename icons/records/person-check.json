@@ -1,0 +1,22 @@
+{
+  "name": "person-check",
+  "status": "active",
+  "parent": "person",
+  "canonical": "person",
+  "source": "plan",
+  "wave": "W2",
+  "group": "People and identity",
+  "figmaId": "32:4697",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "user-check",
+    "material": "person-check",
+    "octicons": false,
+    "phosphor": "user-check",
+    "radix": false,
+    "sf": "person.checkmark.and.xmark",
+    "tabler": "user-check"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "level",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:22344",
+  "compare": {
+    "carbon": false,
+    "lucide": false,
+    "material": "tools-level",
+    "sf": "level"
+  }
+}

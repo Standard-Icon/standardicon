@@ -1,0 +1,27 @@
+{
+  "name": "flip-phone",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:22600",
+  "looks": "A clamshell flip phone with a screen on top and a dotted keypad below.",
+  "use": "Use for old mobile phones or flip phones.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-12T02:33:24.336Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

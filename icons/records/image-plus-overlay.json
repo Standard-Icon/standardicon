@@ -1,0 +1,19 @@
+{
+  "name": "image-plus-overlay",
+  "status": "active",
+  "parent": "image",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Text and editor",
+  "figmaId": "33:6333",
+  "looks": "A picture of a sun and mountains with a small rounded square holding a plus at its lower right.",
+  "use": "Use for adding or uploading an image.",
+  "formerNames": [
+    "image-insert",
+    "image-plus"
+  ],
+  "compare": {
+    "lucide": "image-plus",
+    "sf": "photo.badge.plus"
+  }
+}

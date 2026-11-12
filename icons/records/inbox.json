@@ -1,0 +1,23 @@
+{
+  "name": "inbox",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Communication",
+  "figmaId": "23:2232",
+  "looks": "A tray with sloped sides and a dip in the middle of its front edge.",
+  "use": "Use for an inbox, incoming items, or received mail.",
+  "keywords": [
+    "tray",
+    "messages"
+  ],
+  "compare": {
+    "fluent": "mail-inbox",
+    "heroicons": "inbox",
+    "lucide": "inbox",
+    "material": "inbox",
+    "octicons": "inbox",
+    "sf": "tray",
+    "tabler": "inbox"
+  }
+}

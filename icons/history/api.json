@@ -1,0 +1,17 @@
+{
+ "name": "api",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M6 5H10C10.265 5 10.52 5.105 10.707 5.293C10.895 5.48 11 5.735 11 6V10C11 10.265 10.895 10.52 10.707 10.707C10.52 10.895 10.265 11 10 11H6C5.735 11 5.48 10.895 5.293 10.707C5.105 10.52 5 10.265 5 10V6C5 5.735 5.105 5.48 5.293 5.293C5.48 5.105 5.735 5 6 5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 2.5V5M8 11V13.5M2.5 8H5M11 8H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-07T15:39:38-08:00",
+   "source": "git 27c04aa",
+   "released": true,
+   "body": "<rect x=\"5\" y=\"5\" width=\"6\" height=\"6\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M8 2.5V5M8 11V13.5M2.5 8H5M11 8H13.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

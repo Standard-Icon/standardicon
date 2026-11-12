@@ -1,0 +1,23 @@
+{
+  "name": "radar",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "devices",
+  "figmaId": "59:22293",
+  "looks": "Two circles, one inside the other, with a sweep line from the center to the edge.",
+  "use": "Use for scanning, detection, or nearby things.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.480Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "radar",
+    "lucide": "radar",
+    "material": "radar",
+    "sf": false,
+    "tabler": "radar"
+  }
+}

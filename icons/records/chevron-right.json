@@ -1,0 +1,26 @@
+{
+  "name": "chevron-right",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Chevrons and carets",
+  "figmaId": "12:372",
+  "looks": "A single chevron pointing right.",
+  "use": "Use for next, forward, or open a row.",
+  "keywords": [
+    "next",
+    "disclosure"
+  ],
+  "compare": {
+    "carbon": "chevron-right",
+    "fluent": "chevron-right",
+    "heroicons": "chevron-right",
+    "lucide": "chevron-right",
+    "material": "chevron-right",
+    "octicons": "chevron-right",
+    "phosphor": "caret-right",
+    "radix": "chevron-right",
+    "sf": "chevron.right",
+    "tabler": "chevron-right"
+  }
+}

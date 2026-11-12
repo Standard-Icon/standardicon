@@ -1,0 +1,19 @@
+{
+  "name": "fish-symbol",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:19704",
+  "compare": {
+    "carbon": "fish",
+    "fluent": false,
+    "heroicons": false,
+    "lucide": "fish-symbol",
+    "material": false,
+    "phosphor": "fish",
+    "radix": false,
+    "sf": "fish",
+    "tabler": "fish"
+  }
+}

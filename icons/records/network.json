@@ -1,0 +1,21 @@
+{
+  "name": "network",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Data and infrastructure",
+  "figmaId": "27:3050",
+  "keywords": [
+    "nodes",
+    "topology"
+  ],
+  "compare": {
+    "carbon": "network-1",
+    "fluent": false,
+    "lucide": "network",
+    "material": false,
+    "phosphor": "network",
+    "sf": "network",
+    "tabler": "network"
+  }
+}

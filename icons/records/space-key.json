@@ -1,0 +1,20 @@
+{
+  "name": "space-key",
+  "status": "active",
+  "source": "later",
+  "figmaId": "355:29724",
+  "looks": "A wide keyboard keycap drawn in perspective with a small open bracket symbol on top.",
+  "use": "Use for the Space key.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "space",
+    "material": "space-bar",
+    "octicons": "space",
+    "phosphor": false,
+    "sf": "space",
+    "tabler": "space"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "bell-x-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:27851",
+  "looks": "A bell with a small x cut into its lower right.",
+  "use": "Use for dismissing or deleting a notification.",
+  "compare": {
+    "heroicons": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "bell-x"
+  }
+}

@@ -1,0 +1,35 @@
+{
+ "name": "hammer",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M6.5 3H11L13 5V7H11.5L10 5.5H6.5V3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.5 5.5V12.5C7.5 12.765 7.605 13.02 7.793 13.207C7.98 13.395 8.235 13.5 8.5 13.5C8.765 13.5 9.02 13.395 9.207 13.207C9.395 13.02 9.5 12.765 9.5 12.5V5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M4 2.5H10L12 4V5.5H4V2.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"6.5\" y=\"5.5\" width=\"2\" height=\"8\" rx=\"0.75\" stroke=\"currentColor\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M5.75 4.25C7.5 2.25 10 2 11.5 3.5L13.75 5.75L11.75 7.75L10.5 6.5L4 13C3.65 13.35 3.1 13.35 2.75 13C2.4 12.65 2.4 12.1 2.75 11.75L8.25 6.25C8.5 5.25 7.5 4.25 5.75 4.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T18:59:40.607Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M8.509 7.094C8.841 7.425 8.841 7.964 8.509 8.296L4.054 12.751C3.723 13.082 3.184 13.082 2.852 12.751C2.521 12.419 2.521 11.88 2.852 11.549L7.307 7.094C7.639 6.762 8.178 6.762 8.509 7.094Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.69 6.033L13.104 7.447C13.493 7.836 13.493 8.473 13.104 8.862L12.397 9.569C12.008 9.958 11.372 9.958 10.983 9.569L9.569 8.154L11.69 6.033Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.337 6.387L8.863 3.912C7.872 2.922 6.671 2.71 5.398 3.417C6.459 3.77 6.741 4.619 7.448 5.326L9.922 7.801\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-11T20:25:52.393Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M9.443 7.361L4.054 12.751C3.723 13.082 3.184 13.082 2.852 12.751C2.521 12.419 2.521 11.88 2.852 11.549L8.241 6.159L9.443 7.361Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.69 6.033L13.104 7.447C13.493 7.836 13.493 8.473 13.104 8.862L12.397 9.569C12.008 9.958 11.372 9.958 10.983 9.569L9.569 8.154L11.69 6.033Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.338 6.387L8.862 3.912C7.873 2.922 6.671 2.71 5.397 3.417C6.459 3.77 6.74 4.619 7.448 5.326L9.922 7.801\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "table",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Text and editor",
+  "figmaId": "12:311",
+  "looks": "A rounded rectangle with a header row and a grid of four cells below.",
+  "use": "Use for tables, spreadsheets, or tabular data.",
+  "keywords": [
+    "grid",
+    "spreadsheet",
+    "rows"
+  ],
+  "compare": {
+    "carbon": "table",
+    "fluent": "table",
+    "heroicons": "table-cells",
+    "lucide": "table",
+    "material": "table",
+    "octicons": "table",
+    "phosphor": "table",
+    "radix": "table",
+    "sf": false,
+    "tabler": "table"
+  }
+}

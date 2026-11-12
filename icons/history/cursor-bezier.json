@@ -1,0 +1,11 @@
+{
+ "name": "cursor-bezier",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M3.5 3.5L7 12.5L8.75 8.75L12.5 7L3.5 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"3.809\" y=\"13.836\" width=\"1.66406\" height=\"1.66406\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"13.537\" y=\"13.836\" width=\"1.66406\" height=\"1.66406\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"8.753\" y=\"13.836\" width=\"1.66406\" height=\"1.66406\" rx=\"0.832031\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.422 14.671H13.456\" stroke=\"currentColor\" stroke-linecap=\"round\"/><path d=\"M5.48 14.671H8.514\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  }
+ ]
+}

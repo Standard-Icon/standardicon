@@ -1,0 +1,11 @@
+{
+ "name": "underline",
+ "versions": [
+  {
+   "at": "2026-11-07T00:34:43-08:00",
+   "source": "git 957459e",
+   "released": true,
+   "body": "<path d=\"M4.75 2.75V7.5C4.75 9.3 6.2 10.75 8 10.75C9.8 10.75 11.25 9.3 11.25 7.5V2.75M3.75 13.25H12.25\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

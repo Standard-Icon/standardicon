@@ -1,0 +1,12 @@
+{
+  "name": "caravan",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Transport",
+  "figmaId": "270:20450",
+  "compare": {
+    "lucide": "caravan",
+    "tabler": "caravan"
+  }
+}

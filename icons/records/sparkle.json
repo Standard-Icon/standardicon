@@ -1,0 +1,23 @@
+{
+  "name": "sparkle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "figmaId": "23:1862",
+  "looks": "A four-pointed star with curved, pinched sides.",
+  "use": "Use for AI features, magic, or something new.",
+  "keywords": [
+    "ai",
+    "magic",
+    "new"
+  ],
+  "compare": {
+    "fluent": "sparkle",
+    "lucide": "sparkle",
+    "octicons": "sparkle",
+    "phosphor": "sparkle",
+    "sf": "sparkle",
+    "tabler": "sparkle"
+  }
+}

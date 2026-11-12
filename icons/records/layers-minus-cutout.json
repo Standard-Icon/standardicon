@@ -1,0 +1,15 @@
+{
+  "name": "layers-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28640",
+  "looks": "A stack of a diamond and two layers with a small minus sign cut into the lower right.",
+  "use": "Use for removing a layer.",
+  "compare": {
+    "lucide": "layers-minus",
+    "octicons": "stack-remove",
+    "phosphor": "stack-minus",
+    "sf": false,
+    "tabler": "stack-minus"
+  }
+}

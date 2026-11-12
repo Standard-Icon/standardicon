@@ -1,0 +1,21 @@
+{
+  "name": "iv-bag",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21606",
+  "looks": "A rounded fluid bag with a plus inside and a tube curving out of its bottom.",
+  "use": "Use for IV drips, fluids, or hospital care.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "iv-bag",
+    "material": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

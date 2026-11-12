@@ -1,0 +1,16 @@
+{
+  "name": "library-big",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26633",
+  "compare": {
+    "carbon": "media-library",
+    "fluent": "library",
+    "heroicons": "building-library",
+    "lucide": "library-big",
+    "material": false,
+    "octicons": "library",
+    "sf": "building.columns",
+    "tabler": "library"
+  }
+}

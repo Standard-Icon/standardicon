@@ -1,0 +1,22 @@
+{
+  "name": "layers-arrow-up-overlay",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "328:26464",
+  "formerNames": [
+    "layers-arrow-up"
+  ],
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "layers-arrow-up",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

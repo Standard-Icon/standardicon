@@ -1,0 +1,19 @@
+{
+  "name": "smart-speaker",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Devices",
+  "figmaId": "35:8601",
+  "compare": {
+    "carbon": false,
+    "fluent": "speaker-box",
+    "heroicons": false,
+    "lucide": "speaker",
+    "material": "speaker",
+    "phosphor": "speaker-hifi",
+    "radix": false,
+    "sf": "speaker",
+    "tabler": "device-speaker"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "globe-x-overlay",
+  "status": "active",
+  "parent": "globe-simple",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "objects",
+  "figmaId": "56:19651",
+  "looks": "A globe with a small rounded square holding an x overlapping its lower right.",
+  "use": "Use for offline, a failed connection, or removing a site.",
+  "formerNames": [
+    "globe-x"
+  ],
+  "compare": {
+    "heroicons": false,
+    "lucide": "globe-x",
+    "phosphor": "globe-x",
+    "radix": false,
+    "sf": false
+  }
+}

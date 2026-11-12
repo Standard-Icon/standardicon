@@ -1,0 +1,18 @@
+{
+  "name": "git-pull-request-create-arrow",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "327:26199",
+  "looks": "A vertical line with two circles on the left, a curved arrow bending into a line on the right, and a plus at its lower end.",
+  "use": "Use for creating a pull request toward a target branch.",
+  "compare": {
+    "carbon": false,
+    "iconic": false,
+    "lucide": "git-pull-request-create-arrow",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "sf": false,
+    "tabler": false
+  }
+}

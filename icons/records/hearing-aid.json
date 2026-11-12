@@ -1,0 +1,21 @@
+{
+  "name": "hearing-aid",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "People",
+  "figmaId": "273:22887",
+  "looks": "A curved hearing aid with a hook over an ear shape and a small earpiece at the bottom.",
+  "use": "Use for hearing aids, hearing support, or accessibility.",
+  "approved": {
+    "at": "2026-11-12T01:53:50.968Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": "hearing",
+    "material": "hearing-aid",
+    "phosphor": false,
+    "sf": false
+  }
+}

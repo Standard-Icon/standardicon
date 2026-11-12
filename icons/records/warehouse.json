@@ -1,0 +1,22 @@
+{
+  "name": "warehouse",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "commerce",
+  "figmaId": "59:22413",
+  "looks": "A building with a peaked roof and a large open doorway with a bar across it.",
+  "use": "Use for a warehouse, storage, or inventory.",
+  "approved": {
+    "at": "2026-11-12T02:40:34.245Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "lucide": "warehouse",
+    "material": "warehouse",
+    "phosphor": "warehouse",
+    "tabler": "building-warehouse"
+  }
+}

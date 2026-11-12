@@ -1,0 +1,24 @@
+{
+  "name": "hex-nut",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "322:24025",
+  "looks": "A hexagon with a circle in its center.",
+  "use": "Use for nuts, hardware, or mechanical parts.",
+  "keywords": [
+    "bolt",
+    "hardware",
+    "fastener"
+  ],
+  "approved": {
+    "at": "2026-11-11T00:22:39.458Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "lucide": "bolt",
+    "phosphor": "nut",
+    "tabler": "nut"
+  }
+}

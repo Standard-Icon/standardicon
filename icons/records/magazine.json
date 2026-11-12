@@ -1,0 +1,17 @@
+{
+  "name": "magazine",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:22221",
+  "looks": "A page with four lines of text and a second page peeking out behind it at the right and bottom.",
+  "use": "Use for magazines, publications, or articles.",
+  "flags": [
+    "weak-read"
+  ],
+  "compare": {
+    "lucide": false,
+    "sf": "magazine"
+  }
+}

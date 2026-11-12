@@ -1,0 +1,11 @@
+{
+ "name": "clipboard-plus-integrated",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<path d=\"M5.007 3.5H4.5C4.235 3.5 3.98 3.61 3.793 3.79C3.605 3.98 3.5 4.23 3.5 4.5V12.5C3.5 12.77 3.605 13.02 3.793 13.21C3.98 13.39 4.235 13.5 4.5 13.5H11.5C11.765 13.5 12.02 13.39 12.207 13.21C12.395 13.02 12.5 12.77 12.5 12.5V4.5C12.5 4.23 12.395 3.98 12.207 3.79C12.02 3.61 11.765 3.5 11.5 3.5H10.96\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.554 3.03V4.03C10.554 4.31 10.331 4.53 10.054 4.53H5.945C5.669 4.53 5.445 4.31 5.445 4.03V3.03C5.445 2.76 5.669 2.53 5.945 2.53H10.054C10.331 2.53 10.554 2.76 10.554 3.03Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M8 7.25V10.5M6.38 8.88H9.62\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

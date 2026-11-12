@@ -1,0 +1,21 @@
+{
+  "name": "copy-slash",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "326:24826",
+  "looks": "Two overlapping rounded squares with a diagonal line across the front one.",
+  "use": "Use for disabling copy or no duplicate.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "copy-slash",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

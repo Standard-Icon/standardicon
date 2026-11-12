@@ -1,0 +1,12 @@
+{
+ "name": "christmas-tree",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M7.991 2.972L10.457 5.849H9.278L11.69 8.84L10.845 8.828L12.563 11.499H3.34L5.138 8.828L4.291 8.84L6.616 5.849H5.525L7.991 2.972Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 11.5V14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+   "solidParts": true
+  }
+ ]
+}

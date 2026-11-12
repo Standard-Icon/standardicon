@@ -1,0 +1,19 @@
+{
+  "name": "draft",
+  "status": "active",
+  "canonical": "pencil",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:3977",
+  "looks": "A page with a folded top right corner and a pencil drawn diagonally across it.",
+  "use": "Use for drafts, editing a document, or writing.",
+  "compare": {
+    "carbon": "rule-draft",
+    "fluent": "branch-request-draft",
+    "lucide": "git-pull-request-draft",
+    "material": "draft",
+    "octicons": "issue-draft",
+    "tabler": "git-pull-request-draft"
+  }
+}

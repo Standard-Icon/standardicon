@@ -1,0 +1,22 @@
+{
+  "name": "barcode",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Commerce and finance",
+  "figmaId": "35:7186",
+  "keywords": [
+    "scan",
+    "sku",
+    "product"
+  ],
+  "compare": {
+    "carbon": "barcode",
+    "fluent": false,
+    "lucide": "barcode",
+    "material": "barcode",
+    "phosphor": "barcode",
+    "sf": "barcode",
+    "tabler": "barcode"
+  }
+}

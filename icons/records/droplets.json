@@ -1,0 +1,20 @@
+{
+  "name": "droplets",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24361",
+  "looks": "Two small water drops, one overlapping the other, the right one higher.",
+  "use": "Use for rain, humidity, or liquids.",
+  "approved": {
+    "at": "2026-11-11T19:15:35.853Z",
+    "by": "Morgan",
+    "version": "2026-11-11T19:11:13.681Z"
+  },
+  "compare": {
+    "lucide": "droplets",
+    "sf": false,
+    "tabler": "droplets"
+  }
+}

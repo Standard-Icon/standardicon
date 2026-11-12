@@ -1,0 +1,28 @@
+{
+  "name": "square-radical",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:23977",
+  "looks": "A rounded square with a square root sign inside.",
+  "use": "Use for square roots in a boxed key.",
+  "approved": {
+    "at": "2026-11-12T02:41:03.387Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "square-radical",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

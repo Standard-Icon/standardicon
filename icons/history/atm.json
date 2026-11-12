@@ -1,0 +1,11 @@
+{
+ "name": "atm",
+ "versions": [
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": false,
+   "body": "<rect x=\"2.5\" y=\"2.5\" width=\"11\" height=\"5\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M4.5 5H11.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 7.5V12.5C5 12.765 5.105 13.02 5.293 13.207C5.48 13.395 5.735 13.5 6 13.5H10C10.265 13.5 10.52 13.395 10.707 13.207C10.895 13.02 11 12.765 11 12.5V7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.25 10.25C9.25 10.582 9.118 10.899 8.884 11.134C8.649 11.368 8.332 11.5 8 11.5C7.668 11.5 7.351 11.368 7.116 11.134C6.882 10.899 6.75 10.582 6.75 10.25C6.75 9.918 6.882 9.601 7.116 9.366C7.351 9.132 7.668 9 8 9C8.332 9 8.649 9.132 8.884 9.366C9.118 9.601 9.25 9.918 9.25 10.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

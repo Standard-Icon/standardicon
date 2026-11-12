@@ -1,0 +1,38 @@
+{
+  "name": "x-circle",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "solid": "needed",
+  "figmaId": "13:1002",
+  "looks": "An x inside a circle.",
+  "use": "Use for error, failed, or clear.",
+  "keywords": [
+    "error",
+    "failed",
+    "cancel"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:23:22.760Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "close-outline",
+    "fluent": "dismiss-circle",
+    "heroicons": "x-circle",
+    "lucide": "circle-x",
+    "material": "x-circle",
+    "octicons": "x-circle",
+    "phosphor": "x-circle",
+    "radix": false,
+    "sf": "xmark.circle",
+    "tabler": "circle-x"
+  },
+  "compareAlso": {
+    "lucide": [
+      "circle-x"
+    ]
+  }
+}

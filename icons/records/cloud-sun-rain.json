@@ -1,0 +1,14 @@
+{
+  "name": "cloud-sun-rain",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Animals, nature and weather",
+  "figmaId": "269:20169",
+  "compare": {
+    "lucide": "cloud-sun-rain",
+    "phosphor": false,
+    "sf": "cloud.sun.rain",
+    "tabler": false
+  }
+}

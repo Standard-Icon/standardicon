@@ -1,0 +1,25 @@
+{
+  "name": "widget-large",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:24164",
+  "looks": "A rounded square with three short text lines of varying length inside.",
+  "use": "Use for a large widget.",
+  "flags": [
+    "possible-duplicate"
+  ],
+  "approved": {
+    "at": "2026-11-12T01:49:56.584Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "material": false,
+    "octicons": false,
+    "sf": "widget.large"
+  }
+}

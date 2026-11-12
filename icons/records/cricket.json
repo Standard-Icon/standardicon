@@ -1,0 +1,23 @@
+{
+  "name": "cricket",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21680",
+  "looks": "A diagonal cricket bat with a small ball at its lower right.",
+  "use": "Use for cricket or bat and ball sports.",
+  "approved": {
+    "at": "2026-11-12T02:32:57.829Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "fluent": "sport-cricket-bat",
+    "lucide": false,
+    "material": "sports-cricket",
+    "phosphor": "cricket",
+    "sf": "cricket.ball",
+    "tabler": "cricket"
+  }
+}

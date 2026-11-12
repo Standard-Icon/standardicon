@@ -1,0 +1,11 @@
+{
+ "name": "shovel",
+ "versions": [
+  {
+   "at": "2026-11-08T12:37:02-08:00",
+   "source": "git a907a4d",
+   "released": true,
+   "body": "<path d=\"M4.435 11.57L7.685 8.32L10.935 5.07\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M11.574 2.35L13.647 4.43L12.92 5.15C12.529 5.54 11.896 5.54 11.506 5.15L10.847 4.49C10.456 4.1 10.456 3.47 10.847 3.08L11.574 2.35Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M6.39 13.37C6.974 12.78 7.427 12.33 7.741 12.02C8.034 11.72 8.034 11.25 7.741 10.96L5.044 8.26C4.751 7.97 4.276 7.97 3.983 8.26C3.669 8.57 3.216 9.03 2.632 9.61C1.397 10.85 2.39 13.61 2.39 13.61C2.39 13.61 5.155 14.6 6.39 13.37Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

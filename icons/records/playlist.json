@@ -1,0 +1,21 @@
+{
+  "name": "playlist",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5552",
+  "looks": "Three horizontal lines on the left with a music note at the right.",
+  "use": "Use for playlists, queues, or song lists.",
+  "keywords": [
+    "queue",
+    "tracks"
+  ],
+  "compare": {
+    "carbon": "playlist",
+    "lucide": "list-music",
+    "material": "playlist-play",
+    "phosphor": "playlist",
+    "tabler": "playlist"
+  }
+}

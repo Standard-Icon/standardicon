@@ -1,0 +1,12 @@
+{
+  "name": "image-minus-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:28728",
+  "looks": "A picture of a sun and mountains with a small minus sign cut into its lower right.",
+  "use": "Use for removing an image.",
+  "compare": {
+    "lucide": "image-minus",
+    "sf": false
+  }
+}

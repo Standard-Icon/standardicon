@@ -1,0 +1,8 @@
+{
+  "name": "gallery",
+  "status": "covered",
+  "coveredBy": "images",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media"
+}

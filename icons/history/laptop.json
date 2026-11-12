@@ -1,0 +1,23 @@
+{
+ "name": "laptop",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M4.5 3.5H11.5C11.765 3.5 12.02 3.605 12.207 3.793C12.395 3.98 12.5 4.235 12.5 4.5V9.5C12.5 9.765 12.395 10.02 12.207 10.207C12.02 10.395 11.765 10.5 11.5 10.5H4.5C4.235 10.5 3.98 10.395 3.793 10.207C3.605 10.02 3.5 9.765 3.5 9.5V4.5C3.5 4.235 3.605 3.98 3.793 3.793C3.98 3.605 4.235 3.5 4.5 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2 12.5H14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T18:55:49.542Z",
+   "source": "figma (before redraw, not importable)",
+   "released": false,
+   "body": "<path d=\"M3.33398 3.3623C3.33398 2.81002 3.7817 2.3623 4.33398 2.3623H11.6658C12.2181 2.3623 12.6658 2.81002 12.6658 3.3623V9.29323H3.33398V3.3623Z\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M10.9697 4.03125V7.625H5.03027V4.03125H10.9697Z\" stroke=\"currentColor\"/><path d=\"M12.7858 9.64062L14.0901 12.1814C14.4317 12.8468 13.9485 13.6381 13.2005 13.6381H2.81355C2.0622 13.6381 1.57922 12.8405 1.92741 12.1747L3.25259 9.64062\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4.74219 11.3975H11.0826\" stroke=\"currentColor\" stroke-linecap=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T18:59:40.607Z",
+   "source": "figma",
+   "released": false,
+   "body": "<path d=\"M4.5 3.5H11.5C12.052 3.5 12.5 3.948 12.5 4.5V9.5C12.5 10.052 12.052 10.5 11.5 10.5H4.5C3.948 10.5 3.5 10.052 3.5 9.5V4.5C3.5 3.948 3.948 3.5 4.5 3.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3.5 10.5L2.5 12.5H13.5L12.5 10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

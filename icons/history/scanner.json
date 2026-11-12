@@ -1,0 +1,17 @@
+{
+ "name": "scanner",
+ "versions": [
+  {
+   "at": "2026-11-07T00:54:17-08:00",
+   "source": "git 48bbc1d",
+   "released": true,
+   "body": "<path d=\"M3 8.5H13C13.265 8.5 13.52 8.605 13.707 8.793C13.895 8.98 14 9.235 14 9.5V12.5C14 12.765 13.895 13.02 13.707 13.207C13.52 13.395 13.265 13.5 13 13.5H3C2.735 13.5 2.48 13.395 2.293 13.207C2.105 13.02 2 12.765 2 12.5V9.5C2 9.235 2.105 8.98 2.293 8.793C2.48 8.605 2.735 8.5 3 8.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M3 6L13 3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 11H12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  },
+  {
+   "at": "2026-11-10T08:37:50.301Z",
+   "source": "figma",
+   "released": true,
+   "body": "<rect x=\"2\" y=\"8.5\" width=\"12\" height=\"5\" rx=\"1\" stroke=\"currentColor\" stroke-linejoin=\"round\"/><path d=\"M2.573 8.627L13 3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 11H12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

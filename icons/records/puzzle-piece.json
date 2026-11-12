@@ -1,0 +1,15 @@
+{
+  "name": "puzzle-piece",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:22458",
+  "compare": {
+    "fluent": "puzzle-piece",
+    "heroicons": "puzzle-piece",
+    "lucide": "puzzle",
+    "phosphor": "puzzle-piece",
+    "tabler": "puzzle"
+  }
+}

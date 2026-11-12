@@ -1,0 +1,21 @@
+{
+  "name": "power-outlet",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Home",
+  "figmaId": "273:22360",
+  "looks": "A rounded square with two short vertical slots and a small dot below them.",
+  "use": "Use for a wall outlet or power socket.",
+  "fillApproved": true,
+  "compare": {
+    "carbon": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "outlet",
+    "phosphor": false,
+    "sf": false,
+    "tabler": "outlet"
+  }
+}

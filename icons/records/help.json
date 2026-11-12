@@ -1,0 +1,30 @@
+{
+  "name": "help",
+  "status": "active",
+  "source": "plan",
+  "wave": "W1",
+  "group": "Status and feedback",
+  "figmaId": "23:1825",
+  "looks": "A life preserver ring with four bands crossing it.",
+  "use": "Use for help, support, or a help center.",
+  "keywords": [
+    "question",
+    "support",
+    "faq",
+    "life-preserver",
+    "lifebuoy"
+  ],
+  "approved": {
+    "at": "2026-11-11T20:23:22.192Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "help",
+    "fluent": false,
+    "lucide": "life-buoy",
+    "material": "help",
+    "sf": "questionmark",
+    "tabler": "help"
+  }
+}

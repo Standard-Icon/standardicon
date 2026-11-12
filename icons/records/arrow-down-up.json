@@ -1,0 +1,19 @@
+{
+  "name": "arrow-down-up",
+  "status": "active",
+  "source": "lucide",
+  "figmaId": "319:23858",
+  "compare": {
+    "carbon": "arrows-vertical",
+    "fluent": "arrow-bidirectional-up-down",
+    "heroicons": "arrows-up-down",
+    "iconic": false,
+    "lucide": "arrow-down-up",
+    "material": "swap-vert",
+    "octicons": false,
+    "phosphor": "arrows-down-up",
+    "radix": false,
+    "sf": "arrow.up.and.down",
+    "tabler": "arrows-down-up"
+  }
+}

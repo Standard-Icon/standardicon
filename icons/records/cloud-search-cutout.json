@@ -1,0 +1,15 @@
+{
+  "name": "cloud-search-cutout",
+  "status": "active",
+  "source": "later",
+  "figmaId": "336:29336",
+  "looks": "A cloud with a magnifying glass cut into the lower right.",
+  "use": "Use for searching cloud files or storage.",
+  "compare": {
+    "heroicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": "cloud-search"
+  }
+}

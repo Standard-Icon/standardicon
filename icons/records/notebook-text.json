@@ -1,0 +1,22 @@
+{
+  "name": "notebook-text",
+  "status": "active",
+  "parent": "notebook",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Variants of existing icons",
+  "figmaId": "277:23843",
+  "looks": "A notebook with binding rings on the left and short text lines on the page.",
+  "use": "Use for notes, journals, or a notebook.",
+  "compare": {
+    "carbon": "notebook",
+    "fluent": "notebook",
+    "heroicons": false,
+    "lucide": "notebook-text",
+    "material": false,
+    "phosphor": "notebook",
+    "radix": false,
+    "sf": false,
+    "tabler": "notebook"
+  }
+}

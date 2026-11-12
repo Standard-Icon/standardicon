@@ -1,0 +1,19 @@
+{
+  "name": "clock-plus-overlay",
+  "status": "active",
+  "parent": "clock",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "status",
+  "figmaId": "56:21097",
+  "looks": "A clock with a plus sign in a rounded square at the lower right.",
+  "use": "Use for adding time, extending, or new reminders.",
+  "formerNames": [
+    "clock-plus"
+  ],
+  "compare": {
+    "lucide": "alarm-clock-plus",
+    "sf": false,
+    "tabler": "clock-plus"
+  }
+}

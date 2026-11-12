@@ -1,0 +1,11 @@
+{
+ "name": "slash-circle",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<circle cx=\"8\" cy=\"8\" r=\"5.6\" stroke=\"currentColor\"/><path d=\"M10.211 6.056L5.787 9.944\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

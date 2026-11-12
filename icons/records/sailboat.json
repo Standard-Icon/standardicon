@@ -1,0 +1,17 @@
+{
+  "name": "sailboat",
+  "status": "active",
+  "source": "sf",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:21384",
+  "looks": "A sailboat with two triangular sails above a curved hull.",
+  "use": "Use for sailing, boats, or marine travel.",
+  "compare": {
+    "carbon": "sailboat-coastal",
+    "lucide": "sailboat",
+    "phosphor": "sailboat",
+    "sf": "sailboat",
+    "tabler": "sailboat"
+  }
+}

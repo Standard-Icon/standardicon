@@ -1,0 +1,16 @@
+{
+  "name": "castle",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Places, leisure and sports",
+  "figmaId": "271:20689",
+  "looks": "A square castle wall with battlements along the top and an arched doorway at the bottom.",
+  "use": "Use for castles, fortresses, or kingdoms.",
+  "compare": {
+    "lucide": "castle",
+    "material": "castle",
+    "phosphor": "castle-turret",
+    "tabler": "building-castle"
+  }
+}

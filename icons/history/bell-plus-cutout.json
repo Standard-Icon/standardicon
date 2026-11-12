@@ -1,0 +1,11 @@
+{
+ "name": "bell-plus-cutout",
+ "versions": [
+  {
+   "at": "2026-11-08T23:44:46-08:00",
+   "source": "git b69b7d2",
+   "released": true,
+   "body": "<path d=\"M7.44 11.368H2.401L4.081 8.569V6.569C4.081 4.217 5.536 2.426 8 2.426C10.464 2.426 11.919 4.217 11.919 6.569V7.494\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7.824 13.423C6.911 13.367 6.188 12.609 6.188 11.683\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 11.75H14M11.75 9.5V14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "eclipse",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Books, weather, and objects",
+  "figmaId": "76:24512",
+  "looks": "A circle with a thickened crescent along its right edge, like a disc partly covered.",
+  "use": "Use for eclipse, dark mode, or contrast.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-11T20:23:22.049Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "lucide": "eclipse"
+  }
+}

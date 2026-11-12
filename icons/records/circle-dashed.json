@@ -1,0 +1,28 @@
+{
+  "name": "circle-dashed",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Status and feedback",
+  "figmaId": "30:4071",
+  "looks": "A circle drawn as a ring of short dashes.",
+  "use": "Use for a draft, not started, or a pending state.",
+  "approved": {
+    "at": "2026-11-11T20:23:21.536Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": "circle-dash",
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "circle-dashed",
+    "material": false,
+    "octicons": false,
+    "phosphor": "circle-dashed",
+    "radix": false,
+    "sf": "circle.dashed",
+    "tabler": "circle-dashed"
+  }
+}

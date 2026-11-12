@@ -1,0 +1,20 @@
+{
+  "name": "clip",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "Image and video editing",
+  "figmaId": "78:26517",
+  "looks": "A rounded film strip rectangle with sprocket holes down both sides.",
+  "use": "Use for a video clip, footage, or film.",
+  "compare": {
+    "fluent": false,
+    "heroicons": "paper-clip",
+    "iconic": "paperclip",
+    "lucide": "paperclip",
+    "material": false,
+    "octicons": "paperclip",
+    "phosphor": "paperclip",
+    "sf": "paperclip"
+  }
+}

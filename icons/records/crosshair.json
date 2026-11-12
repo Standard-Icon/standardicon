@@ -1,0 +1,22 @@
+{
+  "name": "crosshair",
+  "status": "active",
+  "source": "plan",
+  "wave": "W3",
+  "group": "Maps and travel",
+  "figmaId": "36:7047",
+  "looks": "A circle with four short ticks crossing its edge at the top, bottom, left, and right.",
+  "use": "Use for targeting, precision, or the current location.",
+  "keywords": [
+    "target",
+    "aim",
+    "locate"
+  ],
+  "compare": {
+    "lucide": "crosshair",
+    "phosphor": "crosshair",
+    "radix": "crosshair-1",
+    "sf": "dot.crosshair",
+    "tabler": "crosshair"
+  }
+}

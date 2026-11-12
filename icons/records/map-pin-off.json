@@ -1,0 +1,21 @@
+{
+  "name": "map-pin-off",
+  "status": "active",
+  "parent": "map-pin",
+  "canonical": "map-pin",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "maps",
+  "figmaId": "56:22707",
+  "looks": "A location pin with a diagonal slash from the lower left to the upper right.",
+  "use": "Use for location off, hidden location, or no GPS.",
+  "compare": {
+    "fluent": "pin-off",
+    "heroicons": false,
+    "lucide": "map-pin-off",
+    "material": "location-off",
+    "phosphor": false,
+    "sf": "mappin.slash",
+    "tabler": "map-pin-off"
+  }
+}

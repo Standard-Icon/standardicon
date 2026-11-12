@@ -1,0 +1,15 @@
+{
+  "name": "decimal-decrease",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Layout, alignment and arrows",
+  "figmaId": "276:23592",
+  "compare": {
+    "carbon": false,
+    "lucide": false,
+    "material": "decimal-decrease",
+    "sf": false,
+    "tabler": "decimal"
+  }
+}

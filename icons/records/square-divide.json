@@ -1,0 +1,29 @@
+{
+  "name": "square-divide",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:23888",
+  "looks": "A rounded square with a division sign inside.",
+  "use": "Use for dividing or a calculator division key.",
+  "fillApproved": true,
+  "approved": {
+    "at": "2026-11-12T02:41:06.050Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "square-divide",
+    "material": false,
+    "octicons": false,
+    "phosphor": false,
+    "radix": false,
+    "sf": "divide.square",
+    "tabler": false
+  }
+}

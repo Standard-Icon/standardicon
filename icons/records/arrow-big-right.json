@@ -1,0 +1,23 @@
+{
+  "name": "arrow-big-right",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W4",
+  "group": "navigation",
+  "figmaId": "58:21207",
+  "looks": "A thick hollow block arrow pointing right.",
+  "use": "Use for next, forward, or a strong right direction.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": false,
+    "iconic": false,
+    "lucide": "arrow-big-right",
+    "material": false,
+    "octicons": false,
+    "phosphor": "arrow-fat-right",
+    "radix": "thick-arrow-right",
+    "sf": "arrowshape.right",
+    "tabler": "arrow-big-right"
+  }
+}

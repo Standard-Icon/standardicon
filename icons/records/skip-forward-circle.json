@@ -1,0 +1,25 @@
+{
+  "name": "skip-forward-circle",
+  "status": "active",
+  "source": "later",
+  "wave": "W5",
+  "group": "media",
+  "figmaId": "111:31186",
+  "looks": "A right-pointing triangle with a bar at its right tip, inside a circle.",
+  "use": "Use for next track or skipping forward.",
+  "approved": {
+    "at": "2026-11-11T20:23:22.571Z",
+    "by": "Morgan",
+    "version": "2026-11-11T18:13:35.245Z"
+  },
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "iconic": false,
+    "lucide": false,
+    "material": "forward-circle",
+    "phosphor": "skip-forward-circle",
+    "sf": "forward.end.circle",
+    "tabler": false
+  }
+}

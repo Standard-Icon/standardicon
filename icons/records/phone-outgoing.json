@@ -1,0 +1,22 @@
+{
+  "name": "phone-outgoing",
+  "status": "active",
+  "parent": "phone",
+  "canonical": "phone",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Communication",
+  "figmaId": "32:4108",
+  "looks": "A telephone handset with an arrow at the upper right pointing up and away from it.",
+  "use": "Use for outgoing calls or dialed call history.",
+  "compare": {
+    "carbon": "phone-outgoing",
+    "fluent": "call-outbound",
+    "heroicons": "phone-arrow-up-right",
+    "lucide": "phone-outgoing",
+    "material": "call-made",
+    "phosphor": "phone-outgoing",
+    "sf": false,
+    "tabler": "phone-outgoing"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "podcast",
+  "status": "active",
+  "source": "plan",
+  "wave": "W2",
+  "group": "Media",
+  "figmaId": "34:5578",
+  "looks": "Two concentric arcs over a small triangle, like a signal broadcasting from a point.",
+  "use": "Use for podcasts, broadcasts, or streaming audio.",
+  "keywords": [
+    "audio",
+    "show"
+  ],
+  "compare": {
+    "lucide": "podcast",
+    "tabler": false
+  }
+}

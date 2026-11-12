@@ -1,0 +1,14 @@
+{
+  "name": "lotion-tube",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Objects and tools",
+  "figmaId": "272:21471",
+  "looks": "A squeeze tube standing on its cap with a flat top seal and a line near the base.",
+  "use": "Use for lotion, skincare, or cream.",
+  "compare": {
+    "lucide": "tube-lotion",
+    "phosphor": false
+  }
+}

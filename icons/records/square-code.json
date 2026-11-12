@@ -1,0 +1,23 @@
+{
+  "name": "square-code",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Interface",
+  "figmaId": "276:23841",
+  "looks": "A rounded square with a left and a right angle bracket inside.",
+  "use": "Use for code, a code block, or development.",
+  "compare": {
+    "carbon": false,
+    "fluent": false,
+    "heroicons": "code-bracket-square",
+    "iconic": false,
+    "lucide": "square-code",
+    "material": false,
+    "octicons": "code-square",
+    "phosphor": false,
+    "radix": false,
+    "sf": false,
+    "tabler": false
+  }
+}

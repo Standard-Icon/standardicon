@@ -1,0 +1,20 @@
+{
+  "name": "soda-cup",
+  "status": "active",
+  "source": "lucide",
+  "wave": "W7",
+  "group": "Food and drink",
+  "figmaId": "268:19483",
+  "looks": "A tapered cup with a lid line and a bent straw on top.",
+  "use": "Use for soda, a drink, or fast food.",
+  "approved": {
+    "at": "2026-11-12T02:41:11.886Z",
+    "by": "morgan",
+    "version": "2026-11-10T08:37:50.301Z"
+  },
+  "compare": {
+    "lucide": "cup-soda",
+    "material": false,
+    "tabler": false
+  }
+}
