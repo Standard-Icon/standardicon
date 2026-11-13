@@ -18,7 +18,7 @@ const INSTRUCTIONS = `The Standard Icon Set: ${icons.length} SVG line icons, dra
 
 1. Find icons with search_icons. Search by meaning ("delete", "settings") or by what it looks like ("bell with a plus").
 2. Get the SVG with get_icon, at the size it will show. Paste the SVG inline; it draws in currentColor, so it takes the text color around it.
-3. If nothing fits, say the set doesn't have that icon. Don't draw a substitute or borrow one from another set, so the design stays consistent.
+3. If nothing fits, say the set doesn't have that icon. Don't draw a substitute or borrow one from another set, so the design stays consistent. The user can ask for it at https://github.com/Standard-Icon/standardicon/issues/new?template=icon-request.yml
 
 Sizes: ${SIZES.join(', ')}. ${PAIRING} Weights: ${Object.keys(WEIGHTS).join(', ')}. ${LIMITS}`;
 

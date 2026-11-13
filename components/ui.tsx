@@ -2,7 +2,7 @@ import type { ReactNode } from 'react';
 import Link from 'next/link';
 import { Logo } from '@/components/Logo';
 import { DEFAULT_SIZE, SIZES, WEIGHTS, bodyFor, hasWeights } from '@/lib/icon.mjs';
-import { CLI, COUNT, CREATOR, NAME, ORIGIN, categoryTitle, icons, inCategory, type Icon } from '@/lib/site.mjs';
+import { CLI, COUNT, CREATOR, NAME, ORIGIN, REQUEST_ICON, categoryTitle, icons, inCategory, type Icon } from '@/lib/site.mjs';
 
 const bodyOf = (name: string) => icons.find((i) => i.name === name)?.body ?? '';
 
@@ -179,7 +179,8 @@ function MobilePickers() {
 
 // Where "Request it" points. TODO(Morgan): confirm the address, or switch to the GitHub icon-request
 // issue template once the public repo exists. Interactions adds the search to the subject.
-const ICON_REQUEST_URL = 'mailto:hello@standardicon.com?subject=Icon%20request';
+// The GitHub icon request form, titled with the search. Interactions.tsx appends ": <search>".
+const ICON_REQUEST_URL = `${REQUEST_ICON}&title=Icon%20request`;
 
 // Shown when a search finds nothing. Interactions fills in the words and the close matches.
 export function EmptyState() {
