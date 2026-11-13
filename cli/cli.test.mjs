@@ -8,6 +8,7 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { after, describe, test } from 'node:test';
 import { MIN_SIZE, SIZES, WEIGHTS, bodyFor, hasWeights, scaleBody, sizesFor, strokeFor, toSvg, weighBody } from '../lib/icon.mjs';
+import { skillMd } from '../lib/skill.mjs';
 import { icons } from '../lib/site.mjs';
 import { HOMEPAGE, REPOSITORY, VERSION, packEntry, packageJson, stagePackage } from './package.mjs';
 
@@ -317,4 +318,11 @@ describe('cli add', () => {
     assert.equal(run.code, 1);
     assert.ok(!existsSync(join(run.dir, 'icons')));
   });
+});
+
+// `npx skills add Standard-Icon/standardicon` reads this committed copy. Run `npm run generate` to refresh it.
+test('the committed skill matches what generate.mjs writes', () => {
+  const committed = join(import.meta.dirname, '..', 'skills', 'standard-icon', 'SKILL.md');
+  assert.ok(existsSync(committed), 'skills/standard-icon/SKILL.md is missing. Run npm run generate.');
+  assert.equal(readFileSync(committed, 'utf8'), skillMd(), 'skills/standard-icon/SKILL.md is out of date. Run npm run generate.');
 });

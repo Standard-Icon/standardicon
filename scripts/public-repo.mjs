@@ -28,6 +28,7 @@ export const PRIVATE = [
   'LAUNCH.html', // launch planning
   'launch-progress.json',
   'icons/issues/', // design discussions
+  'docs/maintaining.md', // how Morgan runs the set: servers, Figma file, Keychain
 ];
 const isPrivate = (file) => PRIVATE.some((p) => file === p || file.startsWith(p));
 
