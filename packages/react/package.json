@@ -1,6 +1,6 @@
 {
   "name": "@standardicon/react",
-  "version": "0.3.0-alpha.3",
+  "version": "0.3.0-alpha.4",
   "description": "The Standard Icon Set as React components: line icons in nine sizes and five weights, typed so impossible combinations don't compile.",
   "type": "module",
   "main": "./dist/index.js",

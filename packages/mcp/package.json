@@ -1,6 +1,6 @@
 {
   "name": "@standardicon/mcp",
-  "version": "0.3.0-alpha.3",
+  "version": "0.3.0-alpha.4",
   "description": "The Standard Icon Set as an MCP server: search icons by meaning or by what they look like, and get SVGs at any size and weight. Works offline.",
   "mcpName": "com.standardicon/icons",
   "type": "module",

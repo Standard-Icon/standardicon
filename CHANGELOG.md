@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.3.0-alpha.4 (2026-11-13)
+
+### Changed
+
+- **Search ranks what an icon is above what it's near.** A word of a short name or an icon's main synonym comes first, then its other synonyms, words inside longer synonyms, and its category last. When scores tie, names that start with the search word come first. "security" finds `shield`, "back" finds `arrow-left` and `chevron-left`, "cog" finds `settings`, and "book" no longer starts with `contact`. Of 105 natural requests, the right icon now comes first for 95% and is in the top three for all of them.
+- Icons no longer carry their old planning group (such as "Books, weather, and objects") as a keyword, so "weather" returns weather icons instead of books.
+- `wifi-off` also matches "no internet".
+
+### Added
+
+- The READMEs and agent instructions offer one line for a project's `AGENTS.md` or `CLAUDE.md`, so every agent there uses the set.
+- `@standardicon/react` measures its bundle size in a test: one icon adds about 1.2 KB gzipped.
+
 ## 0.3.0-alpha.3 (2026-11-12)
 
 ### Added
